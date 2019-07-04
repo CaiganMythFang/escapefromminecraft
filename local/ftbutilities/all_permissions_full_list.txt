@@ -1,4 +1,4 @@
-8009 nodes in total
+8101 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -538,6 +538,10 @@ ftbutilities.claims.block.edit.chisel.wool_purple: OP
 ftbutilities.claims.block.edit.chisel.wool_red: OP
 ftbutilities.claims.block.edit.chisel.wool_white: OP
 ftbutilities.claims.block.edit.chisel.wool_yellow: OP
+ftbutilities.claims.block.edit.colossalchests.chest_wall: OP
+ftbutilities.claims.block.edit.colossalchests.colossal_chest: OP
+ftbutilities.claims.block.edit.colossalchests.interface: OP
+ftbutilities.claims.block.edit.colossalchests.uncolossal_chest: OP
 ftbutilities.claims.block.edit.conarm.armorforge: OP
 ftbutilities.claims.block.edit.conarm.armorstation: OP
 ftbutilities.claims.block.edit.conarm.soft_obsidian: OP
@@ -929,6 +933,23 @@ ftbutilities.claims.block.edit.headcrumbs.empty: OP
 ftbutilities.claims.block.edit.headcrumbs.player: OP
 ftbutilities.claims.block.edit.headcrumbs.skull: OP
 ftbutilities.claims.block.edit.ichunutil.compact_porkchop: OP
+ftbutilities.claims.block.edit.ironchest.iron_chest: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_black: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_blue: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_brown: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_cyan: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_gray: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_green: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_light_blue: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_lime: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_magenta: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_orange: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_pink: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_purple: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_red: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_silver: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_white: OP
+ftbutilities.claims.block.edit.ironchest.iron_shulker_box_yellow: OP
 ftbutilities.claims.block.edit.littlelooter.air_drop: OP
 ftbutilities.claims.block.edit.littlelooter.barbed_wire: OP
 ftbutilities.claims.block.edit.littlelooter.barrel: OP
@@ -2430,6 +2451,10 @@ ftbutilities.claims.block.interact.chisel.wool_purple: OP
 ftbutilities.claims.block.interact.chisel.wool_red: OP
 ftbutilities.claims.block.interact.chisel.wool_white: OP
 ftbutilities.claims.block.interact.chisel.wool_yellow: OP
+ftbutilities.claims.block.interact.colossalchests.chest_wall: OP
+ftbutilities.claims.block.interact.colossalchests.colossal_chest: OP
+ftbutilities.claims.block.interact.colossalchests.interface: OP
+ftbutilities.claims.block.interact.colossalchests.uncolossal_chest: OP
 ftbutilities.claims.block.interact.conarm.armorforge: OP
 ftbutilities.claims.block.interact.conarm.armorstation: OP
 ftbutilities.claims.block.interact.conarm.soft_obsidian: OP
@@ -2821,6 +2846,23 @@ ftbutilities.claims.block.interact.headcrumbs.empty: OP
 ftbutilities.claims.block.interact.headcrumbs.player: OP
 ftbutilities.claims.block.interact.headcrumbs.skull: OP
 ftbutilities.claims.block.interact.ichunutil.compact_porkchop: OP
+ftbutilities.claims.block.interact.ironchest.iron_chest: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_black: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_blue: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_brown: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_cyan: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_gray: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_green: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_light_blue: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_lime: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_magenta: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_orange: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_pink: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_purple: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_red: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_silver: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_white: OP
+ftbutilities.claims.block.interact.ironchest.iron_shulker_box_yellow: OP
 ftbutilities.claims.block.interact.littlelooter.air_drop: OP
 ftbutilities.claims.block.interact.littlelooter.barbed_wire: OP
 ftbutilities.claims.block.interact.littlelooter.barrel: OP
@@ -4368,6 +4410,11 @@ ftbutilities.claims.item.chisel.wool_purple: ALL
 ftbutilities.claims.item.chisel.wool_red: ALL
 ftbutilities.claims.item.chisel.wool_white: ALL
 ftbutilities.claims.item.chisel.wool_yellow: ALL
+ftbutilities.claims.item.colossalchests.chest_wall: ALL
+ftbutilities.claims.item.colossalchests.colossal_chest: ALL
+ftbutilities.claims.item.colossalchests.interface: ALL
+ftbutilities.claims.item.colossalchests.uncolossal_chest: ALL
+ftbutilities.claims.item.colossalchests.upgrade_tool: ALL
 ftbutilities.claims.item.colytra.elytra_bauble: ALL
 ftbutilities.claims.item.conarm.armor_plate: ALL
 ftbutilities.claims.item.conarm.armor_trim: ALL
@@ -4702,6 +4749,16 @@ ftbutilities.claims.item.danknull.dank_null_panel_3: ALL
 ftbutilities.claims.item.danknull.dank_null_panel_4: ALL
 ftbutilities.claims.item.danknull.dank_null_panel_5: ALL
 ftbutilities.claims.item.danknull.danknull_dock: ALL
+ftbutilities.claims.item.dap.beer: ALL
+ftbutilities.claims.item.dap.beerglass: ALL
+ftbutilities.claims.item.dap.detoxificationpills: ALL
+ftbutilities.claims.item.dap.discord: ALL
+ftbutilities.claims.item.dap.joint: ALL
+ftbutilities.claims.item.dap.magicmushroom: ALL
+ftbutilities.claims.item.dap.thc: ALL
+ftbutilities.claims.item.dap.thccookie: ALL
+ftbutilities.claims.item.dap.yeast: ALL
+ftbutilities.claims.item.dap.yeastbucket: ALL
 ftbutilities.claims.item.extendedcrafting.compressor: ALL
 ftbutilities.claims.item.extendedcrafting.crafting_core: ALL
 ftbutilities.claims.item.extendedcrafting.crafting_table: ALL
@@ -6053,6 +6110,41 @@ ftbutilities.claims.item.headcrumbs.skull: ALL
 ftbutilities.claims.item.hooked.hook: ALL
 ftbutilities.claims.item.hooked.microcrafting: ALL
 ftbutilities.claims.item.ichunutil.compact_porkchop: ALL
+ftbutilities.claims.item.ironchest.copper_iron_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.copper_iron_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.copper_silver_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.copper_silver_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.diamond_crystal_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.diamond_crystal_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.diamond_obsidian_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.diamond_obsidian_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.gold_diamond_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.gold_diamond_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.iron_chest: ALL
+ftbutilities.claims.item.ironchest.iron_gold_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.iron_gold_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_black: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_blue: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_brown: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_cyan: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_gray: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_green: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_light_blue: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_lime: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_magenta: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_orange: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_pink: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_purple: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_red: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_silver: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_white: ALL
+ftbutilities.claims.item.ironchest.iron_shulker_box_yellow: ALL
+ftbutilities.claims.item.ironchest.silver_gold_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.silver_gold_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.vanilla_copper_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.vanilla_iron_shulker_upgrade: ALL
+ftbutilities.claims.item.ironchest.wood_copper_chest_upgrade: ALL
+ftbutilities.claims.item.ironchest.wood_iron_chest_upgrade: ALL
 ftbutilities.claims.item.littlelooter.air_drop: ALL
 ftbutilities.claims.item.littlelooter.bar_chocolate: ALL
 ftbutilities.claims.item.littlelooter.bar_dark_choc: ALL
@@ -8044,6 +8136,8 @@ command.cyclicmagic.sethearts
 command.cyclicmagic.todo
 command.cyclicmagic.villageinfo
 command.cyclicmagic.worldhome
+command.cyclopscore.colossalchests
+command.cyclopscore.cyclopscore
 command.debug
 command.defaultgamemode
 command.difficulty
