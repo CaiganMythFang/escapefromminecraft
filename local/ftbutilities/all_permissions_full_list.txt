@@ -1,4 +1,4 @@
-7987 nodes in total
+7993 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3845,13 +3845,6 @@ ftbutilities.claims.block.interact.wearables.wearable_assembler: OP
 ftbutilities.claims.block.interact.wearables.wearable_colouriser: OP
 ftbutilities.claims.block.interact.wearables.wearable_fabricator: OP
 ftbutilities.claims.bypass_limits: NONE
-ftbutilities.claims.item.adhooks.prototype_launcher: ALL
-ftbutilities.claims.item.adhooks.pudge_hook: ALL
-ftbutilities.claims.item.adhooks.pudge_launcher: ALL
-ftbutilities.claims.item.adhooks.spear_hook: ALL
-ftbutilities.claims.item.adhooks.spear_launcher: ALL
-ftbutilities.claims.item.adhooks.web_hook: ALL
-ftbutilities.claims.item.adhooks.web_launcher: ALL
 ftbutilities.claims.item.air_support.circuit_board: ALL
 ftbutilities.claims.item.air_support.crate_drop_remote: ALL
 ftbutilities.claims.item.air_support.livestock_crate: ALL
@@ -3904,6 +3897,18 @@ ftbutilities.claims.item.betterrecords.speaker: ALL
 ftbutilities.claims.item.betterrecords.strobelight: ALL
 ftbutilities.claims.item.betterrecords.wire: ALL
 ftbutilities.claims.item.betterrecords.wirecutters: ALL
+ftbutilities.claims.item.bhc.blue_heart: ALL
+ftbutilities.claims.item.bhc.blue_heart_canister: ALL
+ftbutilities.claims.item.bhc.canister: ALL
+ftbutilities.claims.item.bhc.green_heart: ALL
+ftbutilities.claims.item.bhc.green_heart_canister: ALL
+ftbutilities.claims.item.bhc.heart_amulet: ALL
+ftbutilities.claims.item.bhc.orange_heart: ALL
+ftbutilities.claims.item.bhc.orange_heart_canister: ALL
+ftbutilities.claims.item.bhc.red_heart: ALL
+ftbutilities.claims.item.bhc.red_heart_canister: ALL
+ftbutilities.claims.item.bhc.relic_apple: ALL
+ftbutilities.claims.item.bhc.wither_bone: ALL
 ftbutilities.claims.item.bq_rf.rf_station: ALL
 ftbutilities.claims.item.bq_standard.loot_chest: ALL
 ftbutilities.claims.item.cfm.bar_stool: ALL
@@ -6708,6 +6713,7 @@ ftbutilities.claims.item.quark.colored_flowerpot_silver: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_white: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_yellow: ALL
 ftbutilities.claims.item.quark.colored_item_frame: ALL
+ftbutilities.claims.item.quark.cooked_frog_leg: ALL
 ftbutilities.claims.item.quark.crystal: ALL
 ftbutilities.claims.item.quark.custom_bookshelf: ALL
 ftbutilities.claims.item.quark.custom_chest: ALL
@@ -6747,13 +6753,14 @@ ftbutilities.claims.item.quark.fire_stone_stairs: ALL
 ftbutilities.claims.item.quark.fire_stone_wall: ALL
 ftbutilities.claims.item.quark.framed_glass: ALL
 ftbutilities.claims.item.quark.framed_glass_pane: ALL
+ftbutilities.claims.item.quark.frog_leg: ALL
 ftbutilities.claims.item.quark.glass_item_frame: ALL
-ftbutilities.claims.item.quark.glass_shards: ALL
 ftbutilities.claims.item.quark.glowcelium: ALL
 ftbutilities.claims.item.quark.glowshroom: ALL
 ftbutilities.claims.item.quark.glowshroom_block: ALL
 ftbutilities.claims.item.quark.glowstone_dust_block: ALL
 ftbutilities.claims.item.quark.gold_button: ALL
+ftbutilities.claims.item.quark.golden_frog_leg: ALL
 ftbutilities.claims.item.quark.granite_speleothem: ALL
 ftbutilities.claims.item.quark.gunpowder_block: ALL
 ftbutilities.claims.item.quark.hardened_clay_tiles: ALL
@@ -6853,7 +6860,6 @@ ftbutilities.claims.item.quark.snow_bricks_slab: ALL
 ftbutilities.claims.item.quark.snow_bricks_stairs: ALL
 ftbutilities.claims.item.quark.snow_bricks_wall: ALL
 ftbutilities.claims.item.quark.soul_bead: ALL
-ftbutilities.claims.item.quark.soul_compass: ALL
 ftbutilities.claims.item.quark.soul_powder: ALL
 ftbutilities.claims.item.quark.soul_sandstone: ALL
 ftbutilities.claims.item.quark.soul_sandstone_bricks_slab: ALL
@@ -8204,6 +8210,7 @@ command.setblock
 command.setworldspawn
 command.spawnpoint
 command.spreadplayers
+command.stackup.stackup
 command.stats
 command.stopsound
 command.summon
