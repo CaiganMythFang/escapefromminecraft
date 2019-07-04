@@ -584,6 +584,15 @@ rpsideas:cad_case_green
 rpsideas:cad_case_red
 rpsideas:cad_case_black
 quark:pipe
+quark:chute
+quark:sugar_block
+quark:redstone_randomizer
+quark:iron_button
+quark:gold_button
+quark:ender_watcher
+quark:iron_rod
+quark:obsidian_pressure_plate
+quark:rain_detector
 quark:sandstone_new
 quark:sandstone_bricks_stairs
 quark:red_sandstone_bricks_stairs
@@ -973,15 +982,6 @@ quark:glowcelium
 quark:glowshroom
 quark:glowshroom_block
 quark:smoker
-quark:chute
-quark:sugar_block
-quark:redstone_randomizer
-quark:iron_button
-quark:gold_button
-quark:ender_watcher
-quark:iron_rod
-quark:obsidian_pressure_plate
-quark:rain_detector
 quark:glowstone_dust_block
 quark:gunpowder_block
 quark:black_ash
@@ -1116,6 +1116,7 @@ cookingforblockheads:corner
 cookingforblockheads:kitchen_floor
 cookingforblockheads:fruit_basket
 cookingforblockheads:cutting_board
+danknull:danknull_dock
 extendedcrafting:storage
 extendedcrafting:frame
 extendedcrafting:lamp
@@ -1347,6 +1348,7 @@ cfm:park_bench_acacia
 cfm:park_bench_dark_oak
 cfm:inflatable_castle
 cfm:castle_netting
+gci:gun_table
 gravestone:gsgravestone
 littlelooter:air_drop
 littlelooter:laser_beacon_active

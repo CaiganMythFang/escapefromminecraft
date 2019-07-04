@@ -1,4 +1,4 @@
-7993 nodes in total
+8009 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -685,6 +685,7 @@ ftbutilities.claims.block.edit.cyclicmagic.water_candle: OP
 ftbutilities.claims.block.edit.cyclicmagic.wireless_receiver: OP
 ftbutilities.claims.block.edit.cyclicmagic.wireless_transmitter: OP
 ftbutilities.claims.block.edit.cyclicmagic.xpjuice: OP
+ftbutilities.claims.block.edit.danknull.danknull_dock: OP
 ftbutilities.claims.block.edit.extendedcrafting.compressor: OP
 ftbutilities.claims.block.edit.extendedcrafting.crafting_core: OP
 ftbutilities.claims.block.edit.extendedcrafting.crafting_table: OP
@@ -2576,6 +2577,7 @@ ftbutilities.claims.block.interact.cyclicmagic.water_candle: OP
 ftbutilities.claims.block.interact.cyclicmagic.wireless_receiver: OP
 ftbutilities.claims.block.interact.cyclicmagic.wireless_transmitter: OP
 ftbutilities.claims.block.interact.cyclicmagic.xpjuice: OP
+ftbutilities.claims.block.interact.danknull.danknull_dock: OP
 ftbutilities.claims.block.interact.extendedcrafting.compressor: OP
 ftbutilities.claims.block.interact.extendedcrafting.crafting_core: OP
 ftbutilities.claims.block.interact.extendedcrafting.crafting_table: OP
@@ -4686,6 +4688,20 @@ ftbutilities.claims.item.cyclicmagic.water_spreader: ALL
 ftbutilities.claims.item.cyclicmagic.wireless_receiver: ALL
 ftbutilities.claims.item.cyclicmagic.wireless_transmitter: ALL
 ftbutilities.claims.item.cyclicmagic.xpjuice: ALL
+ftbutilities.claims.item.danknull.dank_null_0: ALL
+ftbutilities.claims.item.danknull.dank_null_1: ALL
+ftbutilities.claims.item.danknull.dank_null_2: ALL
+ftbutilities.claims.item.danknull.dank_null_3: ALL
+ftbutilities.claims.item.danknull.dank_null_4: ALL
+ftbutilities.claims.item.danknull.dank_null_5: ALL
+ftbutilities.claims.item.danknull.dank_null_6: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_0: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_1: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_2: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_3: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_4: ALL
+ftbutilities.claims.item.danknull.dank_null_panel_5: ALL
+ftbutilities.claims.item.danknull.danknull_dock: ALL
 ftbutilities.claims.item.extendedcrafting.compressor: ALL
 ftbutilities.claims.item.extendedcrafting.crafting_core: ALL
 ftbutilities.claims.item.extendedcrafting.crafting_table: ALL
