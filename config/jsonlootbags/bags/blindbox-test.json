@@ -1,0 +1,8 @@
+{
+    "loot-table": "minecraft:gameplay/blindbox-test", // REQUIRED What loot table to use. See above.
+    "name": "blindbox_test",                 // REQUIRED Internal item name: alphanumerical and underscores only
+    "human-name": "TFB Blind Box - Test",    // REQUIRED Human readable name.
+    "texture": "contenttweaker:blindbox-test",  // Model file for item. Provide your own via resource pack if desired. Default is "jsonlootbags:bag"
+    "rarity": "Common",   // Color of text. (Common, Uncommon, Rare, or Epic) "Common" is default.
+    "effect": false      // Give item the 'enchanted' effect. Defaults to true if rarity is not common.
+}
