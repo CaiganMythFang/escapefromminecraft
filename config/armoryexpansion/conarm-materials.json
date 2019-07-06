@@ -1,0 +1,74 @@
+[
+  {
+    "coreMaterialStats": {
+      "durability": 6.0,
+      "defense": 9.9,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 10.08,
+      "modifier": 9.9,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 10.08,
+      "materialType": "trim"
+    },
+    "identifier": "compressed_obsidian",
+    "meta": 0,
+    "color": -16755328,
+    "type": "METAL",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 5.0,
+      "defense": 18.899998,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.2,
+      "modifier": 18.899998,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.2,
+      "materialType": "trim"
+    },
+    "identifier": "infused_lava_crystal",
+    "meta": 0,
+    "color": -5034752,
+    "type": "METAL",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 7.0,
+      "defense": 10.574999,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.2,
+      "modifier": 10.574999,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.2,
+      "materialType": "trim"
+    },
+    "identifier": "lava_infused_obsidian",
+    "meta": 0,
+    "color": -10283258,
+    "type": "METAL",
+    "isCastable": false,
+    "isCraftable": false,
+    "traits": []
+  }
+]
