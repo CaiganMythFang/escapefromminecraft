@@ -270,6 +270,97 @@
         }
       },
       "rewards:9": {}
+    },
+    "6:10": {
+      "questID:3": 6,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockcontroller",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The Flea Market",
+          "desc:8": "    §2Bandit, the VanilModu Trader sent a note and a trade offer for you to get started : §r\n\n§3-------------------\n    Greetings, new mercenary. With the breaking of Bread, the VanilModu welcomes you to the trade network. \n\n    For now, you will only have us and a few other Trader groups to work with. Our stocks to you will be limited by your reputation with each of us. Likewise, what we are willing to purchase from you is likewise dependant upon your reputation.\n\n    If you are in need of cash and resources, and you have a surplus of salvaged items, you can utilize the Flea Market.\n\n    You can sell nearly any item in the Market. Whether it is worth anything is another matter, as the value of anything varies wildly. Usually, each item you sell with earn you a couple pennies at least, sometimes even more. \n\n    Occasionally, someone will trade you some resources for your item. Or they will trade you an unsearched piece of loot.\n\n    And sometimes, you\u0027ll get nothing back. That is the risk of playing the Flea Market.\n\n    Normally, the machine to access The Flea Market takes a bit of an investment. But for certain new Mercenaries, we offer a one time deal : Provide us 12 pieces of Unsearched Gear, and we\u0027ll give you enough to construct your own Flea Market kiosk.\n\n    If you lose this kiosk, or wish to build more of them, it will cost you the usual price.\n-------------------§r\n\n    §oHm, with the variety of items I\u0027m finding on these monsters, it might be a good idea to use this Flea Market, if only to get rid of excess junk and HOPEFULLY get something more useful."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "jsonlootbags:minecraft_gear_loot",
+              "Count:3": 12,
+              "OreDict:8": "lootbags",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockinputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "1:10": {
+              "id:8": "modularmachinery:blockoutputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "2:10": {
+              "id:8": "modularmachinery:blockcontroller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "modularmachinery:blockcasing",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "minecraft:stone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -338,6 +429,37 @@
         }
       },
       "order:3": 0
+    },
+    "1:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": 16,
+          "y:3": 104,
+          "id:3": 6,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "Trader - VanilModu",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-vanilmodu.png",
+          "bg_size:3": 512,
+          "desc:8": "    This is the first Trader group new Traders and Mercenaries deal with when they want to break into the business. Others we\u0027ll have to find in person to deal with...\n\n    [Trades Vanilla Minecraft and Modular Machinery items]"
+        }
+      },
+      "order:3": 1
     }
   },
   "questSettings:10": {
