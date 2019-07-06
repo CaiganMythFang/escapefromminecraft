@@ -14,6 +14,7 @@ val stackminecraft1 = [
 ] as IItemStack[];
 for item in stackminecraft1 {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    <ore:fleamarketable>.add(item);
 }
 
 */
@@ -25,6 +26,7 @@ val lootcrafttradepurchase = [
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    <ore:fleamarketable>.add(item);
 }
 
 // Lootable, Craftable
@@ -34,6 +36,7 @@ val lootcraft = [
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    <ore:fleamarketable>.add(item);
 }
 
 // Lootable
@@ -43,5 +46,6 @@ val loot = [
 ] as IItemStack[];
 for item in loot {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable"));
+    <ore:fleamarketable>.add(item);
 }
 
