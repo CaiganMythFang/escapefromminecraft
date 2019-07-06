@@ -612,6 +612,7 @@ tconstruct:discharge
 tconstruct:stone_hit
 tconstruct:wood_hit
 tconstruct:crossbow_reload
+armorplus:trap_triggered
 cookingforblockheads:fridge_open
 cookingforblockheads:fridge_close
 cookingforblockheads:oven_open
@@ -872,6 +873,19 @@ cyclicmagic:fan_on
 cyclicmagic:fan_loop
 cyclicmagic:doorbell_mikekoenig
 cyclicmagic:dice_mike_koenig
+emberroot:owl.hoot_single
+emberroot:owl.hoot_double
+emberroot:owl.hurt
+emberroot:direwolf.hurt
+emberroot:direwolf.howl
+emberroot:direwolf.growl
+emberroot:direwolf.death
+emberroot:spiritambient
+emberroot:spirithurt
+emberroot:staffcast
+emberroot:bossambient
+emberroot:bosshurt
+emberroot:bossdeath
 patchouli:book_open
 patchouli:book_flip
 variedcommodities:gun.pistol.shot
