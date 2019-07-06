@@ -1,4 +1,4 @@
-8101 nodes in total
+8106 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -6145,6 +6145,11 @@ ftbutilities.claims.item.ironchest.vanilla_copper_shulker_upgrade: ALL
 ftbutilities.claims.item.ironchest.vanilla_iron_shulker_upgrade: ALL
 ftbutilities.claims.item.ironchest.wood_copper_chest_upgrade: ALL
 ftbutilities.claims.item.ironchest.wood_iron_chest_upgrade: ALL
+ftbutilities.claims.item.jsonlootbags.blindbox_test: ALL
+ftbutilities.claims.item.jsonlootbags.minecraft_gear_loot: ALL
+ftbutilities.claims.item.jsonlootbags.minecraft_other_loot: ALL
+ftbutilities.claims.item.jsonlootbags.minecraft_resource_loot: ALL
+ftbutilities.claims.item.jsonlootbags.testbag1: ALL
 ftbutilities.claims.item.littlelooter.air_drop: ALL
 ftbutilities.claims.item.littlelooter.bar_chocolate: ALL
 ftbutilities.claims.item.littlelooter.bar_dark_choc: ALL
@@ -8138,6 +8143,7 @@ command.cyclicmagic.villageinfo
 command.cyclicmagic.worldhome
 command.cyclopscore.colossalchests
 command.cyclopscore.cyclopscore
+command.d3core.setloginmessage
 command.debug
 command.defaultgamemode
 command.difficulty
@@ -8272,6 +8278,7 @@ command.modularmachinery.mm-hand
 command.modularmachinery.mm-syntax
 command.particle
 command.playsound
+command.pmdumper.pmdumper
 command.psi.psi-learn
 command.psi.psi-unlearn
 command.publish
