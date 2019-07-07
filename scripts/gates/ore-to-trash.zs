@@ -1,11 +1,7 @@
-#packmode collectors
-
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemDefinition;
 import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
-
-#packmode collectors
 
 //Gate ALL Ore blocks to a game stage that will not be unlocked. Replace with Condensed Ruins.
 
@@ -16,4 +12,6 @@ for item in basicore {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
 mods.ItemStages.setUnfamiliarName("Corrupted Ore", item);
 mods.ItemStages.addItemStage("corrupted_ore", item);
+item.displayName = "Corrupted Ore";
+<ore:corruptedore>.add(item);
 }
