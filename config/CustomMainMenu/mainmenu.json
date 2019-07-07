@@ -1,124 +1,133 @@
 {
-    "images":
-    {
-        "title":
-        {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
-            "alignment" : "top_center"
-        },
-        
-        "edition":
-        {
-            "image" : "custommainmenu:textures/gui/edition.png",
-            "posX" : -49,
-            "posY" : 67,
-            "width" : 128,
-            "height" : 16,
-            "alignment" : "top_center"
-        }
-    },
-    
     "buttons":
     {
         "singleplayer":
         {
-            "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
+            "text" : "",
+            "posX" : -128,
+            "posY" : 0,
+            "width" : 259,
+            "height" : 29,
+            "imageWidth" : 586,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-singleplayer.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
-            }
+            },
+            "alignment" : "center"
         },
         
         "multiplayer":
         {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
+            "text" : "",
+            "posX" : -136,
+            "posY" : 30,
+            "width" : 272,
+            "height" : 26,
+            "imageWidth" : 544,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-multiplayer.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
-            }
+            },
+            "alignment" : "center"
         },
         
         "mods":
         {
-            "text" : "fml.menu.mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
+            "text" : "",
+            "hoverText" : "Mess with Attachments.                                                 ",
+            "posX" : -97,
+            "posY" : 90,
+            "width" : 83,
+            "height" : 26,
+            "imageWidth" : 167,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-mods.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
-            }
+            },
+            "alignment" : "center"
         },
             
         "options":
         {
-            "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "text" : "",
+            "hoverText" : "Fiddle with settings.                                                                  ",
+            "posX" : -180,
+            "posY" : 60,
+            "width" : 169,
+            "height" : 26,
+            "imageWidth" : 239,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-options.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "options"
-            }
+            },
+            "alignment" : "center"
         },
         
         "quit":
         {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "text" : "",
+            "hoverText" : "                                         Time to extract!",
+            "posX" : 20,
+            "posY" : 90,
+            "width" : 79,
+            "height" : 26,
+            "imageWidth" : 158,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-quit.png",
             "action" : 
             {
                 "type" : "quit"
-            }
+            },
+            "alignment" : "center"
         },
         
         "language":
         {
             "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
+            "hoverText" : "                                                  Blyat!",
+            "posX" : -10,
+            "posY" : 60,
+            "width" : 169,
+            "height" : 26,
+            "imageWidth" : 279,
+            "imageHeight" : 53,
+            "texture" : "contenttweaker:textures/gui/button-language.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
-            }
+            },
+            "alignment" : "center"
         },
         
         "refresh":
         {
             "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "hoverText" : "                                                                               Dook!",
+            "posX" : -30,
+            "posY" : -29,
+            "width" : 296,
+            "height" : 27,
+            "imageWidth" : 592,
+            "imageHeight" : 54,
+            "texture" : "contenttweaker:textures/gui/button-reload.png",
             "action" : 
             {
                 "type" : "refresh"
-            }
+            },
+            "alignment" : "center"
         }
     },
     
@@ -127,16 +136,10 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
+            "alignment" : "bottom_right"
         },
         
         "fml":
@@ -150,23 +153,11 @@
     },
     
     "other":
-    {
-        "splash-text":
+    {        
+        "background":
         {
-            "posX" : 90,
-            "posY" : 70,
-            "color" : -256,
-            "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
-        },
-        
-        "panorama":
-        {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+            "image" : "contenttweaker:textures/backgrounds/title.png",
+            "mode": "fill"
         }
     }
 }
