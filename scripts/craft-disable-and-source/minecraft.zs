@@ -19,10 +19,30 @@ for item in stackminecraft1 {
 
 */
 
+// Corrupted
+
+val corrupted = [
+<minecraft:quartz_ore>, <minecraft:diamond_ore>, <minecraft:redstone_ore>, <minecraft:lapis_ore>, <minecraft:gold_ore>, <minecraft:iron_ore>, <minecraft:coal_ore>
+] as IItemStack[];
+for item in corrupted {
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
+    item.addTooltip(format.bold(format.red("This block will rapidly corrupt when placed. Be careful!")));
+    item.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
+}
+// Loot, Craft, Purchase
+
+val lootcraftpurchase = [
+
+] as IItemStack[];
+for item in lootcraftpurchase {
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
+    <ore:fleamarketable>.add(item);
+}
+
 // Lootable, Craftable, Tradable, Purchasable
 
 val lootcrafttradepurchase = [
-
+<minecraft:purple_shulker_box>, <minecraft:brown_shulker_box>, <minecraft:green_shulker_box>, <minecraft:red_shulker_box>, <minecraft:black_shulker_box>, <minecraft:light_blue_shulker_box>, <minecraft:magenta_shulker_box>, <minecraft:orange_shulker_box>, <minecraft:cyan_shulker_box>, <minecraft:blue_shulker_box>, <minecraft:silver_shulker_box>, <minecraft:gray_shulker_box>, <minecraft:pink_shulker_box>, <minecraft:lime_shulker_box>, <minecraft:yellow_shulker_box>, <minecraft:white_shulker_box>
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
