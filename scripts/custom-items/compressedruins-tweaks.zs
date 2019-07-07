@@ -7,4 +7,3 @@ import crafttweaker.oredict.IOreDictEntry;
 <contenttweaker:compressedruins>.addTooltip(format.gray("Old, corrupted ruins compressed into a block."));
 <contenttweaker:compressedruins>.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
 <ore:corruptedore>.add(<contenttweaker:compressedruins>);
-<contenttweaker:compressedruins>.maxStackSize = 8
