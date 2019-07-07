@@ -7,7 +7,7 @@ import mods.contenttweaker.VanillaFactory;
 var lockcoppergreen = VanillaFactory.createBlock("compressedruins", <blockmaterial:circuits>);
 
 lockcoppergreen.setLightOpacity(0);
-lockcoppergreen.setLightValue(1);
+lockcoppergreen.setLightValue(0);
 lockcoppergreen.setBlockHardness(5.0);
 lockcoppergreen.setBlockResistance(3.0);
 lockcoppergreen.setToolClass("pickaxe");
