@@ -289,9 +289,9 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "modularmachinery:blockcontroller",
+            "id:8": "props:props",
             "Count:3": 1,
-            "Damage:2": 0,
+            "Damage:2": 1447,
             "OreDict:8": ""
           },
           "globalshare:1": 0,
@@ -361,6 +361,1321 @@
           }
         }
       }
+    },
+    "7:10": {
+      "questID:3": 7,
+      "preRequisites:11": [
+        6
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "VaniModu - Rank II",
+          "desc:8": "    §2So a Flea Market, in a post apocalyptic society? How strange, yet fitting.§r\n\n    §o\"That seems to be the order of the day. Is the Trader willing to talk with me yet?\"§r§r\n\n    §3Greetings, Bandit. Your assistant finally got us connected, I notice. Is your Survival Guide damaged?§r\n\n    §oWhat did she... oh wait! Different dimension, things are different. Right then. \"It IS acting a bit different than usual. But it seems to be okay for the most part.\"§r\n\n    §3If you say so. It\u0027s difficult to track down a working Guide Laboratory, let alone someone who knows how to repair one. Where do you originate from, new Mercenary?§r\n\n    §o\"Well uh... you wouldn\u0027t believe me if I said...\"§o§r\n\n    §2You could say we\u0027ve been in the dark about everything that\u0027s happened here.§r\n\n    §oI was pretty sure letting on we were from another dimension was a good way to get us blacklisted from the Trader network, but before I could speak up...\n\n    §r§3Dark... Oh no, are you two from one of the deep underground cave communities? Do you have a Core Drill or something?!§o§r\n\n    §o...What?§r\n\n§3    Or maybe one of those damned nuclear Vaults they tricked people into? §r\n\n    §o...WHAT?§r\n\n    §3You\u0027d be far from the first in either case. But that\u0027s getting on a tangent. You want access to the Trade Network proper? You\u0027ll need Rank 2 with us VanilModu Traders first. Not too difficult, but it might take a bit of luck. It\u0027s quite simple, really : \n\n    We want to test your survivability. Send us all the items on the list. How you get them doesn\u0027t matter. Heck, you can purchase them from us and send em right back. Fill out the list, and I\u0027ll give you a special machine we\u0027ve recently developed : The Cleansing Sieve, which breaks down Corrupted Ore and Compressed Ruins and finds useable material for you."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 3,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 30,
+              "OreDict:8": "logWood",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "jsonlootbags:minecraft_gear_loot",
+              "Count:3": 10,
+              "OreDict:8": "lootbags",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 10,
+              "OreDict:8": "wool",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockcasing",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "1:10": {
+              "id:8": "modularmachinery:blockinputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "modularmachinery:blockcasing",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "3:10": {
+              "id:8": "modularmachinery:blockcontroller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modularmachinery:blockoutputbus",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "5:10": {
+              "id:8": "modularmachinery:itemblueprint",
+              "Count:3": 1,
+              "tag:10": {
+                "dynamicmachine:8": "modularmachinery:cleansing_sieve"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "8:10": {
+      "questID:3": 8,
+      "preRequisites:11": [
+        6
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "VanilModu Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "9:10": {
+      "questID:3": 9,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:iron_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Iron Ingot (x16)",
+          "desc:8": "    §3The backbone of modern civilization. Once we learned how useful Iron was, and its key to making Steel, we dragged ourselves out of the collapse of the Bronze Age and swung forward,\n\n    Even now, with the ability to salvage vastly superior metals, we circle back around to Iron to keep us alive after the collapse.\n\n    Oh, I highly suggest you keep  your money in stacks of Ten-Dollar Bills. Most Traders keep to that except for the high value items."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "10:10": {
+      "questID:3": 10,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "VanilModu Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "11:10": {
+      "questID:3": 11,
+      "preRequisites:11": [
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "VanilModu Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "12:10": {
+      "questID:3": 12,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 3,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "VaniModu - Rank II",
+          "desc:8": "    §2So a Flea Market, in a post apocalyptic society? How strange, yet fitting.§r\n\n    §o\"That seems to be the order of the day. Is the Trader willing to talk with me yet?\"§r§r\n\n    §3Greetings, Bandit. Your assistant finally got us connected, I notice. Is your Survival Guide damaged?§r\n\n    §oWhat did she... oh wait! Different dimension, things are different. Right then. \"It IS acting a bit different than usual. But it seems to be okay for the most part.\"§r\n\n    §3If you say so. It\u0027s difficult to track down a working Guide Laboratory, let alone someone who knows how to repair one. Where do you originate from, new Mercenary?§r\n\n    §o\"Well uh... you wouldn\u0027t believe me if I said...\"§o§r\n\n    §2You could say we\u0027ve been in the dark about everything that\u0027s happened here.§r\n\n    §oI was pretty sure letting on we were from another dimension was a good way to get us blacklisted from the Trader network, but before I could speak up...\n\n    §r§3Dark... Oh no, are you from one of the deep underground cave communities? Do you have a Core Drill or something?!§o§r\n\n    §o...What?§r\n\n§3    Or maybe one of those damned nuclear Vaults they tricked people into? §r\n\n    §o...WHAT?§r\n\n    §3You\u0027d be far from the first in either case. But that\u0027s getting on a tangent. You want access to the Trade Network proper? You\u0027ll need Rank 2 with us VanilModu Traders first. Not too difficult, but it might take a bit of luck. It\u0027s quite simple, really : \n\n    We want to test your survivability. Send us all the items on the list. How you get them doesn\u0027t matter. Heck, you can purchase them from us and send em right back. Fill out the list, then we\u0027ll talk more. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 3,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 30,
+              "OreDict:8": "logWood",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "jsonlootbags:minecraft_gear_loot",
+              "Count:3": 10,
+              "OreDict:8": "lootbags",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 10,
+              "OreDict:8": "wool",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_chestplate",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:iron_leggings",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:iron_axe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "13:10": {
+      "questID:3": 13,
+      "preRequisites:11": [
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 4,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "VaniModu - Rank II",
+          "desc:8": "    §2So a Flea Market, in a post apocalyptic society? How strange, yet fitting.§r\n\n    §o\"That seems to be the order of the day. Is the Trader willing to talk with me yet?\"§r§r\n\n    §3Greetings, Bandit. Your assistant finally got us connected, I notice. Is your Survival Guide damaged?§r\n\n    §oWhat did she... oh wait! Different dimension, things are different. Right then. \"It IS acting a bit different than usual. But it seems to be okay for the most part.\"§r\n\n    §3If you say so. It\u0027s difficult to track down a working Guide Laboratory, let alone someone who knows how to repair one. Where do you originate from, new Mercenary?§r\n\n    §o\"Well uh... you wouldn\u0027t believe me if I said...\"§o§r\n\n    §2You could say we\u0027ve been in the dark about everything that\u0027s happened here.§r\n\n    §oI was pretty sure letting on we were from another dimension was a good way to get us blacklisted from the Trader network, but before I could speak up...\n\n    §r§3Dark... Oh no, are you from one of the deep underground cave communities? Do you have a Core Drill or something?!§o§r\n\n    §o...What?§r\n\n§3    Or maybe one of those damned nuclear Vaults they tricked people into? §r\n\n    §o...WHAT?§r\n\n    §3You\u0027d be far from the first in either case. But that\u0027s getting on a tangent. You want access to the Trade Network proper? You\u0027ll need Rank 2 with us VanilModu Traders first. Not too difficult, but it might take a bit of luck. It\u0027s quite simple, really : \n\n    We want to test your survivability. Send us all the items on the list. How you get them doesn\u0027t matter. Heck, you can purchase them from us and send em right back. Fill out the list, then we\u0027ll talk more. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 3,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 30,
+              "OreDict:8": "logWood",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "jsonlootbags:minecraft_gear_loot",
+              "Count:3": 10,
+              "OreDict:8": "lootbags",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 10,
+              "OreDict:8": "wool",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_chestplate",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:iron_leggings",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:iron_axe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "14:10": {
+      "questID:3": 14,
+      "preRequisites:11": [
+        13
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "VaniModu - Rank II",
+          "desc:8": "    §2So a Flea Market, in a post apocalyptic society? How strange, yet fitting.§r\n\n    §o\"That seems to be the order of the day. Is the Trader willing to talk with me yet?\"§r§r\n\n    §3Greetings, Bandit. Your assistant finally got us connected, I notice. Is your Survival Guide damaged?§r\n\n    §oWhat did she... oh wait! Different dimension, things are different. Right then. \"It IS acting a bit different than usual. But it seems to be okay for the most part.\"§r\n\n    §3If you say so. It\u0027s difficult to track down a working Guide Laboratory, let alone someone who knows how to repair one. Where do you originate from, new Mercenary?§r\n\n    §o\"Well uh... you wouldn\u0027t believe me if I said...\"§o§r\n\n    §2You could say we\u0027ve been in the dark about everything that\u0027s happened here.§r\n\n    §oI was pretty sure letting on we were from another dimension was a good way to get us blacklisted from the Trader network, but before I could speak up...\n\n    §r§3Dark... Oh no, are you from one of the deep underground cave communities? Do you have a Core Drill or something?!§o§r\n\n    §o...What?§r\n\n§3    Or maybe one of those damned nuclear Vaults they tricked people into? §r\n\n    §o...WHAT?§r\n\n    §3You\u0027d be far from the first in either case. But that\u0027s getting on a tangent. You want access to the Trade Network proper? You\u0027ll need Rank 2 with us VanilModu Traders first. Not too difficult, but it might take a bit of luck. It\u0027s quite simple, really : \n\n    We want to test your survivability. Send us all the items on the list. How you get them doesn\u0027t matter. Heck, you can purchase them from us and send em right back. Fill out the list, then we\u0027ll talk more. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 3,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 30,
+              "OreDict:8": "logWood",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "jsonlootbags:minecraft_gear_loot",
+              "Count:3": 10,
+              "OreDict:8": "lootbags",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 10,
+              "OreDict:8": "wool",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_chestplate",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:iron_leggings",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:iron_axe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "15:10": {
+      "questID:3": 15,
+      "preRequisites:11": [
+        13
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "VanilModu Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "16:10": {
+      "questID:3": 16,
+      "preRequisites:11": [
+        14
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "VanilModu Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "17:10": {
+      "questID:3": 17,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:iron_ingot",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Buying : Iron Ingot (x4)",
+          "desc:8": "    §3Do you have the Iron price, as they say? We can always use all the iron we can get. Tools, weapons, armor, and so much more needs it.\n\n    A little note for you, Bandit. Most traders buy items for half their worth, and in much smaller batches.\n\n    Doesn\u0027t seem like much? Well, keep in mind for the same items, you might get 1% of the value from the Flea Market. \n\n    If you\u0027re lucky, that is."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "18:10": {
+      "questID:3": 18,
+      "preRequisites:11": [
+        11
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:white_shulker_box",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Shulker Box",
+          "desc:8": "    §3These strange containers are part living, did you know that? If you travel to the End (which is quite a mess, I have to say), you can find Shulkers amongst the eerie End Cities.\n\n    Now, you could go and fight them and the Dragons and all manner of things, or for a pile of bills, you can get your own right from me.\n\n    Oh don\u0027t mind the color, you can Sneak + Right Click a dye onto it to change the color.\n\n    As well, if you pick up an item with your Cursor, you can Right Click it onto a Shulker Box in your inventory to put it inside (if it has space)."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 41,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:purple_shulker_box",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "19:10": {
+      "questID:3": 19,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockcontroller",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Machine Controller",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    The Machine Controller is the heart of every Modular Machine. It displays info on its current build and status if you Right Click it.\n\n    Both the Flea Market and Cleansing Sieve machines require one Machine Controller."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockcontroller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "20:10": {
+      "questID:3": 20,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockinputbus",
+            "Count:3": 2,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Small Item Input (x2)",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    The Small Item Input lets you stash four stacks of items into it to wait for processing.\n\n    This is used only in the Cleansing Sieve right now, which requires two of them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 85,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockinputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          }
+        }
+      }
+    },
+    "21:10": {
+      "questID:3": 21,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockcasing",
+            "Count:3": 2,
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Machine Gearbox (x2)",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    The Machine Gearbox contains a variety of mechanical components the machine utilizes in some way. Sometimes its sorting, sometime its grinding, sometimes its stamping.\n\n    The Flea Market uses a single Machine Gearbox, while the Cleansing Sieve requires two of them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockcasing",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          }
+        }
+      }
+    },
+    "22:10": {
+      "questID:3": 22,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockinputbus",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Ludicrous Item Input (x2)",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    The Ludicrous Item Input can hold 32 stacks of items for processing, making it an excellent component for machines that work though lots of different items.\n\n    The only machine that utilizes them right now is the Flea Market, requiring two of them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockinputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            }
+          }
+        }
+      }
+    },
+    "23:10": {
+      "questID:3": 23,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockoutputbus",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Ludicrous Item Output (x2)",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    The Ludicrous Item Output can hold 32 stacks of items, perfect for machines that can put out lots of different items every cycle.\n\n    The Flea Market uses two of these, while the Cleansing Machine requires only one."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockinputbus",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            }
+          }
+        }
+      }
+    },
+    "24:10": {
+      "questID:3": 24,
+      "preRequisites:11": [
+        10
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modularmachinery:blockcasing",
+            "Count:3": 2,
+            "Damage:2": 5,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Selling : Machine Circuitry (x2)",
+          "desc:8": "    §3Modular Machines use a lot of smaller (well, relatively) components to make big machines that do specific tasks.\n\n    Machine Circuitry blocks contain intricate circuits, scanners, and more, making them perfect for tasks requiring finding and dealing with very specific things, such as cleaning corruption or scanning for knowledge.\n\n    The only machine that requires Machine Circuitry is the Cleansing Machine."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modularmachinery:blockcasing",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          }
+        }
+      }
+    },
+    "25:10": {
+      "questID:3": 25,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "techguns:nightvisiongoggles",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Notes : A Heads Up on Stealth",
+          "desc:8": "    §2Okay, now that we\u0027ve gotten a base up, gotten contact with the locals, it might be a good time to go over a few... changes this dimension has brought. Specifically your HUD.§r\n\n    §oMy display? What about it?§r\n\n    §2You\u0027ve probably noticed a few changes. Down above your hotbar and between your Health and Hunger bars you have a Sun looking meter. That shows you the current light levels around you. §r\n\n    §oLike Torch radius or...§r\n\n    §2More subtle. Standing out in the moonlight won\u0027t lower it much, thats still a lot of light. Above that Light indicator, you have a Visilibity indicator. This shows you how much nearby monsters can see you.§r\n\n    §oWait, are you telling me I can ACTUALLY sneak in this world?§r\n\n    §2Kind of. Some monsters, like zombies, have supernatural senses, and will detect you easier. But others you can definitely sneak up to, or past, if you pay attention to a few things : \n\n    1) The darker around you, the better.\n    2) Be sneaking with Shift so you move slower.\n    3) You stay out of their line of sight."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "26:10": {
+      "questID:3": 26,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "modcurrency:banknote",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Notes : Tag It and Bag It",
+          "desc:8": "    §2Okay, now that we\u0027ve gotten a base up, gotten contact with the locals, it might be a good time to go over a few... changes this dimension has brought. \n\n    Right now I want to talk to you about your item highlights.§r\n\n    §oHighlights? You mean the info box that pops up when I look at things in my inventory?§r\n\n    §2I bet you\u0027ve noticed theres a few extra lines on each one now, huh? I\u0027m dynamically adding those as my subprocesses scan and incorporate new data from the Global Network.. §r\n\n    §oWhat kind of things are you adding?§r\n\n    §2Mostly I\u0027m cataloguing what you can do with each item with Tags. This will make it easier for you to know what you can do with them.§r\n\n    §oThat sounds useful. What tags do you have for me right now, Z?§r\n\n    §2Right now, each item can have up to 5 tags : \n\n    §7§lLOOTABLE§r§2 : Nearly every item will have this tag. It just means you can find it out in the world, or as loot from enemies you hunt.§r\n\n    §d§lCRAFTABLE§r§2 : Items with this tag are ones you can actually craft. Ingredients for the recipe might be ones you find in the world, grow yourself, or purchase in the shop. Generally, these items are either low tier gear, or building/decorative blocks.\n\n    §c§lTRADEABLE§r§2 : Anything marked with this Tag can be sold to either a Trader, or the Flea Market. Traders offer far more in return for items, but each Trader only purchases a dozen or so specific items (If you have the reputation!). The Flea Market purchases almost everything, but it\u0027s a gamble how much you get back.\n\n    §6§lPURCHASABLE§r§2 : These items are for sale by a Trader. You might not have the Trader or the Reputation for them unlocked yet, however.\n\n    §k§r§kNOPE§r§4§lCORRUPTED§r§kNOPE§r§2 : Some items have been twisted and corrupted from all the calamaties that have befallen this world. There isn\u0027t much use for them, but a machine called a Cleaning Sieve can break down, clean up, and salvage anything useful out of these corrupted items."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "27:10": {
+      "questID:3": 27,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:compressedruins",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Notes : Wreckage and You",
+          "desc:8": "    §2Okay, now that we\u0027ve gotten a base up, gotten contact with the locals, it might be a good time to go over a few... changes this dimension has brought. \n\n    Mostly about mining, since I know thats your favorite pasttime...§r\n\n    §oIt\u0027s very relaxing! Wait, what\u0027s different here?§r\n\n    §2I wonder if you\u0027ve gone spelunking yet. You probably noticed there isn\u0027t much ore in the walls like back home. That\u0027s because geological forces formed differently here. §r\n\n    §oThey formed differently?§r\n\n    §2Before the calamities, ore didn\u0027t form in small pockets like you know it to. Five Iron Ore here, six Coal ore there, two Diamonds over there, right? Well, here, Ores used to form in giant, sprawling pockets. You could easily get half a bag full of Iron and Coal from a single deposit when you you found it.§r\n\n    §oBefore? What about now??§r\n\n    §2Unfortunately, the back to back calamaties broke some fundamental things with this universe. One of them is that every Ore has been corrupted. Whenever they are placed down, or form in the world, they immediately twist and corrode, transforming to match the twisted, condensed ruins all around.\n\n    There might be a way to reverse the corruption, but for now the only thing we can do is use a Cleansing Sieve to find anything useful out of these Compressed Ruins. (The VanilModu Trader offers the Cleansing Sieve at Reputation II, to note!)"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -407,6 +1722,27 @@
           "y:3": 56,
           "id:3": 5,
           "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 16,
+          "x:3": 192,
+          "y:3": 88,
+          "id:3": 25,
+          "sizeY:3": 16
+        },
+        "7:10": {
+          "sizeX:3": 16,
+          "x:3": 192,
+          "y:3": 60,
+          "id:3": 26,
+          "sizeY:3": 16
+        },
+        "8:10": {
+          "sizeX:3": 16,
+          "x:3": 192,
+          "y:3": 32,
+          "id:3": 27,
+          "sizeY:3": 16
         }
       },
       "lineID:3": 0,
@@ -433,10 +1769,136 @@
     "1:10": {
       "quests:9": {
         "0:10": {
-          "sizeX:3": 24,
-          "x:3": 16,
-          "y:3": 104,
+          "sizeX:3": 40,
+          "x:3": 200,
+          "y:3": 28,
           "id:3": 6,
+          "sizeY:3": 40
+        },
+        "1:10": {
+          "sizeX:3": 36,
+          "x:3": 264,
+          "y:3": 28,
+          "id:3": 7,
+          "sizeY:3": 40
+        },
+        "2:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 108,
+          "id:3": 8,
+          "sizeY:3": 8
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 112,
+          "id:3": 9,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 168,
+          "id:3": 10,
+          "sizeY:3": 8
+        },
+        "5:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 220,
+          "id:3": 11,
+          "sizeY:3": 8
+        },
+        "6:10": {
+          "sizeX:3": 40,
+          "x:3": 328,
+          "y:3": 28,
+          "id:3": 12,
+          "sizeY:3": 40
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 396,
+          "y:3": 28,
+          "id:3": 13,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 44,
+          "x:3": 460,
+          "y:3": 28,
+          "id:3": 14,
+          "sizeY:3": 40
+        },
+        "9:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 260,
+          "id:3": 15,
+          "sizeY:3": 8
+        },
+        "10:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 304,
+          "id:3": 16,
+          "sizeY:3": 8
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 112,
+          "id:3": 17,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 224,
+          "id:3": 18,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 248,
+          "y:3": 112,
+          "id:3": 19,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 276,
+          "y:3": 112,
+          "id:3": 20,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 304,
+          "y:3": 112,
+          "id:3": 21,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 332,
+          "y:3": 112,
+          "id:3": 22,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 360,
+          "y:3": 112,
+          "id:3": 23,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": 248,
+          "y:3": 172,
+          "id:3": 24,
           "sizeY:3": 24
         }
       },
