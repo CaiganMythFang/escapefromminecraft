@@ -65,6 +65,7 @@ val loot = [
 <minecraft:monster_egg:5>, <minecraft:monster_egg:4>, <minecraft:monster_egg:3>, <minecraft:monster_egg:2>, <minecraft:monster_egg:1>, <minecraft:monster_egg>, <minecraft:end_portal_frame>, <minecraft:skull:2>, <minecraft:skull:1>, <minecraft:skull>, <minecraft:skull:4>, <minecraft:skull:5>
 ] as IItemStack[];
 for item in loot {
+    recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable"));
     <ore:fleamarketable>.add(item);
 }
