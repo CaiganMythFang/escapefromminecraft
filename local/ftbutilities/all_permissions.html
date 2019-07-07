@@ -1082,6 +1082,15 @@ false
 '>
 </td></tr>
 <tr>
+<td><code>ftbutilities.claims.block.interact.traverse.fir_door</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
 <td><code>ftbutilities.claims.bypass_limits</code></td>
 <td><code>bool</code></td>
 <td class='false' colspan='2'><code>false</code></td>
@@ -1391,6 +1400,28 @@ false
 <p>/warp Warmup Timer</p>
 </td></tr>
 <tr>
+<td><code>pneumaticcraft.amadron.addperiodictrade</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player to add a custom periodic offer via the Amadron Tablet</p>
+</td></tr>
+<tr>
+<td><code>pneumaticcraft.amadron.addstatictrade</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player to add a custom static offer via the Amadron Tablet</p>
+</td></tr>
+<tr>
 <td><code>techguns.allowunsafemode</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
@@ -1417,6 +1448,67 @@ false
 <tr><td><code>command.betterquesting.bq_admin</code></td><td class='error' title='Invalid usage language key!'>/bq_admin edit [true|false], /bq_admin hardcore [true|false], /bq_admin reset [all|&lt;quest_id&gt;] [username|uuid], /bq_admin complete &lt;quest_id&gt; [username|uuid], /bq_admin delete [all|&lt;quest_id&gt;], /bq_admin default [save|load|set] [file_name], /bq_admin lives [add|set|max|default] &lt;value&gt; [username|uuid], /bq_admin purge_hidden_quests</td></tr>
 <tr><td><code>command.betterquesting.bq_user</code></td><td class='error' title='Invalid usage language key!'>/bq_user help, /bq_user refresh, /bq_user hardcore</td></tr>
 <tr><td><code>command.blockdata</code></td><td>/blockdata &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;dataTag&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.add</code></td><td>/bd block add &lt;block id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.biome.add</code></td><td>/bd block biome add &lt;biome id&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.biome.clear</code></td><td>commands.blockdropstweaker.block.biome.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.biome.remove</code></td><td>/bd block biome remove &lt;biome id&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.clear</code></td><td>commands.blockdropstweaker.block.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.dupe</code></td><td>/bd block dupe &lt;block id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.enchant.add</code></td><td>/bd block enchant add &lt;enchant&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.enchant.clear</code></td><td>commands.blockdropstweaker.block.enchant.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.enchant.remove</code></td><td>/bd block enchant remove &lt;enchant&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.gamestage.add</code></td><td>/bd block gamestage add &lt;gamestage&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.gamestage.clear</code></td><td>commands.blockdropstweaker.block.gamestage.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.gamestage.remove</code></td><td>/bd block gamestage remove &lt;gamestage&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.get</code></td><td>/bd block get [fortunechance]</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.modifier.add</code></td><td>/bd block modifier add &lt;modifier&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.modifier.clear</code></td><td>commands.blockdropstweaker.block.modifier.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.modifier.remove</code></td><td>/bd block modifier remove &lt;modifier&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.nbt.add</code></td><td>/bd block nbt add &lt;nbt&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.nbt.clear</code></td><td>commands.blockdropstweaker.block.nbt.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.nbt.remove</code></td><td>/bd block nbt remove &lt;nbt&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.remove</code></td><td>commands.blockdropstweaker.block.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.select</code></td><td>/bd block select &lt;block id,metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.set.fortunechance</code></td><td>/bd block set fortunechance &lt;level&gt; &lt;chance&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.tool.add</code></td><td>/bd block tool add &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.tool.clear</code></td><td>commands.blockdropstweaker.block.tool.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.tool.remove</code></td><td>/bd block tool remove &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.trait.add</code></td><td>/bd block trait add &lt;trait&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.trait.clear</code></td><td>commands.blockdropstweaker.block.trait.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.block.trait.remove</code></td><td>/bd block trait remove &lt;trait&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.copy</code></td><td>/bd copy &lt;text&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.add</code></td><td>/bd drop add &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.biome.add</code></td><td>/bd drop biome add &lt;biome id&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.biome.clear</code></td><td>commands.blockdropstweaker.drop.biome.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.biome.remove</code></td><td>/bd drop biome remove &lt;biome id&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.clear</code></td><td>commands.blockdropstweaker.drop.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.dupe</code></td><td>/bd drop dupe &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.enchant.add</code></td><td>commands.blockdropstweaker.drop.enchant.add.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.enchant.clear</code></td><td>commands.blockdropstweaker.drop.enchant.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.enchant.remove</code></td><td>commands.blockdropstweaker.drop.enchant.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.gamestage.add</code></td><td>commands.blockdropstweaker.drop.gamestage.add.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.gamestage.clear</code></td><td>commands.blockdropstweaker.drop.gamestage.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.gamestage.remove</code></td><td>commands.blockdropstweaker.drop.gamestage.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.get</code></td><td>/bd drop get [fortunechance/fortunequantity]</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.modifier.add</code></td><td>commands.blockdropstweaker.drop.modifier.add.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.modifier.clear</code></td><td>commands.blockdropstweaker.drop.modifier.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.modifier.remove</code></td><td>commands.blockdropstweaker.drop.modifier.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.nbt.add</code></td><td>commands.blockdropstweaker.drop.nbt.add.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.nbt.clear</code></td><td>commands.blockdropstweaker.drop.nbt.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.nbt.remove</code></td><td>commands.blockdropstweaker.drop.nbt.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.remove</code></td><td>commands.blockdropstweaker.drop.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.select</code></td><td>/bd drop select &lt;item id,metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.set.fortunechance</code></td><td>/bd drop set fortunechance &lt;level&gt; &lt;chance&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.set.fortunequantity</code></td><td>/bd drop set fortunequantity &lt;level&gt; &lt;min:max&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.tool.add</code></td><td>/bd drop tool add &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.tool.clear</code></td><td>commands.blockdropstweaker.drop.tool.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.tool.remove</code></td><td>/bd drop tool remove &lt;item id&gt; &lt;metadata&gt;</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.trait.add</code></td><td>commands.blockdropstweaker.drop.trait.add.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.trait.clear</code></td><td>commands.blockdropstweaker.drop.trait.clear.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.drop.trait.remove</code></td><td>commands.blockdropstweaker.drop.trait.remove.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.info</code></td><td>/bd info [ore]</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.reload</code></td><td>commands.blockdropstweaker.reload.usage</td></tr>
+<tr><td><code>command.blockdropstweaker.blockdrops.save</code></td><td>commands.blockdropstweaker.save.usage</td></tr>
 <tr><td><code>command.bq_npc_integration.bq_npcs</code></td><td class='error' title='Invalid usage language key!'>/bq_npcs reload</td></tr>
 <tr><td><code>command.bq_standard.bqs_advancement_dump</code></td><td class='error' title='Invalid usage language key!'>/bqs_advancement_dump</td></tr>
 <tr><td><code>command.bq_standard.bqs_loot</code></td><td class='error' title='Invalid usage language key!'>/bqs_loot default [save|load], /bqs_loot delete [all|&lt;loot_id&gt;]</td></tr>
@@ -1577,6 +1669,16 @@ false
 <tr><td><code>command.particle</code></td><td>/particle &lt;name&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;xd&gt; &lt;yd&gt; &lt;zd&gt; &lt;speed&gt; [count] [mode] [player] [params]</td></tr>
 <tr><td><code>command.playsound</code></td><td>/playsound &lt;sound&gt; &lt;source&gt; &lt;player&gt; [x] [y] [z] [volume] [pitch] [minimumVolume]</td></tr>
 <tr><td><code>command.pmdumper.pmdumper</code></td><td>/pmdumper &lt;dumper name&gt; &lt;&gt;. Available dumpers: .</td></tr>
+<tr><td><code>command.pneumaticcraft.deliveramazon</code></td><td class='error' title='Invalid usage language key!'>deliverAmazon &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;inventoryX&gt; &lt;inventorY&gt; &lt;inventoryZ&gt;<br>deliverAmazon &lt;player&gt; &lt;inventoryX&gt; &lt;inventorY&gt; &lt;inventoryZ&gt;</td></tr>
+<tr><td><code>command.pneumaticcraft.dumpnbt</code></td><td>dumpNBT</td></tr>
+<tr><td><code>command.pneumaticcraft.getglobalvariable</code></td><td class='error' title='Invalid usage language key!'>getGlobalVariable &lt;variableName&gt;</td></tr>
+<tr><td><code>command.pneumaticcraft.setglobalvariable</code></td><td class='error' title='Invalid usage language key!'>setGlobalVariable &lt;variableName&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;</td></tr>
+<tr><td><code>command.projecte.projecte.clearknowledge</code></td><td>/projecte clearKnowledge [player selector]</td></tr>
+<tr><td><code>command.projecte.projecte.reloademc</code></td><td class='error' title='Invalid usage language key!'>/projecte reloadEMC</td></tr>
+<tr><td><code>command.projecte.projecte.removeemc</code></td><td>/projecte removeEMC &lt;unlocalized | oredict name&gt; [meta] (no params for held item)</td></tr>
+<tr><td><code>command.projecte.projecte.resetemc</code></td><td>/projecte resetEMC &lt;unlocalized | oredict name&gt; [meta] (no params for held item)</td></tr>
+<tr><td><code>command.projecte.projecte.setemc</code></td><td>/projecte setEMC [unlocalized | oredict name] [meta] [EMC value], /projecte setEMC [EMC value] (for held item)</td></tr>
+<tr><td><code>command.projecte.projecte.showbag</code></td><td>/projecte showBag &lt;color&gt; &lt;player selector&gt;</td></tr>
 <tr><td><code>command.psi.psi-learn</code></td><td>/psi-learn &lt;group&gt; [player]</td></tr>
 <tr><td><code>command.psi.psi-unlearn</code></td><td>/psi-unlearn &lt;group&gt; [player]</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
@@ -1617,6 +1719,7 @@ false
 <tr><td><code>command.reccomplex.#write</code></td><td class='error' title='Invalid usage language key!'>#write §r §e&lt;file type&gt;§r §e[resource expression]§r... --§bd§rirectory §e[directory]§r</td></tr>
 <tr><td><code>command.recipe</code></td><td>/recipe &lt;give|take&gt; [player] &lt;name|*&gt;</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>
+<tr><td><code>command.roguelike.roguelike</code></td><td class='error' title='Invalid usage language key!'></td></tr>
 <tr><td><code>command.rpreload</code></td><td class='error' title='Invalid usage language key!'>/rpreload</td></tr>
 <tr><td><code>command.say</code></td><td>/say &lt;message ...&gt;</td></tr>
 <tr><td><code>command.scoreboard</code></td><td>/scoreboard &lt;objectives|players|teams&gt; ...</td></tr>
@@ -1640,12 +1743,14 @@ false
 <tr><td><code>command.toggledownfall</code></td><td>/toggledownfall</td></tr>
 <tr><td><code>command.toughasnails.toughasnails</code></td><td>/toughasnails &lt;tempinfo|settemp&gt; [args]</td></tr>
 <tr><td><code>command.tp</code></td><td>/tp [target player] &lt;destination player&gt;<br>/tp [target player] &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;yaw&gt; &lt;pitch&gt;]</td></tr>
+<tr><td><code>command.traverse.findbiome</code></td><td class='error' title='Invalid usage language key!'>/findbiome &lt;biome&gt;</td></tr>
 <tr><td><code>command.treasure2.treasurechest</code></td><td class='error' title='Invalid usage language key!'>/treasurechest &lt;x&gt; &lt;y&gt; &lt;z&gt; [rarity | -n &lt;name&gt;]: generates a Treasure! chest at location (x,y,z)</td></tr>
 <tr><td><code>command.treasure2.treasurepit</code></td><td class='error' title='Invalid usage language key!'>/treasurepit &lt;x&gt; &lt;y&gt; &lt;z&gt; [rarity]: spawns a Treasure! pit at location (x,y,z)</td></tr>
 <tr><td><code>command.treasure2.treasurewell</code></td><td class='error' title='Invalid usage language key!'>/treasurewell &lt;x&gt; &lt;y&gt; &lt;z&gt; [well | -n &lt;name&gt;]: spawns a Treasure! wishing well at location (x,y,z)</td></tr>
 <tr><td><code>command.treasure2.treasurewithertree</code></td><td class='error' title='Invalid usage language key!'>/treasurewithertree &lt;x&gt; &lt;y&gt; &lt;z&gt;: spawns a Treasure! wither tree at location (x,y,z)</td></tr>
 <tr><td><code>command.treasure2.trpitonly</code></td><td class='error' title='Invalid usage language key!'>/trpitonly &lt;x&gt; &lt;y&gt; &lt;z&gt; [pit]: spawns a Treasure! pit at location (x,y,z)</td></tr>
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;objective&gt; &lt;add|set&gt; &lt;value&gt;</td></tr>
+<tr><td><code>command.valkyrielib.removeowner</code></td><td>valkyrielib.removeowner</td></tr>
 <tr><td><code>command.waila.dumphandlers</code></td><td class='error' title='Invalid usage language key!'>/dumphandlers</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>
 <tr><td><code>command.worldborder</code></td><td>/worldborder &lt;set|center|damage|warning|get|add&gt; ...</td></tr>

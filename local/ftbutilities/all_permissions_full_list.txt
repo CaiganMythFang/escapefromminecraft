@@ -1,4 +1,4 @@
-8538 nodes in total
+9131 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -640,6 +640,7 @@ ftbutilities.claims.block.edit.colossalchests.uncolossal_chest: OP
 ftbutilities.claims.block.edit.conarm.armorforge: OP
 ftbutilities.claims.block.edit.conarm.armorstation: OP
 ftbutilities.claims.block.edit.conarm.soft_obsidian: OP
+ftbutilities.claims.block.edit.contenttweaker.compressedruins: OP
 ftbutilities.claims.block.edit.cookingforblockheads.cabinet: OP
 ftbutilities.claims.block.edit.cookingforblockheads.cooking_table: OP
 ftbutilities.claims.block.edit.cookingforblockheads.corner: OP
@@ -800,6 +801,10 @@ ftbutilities.claims.block.edit.extendedcrafting.table_basic: OP
 ftbutilities.claims.block.edit.extendedcrafting.table_elite: OP
 ftbutilities.claims.block.edit.extendedcrafting.table_ultimate: OP
 ftbutilities.claims.block.edit.extendedcrafting.trimmed: OP
+ftbutilities.claims.block.edit.geolosys.ore: OP
+ftbutilities.claims.block.edit.geolosys.ore_sample: OP
+ftbutilities.claims.block.edit.geolosys.ore_sample_vanilla: OP
+ftbutilities.claims.block.edit.geolosys.ore_vanilla: OP
 ftbutilities.claims.block.edit.grapplemod.block_grapple_modifier: OP
 ftbutilities.claims.block.edit.gravestone.gsgravestone: OP
 ftbutilities.claims.block.edit.harvestcraft.almond_sapling: OP
@@ -1366,9 +1371,86 @@ ftbutilities.claims.block.edit.modularmachinery.blockfluidinputhatch: OP
 ftbutilities.claims.block.edit.modularmachinery.blockfluidoutputhatch: OP
 ftbutilities.claims.block.edit.modularmachinery.blockinputbus: OP
 ftbutilities.claims.block.edit.modularmachinery.blockoutputbus: OP
+ftbutilities.claims.block.edit.pneumaticcraft.advanced_air_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.advanced_liquid_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.advanced_pressure_tube: OP
+ftbutilities.claims.block.edit.pneumaticcraft.aerial_interface: OP
+ftbutilities.claims.block.edit.pneumaticcraft.air_cannon: OP
+ftbutilities.claims.block.edit.pneumaticcraft.air_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.aphorism_tile: OP
+ftbutilities.claims.block.edit.pneumaticcraft.assembly_controller: OP
+ftbutilities.claims.block.edit.pneumaticcraft.assembly_drill: OP
+ftbutilities.claims.block.edit.pneumaticcraft.assembly_io_unit: OP
+ftbutilities.claims.block.edit.pneumaticcraft.assembly_laser: OP
+ftbutilities.claims.block.edit.pneumaticcraft.assembly_platform: OP
+ftbutilities.claims.block.edit.pneumaticcraft.charging_station: OP
+ftbutilities.claims.block.edit.pneumaticcraft.compressed_iron_block: OP
+ftbutilities.claims.block.edit.pneumaticcraft.creative_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.drone_redstone_emitter: OP
+ftbutilities.claims.block.edit.pneumaticcraft.electrostatic_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.elevator_base: OP
+ftbutilities.claims.block.edit.pneumaticcraft.elevator_caller: OP
+ftbutilities.claims.block.edit.pneumaticcraft.elevator_frame: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fake_ice: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.diesel: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.etchacid: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.fuel: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.kerosene: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.lpg: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.lubricant: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.oil: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fluid.plastic: OP
+ftbutilities.claims.block.edit.pneumaticcraft.flux_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.gas_lift: OP
+ftbutilities.claims.block.edit.pneumaticcraft.heat_sink: OP
+ftbutilities.claims.block.edit.pneumaticcraft.kerosene_lamp: OP
+ftbutilities.claims.block.edit.pneumaticcraft.kerosene_lamp_light: OP
+ftbutilities.claims.block.edit.pneumaticcraft.liquid_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.liquid_hopper: OP
+ftbutilities.claims.block.edit.pneumaticcraft.omnidirectional_hopper: OP
+ftbutilities.claims.block.edit.pneumaticcraft.plastic_mixer: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pneumatic_door: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pneumatic_door_base: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pneumatic_dynamo: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pressure_chamber_glass: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pressure_chamber_interface: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pressure_chamber_valve: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pressure_chamber_wall: OP
+ftbutilities.claims.block.edit.pneumaticcraft.pressure_tube: OP
+ftbutilities.claims.block.edit.pneumaticcraft.programmable_controller: OP
+ftbutilities.claims.block.edit.pneumaticcraft.programmer: OP
+ftbutilities.claims.block.edit.pneumaticcraft.refinery: OP
+ftbutilities.claims.block.edit.pneumaticcraft.security_station: OP
+ftbutilities.claims.block.edit.pneumaticcraft.sentry_turret: OP
+ftbutilities.claims.block.edit.pneumaticcraft.thermal_compressor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.thermopneumatic_processing_plant: OP
+ftbutilities.claims.block.edit.pneumaticcraft.universal_sensor: OP
+ftbutilities.claims.block.edit.pneumaticcraft.uv_light_box: OP
+ftbutilities.claims.block.edit.pneumaticcraft.vacuum_pump: OP
+ftbutilities.claims.block.edit.pneumaticcraft.vortex_tube: OP
 ftbutilities.claims.block.edit.powersuits.liquid_nitrogen: OP
 ftbutilities.claims.block.edit.powersuits.luxcapacitor: OP
 ftbutilities.claims.block.edit.powersuits.tinkertable: OP
+ftbutilities.claims.block.edit.projecte.alchemical_chest: OP
+ftbutilities.claims.block.edit.projecte.collector_mk1: OP
+ftbutilities.claims.block.edit.projecte.collector_mk2: OP
+ftbutilities.claims.block.edit.projecte.collector_mk3: OP
+ftbutilities.claims.block.edit.projecte.condenser_mk1: OP
+ftbutilities.claims.block.edit.projecte.condenser_mk2: OP
+ftbutilities.claims.block.edit.projecte.dm_furnace: OP
+ftbutilities.claims.block.edit.projecte.dm_furnace_lit: OP
+ftbutilities.claims.block.edit.projecte.dm_pedestal: OP
+ftbutilities.claims.block.edit.projecte.fuel_block: OP
+ftbutilities.claims.block.edit.projecte.interdiction_torch: OP
+ftbutilities.claims.block.edit.projecte.matter_block: OP
+ftbutilities.claims.block.edit.projecte.nova_cataclysm: OP
+ftbutilities.claims.block.edit.projecte.nova_catalyst: OP
+ftbutilities.claims.block.edit.projecte.relay_mk1: OP
+ftbutilities.claims.block.edit.projecte.relay_mk2: OP
+ftbutilities.claims.block.edit.projecte.relay_mk3: OP
+ftbutilities.claims.block.edit.projecte.rm_furnace: OP
+ftbutilities.claims.block.edit.projecte.rm_furnace_lit: OP
+ftbutilities.claims.block.edit.projecte.transmutation_table: OP
 ftbutilities.claims.block.edit.props.blockfake: OP
 ftbutilities.claims.block.edit.props.blockprops: OP
 ftbutilities.claims.block.edit.psi.cad_assembler: OP
@@ -1806,6 +1888,22 @@ ftbutilities.claims.block.edit.rpsideas.conjuredpulsar: OP
 ftbutilities.claims.block.edit.rpsideas.conjuredpulsarlight: OP
 ftbutilities.claims.block.edit.rpsideas.conjuredstar: OP
 ftbutilities.claims.block.edit.rpsideas.dark_plate: OP
+ftbutilities.claims.block.edit.simplegenerators.combustion_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.combustion_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.culinary_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.culinary_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.ender_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.ender_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.fluid_combustion_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.fluid_combustion_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.geothermal_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.geothermal_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.nether_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.nether_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.soul_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.soul_upgradable: OP
+ftbutilities.claims.block.edit.simplegenerators.turbine_simple: OP
+ftbutilities.claims.block.edit.simplegenerators.turbine_upgradable: OP
 ftbutilities.claims.block.edit.statues.statue: OP
 ftbutilities.claims.block.edit.tconstruct.blood: OP
 ftbutilities.claims.block.edit.tconstruct.blueslime: OP
@@ -1946,6 +2044,52 @@ ftbutilities.claims.block.edit.toughasnails.temperature_coil: OP
 ftbutilities.claims.block.edit.travellersbackpack.sleeping_bag_bottom: OP
 ftbutilities.claims.block.edit.travellersbackpack.sleeping_bag_top: OP
 ftbutilities.claims.block.edit.travellersbackpack.travellers_backpack: OP
+ftbutilities.claims.block.edit.traverse.blue_rock: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_bricks: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_bricks_chiseled: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_bricks_double_slab: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_bricks_slab: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_bricks_stairs: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_cobblestone: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_cobblestone_double_slab: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_cobblestone_slab: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_cobblestone_stairs: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_cobblestone_wall: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_double_slab: OP
+ftbutilities.claims.block.edit.traverse.blue_rock_slab: OP
+ftbutilities.claims.block.edit.traverse.brown_autumnal_leaves: OP
+ftbutilities.claims.block.edit.traverse.brown_autumnal_sapling: OP
+ftbutilities.claims.block.edit.traverse.cold_grass: OP
+ftbutilities.claims.block.edit.traverse.dead_grass: OP
+ftbutilities.claims.block.edit.traverse.fir_door: OP
+ftbutilities.claims.block.edit.traverse.fir_double_slab: OP
+ftbutilities.claims.block.edit.traverse.fir_fence: OP
+ftbutilities.claims.block.edit.traverse.fir_fence_gate: OP
+ftbutilities.claims.block.edit.traverse.fir_leaves: OP
+ftbutilities.claims.block.edit.traverse.fir_log: OP
+ftbutilities.claims.block.edit.traverse.fir_planks: OP
+ftbutilities.claims.block.edit.traverse.fir_sapling: OP
+ftbutilities.claims.block.edit.traverse.fir_slab: OP
+ftbutilities.claims.block.edit.traverse.fir_stairs: OP
+ftbutilities.claims.block.edit.traverse.orange_autumnal_leaves: OP
+ftbutilities.claims.block.edit.traverse.orange_autumnal_sapling: OP
+ftbutilities.claims.block.edit.traverse.red_autumnal_leaves: OP
+ftbutilities.claims.block.edit.traverse.red_autumnal_sapling: OP
+ftbutilities.claims.block.edit.traverse.red_rock: OP
+ftbutilities.claims.block.edit.traverse.red_rock_bricks: OP
+ftbutilities.claims.block.edit.traverse.red_rock_bricks_chiseled: OP
+ftbutilities.claims.block.edit.traverse.red_rock_bricks_double_slab: OP
+ftbutilities.claims.block.edit.traverse.red_rock_bricks_slab: OP
+ftbutilities.claims.block.edit.traverse.red_rock_bricks_stairs: OP
+ftbutilities.claims.block.edit.traverse.red_rock_cobblestone: OP
+ftbutilities.claims.block.edit.traverse.red_rock_cobblestone_double_slab: OP
+ftbutilities.claims.block.edit.traverse.red_rock_cobblestone_slab: OP
+ftbutilities.claims.block.edit.traverse.red_rock_cobblestone_stairs: OP
+ftbutilities.claims.block.edit.traverse.red_rock_cobblestone_wall: OP
+ftbutilities.claims.block.edit.traverse.red_rock_double_slab: OP
+ftbutilities.claims.block.edit.traverse.red_rock_slab: OP
+ftbutilities.claims.block.edit.traverse.yellow_autumnal_leaves: OP
+ftbutilities.claims.block.edit.traverse.yellow_autumnal_sapling: OP
 ftbutilities.claims.block.edit.treasure2.compressor_chest: OP
 ftbutilities.claims.block.edit.treasure2.crate_chest: OP
 ftbutilities.claims.block.edit.treasure2.crate_chest_moldy: OP
@@ -2645,6 +2789,7 @@ ftbutilities.claims.block.interact.colossalchests.uncolossal_chest: OP
 ftbutilities.claims.block.interact.conarm.armorforge: OP
 ftbutilities.claims.block.interact.conarm.armorstation: OP
 ftbutilities.claims.block.interact.conarm.soft_obsidian: OP
+ftbutilities.claims.block.interact.contenttweaker.compressedruins: OP
 ftbutilities.claims.block.interact.cookingforblockheads.cabinet: OP
 ftbutilities.claims.block.interact.cookingforblockheads.cooking_table: OP
 ftbutilities.claims.block.interact.cookingforblockheads.corner: OP
@@ -2805,6 +2950,10 @@ ftbutilities.claims.block.interact.extendedcrafting.table_basic: OP
 ftbutilities.claims.block.interact.extendedcrafting.table_elite: OP
 ftbutilities.claims.block.interact.extendedcrafting.table_ultimate: OP
 ftbutilities.claims.block.interact.extendedcrafting.trimmed: OP
+ftbutilities.claims.block.interact.geolosys.ore: OP
+ftbutilities.claims.block.interact.geolosys.ore_sample: OP
+ftbutilities.claims.block.interact.geolosys.ore_sample_vanilla: OP
+ftbutilities.claims.block.interact.geolosys.ore_vanilla: OP
 ftbutilities.claims.block.interact.grapplemod.block_grapple_modifier: OP
 ftbutilities.claims.block.interact.gravestone.gsgravestone: OP
 ftbutilities.claims.block.interact.harvestcraft.almond_sapling: OP
@@ -3371,9 +3520,86 @@ ftbutilities.claims.block.interact.modularmachinery.blockfluidinputhatch: OP
 ftbutilities.claims.block.interact.modularmachinery.blockfluidoutputhatch: OP
 ftbutilities.claims.block.interact.modularmachinery.blockinputbus: OP
 ftbutilities.claims.block.interact.modularmachinery.blockoutputbus: OP
+ftbutilities.claims.block.interact.pneumaticcraft.advanced_air_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.advanced_liquid_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.advanced_pressure_tube: OP
+ftbutilities.claims.block.interact.pneumaticcraft.aerial_interface: OP
+ftbutilities.claims.block.interact.pneumaticcraft.air_cannon: OP
+ftbutilities.claims.block.interact.pneumaticcraft.air_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.aphorism_tile: OP
+ftbutilities.claims.block.interact.pneumaticcraft.assembly_controller: OP
+ftbutilities.claims.block.interact.pneumaticcraft.assembly_drill: OP
+ftbutilities.claims.block.interact.pneumaticcraft.assembly_io_unit: OP
+ftbutilities.claims.block.interact.pneumaticcraft.assembly_laser: OP
+ftbutilities.claims.block.interact.pneumaticcraft.assembly_platform: OP
+ftbutilities.claims.block.interact.pneumaticcraft.charging_station: OP
+ftbutilities.claims.block.interact.pneumaticcraft.compressed_iron_block: OP
+ftbutilities.claims.block.interact.pneumaticcraft.creative_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.drone_redstone_emitter: OP
+ftbutilities.claims.block.interact.pneumaticcraft.electrostatic_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.elevator_base: OP
+ftbutilities.claims.block.interact.pneumaticcraft.elevator_caller: OP
+ftbutilities.claims.block.interact.pneumaticcraft.elevator_frame: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fake_ice: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.diesel: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.etchacid: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.fuel: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.kerosene: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.lpg: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.lubricant: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.oil: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fluid.plastic: OP
+ftbutilities.claims.block.interact.pneumaticcraft.flux_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.gas_lift: OP
+ftbutilities.claims.block.interact.pneumaticcraft.heat_sink: OP
+ftbutilities.claims.block.interact.pneumaticcraft.kerosene_lamp: OP
+ftbutilities.claims.block.interact.pneumaticcraft.kerosene_lamp_light: OP
+ftbutilities.claims.block.interact.pneumaticcraft.liquid_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.liquid_hopper: OP
+ftbutilities.claims.block.interact.pneumaticcraft.omnidirectional_hopper: OP
+ftbutilities.claims.block.interact.pneumaticcraft.plastic_mixer: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pneumatic_door: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pneumatic_door_base: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pneumatic_dynamo: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pressure_chamber_glass: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pressure_chamber_interface: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pressure_chamber_valve: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pressure_chamber_wall: OP
+ftbutilities.claims.block.interact.pneumaticcraft.pressure_tube: OP
+ftbutilities.claims.block.interact.pneumaticcraft.programmable_controller: OP
+ftbutilities.claims.block.interact.pneumaticcraft.programmer: OP
+ftbutilities.claims.block.interact.pneumaticcraft.refinery: OP
+ftbutilities.claims.block.interact.pneumaticcraft.security_station: OP
+ftbutilities.claims.block.interact.pneumaticcraft.sentry_turret: OP
+ftbutilities.claims.block.interact.pneumaticcraft.thermal_compressor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.thermopneumatic_processing_plant: OP
+ftbutilities.claims.block.interact.pneumaticcraft.universal_sensor: OP
+ftbutilities.claims.block.interact.pneumaticcraft.uv_light_box: OP
+ftbutilities.claims.block.interact.pneumaticcraft.vacuum_pump: OP
+ftbutilities.claims.block.interact.pneumaticcraft.vortex_tube: OP
 ftbutilities.claims.block.interact.powersuits.liquid_nitrogen: OP
 ftbutilities.claims.block.interact.powersuits.luxcapacitor: OP
 ftbutilities.claims.block.interact.powersuits.tinkertable: OP
+ftbutilities.claims.block.interact.projecte.alchemical_chest: OP
+ftbutilities.claims.block.interact.projecte.collector_mk1: OP
+ftbutilities.claims.block.interact.projecte.collector_mk2: OP
+ftbutilities.claims.block.interact.projecte.collector_mk3: OP
+ftbutilities.claims.block.interact.projecte.condenser_mk1: OP
+ftbutilities.claims.block.interact.projecte.condenser_mk2: OP
+ftbutilities.claims.block.interact.projecte.dm_furnace: OP
+ftbutilities.claims.block.interact.projecte.dm_furnace_lit: OP
+ftbutilities.claims.block.interact.projecte.dm_pedestal: OP
+ftbutilities.claims.block.interact.projecte.fuel_block: OP
+ftbutilities.claims.block.interact.projecte.interdiction_torch: OP
+ftbutilities.claims.block.interact.projecte.matter_block: OP
+ftbutilities.claims.block.interact.projecte.nova_cataclysm: OP
+ftbutilities.claims.block.interact.projecte.nova_catalyst: OP
+ftbutilities.claims.block.interact.projecte.relay_mk1: OP
+ftbutilities.claims.block.interact.projecte.relay_mk2: OP
+ftbutilities.claims.block.interact.projecte.relay_mk3: OP
+ftbutilities.claims.block.interact.projecte.rm_furnace: OP
+ftbutilities.claims.block.interact.projecte.rm_furnace_lit: OP
+ftbutilities.claims.block.interact.projecte.transmutation_table: OP
 ftbutilities.claims.block.interact.props.blockfake: OP
 ftbutilities.claims.block.interact.props.blockprops: OP
 ftbutilities.claims.block.interact.psi.cad_assembler: OP
@@ -3811,6 +4037,22 @@ ftbutilities.claims.block.interact.rpsideas.conjuredpulsar: OP
 ftbutilities.claims.block.interact.rpsideas.conjuredpulsarlight: OP
 ftbutilities.claims.block.interact.rpsideas.conjuredstar: OP
 ftbutilities.claims.block.interact.rpsideas.dark_plate: OP
+ftbutilities.claims.block.interact.simplegenerators.combustion_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.combustion_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.culinary_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.culinary_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.ender_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.ender_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.fluid_combustion_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.fluid_combustion_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.geothermal_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.geothermal_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.nether_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.nether_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.soul_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.soul_upgradable: OP
+ftbutilities.claims.block.interact.simplegenerators.turbine_simple: OP
+ftbutilities.claims.block.interact.simplegenerators.turbine_upgradable: OP
 ftbutilities.claims.block.interact.statues.statue: OP
 ftbutilities.claims.block.interact.tconstruct.blood: OP
 ftbutilities.claims.block.interact.tconstruct.blueslime: OP
@@ -3951,6 +4193,52 @@ ftbutilities.claims.block.interact.toughasnails.temperature_coil: OP
 ftbutilities.claims.block.interact.travellersbackpack.sleeping_bag_bottom: OP
 ftbutilities.claims.block.interact.travellersbackpack.sleeping_bag_top: OP
 ftbutilities.claims.block.interact.travellersbackpack.travellers_backpack: OP
+ftbutilities.claims.block.interact.traverse.blue_rock: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_bricks: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_bricks_chiseled: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_bricks_double_slab: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_bricks_slab: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_bricks_stairs: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_cobblestone: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_cobblestone_double_slab: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_cobblestone_slab: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_cobblestone_stairs: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_cobblestone_wall: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_double_slab: OP
+ftbutilities.claims.block.interact.traverse.blue_rock_slab: OP
+ftbutilities.claims.block.interact.traverse.brown_autumnal_leaves: OP
+ftbutilities.claims.block.interact.traverse.brown_autumnal_sapling: OP
+ftbutilities.claims.block.interact.traverse.cold_grass: OP
+ftbutilities.claims.block.interact.traverse.dead_grass: OP
+ftbutilities.claims.block.interact.traverse.fir_door: ALL
+ftbutilities.claims.block.interact.traverse.fir_double_slab: OP
+ftbutilities.claims.block.interact.traverse.fir_fence: OP
+ftbutilities.claims.block.interact.traverse.fir_fence_gate: OP
+ftbutilities.claims.block.interact.traverse.fir_leaves: OP
+ftbutilities.claims.block.interact.traverse.fir_log: OP
+ftbutilities.claims.block.interact.traverse.fir_planks: OP
+ftbutilities.claims.block.interact.traverse.fir_sapling: OP
+ftbutilities.claims.block.interact.traverse.fir_slab: OP
+ftbutilities.claims.block.interact.traverse.fir_stairs: OP
+ftbutilities.claims.block.interact.traverse.orange_autumnal_leaves: OP
+ftbutilities.claims.block.interact.traverse.orange_autumnal_sapling: OP
+ftbutilities.claims.block.interact.traverse.red_autumnal_leaves: OP
+ftbutilities.claims.block.interact.traverse.red_autumnal_sapling: OP
+ftbutilities.claims.block.interact.traverse.red_rock: OP
+ftbutilities.claims.block.interact.traverse.red_rock_bricks: OP
+ftbutilities.claims.block.interact.traverse.red_rock_bricks_chiseled: OP
+ftbutilities.claims.block.interact.traverse.red_rock_bricks_double_slab: OP
+ftbutilities.claims.block.interact.traverse.red_rock_bricks_slab: OP
+ftbutilities.claims.block.interact.traverse.red_rock_bricks_stairs: OP
+ftbutilities.claims.block.interact.traverse.red_rock_cobblestone: OP
+ftbutilities.claims.block.interact.traverse.red_rock_cobblestone_double_slab: OP
+ftbutilities.claims.block.interact.traverse.red_rock_cobblestone_slab: OP
+ftbutilities.claims.block.interact.traverse.red_rock_cobblestone_stairs: OP
+ftbutilities.claims.block.interact.traverse.red_rock_cobblestone_wall: OP
+ftbutilities.claims.block.interact.traverse.red_rock_double_slab: OP
+ftbutilities.claims.block.interact.traverse.red_rock_slab: OP
+ftbutilities.claims.block.interact.traverse.yellow_autumnal_leaves: OP
+ftbutilities.claims.block.interact.traverse.yellow_autumnal_sapling: OP
 ftbutilities.claims.block.interact.treasure2.compressor_chest: OP
 ftbutilities.claims.block.interact.treasure2.crate_chest: OP
 ftbutilities.claims.block.interact.treasure2.crate_chest_moldy: OP
@@ -4884,6 +5172,12 @@ ftbutilities.claims.item.conarm.travel_sack: ALL
 ftbutilities.claims.item.conarm.travel_slowfall: ALL
 ftbutilities.claims.item.conarm.travel_sneak: ALL
 ftbutilities.claims.item.conarm.travel_soul: ALL
+ftbutilities.claims.item.contenttweaker.compressedruins: ALL
+ftbutilities.claims.item.contenttweaker.reputation-1: ALL
+ftbutilities.claims.item.contenttweaker.reputation-2: ALL
+ftbutilities.claims.item.contenttweaker.reputation-3: ALL
+ftbutilities.claims.item.contenttweaker.reputation-4: ALL
+ftbutilities.claims.item.contenttweaker.reputation-5: ALL
 ftbutilities.claims.item.cookingforblockheads.cabinet: ALL
 ftbutilities.claims.item.cookingforblockheads.cooking_table: ALL
 ftbutilities.claims.item.cookingforblockheads.corner: ALL
@@ -5216,6 +5510,14 @@ ftbutilities.claims.item.extendedcrafting.table_elite: ALL
 ftbutilities.claims.item.extendedcrafting.table_ultimate: ALL
 ftbutilities.claims.item.extendedcrafting.trimmed: ALL
 ftbutilities.claims.item.forge.bucketfilled: ALL
+ftbutilities.claims.item.geolosys.cluster: ALL
+ftbutilities.claims.item.geolosys.coal: ALL
+ftbutilities.claims.item.geolosys.field_manual: ALL
+ftbutilities.claims.item.geolosys.ingot: ALL
+ftbutilities.claims.item.geolosys.ore: ALL
+ftbutilities.claims.item.geolosys.ore_sample: ALL
+ftbutilities.claims.item.geolosys.ore_sample_vanilla: ALL
+ftbutilities.claims.item.geolosys.ore_vanilla: ALL
 ftbutilities.claims.item.grapplemod.baseupgradeitem: ALL
 ftbutilities.claims.item.grapplemod.block_grapple_modifier: ALL
 ftbutilities.claims.item.grapplemod.doubleupgradeitem: ALL
@@ -6665,6 +6967,12 @@ ftbutilities.claims.item.littlelooter.tape: ALL
 ftbutilities.claims.item.littlelooter.wire: ALL
 ftbutilities.claims.item.littlelooter.wire_cutter: ALL
 ftbutilities.claims.item.littlelooter.wrench: ALL
+ftbutilities.claims.item.locks.key: ALL
+ftbutilities.claims.item.locks.key_blank: ALL
+ftbutilities.claims.item.locks.key_ring: ALL
+ftbutilities.claims.item.locks.lock: ALL
+ftbutilities.claims.item.locks.lock_pick: ALL
+ftbutilities.claims.item.locks.master_key: ALL
 ftbutilities.claims.item.malisisdoors.big_door_acacia_3x3: ALL
 ftbutilities.claims.item.malisisdoors.big_door_birch_3x3: ALL
 ftbutilities.claims.item.malisisdoors.big_door_dark_oak_3x3: ALL
@@ -7153,6 +7461,145 @@ ftbutilities.claims.item.modularmachinery.itemblueprint: ALL
 ftbutilities.claims.item.modularmachinery.itemconstructtool: ALL
 ftbutilities.claims.item.modularmachinery.itemmodularium: ALL
 ftbutilities.claims.item.patchouli.guide_book: ALL
+ftbutilities.claims.item.pneumaticcraft.advanced_air_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.advanced_liquid_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.advanced_pcb: ALL
+ftbutilities.claims.item.pneumaticcraft.advanced_pressure_tube: ALL
+ftbutilities.claims.item.pneumaticcraft.aerial_interface: ALL
+ftbutilities.claims.item.pneumaticcraft.air_canister: ALL
+ftbutilities.claims.item.pneumaticcraft.air_cannon: ALL
+ftbutilities.claims.item.pneumaticcraft.air_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.air_conditioning_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.air_grate_module: ALL
+ftbutilities.claims.item.pneumaticcraft.amadron_tablet: ALL
+ftbutilities.claims.item.pneumaticcraft.aphorism_tile: ALL
+ftbutilities.claims.item.pneumaticcraft.armor_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_controller: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_drill: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_io_unit: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_laser: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_platform: ALL
+ftbutilities.claims.item.pneumaticcraft.assembly_program: ALL
+ftbutilities.claims.item.pneumaticcraft.block_tracker_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.camo_applicator: ALL
+ftbutilities.claims.item.pneumaticcraft.cannon_barrel: ALL
+ftbutilities.claims.item.pneumaticcraft.capacitor: ALL
+ftbutilities.claims.item.pneumaticcraft.charging_module: ALL
+ftbutilities.claims.item.pneumaticcraft.charging_station: ALL
+ftbutilities.claims.item.pneumaticcraft.charging_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.compressed_iron_block: ALL
+ftbutilities.claims.item.pneumaticcraft.compressed_iron_gear: ALL
+ftbutilities.claims.item.pneumaticcraft.coordinate_tracker_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.creative_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.creative_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.crop_support: ALL
+ftbutilities.claims.item.pneumaticcraft.dispenser_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.drone: ALL
+ftbutilities.claims.item.pneumaticcraft.electrostatic_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.elevator_base: ALL
+ftbutilities.claims.item.pneumaticcraft.elevator_caller: ALL
+ftbutilities.claims.item.pneumaticcraft.elevator_frame: ALL
+ftbutilities.claims.item.pneumaticcraft.empty_pcb: ALL
+ftbutilities.claims.item.pneumaticcraft.entity_tracker_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.failed_pcb: ALL
+ftbutilities.claims.item.pneumaticcraft.fake_ice: ALL
+ftbutilities.claims.item.pneumaticcraft.flow_detector_module: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.diesel: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.etchacid: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.fuel: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.kerosene: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.lpg: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.lubricant: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.oil: ALL
+ftbutilities.claims.item.pneumaticcraft.fluid.plastic: ALL
+ftbutilities.claims.item.pneumaticcraft.flux_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.gas_lift: ALL
+ftbutilities.claims.item.pneumaticcraft.gps_area_tool: ALL
+ftbutilities.claims.item.pneumaticcraft.gps_tool: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_ap: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_explosive: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_freezing: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_incendiary: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_weighted: ALL
+ftbutilities.claims.item.pneumaticcraft.harvesting_drone: ALL
+ftbutilities.claims.item.pneumaticcraft.heat_frame: ALL
+ftbutilities.claims.item.pneumaticcraft.heat_sink: ALL
+ftbutilities.claims.item.pneumaticcraft.ingot_iron_compressed: ALL
+ftbutilities.claims.item.pneumaticcraft.item_life_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.jet_boots_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.kerosene_lamp: ALL
+ftbutilities.claims.item.pneumaticcraft.liquid_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.liquid_hopper: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_drone: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_frame_active_provider: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_frame_default_storage: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_frame_passive_provider: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_frame_requester: ALL
+ftbutilities.claims.item.pneumaticcraft.logistic_frame_storage: ALL
+ftbutilities.claims.item.pneumaticcraft.logistics_configurator: ALL
+ftbutilities.claims.item.pneumaticcraft.logistics_module: ALL
+ftbutilities.claims.item.pneumaticcraft.magnet_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.manometer: ALL
+ftbutilities.claims.item.pneumaticcraft.micromissiles: ALL
+ftbutilities.claims.item.pneumaticcraft.minigun: ALL
+ftbutilities.claims.item.pneumaticcraft.network_component: ALL
+ftbutilities.claims.item.pneumaticcraft.night_vision_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.nuke_virus: ALL
+ftbutilities.claims.item.pneumaticcraft.omnidirectional_hopper: ALL
+ftbutilities.claims.item.pneumaticcraft.pcb_blueprint: ALL
+ftbutilities.claims.item.pneumaticcraft.plastic: ALL
+ftbutilities.claims.item.pneumaticcraft.plastic_mixer: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_boots: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_chestplate: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_cylinder: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_door: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_door_base: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_dynamo: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_helmet: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_leggings: ALL
+ftbutilities.claims.item.pneumaticcraft.pneumatic_wrench: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_chamber_glass: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_chamber_interface: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_chamber_valve: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_chamber_wall: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_gauge: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_gauge_module: ALL
+ftbutilities.claims.item.pneumaticcraft.pressure_tube: ALL
+ftbutilities.claims.item.pneumaticcraft.printed_circuit_board: ALL
+ftbutilities.claims.item.pneumaticcraft.programmable_controller: ALL
+ftbutilities.claims.item.pneumaticcraft.programmer: ALL
+ftbutilities.claims.item.pneumaticcraft.programming_puzzle: ALL
+ftbutilities.claims.item.pneumaticcraft.range_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.redstone_module: ALL
+ftbutilities.claims.item.pneumaticcraft.refinery: ALL
+ftbutilities.claims.item.pneumaticcraft.regulator_tube_module: ALL
+ftbutilities.claims.item.pneumaticcraft.reinforced_air_canister: ALL
+ftbutilities.claims.item.pneumaticcraft.remote: ALL
+ftbutilities.claims.item.pneumaticcraft.safety_tube_module: ALL
+ftbutilities.claims.item.pneumaticcraft.scuba_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.search_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.security_station: ALL
+ftbutilities.claims.item.pneumaticcraft.security_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.seismic_sensor: ALL
+ftbutilities.claims.item.pneumaticcraft.sentry_turret: ALL
+ftbutilities.claims.item.pneumaticcraft.spawner_agitator: ALL
+ftbutilities.claims.item.pneumaticcraft.speed_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.stone_base: ALL
+ftbutilities.claims.item.pneumaticcraft.stop_worm: ALL
+ftbutilities.claims.item.pneumaticcraft.thermal_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.thermopneumatic_processing_plant: ALL
+ftbutilities.claims.item.pneumaticcraft.transfer_gadget: ALL
+ftbutilities.claims.item.pneumaticcraft.transistor: ALL
+ftbutilities.claims.item.pneumaticcraft.turbine_blade: ALL
+ftbutilities.claims.item.pneumaticcraft.turbine_rotor: ALL
+ftbutilities.claims.item.pneumaticcraft.unassembled_pcb: ALL
+ftbutilities.claims.item.pneumaticcraft.universal_sensor: ALL
+ftbutilities.claims.item.pneumaticcraft.uv_light_box: ALL
+ftbutilities.claims.item.pneumaticcraft.vacuum_pump: ALL
+ftbutilities.claims.item.pneumaticcraft.volume_upgrade: ALL
+ftbutilities.claims.item.pneumaticcraft.vortex_cannon: ALL
+ftbutilities.claims.item.pneumaticcraft.vortex_tube: ALL
 ftbutilities.claims.item.powersuits.luxcapacitor: ALL
 ftbutilities.claims.item.powersuits.power_fist: ALL
 ftbutilities.claims.item.powersuits.powerarmor_feet: ALL
@@ -7161,6 +7608,92 @@ ftbutilities.claims.item.powersuits.powerarmor_legs: ALL
 ftbutilities.claims.item.powersuits.powerarmor_torso: ALL
 ftbutilities.claims.item.powersuits.powerarmorcomponent: ALL
 ftbutilities.claims.item.powersuits.tinkertable: ALL
+ftbutilities.claims.item.projecte.alchemical_chest: ALL
+ftbutilities.claims.item.projecte.collector_mk1: ALL
+ftbutilities.claims.item.projecte.collector_mk2: ALL
+ftbutilities.claims.item.projecte.collector_mk3: ALL
+ftbutilities.claims.item.projecte.condenser_mk1: ALL
+ftbutilities.claims.item.projecte.condenser_mk2: ALL
+ftbutilities.claims.item.projecte.dm_furnace: ALL
+ftbutilities.claims.item.projecte.dm_pedestal: ALL
+ftbutilities.claims.item.projecte.fuel_block: ALL
+ftbutilities.claims.item.projecte.interdiction_torch: ALL
+ftbutilities.claims.item.projecte.item.pe_alchemical_bag: ALL
+ftbutilities.claims.item.projecte.item.pe_arcana_ring: ALL
+ftbutilities.claims.item.projecte.item.pe_archangel_smite: ALL
+ftbutilities.claims.item.projecte.item.pe_black_hole: ALL
+ftbutilities.claims.item.projecte.item.pe_body_stone: ALL
+ftbutilities.claims.item.projecte.item.pe_catalitic_lens: ALL
+ftbutilities.claims.item.projecte.item.pe_covalence_dust: ALL
+ftbutilities.claims.item.projecte.item.pe_destruction_catalyst: ALL
+ftbutilities.claims.item.projecte.item.pe_divining_rod_1: ALL
+ftbutilities.claims.item.projecte.item.pe_divining_rod_2: ALL
+ftbutilities.claims.item.projecte.item.pe_divining_rod_3: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_armor_0: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_armor_1: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_armor_2: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_armor_3: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_axe: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_hammer: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_hoe: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_pick: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_shears: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_shovel: ALL
+ftbutilities.claims.item.projecte.item.pe_dm_sword: ALL
+ftbutilities.claims.item.projecte.item.pe_evertide_amulet: ALL
+ftbutilities.claims.item.projecte.item.pe_fire_projectile: ALL
+ftbutilities.claims.item.projecte.item.pe_fuel: ALL
+ftbutilities.claims.item.projecte.item.pe_gem_armor_0: ALL
+ftbutilities.claims.item.projecte.item.pe_gem_armor_1: ALL
+ftbutilities.claims.item.projecte.item.pe_gem_armor_2: ALL
+ftbutilities.claims.item.projecte.item.pe_gem_armor_3: ALL
+ftbutilities.claims.item.projecte.item.pe_gem_density: ALL
+ftbutilities.claims.item.projecte.item.pe_harvest_god: ALL
+ftbutilities.claims.item.projecte.item.pe_hyperkinetic_lens: ALL
+ftbutilities.claims.item.projecte.item.pe_ignition: ALL
+ftbutilities.claims.item.projecte.item.pe_klein_star: ALL
+ftbutilities.claims.item.projecte.item.pe_lava_orb: ALL
+ftbutilities.claims.item.projecte.item.pe_lens_explosive: ALL
+ftbutilities.claims.item.projecte.item.pe_life_stone: ALL
+ftbutilities.claims.item.projecte.item.pe_manual: ALL
+ftbutilities.claims.item.projecte.item.pe_matter: ALL
+ftbutilities.claims.item.projecte.item.pe_mercurial_eye: ALL
+ftbutilities.claims.item.projecte.item.pe_mind_stone: ALL
+ftbutilities.claims.item.projecte.item.pe_philosophers_stone: ALL
+ftbutilities.claims.item.projecte.item.pe_randomizer: ALL
+ftbutilities.claims.item.projecte.item.pe_repair_talisman: ALL
+ftbutilities.claims.item.projecte.item.pe_ring_iron_band: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_armor_0: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_armor_1: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_armor_2: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_armor_3: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_axe: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_hammer: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_hoe: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_katar: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_morning_star: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_pick: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_shears: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_shovel: ALL
+ftbutilities.claims.item.projecte.item.pe_rm_sword: ALL
+ftbutilities.claims.item.projecte.item.pe_soul_stone: ALL
+ftbutilities.claims.item.projecte.item.pe_swrg: ALL
+ftbutilities.claims.item.projecte.item.pe_time_watch: ALL
+ftbutilities.claims.item.projecte.item.pe_tome: ALL
+ftbutilities.claims.item.projecte.item.pe_transmutation_tablet: ALL
+ftbutilities.claims.item.projecte.item.pe_void_ring: ALL
+ftbutilities.claims.item.projecte.item.pe_volcanite_amulet: ALL
+ftbutilities.claims.item.projecte.item.pe_water_orb: ALL
+ftbutilities.claims.item.projecte.item.pe_wind_projectile: ALL
+ftbutilities.claims.item.projecte.item.pe_zero_ring: ALL
+ftbutilities.claims.item.projecte.matter_block: ALL
+ftbutilities.claims.item.projecte.nova_cataclysm: ALL
+ftbutilities.claims.item.projecte.nova_catalyst: ALL
+ftbutilities.claims.item.projecte.relay_mk1: ALL
+ftbutilities.claims.item.projecte.relay_mk2: ALL
+ftbutilities.claims.item.projecte.relay_mk3: ALL
+ftbutilities.claims.item.projecte.rm_furnace: ALL
+ftbutilities.claims.item.projecte.transmutation_table: ALL
 ftbutilities.claims.item.props.clay: ALL
 ftbutilities.claims.item.props.props: ALL
 ftbutilities.claims.item.props.tool: ALL
@@ -7621,6 +8154,22 @@ ftbutilities.claims.item.rpsideas.undervolted_cad_assembly: ALL
 ftbutilities.claims.item.rpsideas.unstable_battery: ALL
 ftbutilities.claims.item.rpsideas.virtual_thread_cad_core: ALL
 ftbutilities.claims.item.rpsideas.wide_socket: ALL
+ftbutilities.claims.item.simplegenerators.combustion_simple: ALL
+ftbutilities.claims.item.simplegenerators.combustion_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.culinary_simple: ALL
+ftbutilities.claims.item.simplegenerators.culinary_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.ender_simple: ALL
+ftbutilities.claims.item.simplegenerators.ender_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.fluid_combustion_simple: ALL
+ftbutilities.claims.item.simplegenerators.fluid_combustion_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.geothermal_simple: ALL
+ftbutilities.claims.item.simplegenerators.geothermal_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.nether_simple: ALL
+ftbutilities.claims.item.simplegenerators.nether_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.soul_simple: ALL
+ftbutilities.claims.item.simplegenerators.soul_upgradable: ALL
+ftbutilities.claims.item.simplegenerators.turbine_simple: ALL
+ftbutilities.claims.item.simplegenerators.turbine_upgradable: ALL
 ftbutilities.claims.item.spartanshields.shield_abyssalcraft_abyssalnite: ALL
 ftbutilities.claims.item.spartanshields.shield_abyssalcraft_coralium: ALL
 ftbutilities.claims.item.spartanshields.shield_abyssalcraft_darkstone: ALL
@@ -7974,6 +8523,45 @@ ftbutilities.claims.item.travellersbackpack.hose: ALL
 ftbutilities.claims.item.travellersbackpack.hose_nozzle: ALL
 ftbutilities.claims.item.travellersbackpack.sleeping_bag_bottom: ALL
 ftbutilities.claims.item.travellersbackpack.travellers_backpack: ALL
+ftbutilities.claims.item.traverse.blue_rock: ALL
+ftbutilities.claims.item.traverse.blue_rock_bricks: ALL
+ftbutilities.claims.item.traverse.blue_rock_bricks_chiseled: ALL
+ftbutilities.claims.item.traverse.blue_rock_bricks_slab: ALL
+ftbutilities.claims.item.traverse.blue_rock_bricks_stairs: ALL
+ftbutilities.claims.item.traverse.blue_rock_cobblestone: ALL
+ftbutilities.claims.item.traverse.blue_rock_cobblestone_slab: ALL
+ftbutilities.claims.item.traverse.blue_rock_cobblestone_stairs: ALL
+ftbutilities.claims.item.traverse.blue_rock_cobblestone_wall: ALL
+ftbutilities.claims.item.traverse.blue_rock_slab: ALL
+ftbutilities.claims.item.traverse.brown_autumnal_leaves: ALL
+ftbutilities.claims.item.traverse.brown_autumnal_sapling: ALL
+ftbutilities.claims.item.traverse.cold_grass: ALL
+ftbutilities.claims.item.traverse.dead_grass: ALL
+ftbutilities.claims.item.traverse.fir_door: ALL
+ftbutilities.claims.item.traverse.fir_fence: ALL
+ftbutilities.claims.item.traverse.fir_fence_gate: ALL
+ftbutilities.claims.item.traverse.fir_leaves: ALL
+ftbutilities.claims.item.traverse.fir_log: ALL
+ftbutilities.claims.item.traverse.fir_planks: ALL
+ftbutilities.claims.item.traverse.fir_sapling: ALL
+ftbutilities.claims.item.traverse.fir_slab: ALL
+ftbutilities.claims.item.traverse.fir_stairs: ALL
+ftbutilities.claims.item.traverse.orange_autumnal_leaves: ALL
+ftbutilities.claims.item.traverse.orange_autumnal_sapling: ALL
+ftbutilities.claims.item.traverse.red_autumnal_leaves: ALL
+ftbutilities.claims.item.traverse.red_autumnal_sapling: ALL
+ftbutilities.claims.item.traverse.red_rock: ALL
+ftbutilities.claims.item.traverse.red_rock_bricks: ALL
+ftbutilities.claims.item.traverse.red_rock_bricks_chiseled: ALL
+ftbutilities.claims.item.traverse.red_rock_bricks_slab: ALL
+ftbutilities.claims.item.traverse.red_rock_bricks_stairs: ALL
+ftbutilities.claims.item.traverse.red_rock_cobblestone: ALL
+ftbutilities.claims.item.traverse.red_rock_cobblestone_slab: ALL
+ftbutilities.claims.item.traverse.red_rock_cobblestone_stairs: ALL
+ftbutilities.claims.item.traverse.red_rock_cobblestone_wall: ALL
+ftbutilities.claims.item.traverse.red_rock_slab: ALL
+ftbutilities.claims.item.traverse.yellow_autumnal_leaves: ALL
+ftbutilities.claims.item.traverse.yellow_autumnal_sapling: ALL
 ftbutilities.claims.item.treasure2.compressor_chest: ALL
 ftbutilities.claims.item.treasure2.crate_chest: ALL
 ftbutilities.claims.item.treasure2.crate_chest_moldy: ALL
@@ -8074,6 +8662,9 @@ ftbutilities.claims.item.treasure2.wood_chest: ALL
 ftbutilities.claims.item.treasure2.wood_key: ALL
 ftbutilities.claims.item.treasure2.wood_lock: ALL
 ftbutilities.claims.item.treasure2.wood_mimic: ALL
+ftbutilities.claims.item.valkyrielib.guide: ALL
+ftbutilities.claims.item.valkyrielib.modifier_component: ALL
+ftbutilities.claims.item.valkyrielib.modifier_speed: ALL
 ftbutilities.claims.item.variedcommodities.ancient_coin: ALL
 ftbutilities.claims.item.variedcommodities.ancient_scroll: ALL
 ftbutilities.claims.item.variedcommodities.artifact: ALL
@@ -8538,6 +9129,8 @@ ftbutilities.other_player.heal: OP
 ftbutilities.other_player.homes.list: OP
 ftbutilities.other_player.homes.teleport: OP
 ftbutilities.tpa.cross_dim: ALL
+pneumaticcraft.amadron.addPeriodicTrade: OP
+pneumaticcraft.amadron.addStaticTrade: OP
 techguns.allowunsafemode: ALL
 
 Available command nodes:
@@ -8558,6 +9151,67 @@ command.baubles.baubles
 command.betterquesting.bq_admin
 command.betterquesting.bq_user
 command.blockdata
+command.blockdropstweaker.blockdrops.block.add
+command.blockdropstweaker.blockdrops.block.biome.add
+command.blockdropstweaker.blockdrops.block.biome.clear
+command.blockdropstweaker.blockdrops.block.biome.remove
+command.blockdropstweaker.blockdrops.block.clear
+command.blockdropstweaker.blockdrops.block.dupe
+command.blockdropstweaker.blockdrops.block.enchant.add
+command.blockdropstweaker.blockdrops.block.enchant.clear
+command.blockdropstweaker.blockdrops.block.enchant.remove
+command.blockdropstweaker.blockdrops.block.gamestage.add
+command.blockdropstweaker.blockdrops.block.gamestage.clear
+command.blockdropstweaker.blockdrops.block.gamestage.remove
+command.blockdropstweaker.blockdrops.block.get
+command.blockdropstweaker.blockdrops.block.modifier.add
+command.blockdropstweaker.blockdrops.block.modifier.clear
+command.blockdropstweaker.blockdrops.block.modifier.remove
+command.blockdropstweaker.blockdrops.block.nbt.add
+command.blockdropstweaker.blockdrops.block.nbt.clear
+command.blockdropstweaker.blockdrops.block.nbt.remove
+command.blockdropstweaker.blockdrops.block.remove
+command.blockdropstweaker.blockdrops.block.select
+command.blockdropstweaker.blockdrops.block.set.fortunechance
+command.blockdropstweaker.blockdrops.block.tool.add
+command.blockdropstweaker.blockdrops.block.tool.clear
+command.blockdropstweaker.blockdrops.block.tool.remove
+command.blockdropstweaker.blockdrops.block.trait.add
+command.blockdropstweaker.blockdrops.block.trait.clear
+command.blockdropstweaker.blockdrops.block.trait.remove
+command.blockdropstweaker.blockdrops.copy
+command.blockdropstweaker.blockdrops.drop.add
+command.blockdropstweaker.blockdrops.drop.biome.add
+command.blockdropstweaker.blockdrops.drop.biome.clear
+command.blockdropstweaker.blockdrops.drop.biome.remove
+command.blockdropstweaker.blockdrops.drop.clear
+command.blockdropstweaker.blockdrops.drop.dupe
+command.blockdropstweaker.blockdrops.drop.enchant.add
+command.blockdropstweaker.blockdrops.drop.enchant.clear
+command.blockdropstweaker.blockdrops.drop.enchant.remove
+command.blockdropstweaker.blockdrops.drop.gamestage.add
+command.blockdropstweaker.blockdrops.drop.gamestage.clear
+command.blockdropstweaker.blockdrops.drop.gamestage.remove
+command.blockdropstweaker.blockdrops.drop.get
+command.blockdropstweaker.blockdrops.drop.modifier.add
+command.blockdropstweaker.blockdrops.drop.modifier.clear
+command.blockdropstweaker.blockdrops.drop.modifier.remove
+command.blockdropstweaker.blockdrops.drop.nbt.add
+command.blockdropstweaker.blockdrops.drop.nbt.clear
+command.blockdropstweaker.blockdrops.drop.nbt.remove
+command.blockdropstweaker.blockdrops.drop.remove
+command.blockdropstweaker.blockdrops.drop.select
+command.blockdropstweaker.blockdrops.drop.set.fortunechance
+command.blockdropstweaker.blockdrops.drop.set.fortunequantity
+command.blockdropstweaker.blockdrops.drop.tool.add
+command.blockdropstweaker.blockdrops.drop.tool.clear
+command.blockdropstweaker.blockdrops.drop.tool.remove
+command.blockdropstweaker.blockdrops.drop.trait.add
+command.blockdropstweaker.blockdrops.drop.trait.clear
+command.blockdropstweaker.blockdrops.drop.trait.remove
+command.blockdropstweaker.blockdrops.info
+command.blockdropstweaker.blockdrops.reload
+command.blockdropstweaker.blockdrops.save
 command.bq_npc_integration.bq_npcs
 command.bq_standard.bqs_advancement_dump
 command.bq_standard.bqs_loot
@@ -8715,6 +9369,16 @@ command.modularmachinery.mm-syntax
 command.particle
 command.playsound
 command.pmdumper.pmdumper
+command.pneumaticcraft.deliveramazon
+command.pneumaticcraft.dumpnbt
+command.pneumaticcraft.getglobalvariable
+command.pneumaticcraft.setglobalvariable
+command.projecte.projecte.clearknowledge
+command.projecte.projecte.reloademc
+command.projecte.projecte.removeemc
+command.projecte.projecte.resetemc
+command.projecte.projecte.setemc
+command.projecte.projecte.showbag
 command.psi.psi-learn
 command.psi.psi-unlearn
 command.publish
@@ -8755,6 +9419,7 @@ command.reccomplex.#whatisthis
 command.reccomplex.#write
 command.recipe
 command.replaceitem
+command.roguelike.roguelike
 command.rpreload
 command.say
 command.scoreboard
@@ -8778,12 +9443,14 @@ command.title
 command.toggledownfall
 command.toughasnails.toughasnails
 command.tp
+command.traverse.findbiome
 command.treasure2.treasurechest
 command.treasure2.treasurepit
 command.treasure2.treasurewell
 command.treasure2.treasurewithertree
 command.treasure2.trpitonly
 command.trigger
+command.valkyrielib.removeowner
 command.waila.dumphandlers
 command.weather
 command.worldborder
