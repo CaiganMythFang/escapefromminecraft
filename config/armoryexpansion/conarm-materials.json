@@ -70,5 +70,29 @@
     "isCastable": false,
     "isCraftable": false,
     "traits": []
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 14.0,
+      "defense": 9.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 16.8,
+      "modifier": 9.0,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 16.8,
+      "materialType": "trim"
+    },
+    "identifier": "cheese",
+    "meta": 0,
+    "color": -868046,
+    "type": "METAL",
+    "isCastable": false,
+    "isCraftable": true,
+    "traits": []
   }
 ]
