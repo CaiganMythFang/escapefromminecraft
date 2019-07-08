@@ -47,7 +47,7 @@ fleamarketship.setChance(0.001);
 fleamarketship.addItemOutput(<jsonlootbags:trade_offer_loot>);
 fleamarketship.setChance(0.01);
 
-// 1% for a Trade Offer - Resources, once
+// 3% for a Trade Offer - Resources, once
 fleamarketship.addItemOutput(<jsonlootbags:trade_offer_resources>);
-fleamarketship.setChance(0.01);
+fleamarketship.setChance(0.03);
 fleamarketship.build();
