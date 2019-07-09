@@ -56,4 +56,3 @@ for item in stackminecraft1 {
     item.maxStackSize = 1;
 }
 
-mods.extendedcrafting.TableCrafting.addShapeless(0, <>, []);
