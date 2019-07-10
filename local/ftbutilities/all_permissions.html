@@ -1514,6 +1514,7 @@ false
 <tr><td><code>command.bq_standard.bqs_loot</code></td><td class='error' title='Invalid usage language key!'>/bqs_loot default [save|load], /bqs_loot delete [all|&lt;loot_id&gt;]</td></tr>
 <tr><td><code>command.clear</code></td><td>/clear [player] [item] [data] [maxCount] [dataTag]</td></tr>
 <tr><td><code>command.clone</code></td><td>/clone &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [maskMode] [cloneMode]</td></tr>
+<tr><td><code>command.cofhcore.cofh</code></td><td class='error' title='Invalid usage language key!'>/cofh help</td></tr>
 <tr><td><code>command.cosmeticarmorreworked.clearcosarmor</code></td><td>/clearcosarmor [player]</td></tr>
 <tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | bugs | chiselGroups | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | keyNames | liquids | log | loottables | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
@@ -1541,6 +1542,7 @@ false
 <tr><td><code>command.difficulty</code></td><td>/difficulty &lt;new difficulty&gt;</td></tr>
 <tr><td><code>command.effect</code></td><td>/effect &lt;player&gt; &lt;effect&gt; [seconds] [amplifier] [hideParticles]<br>/effect &lt;player&gt; clear</td></tr>
 <tr><td><code>command.enchant</code></td><td>/enchant &lt;player&gt; &lt;enchantment ID&gt; [level]</td></tr>
+<tr><td><code>command.enchcontrol.ec</code></td><td class='error' title='Invalid usage language key!'>/ec &lt;arg&gt;, type &lt;/ec help&gt; for available arguments.</td></tr>
 <tr><td><code>command.entitydata</code></td><td>/entitydata &lt;entity&gt; &lt;dataTag&gt;</td></tr>
 <tr><td><code>command.execute</code></td><td>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;command&gt;<br>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; detect &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; &lt;dataValue|-1|state|*&gt; &lt;command&gt;</td></tr>
 <tr><td><code>command.fill</code></td><td>/fill &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;block&gt; [dataValue|state] [oldBlockHandling] [dataTag]</td></tr>
@@ -1645,9 +1647,6 @@ false
 <tr><td><code>command.give</code></td><td>/give &lt;player&gt; &lt;item&gt; [amount] [data] [dataTag]</td></tr>
 <tr><td><code>command.gottschcore.showversion-gottschcore</code></td><td>showversion-gottschcore</td></tr>
 <tr><td><code>command.gottschcore.showversion-treasure2</code></td><td>showversion-treasure2</td></tr>
-<tr><td><code>command.gravestone.gravestone</code></td><td class='error' title='Invalid usage language key!'>/Gravestone &lt;command&gt; &lt;command parameters&gt; (Type "/GS commands_list" for commands list)</td></tr>
-<tr><td><code>command.gravestone.gs</code></td><td class='error' title='Invalid usage language key!'>/gs &lt;command&gt; &lt;command parameters&gt; (Type "/GS commands_list" for commands list)</td></tr>
-<tr><td><code>command.hats.hats</code></td><td class='error' title='Invalid usage language key!'>/hats           type /hats for full list.</td></tr>
 <tr><td><code>command.help</code></td><td>/help [page|command name]</td></tr>
 <tr><td><code>command.infernalmobs.feclass</code></td><td class='error' title='Invalid usage language key!'>/feclass X returns all currently registered Entities containing X in their classname's</td></tr>
 <tr><td><code>command.infernalmobs.spawninfernal</code></td><td class='error' title='Invalid usage language key!'>/spawninfernal x y z ENTCLASS X spawns an Infernal Mob of class ENTCLASS at x, y, z with Modifiers X</td></tr>
@@ -1745,6 +1744,28 @@ false
 <tr><td><code>command.time</code></td><td>/time &lt;set|add|query&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.title</code></td><td>/title &lt;player&gt; title|subtitle|actionbar|clear|reset|times ...</td></tr>
 <tr><td><code>command.toggledownfall</code></td><td>/toggledownfall</td></tr>
+<tr><td><code>command.tombstone.tbknowledge</code></td><td>Sets the knowledge of death of a player
+/tbknowledge &lt;player&gt; &lt;show|set|give|remove&gt; &lt;value&gt;</td></tr>
+<tr><td><code>command.tombstone.tbrecovery</code></td><td>Backups and restores players
+/tbrecovery &lt;save_all_players|save_player &lt;player&gt;|load_player&lt;player&gt; &lt;save&gt;&gt;</td></tr>
+<tr><td><code>command.tombstone.tbrequestteleport</code></td><td>tombstone.command.tbrequestteleport.usage</td></tr>
+<tr><td><code>command.tombstone.tbrestoreinventory</code></td><td>Restores the player inventory with the last known grave
+/tbrestoreinventory [player]</td></tr>
+<tr><td><code>command.tombstone.tbrevivefamiliar</code></td><td>Revives the last dead familiar of a player
+/tbrevivefamiliar &lt;player&gt;</td></tr>
+<tr><td><code>command.tombstone.tbshowlastgrave</code></td><td>Shows the position of the last known grave of a player
+/tbshowlastgrave [player]</td></tr>
+<tr><td><code>command.tombstone.tbsiege</code></td><td>Launches a village siege in the chosen dimension or your current one
+/tbsiege [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleport</code></td><td>Dimensional teleport
+/tbteleport [entity] &lt;destination&gt;
+&lt;destination&gt; = &lt;targetEntity&gt; or &lt;x&gt; &lt;y&gt; &lt;z&gt; [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleportdiscovery</code></td><td>Teleports to an unexplored structure
+/tbteleportdiscovery &lt;entity&gt; [structure] [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleportgrave</code></td><td>Teleports to the last known grave of a player
+/tbteleportgrave [player] [playerGrave]</td></tr>
+<tr><td><code>command.tombstone.tbteleportvillage</code></td><td>Teleports to an explored village
+/tbteleportvillage &lt;entity&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.toughasnails.toughasnails</code></td><td>/toughasnails &lt;tempinfo|settemp&gt; [args]</td></tr>
 <tr><td><code>command.tp</code></td><td>/tp [target player] &lt;destination player&gt;<br>/tp [target player] &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;yaw&gt; &lt;pitch&gt;]</td></tr>
 <tr><td><code>command.traverse.findbiome</code></td><td class='error' title='Invalid usage language key!'>/findbiome &lt;biome&gt;</td></tr>

@@ -1,4 +1,16 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "rats:cheese|0",
+      "emc": 50
+    },
+    {
+      "item": "rats:block_of_cheese|0",
+      "emc": 200
+    },
+    {
+      "item": "minecraft:bread|0",
+      "emc": 50
+    }
+  ]
 }
