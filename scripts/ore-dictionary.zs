@@ -11,3 +11,10 @@ val lootbags = [
 for item in lootbags {
 <ore:lootbags>.add(item);
 }
+
+val recdrug = [
+<dap:magicmushroom>, <dap:joint>, <dap:thccookie>
+] as IItemStack[];
+for item in recdrug {
+<ore:lootbags>.add(item);
+}
