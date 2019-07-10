@@ -1,4 +1,5 @@
 #en_US
+#PARSE_ESCAPES
 
 chat.cofh.command.clearblocks.failure=No blocks to clear.
 chat.cofh.command.clearblocks.start=Clearing %s blocks from %s:%s:%s to %s:%s:%s.
@@ -92,7 +93,7 @@ enchantment.cofhcore.leech=Leech
 enchantment.cofhcore.multishot=Multishot
 enchantment.cofhcore.smashing=Smashing
 enchantment.cofhcore.smelting=Smelting
-enchantment.cofhcore.soulbound=Insurance
+enchantment.cofhcore.soulbound=Item Insurance
 enchantment.cofhcore.vorpal=Vorpal
 
 enchantment.cofhcore.holding.desc=Increases the storage capacity of certain items.
@@ -101,7 +102,7 @@ enchantment.cofhcore.leech.desc=Restores health when a mob is killed.
 enchantment.cofhcore.multishot.desc=The bow will fire additional arrows with each shot. Only one arrow is consumed.
 enchantment.cofhcore.smashing.desc=Harvested ores will be smashed to pieces, improving yield.
 enchantment.cofhcore.smelting.desc=Harvested blocks will automatically be smelted, as if by a Furnace.
-enchantment.cofhcore.soulbound.desc=If in main inventory when player dies, it will respawn with them. Item may become uninsured after each death.
+enchantment.cofhcore.soulbound.desc= >If this item is in your main inventory when you die, it will respawn\n  with you. Item may lose Insurance when it respawns.
 enchantment.cofhcore.vorpal.desc=Randomly performs powerful attacks and decapitations.
 
 fluid.tconstruct.alubrass=Molten Aluminum Brass
