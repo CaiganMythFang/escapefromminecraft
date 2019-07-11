@@ -5,11 +5,11 @@
 		"admin_panel": true
 	},
 	"ftbutilities": {
-		"toggle.gamemode": false,
-		"toggle.rain": false,
-		"toggle.day": false,
-		"toggle.night": false,
-		"heal": false,
+		"toggle.gamemode": true,
+		"toggle.rain": true,
+		"toggle.day": true,
+		"toggle.night": true,
+		"heal": true,
 		"claimed_chunks": true,
 		"trash_can": true,
 		"leaderboards": false
