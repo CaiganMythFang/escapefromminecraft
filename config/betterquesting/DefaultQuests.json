@@ -7135,6 +7135,821 @@
           }
         }
       }
+    },
+    "104:10": {
+      "questID:3": 104,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterquesting:placeholder",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The Workshop",
+          "desc:8": "    §2Hey Bandit, now that we\u0027ve got contact with some Traders, we can start researching how to get back home.§r\n\n    §o\"Right. But I gotta ask...\"§r\n\n    §2Yes, I\u0027m calling this my Workshop. I\u0027ll keep my scanner subroutines working over all the data from the Global Network, there\u0027s a lot of little things you should know about this world, and things that will help you get around.§r\n\n    §o\"Yes, but what about...\"\n\n    §r§2Don\u0027t worry, I\u0027ll put any special administrative functions on this tab as well. Stuff like updating the Survival Guide (apparently a few Trader groups work together to keep it maintained?), or replacing your Gamma Container if you lose it.\n\n   §r§o\"Z...\"§r\n\n    §2Yes, Bandit?§r\n\n    §o\"WHY is your avatar a ruffian cat now?\"§r\n\n    §2Oh! I felt it fit in better with this world. Gotta do what you have to survive in this catastrophically torn dimension.§r\n\n    §oI rubbed my eyes a bit, \"I... don\u0027t even...\"§r\n\n    §2Trust me meow, it works on a lot of different levels.\n\n§r    §oI decided not to ask further. Sometimes, Z\u0027s humor programming just confuses me..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "105:10": {
+      "questID:3": 105,
+      "preRequisites:11": [
+        104
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Explanation Read",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "106:10": {
+      "questID:3": 106,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tombstone:decorative_grave_simple",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Death and Insurance",
+          "desc:8": "    §2Bandit, if you haven\u0027t noticed yet, Death is a bit different than back home. The primary differences to note : \n\n    1) Your minimap can no longer log the location of your death, nor can your chat log.\n    2) You still get a Grave key, so at least Death and his powers are here too.\n    3) But the Key no longer directs you to your grave. It only makes it glow when you hold the key and you are close by.\n\n    This makes losing and retrieving items a bit more difficult. You can still make waypoints, sure, but if you are on a long journey, you might forget. Be careful what you bring with you on each hunting trip, Bandit.\n\n    To help, I\u0027ve gotten in contact with a... well, they call themselves a \u0027Retrieval\u0027 crew. For a price, they will go in and magically retrieve items from fallen Mercenaries that have been \u0027Insured\u0027.\n\n    If you die, and you have something with Item Insurance enchanted on it in your main inventory (not inside a bag, they cannot guarantee the magic will work), they will Retrieve it, and you will respawn with it.§r\n\n    §o\"Wait, immediately? How...\"§r\n\n    §2Magic.§r\n\n    §o\"....right. Right.\" That was a silly question, I guess."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "107:10": {
+      "questID:3": 107,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 55
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Item Insurance [Level I]",
+          "desc:8": "    §4Bandit. I will keep things to the point.\n\n    You have items you don\u0027t want to lose, even temporarily, on death. We have a particular set of skills.\n\n    You have money. We like money. \n\n    You can purchase Insurance contracts from us. Combine them with the item you wish to Insure in an Anvil.\n\n    If you fall in battle, we will know. My Retrieval crew will then collect the item, and return it to your inventory before you even rematerialize.\n\n    How? Let\u0027s just say, thats why the price of our service is justified.\n\n    A note. There are three levels of Item Insurance.\n\n    For level I, each Death and Retrieval cycle has a 50% chance of removing the Insurance from the item once you respawn."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 55
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "108:10": {
+      "questID:3": 108,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 55
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Item Insurance [Level II]",
+          "desc:8": "    §4There are three levels of Item Insurance.\n\n    For level II, each Death and Retrieval cycle has a 33% chance of lowering the Item Insurance level back to I."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 55
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "109:10": {
+      "questID:3": 109,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 55
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Item Insurance [Level III]",
+          "desc:8": "    §4There are three levels of Item Insurance.\n\n    For level III, each Death and Retrieval cycle has a 25% chance of lowering the Item Insurance level back to II."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 850,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 55
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "110:10": {
+      "questID:3": 110,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 720000,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "compactstorage:backpack",
+            "Count:3": 1,
+            "tag:10": {
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 56
+                }
+              },
+              "RepairCost:3": 1,
+              "size:11": [
+                2,
+                2
+              ],
+              "display:10": {
+                "Name:8": "Beta Container"
+              },
+              "hue:3": 302
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Gamma and Beta Containers",
+          "desc:8": "    §2As you noticed, your Secure Container came into this dimension with you, Bandit. §r\n\n    §o\"Yeah, but now its not really a box but a backpack thing...\"§r\n\n    §2True, but it gained a new property. Secure containers will respawn with you after you die, along with everything in the container.§r\n\n    §oNow THAT was useful, but... \"But... what if I lose it?\"§r\n\n    §2Try not to lose your Secure Container GAMMA, okay? I might be able to fabricate a new one, but I\u0027ll have to contact a few folks, and the materials for your Secure Container was already hard to get in our world. Here? I don\u0027t know, I can check though.\n\n    Calculating... calculating...\n\n    I can fabricate a substandard container every 30 Minekov days (10 hours real time). It will only be 2x2 in size, but it will have the Secure Container Lock property.\n\n    As much as I\u0027d like to help you by just giving you the container, Bandit, I\u0027m going to have to purchase materials from various Traders and carefully organize their fabrication."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "compactstorage:backpack",
+              "Count:3": 1,
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 56
+                  }
+                },
+                "RepairCost:3": 1,
+                "size:11": [
+                  2,
+                  2
+                ],
+                "display:10": {
+                  "Name:8": "Secure Container BETA"
+                },
+                "hue:3": 302
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "111:10": {
+      "questID:3": 111,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "waystones:waystone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Waystones",
+          "desc:8": "    §2There are special stones in this world called Waystones. They\u0027ve apparently existed all throughout history, so they are a fairly ancient magic.\n\n    They enable people to bind to them by Right Clicking them, then they can teleport between different bound Waystones at the cost of some Experience.§r\n\n    §o\"Interesting. That should help exploring for sure.\"§r\n\n    §2Definitely, but they aren\u0027t easy to find. Villages tend to find one and set it up for easier Trade routes, and you can very rarely find one out in the wilderness. Beyond that, though, it gets...§r\n\n    §o\"Impossible?\"§r\n\n    §2Expensive, mostly. There\u0027s traveling group of Traders who collect scattered Waystones, and create special tools to utilize them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "waystones:waystone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "112:10": {
+      "questID:3": 112,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "waystones:return_scroll",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Return Scroll",
+          "desc:8": "    §2Return Scrolls can be used to return to the last Waypoint you activated."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "waystones:return_scroll",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "113:10": {
+      "questID:3": 113,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "waystones:bound_scroll",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Bound Scroll",
+          "desc:8": "    §2Bound Scrolls can be bound to a Waystone by Sneak + Right Clicking it onto it. This lets you teleport to Waystones other than the last one you used."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 60,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "waystones:bound_scroll",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "114:10": {
+      "questID:3": 114,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "waystones:warp_stone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Warp Stone",
+          "desc:8": "    §2The Warp Stone can be bound to a Waystone just like a Bound Scroll, by Sneak + Right Clicking the Warp Stone onto it. \n\n    Unlike the Bound Scroll, the Warp Stone isn\u0027t a one use item. The downside is, you have to wait 5 minutes after using it before you can use it again."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "waystones:warp_stone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "115:10": {
+      "questID:3": 115,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "air_support:crate_drop_remote",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Air Drop Request",
+          "desc:8": "    §2It looks like a couple of Drone networks are still up and running in this world. They did a variety of things, but one of the most popular was air delivery.\n\n    Some traders maintain the ground system, and Air Supply Drop Remotes can be used to call in one of three air drops : Livestock, Medical Supplies, or Utility. The first two are kind of obvious... the last one is usually just a couple of resources. May be useful in a pinch?\n\n    Be warned though! Some Raider gangs have taken over one of the Drone networks. Occasionally they\u0027ll intercept the call and send some explosives at you. Be sure you are in a clear area before calling Air Drops."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "air_support:crate_drop_remote",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "air_support:medical_crate_drop_remote",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "air_support:utility_crate_drop_remote",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -7665,7 +8480,7 @@
       "lineID:3": 1,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
+          "visibility:8": "UNLOCKED",
           "name:8": "Trader - VanilModu",
           "icon:10": {
             "ForgeCaps:10": {
@@ -7681,7 +8496,7 @@
           "desc:8": "    This is the first Trader group new Traders and Mercenaries deal with when they want to break into the business. Others we\u0027ll have to find in person to deal with...\n\n    [Trades Vanilla Minecraft and Modular Machinery items]"
         }
       },
-      "order:3": 1
+      "order:3": 2
     },
     "2:10": {
       "quests:9": {
@@ -7715,14 +8530,14 @@
         },
         "4:10": {
           "sizeX:3": 24,
-          "x:3": 204,
+          "x:3": 392,
           "y:3": 112,
           "id:3": 75,
           "sizeY:3": 24
         },
         "5:10": {
           "sizeX:3": 24,
-          "x:3": 188,
+          "x:3": 392,
           "y:3": 140,
           "id:3": 76,
           "sizeY:3": 24
@@ -7792,35 +8607,35 @@
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 220,
-          "y:3": 140,
+          "x:3": 392,
+          "y:3": 168,
           "id:3": 86,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 260,
+          "x:3": 424,
           "y:3": 112,
           "id:3": 87,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
-          "x:3": 316,
+          "x:3": 480,
           "y:3": 112,
           "id:3": 88,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 24,
-          "x:3": 260,
+          "x:3": 424,
           "y:3": 140,
           "id:3": 89,
           "sizeY:3": 24
         },
         "19:10": {
           "sizeX:3": 24,
-          "x:3": 288,
+          "x:3": 452,
           "y:3": 168,
           "id:3": 90,
           "sizeY:3": 24
@@ -7834,85 +8649,85 @@
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 204,
+          "x:3": 364,
           "y:3": 168,
           "id:3": 92,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
-          "x:3": 260,
+          "x:3": 424,
           "y:3": 168,
           "id:3": 93,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
-          "x:3": 288,
+          "x:3": 452,
           "y:3": 112,
           "id:3": 94,
           "sizeY:3": 24
         },
         "24:10": {
           "sizeX:3": 24,
-          "x:3": 288,
+          "x:3": 452,
           "y:3": 140,
           "id:3": 95,
           "sizeY:3": 24
         },
         "25:10": {
           "sizeX:3": 24,
-          "x:3": 316,
+          "x:3": 480,
           "y:3": 140,
           "id:3": 96,
           "sizeY:3": 24
         },
         "26:10": {
           "sizeX:3": 24,
-          "x:3": 316,
+          "x:3": 480,
           "y:3": 168,
           "id:3": 97,
           "sizeY:3": 24
         },
         "27:10": {
           "sizeX:3": 24,
-          "x:3": 444,
-          "y:3": 136,
+          "x:3": 452,
+          "y:3": 308,
           "id:3": 98,
           "sizeY:3": 24
         },
         "28:10": {
           "sizeX:3": 24,
-          "x:3": 460,
-          "y:3": 108,
+          "x:3": 192,
+          "y:3": 112,
           "id:3": 99,
           "sizeY:3": 24
         },
         "29:10": {
           "sizeX:3": 24,
-          "x:3": 476,
-          "y:3": 136,
+          "x:3": 480,
+          "y:3": 308,
           "id:3": 100,
           "sizeY:3": 24
         },
         "30:10": {
           "sizeX:3": 24,
-          "x:3": 88,
+          "x:3": 144,
           "y:3": 112,
           "id:3": 101,
           "sizeY:3": 24
         },
         "31:10": {
           "sizeX:3": 24,
-          "x:3": 72,
-          "y:3": 140,
+          "x:3": 4,
+          "y:3": 308,
           "id:3": 102,
           "sizeY:3": 24
         },
         "32:10": {
           "sizeX:3": 24,
-          "x:3": 104,
-          "y:3": 140,
+          "x:3": 32,
+          "y:3": 308,
           "id:3": 103,
           "sizeY:3": 24
         }
@@ -7920,7 +8735,7 @@
       "lineID:3": 2,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
+          "visibility:8": "UNLOCKED",
           "name:8": "Trader - Labrats",
           "icon:10": {
             "ForgeCaps:10": {
@@ -7936,7 +8751,115 @@
           "desc:8": "     The Labrat trade group consists of the most widespread of the Beastfolk races. From their roots, they\u0027ve become some of the best chemists and engineers.\n\n    [Trades in Alchemistry, Drugs and Pills, and Pneumatricraft.]"
         }
       },
-      "order:3": 2
+      "order:3": 3
+    },
+    "3:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 32,
+          "x:3": 352,
+          "y:3": 28,
+          "id:3": 104,
+          "sizeY:3": 32
+        },
+        "1:10": {
+          "sizeX:3": 12,
+          "x:3": 340,
+          "y:3": 84,
+          "id:3": 105,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 36,
+          "id:3": 106,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": 36,
+          "id:3": 107,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 32,
+          "x:3": 260,
+          "y:3": 32,
+          "id:3": 108,
+          "sizeY:3": 32
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 300,
+          "y:3": 28,
+          "id:3": 109,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 392,
+          "y:3": 32,
+          "id:3": 110,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 8,
+          "y:3": 96,
+          "id:3": 111,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 20,
+          "x:3": 8,
+          "y:3": 136,
+          "id:3": 112,
+          "sizeY:3": 20
+        },
+        "9:10": {
+          "sizeX:3": 20,
+          "x:3": 28,
+          "y:3": 136,
+          "id:3": 113,
+          "sizeY:3": 20
+        },
+        "10:10": {
+          "sizeX:3": 16,
+          "x:3": 48,
+          "y:3": 100,
+          "id:3": 114,
+          "sizeY:3": 32
+        },
+        "11:10": {
+          "sizeX:3": 20,
+          "x:3": 88,
+          "y:3": 120,
+          "id:3": 115,
+          "sizeY:3": 20
+        }
+      },
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Z\u0027s Workshop",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
+          "bg_size:3": 512,
+          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive"
+        }
+      },
+      "order:3": 1
     }
   },
   "questSettings:10": {
