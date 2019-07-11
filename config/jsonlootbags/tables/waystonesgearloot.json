@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "waystones:warp_stone",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "waystones:bound_scroll",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "waystones:return_scroll",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "waystones:waystone",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}
