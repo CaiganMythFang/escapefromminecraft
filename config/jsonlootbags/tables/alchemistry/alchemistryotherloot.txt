@@ -1,0 +1,21 @@
+#rolls: {"min": 1, "max": 2}
+alchemistry:fusion_controller:0:1-2:10
+alchemistry:electrolyzer:0:1-2:40
+alchemistry:atomizer:0:1-2:30
+alchemistry:fusion_core:0:1-2:10
+alchemistry:neon_light:0:1-2:50
+alchemistry:wet_sand:0:1-2:50
+alchemistry:helium_light:0:1-2:50
+alchemistry:argon_light:0:1-2:5
+alchemistry:krypton_light:0:1-2:50
+alchemistry:xenon_light:0:1-2:50
+alchemistry:slot_filler:0:1-2:50
+alchemistry:fission_core:0:1-2:10
+alchemistry:fission_controller:0:1-2:10
+alchemistry:fusion_casing:0:1-2:10
+alchemistry:fission_casing:0:1-2:10
+alchemistry:milk:0:1-2:10
+alchemistry:chemical_combiner:0:1-2:20
+alchemistry:liquifier:0:1-2:40
+alchemistry:evaporator:0:1-2:40
+alchemistry:chemical_dissolver:0:1-2:20
