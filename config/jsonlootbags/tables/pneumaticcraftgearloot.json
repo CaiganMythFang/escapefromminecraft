@@ -1,0 +1,1117 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:resistance2\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:healthboost\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:blindness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:hunger\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_harming\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:poison\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_poison\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_poison\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:saturation\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_invisibility\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:swiftness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_fire_resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_water_breathing\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:water_breathing\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:healing\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psishock\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_regeneration\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:regeneration\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_healing\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"toughasnails:cold_resistance_type\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:harming\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"toughasnails:long_cold_resistance_type\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"toughasnails:heat_resistance_type\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"toughasnails:long_heat_resistance_type\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_leaping\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:leaping\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_leaping\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:night_vision\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_night_vision\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:invisibility\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_swiftness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_swiftness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:slowness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_slowness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:fire_resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:waterwalk\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"techguns:radpotion\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_strength\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_swiftness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:butter\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:long_danger_sight\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psipulse_long\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:haste2\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:levitation\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:strong_haste\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:swim2\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_leaping\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:mining_fatigue\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psipulse_strong\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:bounce\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_poison\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"techguns:radresistancepotion\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:swim\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_healing\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:weakness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:magnet\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:frostwalker\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:ender\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:strong_mining_fatigue\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:long_mining_fatigue\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:long_haste\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_weakness\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"techguns:radregenerationpotion\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:slowfall\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:haste\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:luck\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:wither\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:luck\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psipulse\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:long_strength\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_regeneration\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:haste\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"treasure2:extra_strong_strength\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:long_resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psishock_long\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strong_regeneration\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"minecraft:strength\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"rpsideas:psishock_strong\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:strong_resistance\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "patchouli:guide_book",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{\"patchouli:book\":\"pneumaticcraft:book\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:butter2\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"cyclicmagic:snow\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{potion:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:potion\",Count:1,tag:{Potion:\"quark:danger_sight\"},Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:camo_applicator",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:micromissiles",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_wrench",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:remote",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:seismic_sensor",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:logistics_configurator",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:vortex_cannon",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo_ap",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:minigun",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:manometer",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo_incendiary",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gun_ammo_weighted",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gps_tool",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gps_area_tool",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:logistic_drone",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:harvesting_drone",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_leggings",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_chestplate",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_helmet",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_boots",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:amadron_tablet",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30002
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:reinforced_air_canister",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:air_canister",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30000
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:drone",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}

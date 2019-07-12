@@ -1,0 +1,547 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "pneumaticcraft:advanced_pressure_tube",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_tube",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_chamber_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_chamber_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:advanced_pcb",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_gauge_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:safety_tube_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:regulator_tube_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:charging_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:logistics_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:redstone_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:air_grate_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_chamber_interface",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pressure_chamber_valve",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:elevator_base",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:elevator_frame",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:flow_detector_module",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_program",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_program",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:security_station",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_door",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_door_base",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:pneumatic_dynamo",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:sentry_turret",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:programmable_controller",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:liquid_hopper",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:kerosene_lamp",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:universal_sensor",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:programmer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:refinery",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:vacuum_pump",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:gas_lift",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:omnidirectional_hopper",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:elevator_caller",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:charging_station",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:aphorism_tile",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:speed_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:thermopneumatic_processing_plant",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:range_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:coordinate_tracker_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:night_vision_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:scuba_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:air_conditioning_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:aerial_interface",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:air_cannon",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:search_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:uv_light_box",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:volume_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:heat_frame",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:heat_sink",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:vortex_tube",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:armor_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:charging_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:magnet_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:advanced_air_compressor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:electrostatic_compressor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:item_life_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:entity_tracker_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_drill",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:security_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:jet_boots_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:block_tracker_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:thermal_compressor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:flux_compressor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:advanced_liquid_compressor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:liquid_compressor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:air_compressor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:dispenser_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:plastic_mixer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_controller",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_laser",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_program",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_io_unit",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:assembly_platform",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}
