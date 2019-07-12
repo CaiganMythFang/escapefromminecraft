@@ -7950,6 +7950,2016 @@
           }
         }
       }
+    },
+    "116:10": {
+      "questID:3": 116,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:chemical_dissolver",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Chemical Dissolver",
+          "desc:8": "    §aChemicals, our lifeblood, yes yes. In more ways than one! Elements. The ingredients of the universe!\n\n    But how does one get them, hm? Well! Chemical Dissolver is the main mechanism!\n\n    Place appropriate items into Chemical Dissolver. Supply Power. Item dissolves over time, leaving behind Chemicals!\n\n    Where to get power? I can\u0027t help there, no. Must talk to another trader for Power Generators. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:chemical_dissolver",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "117:10": {
+      "questID:3": 117,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:evaporator",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Evaporator",
+          "desc:8": "    §aSome liquid Chemicals can be turned into solid Chemicals! Liquid to Powder!\n\n    Evaporator takes no power, just time! Can be slower if area is humid though, but still will work, yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:evaporator",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "118:10": {
+      "questID:3": 118,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:atomizer",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Atomizer",
+          "desc:8": "    §aMany time, liquid Chemicals need to be converted into elements! Must be in a beaker, yes! Or turned into their chemical equivelant!\n\n    Atomizer is machine to do this! It needs Power though, don\u0027t forget! Must talk to another Trader for that, not Labrats!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:atomizer",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "119:10": {
+      "questID:3": 119,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:liquifier",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Liquifier",
+          "desc:8": "    §aSometimes, Chemicals in beakers need to be turned back to Liquid! Iron Element into Molten Iron!\n\n    Liquifier is machine you need. Supply with Power (from another Trader), then give Chemical element, then get liquid, yes yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:liquifier",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "120:10": {
+      "questID:3": 120,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:chemical_combiner",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : Chemical Combiner",
+          "desc:8": "    §aYou have lots of Chemicals now, yes? Doing science, good good! But how to utilize Chemicals?\n\n    Can consume, yes, but that dangerous. And not as useful. Need machine instead!\n\n    Chemical Combiner machine needs power, and elements and chemicals and things, and it will do what is necessary to combine them into useable items!\n\n    Still cannot generate power, no."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:chemical_combiner",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "121:10": {
+      "questID:3": 121,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:electrolyzer",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : Electrolyzer",
+          "desc:8": "    §aSometimes, you have Chemicals that are many combined, and want them seperated. Not many, but there are some!\n\n    Electrolyzer is machine to seperate them back out. Power and Chemical compound and time and then you get seperated Chemicals!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 75,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:electrolyzer",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "122:10": {
+      "questID:3": 122,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "patchouli:guide_book",
+            "Count:3": 1,
+            "tag:10": {
+              "patchouli:book:8": "alchemistry:alchemistry_book"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Alchemistry Guidebook",
+          "desc:8": "    §aMany Chemicals we deal with, but knowledge we deal with as well! Cannot sell product to Mercenaries who don\u0027t know what to do with them, yes no?\n\n    Alchemistry Guidebook will help you on path to knowledge!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "patchouli:guide_book",
+              "Count:3": 1,
+              "tag:10": {
+                "patchouli:book:8": "alchemistry:alchemistry_book"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "123:10": {
+      "questID:3": 123,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:fission_core",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Fission Core",
+          "desc:8": "    §2Advanced Chemists can use high powered machinery to play with Chemicals!\n\n    The Fission Reactor is a big machine, takes many blocks to make! It can split Chemicals up at the atomic level, turning them into multiple other Chemicals! \n\n    It takes Power, of course!\n\n    The machine takes 3 Fission Cores! It will also take 1 Fission Controller, which we also sell! The Alchemistry Guidebook shows how to construct the machine.\n\n    The 98 Fission Casing we do not sell! You must make yourself, by using the other machines to get the resources!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:fission_core",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "124:10": {
+      "questID:3": 124,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:fission_controller",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Fission Controller",
+          "desc:8": "    §2Advanced Chemists can use high powered machinery to play with Chemicals!\n\n    The Fission Reactor is a big machine, takes many blocks to make! It can split Chemicals up at the atomic level, turning them into multiple other Chemicals! \n\n    It takes Power, of course!\n\n    The machine takes 1 Fission Controller! It will also take 3 Fission Cores, which we also sell! The Alchemistry Guidebook shows how to construct the machine.\n\n    The 98 Fission Casing we do not sell! You must make yourself, by using the other machines to get the resources, yes yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:fission_controller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "125:10": {
+      "questID:3": 125,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:fusion_controller",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Fusion Controller",
+          "desc:8": "    §2Advanced Chemists can use high powered machinery to play with Chemicals!\n\n    The Fusion Reactor is a big machine, takes many blocks to make! It can smash Chemicals together atomically to make completely different ones!\n\n    It takes Power, of course!\n\n    The machine takes 1 Fusion Controller! It will also take 3 Fusion Cores, which we also sell! The Alchemistry Guidebook shows how to construct the machine.\n\n    The 98 Fusion Casing we do not sell! You must make yourself, by using the other machines to get the resources."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:fusion_controller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "126:10": {
+      "questID:3": 126,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:fusion_core",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Fusion Core",
+          "desc:8": "    §2Advanced Chemists can use high powered machinery to play with Chemicals!\n\n    The Fusion Reactor is a big machine, takes many blocks to make! It can smash Chemicals together atomically to make completely different ones!\n\n    It takes Power, of course!\n\n    The machine takes 3 Fusion Cores! It will also take 1 Fusion Controller, which we also sell! The Alchemistry Guidebook shows how to construct the machine.\n\n    The 98 Fusion Casing we do not sell! You must make yourself, by using the other machines to get the resources."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "alchemistry:fusion_core",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "127:10": {
+      "questID:3": 127,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 54,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : Potassium Cyanide",
+          "desc:8": "    §aMixing Chemicals can lead to dangerous substances! Useful but dangerous!\n\n    Potassium Cyanide is quite poisonous if ingested, don\u0027t do it! But, many use it in making shiny jewelry!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 54
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "128:10": {
+      "questID:3": 128,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 21,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : Psylocybin",
+          "desc:8": "    §aCertain Chemicals can be extracted from certain fungus! Ones that alter brain in strange ways!\n\n    Psilocybin is one, yes yes. Psychoatric Chemical! Causes interesting brain changes, can be dangerous though!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 21
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "129:10": {
+      "questID:3": 129,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 58,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Penicilin",
+          "desc:8": "    §aBetter health through science! Penicilin was found in mold! Dangerous thing, lead to life saving thing!\n\n    Penicilin can cure effects on body! Also heal a little! Make healthier!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 58
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "130:10": {
+      "questID:3": 130,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 55,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Epinephrine",
+          "desc:8": "    §aMany times, Chemical is both good and bad!\n\n    Epinephrine enhances senses, sometimes oddly! But also sometimes used to treat heart trouble, or bleeding sometimes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 55
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "131:10": {
+      "questID:3": 131,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 59,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Caffeine",
+          "desc:8": "    §aChemicals can be quite addicting, yes yes. \n\n    Caffeine is good example! Found in many many drinks, and some foods too! If its not naturally there, you can add it, did you know that?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 59
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "132:10": {
+      "questID:3": 132,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 56,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Cocaine",
+          "desc:8": "    §aChemicals can be extremely addicting, bad Chemicals and Good Chemicals!\n\n    Cocaine is a bad one. Very addictive. Very dangerous. But at one point, it was in some soft drinks, and some medicines too!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 56
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "133:10": {
+      "questID:3": 133,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "alchemistry:compound",
+            "Count:3": 64,
+            "Damage:2": 57,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Acetylsalicylic Acid",
+          "desc:8": "    §aChemical names can get quite complex, yes no?\n\n    This name is quite a muzzle full to say, but short name is much simpler.\n\n    Asprin! Can be used to heal your wounds. Nice and effective!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "alchemistry:compound",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 57
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "134:10": {
+      "questID:3": 134,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "patchouli:guide_book",
+            "Count:3": 1,
+            "tag:10": {
+              "patchouli:book:8": "pneumaticcraft:book"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Pneumaticraft Manual",
+          "desc:8": "    §aLabrats deal not just in Chemicals, but in Engineering! We specialize in machinery that works off Air Pressure and Heat, things also involved in Chemicals!\n\n    It has been dubbed Pneumaticraft!\n\n    This book very helpful to explaining! Can be quite complex, but does not have to be!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "patchouli:guide_book",
+              "Count:3": 1,
+              "tag:10": {
+                "patchouli:book:8": "pneumaticcraft:book"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "135:10": {
+      "questID:3": 135,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:ingot_iron_compressed",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Compressed Iron (x10)",
+          "desc:8": "    §aCompressed Iron is very important in many Pneumaticraft machines! Helps to contain high pressures!\n\n    Before, you could craft by blowing it up! Does not happen now, no. We are still trying to find out why!\n\n    You can make Compressed Iron in a Pressure Chamber. But you need Compressed Iron to make the Chamber... You can see the catch here, yes?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:ingot_iron_compressed",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "136:10": {
+      "questID:3": 136,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:pneumatic_chestplate",
+            "Count:3": 1,
+            "tag:10": {
+              "volume:3": 28000,
+              "UpgradeInventory:10": {},
+              "air:3": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Pneumatic Armor",
+          "desc:8": "    §2Pneumatic armor is very good! Very useful, yes yes. Can be upgraded with modules! Engineered to be better!\n\n    Don\u0027t forget, must be pressurized to function properly!\n\n    When armor purchased from us, you choose two pieces. Choose either Boots or Helmet, then choose eithera Chestpiece or Leggings!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:pneumatic_helmet",
+              "Count:3": 1,
+              "tag:10": {
+                "volume:3": 12000,
+                "UpgradeInventory:10": {},
+                "air:3": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "pneumaticcraft:pneumatic_boots",
+              "Count:3": 1,
+              "tag:10": {
+                "volume:3": 12000,
+                "UpgradeInventory:10": {},
+                "air:3": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 1,
+          "choices:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:pneumatic_chestplate",
+              "Count:3": 1,
+              "tag:10": {
+                "volume:3": 28000,
+                "UpgradeInventory:10": {},
+                "air:3": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "pneumaticcraft:pneumatic_leggings",
+              "Count:3": 1,
+              "tag:10": {
+                "volume:3": 12000,
+                "UpgradeInventory:10": {},
+                "air:3": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "137:10": {
+      "questID:3": 137,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:amadron_tablet",
+            "Count:3": 1,
+            "tag:10": {
+              "shoppingCart:9": {}
+            },
+            "Damage:2": 30002,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Amadron Tablet",
+          "desc:8": "    §aSome Traders do not work through the Survival Guide! They are very specialized, yes! \n\n    There is a small group of Pneumaticraft Engineers who offer a delivery service. They also buy things too!\n\n    They communicate through the Amadron Tablet. It requires Pressure to use though! Be sure to read Pneumaticraft Manual for instructions!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:amadron_tablet",
+              "Count:3": 1,
+              "tag:10": {
+                "shoppingCart:9": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 30002
+            }
+          }
+        }
+      }
+    },
+    "138:10": {
+      "questID:3": 138,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:vortex_cannon",
+            "Count:3": 1,
+            "Damage:2": 30000,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Vortex Cannon",
+          "desc:8": "    §2Vortex Cannon is fun toy, also can be useful!\n\n    Need to pressurize it first, then you can use it to push creatures away, yes yes!\n\n    Can also aim at ground and launch self into air!\n\n    Must be careful, landing is dangerous if not careful!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:vortex_cannon",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 30000
+            }
+          }
+        }
+      }
+    },
+    "139:10": {
+      "questID:3": 139,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:gun_ammo",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Minigun Ammo",
+          "desc:8": "    §aMinigun is popular weapon among Caravan and Convoy guards! Minigun can be mounted to turret atop vehicle, or atop guard tower looking over a Village or Settlement!\n\n    Minigun ammo is popular too and always in demand! Not hard to make ones self, and can be found regularly when scavenging through ruins.\n\n    Normal Minigun Ammo is the most common to find and easiest to make."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:gun_ammo",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "140:10": {
+      "questID:3": 140,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:gun_ammo_incendiary",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Incendiary Minigun Ammo",
+          "desc:8": "    §aMinigun is popular weapon among Caravan and Convoy guards! Minigun can be mounted to turret atop vehicle, or atop guard tower looking over a Village or Settlement!\n\n    Minigun ammo is popular too and always in demand! Not hard to make ones self, and can be found regularly when scavenging through ruins.\n\n    Incendiary Minigun Ammo light targets on fire. Good for dealing with zombies, yes yes. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:gun_ammo_incendiary",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "141:10": {
+      "questID:3": 141,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:gun_ammo_weighted",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Weighted Minigun Ammo",
+          "desc:8": "    §aMinigun is popular weapon among Caravan and Convoy guards! Minigun can be mounted to turret atop vehicle, or atop guard tower looking over a Village or Settlement!\n\n    Minigun ammo is popular too and always in demand! Not hard to make ones self, and can be found regularly when scavenging through ruins.\n\n    Weighted Minigun Ammo is much heavier, doesn\u0027t fly as far, but packs bigger punch! "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:gun_ammo_weighted",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "142:10": {
+      "questID:3": 142,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:gun_ammo_ap",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Armor-Piercing Minigun Ammo",
+          "desc:8": "    §aMinigun is popular weapon among Caravan and Convoy guards! Minigun can be mounted to turret atop vehicle, or atop guard tower looking over a Village or Settlement!\n\n    Minigun ammo is popular too and always in demand! Not hard to make ones self, and can be found regularly when scavenging through ruins.\n\n    Armor-Piercing Minigun Ammo does more damage, and through armor especially! But lot more expensive to manufacture!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:gun_ammo_ap",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "143:10": {
+      "questID:3": 143,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:plastic",
+            "Count:3": 16,
+            "Damage:2": 11,
+            "OreDict:8": "coloredplastic"
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Colored Plastic",
+          "desc:8": "    §aPlastics are quite popular. Doesn\u0027t require as much heat as metal to work, easily recycles and reused.\n\n    We pay a bit for a pile of any color Plastic!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:plastic",
+              "Count:3": 10,
+              "OreDict:8": "coloredplastic",
+              "Damage:3": 11
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 30,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "144:10": {
+      "questID:3": 144,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "pneumaticcraft:network_component",
+            "Count:3": 16,
+            "Damage:2": 4,
+            "OreDict:8": "pneumaticnetwork"
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Security Network Nodes",
+          "desc:8": "    §aPneumaticraft has Security system to help protect your valuables! But not foolproof, can be hacked with enough time and tools!\n\n    Network node items can either help build system, or help destroy it, yes yes. Many Mercenaries and others will buy them, as some can only be found in salvage, yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "pneumaticcraft:network_component",
+              "Count:3": 8,
+              "OreDict:8": "pneumaticnetwork",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -8034,6 +10044,114 @@
       "order:3": 0
     },
     "1:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 32,
+          "x:3": 352,
+          "y:3": 28,
+          "id:3": 104,
+          "sizeY:3": 32
+        },
+        "1:10": {
+          "sizeX:3": 12,
+          "x:3": 340,
+          "y:3": 84,
+          "id:3": 105,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 36,
+          "id:3": 106,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": 36,
+          "id:3": 107,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 32,
+          "x:3": 260,
+          "y:3": 32,
+          "id:3": 108,
+          "sizeY:3": 32
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 300,
+          "y:3": 28,
+          "id:3": 109,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 392,
+          "y:3": 32,
+          "id:3": 110,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 8,
+          "y:3": 96,
+          "id:3": 111,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 20,
+          "x:3": 8,
+          "y:3": 136,
+          "id:3": 112,
+          "sizeY:3": 20
+        },
+        "9:10": {
+          "sizeX:3": 20,
+          "x:3": 28,
+          "y:3": 136,
+          "id:3": 113,
+          "sizeY:3": 20
+        },
+        "10:10": {
+          "sizeX:3": 16,
+          "x:3": 48,
+          "y:3": 100,
+          "id:3": 114,
+          "sizeY:3": 32
+        },
+        "11:10": {
+          "sizeX:3": 20,
+          "x:3": 88,
+          "y:3": 120,
+          "id:3": 115,
+          "sizeY:3": 20
+        }
+      },
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Z\u0027s Workshop",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
+          "bg_size:3": 512,
+          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive"
+        }
+      },
+      "order:3": 1
+    },
+    "2:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -8498,7 +10616,7 @@
       },
       "order:3": 2
     },
-    "2:10": {
+    "3:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -8530,14 +10648,14 @@
         },
         "4:10": {
           "sizeX:3": 24,
-          "x:3": 392,
+          "x:3": 388,
           "y:3": 112,
           "id:3": 75,
           "sizeY:3": 24
         },
         "5:10": {
           "sizeX:3": 24,
-          "x:3": 392,
+          "x:3": 388,
           "y:3": 140,
           "id:3": 76,
           "sizeY:3": 24
@@ -8607,7 +10725,7 @@
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 392,
+          "x:3": 388,
           "y:3": 168,
           "id:3": 86,
           "sizeY:3": 24
@@ -8615,28 +10733,28 @@
         "16:10": {
           "sizeX:3": 24,
           "x:3": 424,
-          "y:3": 112,
+          "y:3": 124,
           "id:3": 87,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
           "x:3": 480,
-          "y:3": 112,
+          "y:3": 124,
           "id:3": 88,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 24,
           "x:3": 424,
-          "y:3": 140,
+          "y:3": 152,
           "id:3": 89,
           "sizeY:3": 24
         },
         "19:10": {
           "sizeX:3": 24,
           "x:3": 452,
-          "y:3": 168,
+          "y:3": 180,
           "id:3": 90,
           "sizeY:3": 24
         },
@@ -8649,43 +10767,43 @@
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 168,
+          "x:3": 388,
+          "y:3": 196,
           "id:3": 92,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
           "x:3": 424,
-          "y:3": 168,
+          "y:3": 180,
           "id:3": 93,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
           "x:3": 452,
-          "y:3": 112,
+          "y:3": 124,
           "id:3": 94,
           "sizeY:3": 24
         },
         "24:10": {
           "sizeX:3": 24,
           "x:3": 452,
-          "y:3": 140,
+          "y:3": 152,
           "id:3": 95,
           "sizeY:3": 24
         },
         "25:10": {
           "sizeX:3": 24,
           "x:3": 480,
-          "y:3": 140,
+          "y:3": 152,
           "id:3": 96,
           "sizeY:3": 24
         },
         "26:10": {
           "sizeX:3": 24,
           "x:3": 480,
-          "y:3": 168,
+          "y:3": 180,
           "id:3": 97,
           "sizeY:3": 24
         },
@@ -8730,6 +10848,209 @@
           "y:3": 308,
           "id:3": 103,
           "sizeY:3": 24
+        },
+        "33:10": {
+          "sizeX:3": 24,
+          "x:3": 264,
+          "y:3": 112,
+          "id:3": 116,
+          "sizeY:3": 24
+        },
+        "34:10": {
+          "sizeX:3": 24,
+          "x:3": 292,
+          "y:3": 112,
+          "id:3": 117,
+          "sizeY:3": 24
+        },
+        "35:10": {
+          "sizeX:3": 24,
+          "x:3": 264,
+          "y:3": 140,
+          "id:3": 118,
+          "sizeY:3": 24
+        },
+        "36:10": {
+          "sizeX:3": 24,
+          "x:3": 292,
+          "y:3": 140,
+          "id:3": 119,
+          "sizeY:3": 24
+        },
+        "37:10": {
+          "sizeX:3": 24,
+          "x:3": 264,
+          "y:3": 168,
+          "id:3": 120,
+          "sizeY:3": 24
+        },
+        "38:10": {
+          "sizeX:3": 24,
+          "x:3": 292,
+          "y:3": 168,
+          "id:3": 121,
+          "sizeY:3": 24
+        },
+        "39:10": {
+          "sizeX:3": 24,
+          "x:3": 232,
+          "y:3": 112,
+          "id:3": 122,
+          "sizeY:3": 24
+        },
+        "40:10": {
+          "sizeX:3": 24,
+          "x:3": 348,
+          "y:3": 124,
+          "id:3": 123,
+          "sizeY:3": 24
+        },
+        "41:10": {
+          "sizeX:3": 24,
+          "x:3": 320,
+          "y:3": 124,
+          "id:3": 124,
+          "sizeY:3": 24
+        },
+        "42:10": {
+          "sizeX:3": 24,
+          "x:3": 320,
+          "y:3": 156,
+          "id:3": 125,
+          "sizeY:3": 24
+        },
+        "43:10": {
+          "sizeX:3": 24,
+          "x:3": 348,
+          "y:3": 156,
+          "id:3": 126,
+          "sizeY:3": 24
+        },
+        "44:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 144,
+          "id:3": 127,
+          "sizeY:3": 24
+        },
+        "45:10": {
+          "sizeX:3": 24,
+          "x:3": 120,
+          "y:3": 144,
+          "id:3": 128,
+          "sizeY:3": 24
+        },
+        "46:10": {
+          "sizeX:3": 24,
+          "x:3": 104,
+          "y:3": 180,
+          "id:3": 129,
+          "sizeY:3": 24
+        },
+        "47:10": {
+          "sizeX:3": 24,
+          "x:3": 80,
+          "y:3": 208,
+          "id:3": 130,
+          "sizeY:3": 24
+        },
+        "48:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 236,
+          "id:3": 131,
+          "sizeY:3": 24
+        },
+        "49:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 236,
+          "id:3": 132,
+          "sizeY:3": 24
+        },
+        "50:10": {
+          "sizeX:3": 24,
+          "x:3": 124,
+          "y:3": 208,
+          "id:3": 133,
+          "sizeY:3": 24
+        },
+        "51:10": {
+          "sizeX:3": 24,
+          "x:3": 232,
+          "y:3": 224,
+          "id:3": 134,
+          "sizeY:3": 24
+        },
+        "52:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 224,
+          "id:3": 135,
+          "sizeY:3": 24
+        },
+        "53:10": {
+          "sizeX:3": 24,
+          "x:3": 232,
+          "y:3": 252,
+          "id:3": 136,
+          "sizeY:3": 24
+        },
+        "54:10": {
+          "sizeX:3": 24,
+          "x:3": 260,
+          "y:3": 224,
+          "id:3": 137,
+          "sizeY:3": 24
+        },
+        "55:10": {
+          "sizeX:3": 24,
+          "x:3": 260,
+          "y:3": 252,
+          "id:3": 138,
+          "sizeY:3": 24
+        },
+        "56:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 216,
+          "id:3": 139,
+          "sizeY:3": 24
+        },
+        "57:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 216,
+          "id:3": 140,
+          "sizeY:3": 24
+        },
+        "58:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 244,
+          "id:3": 141,
+          "sizeY:3": 24
+        },
+        "59:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 244,
+          "id:3": 142,
+          "sizeY:3": 24
+        },
+        "60:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 180,
+          "id:3": 143,
+          "sizeY:3": 24
+        },
+        "61:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 180,
+          "id:3": 144,
+          "sizeY:3": 24
         }
       },
       "lineID:3": 2,
@@ -8753,98 +11074,13 @@
       },
       "order:3": 3
     },
-    "3:10": {
-      "quests:9": {
-        "0:10": {
-          "sizeX:3": 32,
-          "x:3": 352,
-          "y:3": 28,
-          "id:3": 104,
-          "sizeY:3": 32
-        },
-        "1:10": {
-          "sizeX:3": 12,
-          "x:3": 340,
-          "y:3": 84,
-          "id:3": 105,
-          "sizeY:3": 8
-        },
-        "2:10": {
-          "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 36,
-          "id:3": 106,
-          "sizeY:3": 24
-        },
-        "3:10": {
-          "sizeX:3": 24,
-          "x:3": 228,
-          "y:3": 36,
-          "id:3": 107,
-          "sizeY:3": 24
-        },
-        "4:10": {
-          "sizeX:3": 32,
-          "x:3": 260,
-          "y:3": 32,
-          "id:3": 108,
-          "sizeY:3": 32
-        },
-        "5:10": {
-          "sizeX:3": 40,
-          "x:3": 300,
-          "y:3": 28,
-          "id:3": 109,
-          "sizeY:3": 40
-        },
-        "6:10": {
-          "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 32,
-          "id:3": 110,
-          "sizeY:3": 24
-        },
-        "7:10": {
-          "sizeX:3": 40,
-          "x:3": 8,
-          "y:3": 96,
-          "id:3": 111,
-          "sizeY:3": 40
-        },
-        "8:10": {
-          "sizeX:3": 20,
-          "x:3": 8,
-          "y:3": 136,
-          "id:3": 112,
-          "sizeY:3": 20
-        },
-        "9:10": {
-          "sizeX:3": 20,
-          "x:3": 28,
-          "y:3": 136,
-          "id:3": 113,
-          "sizeY:3": 20
-        },
-        "10:10": {
-          "sizeX:3": 16,
-          "x:3": 48,
-          "y:3": 100,
-          "id:3": 114,
-          "sizeY:3": 32
-        },
-        "11:10": {
-          "sizeX:3": 20,
-          "x:3": 88,
-          "y:3": 120,
-          "id:3": 115,
-          "sizeY:3": 20
-        }
-      },
-      "lineID:3": 3,
+    "4:10": {
+      "quests:9": {},
+      "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "UNLOCKED",
-          "name:8": "Z\u0027s Workshop",
+          "visibility:8": "NORMAL",
+          "name:8": "New Quest Line",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
@@ -8854,12 +11090,12 @@
             "Damage:2": 0,
             "OreDict:8": ""
           },
-          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
-          "bg_size:3": 512,
-          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive"
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
         }
       },
-      "order:3": 1
+      "order:3": 4
     }
   },
   "questSettings:10": {
