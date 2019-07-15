@@ -1,0 +1,17 @@
+
+background = addStretchedTexture("top_left", "betterquesting:textures/gui/bg.png")
+background.setRelRender(1, 1)
+
+tips = addRandomText("center")
+tips.setAbsXOffset(100)
+tips.setAbsYOffset(20)
+tips.addTip("Scav Raiders are usually hostile to everyone.")
+tips.addTip("Insure items if you don't want to lose them.")
+tips.addTip("Your Secure Container only works in your main inventory.")
+tips.addTip("The Wither and Ender Dragon get harder after every death.")
+tips.addTip("Almost every item can be sold on the Flea Market machine.")
+tips.addTip("Items tagged Tradeable are sought after by Traders.")
+tips.addTip("Insurance on an item has a chance to lapse after every death.")
+tips.addTip("Unsearched Gear can be almost any item in the modpack.")
+tips.addTip("There is almost no Ore underground. There are other things to find, though.")
+tips.addTip("Your Grave Key doesn't show your death location, but will make it glow when close.")
