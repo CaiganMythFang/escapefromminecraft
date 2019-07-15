@@ -16,7 +16,7 @@ val recdrug = [
 <dap:magicmushroom>, <dap:joint>, <dap:thccookie>
 ] as IItemStack[];
 for item in recdrug {
-<ore:lootbags>.add(item);
+<ore:recdrug>.add(item);
 }
 
 val colorplastic = [
@@ -38,3 +38,11 @@ val armorplustrophy = [
 ] as IItemStack[];
 for item in armorplustrophy {
 <ore:armorplustrophy>.add(item);
+}
+
+val armorplusultimatepieces = [
+<armorplus:the_ultimate_part:1>, <armorplus:the_ultimate_part>, <armorplus:the_ultimate_part:2>, <armorplus:the_ultimate_part:5>, <armorplus:the_ultimate_part:4>, <armorplus:the_ultimate_part:3>, <armorplus:the_ultimate_part:6>, <armorplus:the_ultimate_part:7>, <armorplus:the_ultimate_part:8>, <armorplus:the_ultimate_part:11>, <armorplus:the_ultimate_part:10>, <armorplus:the_ultimate_part:9>
+] as IItemStack[];
+for item in armorplusultimatepieces {
+<ore:armorplusultimatepieces>.add(item);e
+}
