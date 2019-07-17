@@ -1,0 +1,807 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "armorplus:black_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:purple_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:blue_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:green_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:purple_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:yellow_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_nether_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_cactus",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:red_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:black_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:red_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:white_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:purple_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:black_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:blue_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:green_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:blue_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:red_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:green_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:yellow_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:white_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:red_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:white_stone_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:white_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:yellow_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:purple_stone_brick_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:green_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:black_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:blue_stone_brick_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:yellow_stone_brick_tower",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_infused_obsidian",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:book",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_infuser",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:workbench",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:high_tech_bench",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ulti_tech_bench",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:champion_bench",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "armorplus:creeper_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:wolf_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:polar_bear_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:parrot_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:enderman_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:husk_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ghast_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:vindicator_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:skeleton_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:vex_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:silverfish_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:magma_cube_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:wither_boss_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:elder_guardian_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:skeletal_king_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:endermite_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:stray_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:evoker_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:witch_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:zombie_villager_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:zombie_pigman_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:wither_skeleton_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:slime_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_lord_of_everything_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:demonic_dragon_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_overlord_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:blaze_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:spider_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cave_spider_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ocelot_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:bat_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:rabbit_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:horse_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cow_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:shulker_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:zombie_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chicken_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:pig_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:sheep_trophy",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_part",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "armorplus:chicken_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chicken_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chicken_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chicken_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_battle_axe",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_pickaxe",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_bow",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:slime_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:slime_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:slime_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:slime_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_chestplate",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_helmet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_leggings",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_leggings",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_chestplate",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_helmet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_battle_axe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:gold_leggings",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:gold_chestplate",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:gold_helmet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:gold_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_bow",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_sword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_bow",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_sword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_battle_axe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ardite_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ardite_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ardite_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ardite_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cobalt_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cobalt_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cobalt_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:cobalt_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:pig_iron_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:pig_iron_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:pig_iron_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:pig_iron_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:knight_slime_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:knight_slime_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:knight_slime_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:knight_slime_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:iron_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:iron_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:iron_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:iron_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chainmail_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chainmail_chestplate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chainmail_leggings",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:chainmail_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_sword",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_bow",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_sword",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_pickaxe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_pickaxe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_pickaxe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_battle_axe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_bow",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_battle_axe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_bow",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_pickaxe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_battle_axe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_sword",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_pickaxe",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_sword",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "armorplus:manyullyn_helmet",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:manyullyn_chestplate",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:manyullyn_leggings",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:manyullyn_boots",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:diamond_helmet",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:diamond_chestplate",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:diamond_leggings",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:diamond_boots",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_helmet",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_chestplate",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_leggings",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_boots",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_sword",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_pickaxe",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_bow",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_battle_axe",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_leggings",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_boots",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_helmet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_battle_axe",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_bow",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_sword",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_chestplate",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_battle_axe",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_bow",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_helmet",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_boots",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_sword",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_pickaxe",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_leggings",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_chestplate",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_helmet",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_leggings",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_pickaxe",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_ultimate_boots",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_apple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_apple",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_arrow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_arrow",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_arrow",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_arrow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_arrow",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:the_gift_of_the_gods",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}
