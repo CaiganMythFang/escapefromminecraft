@@ -1,0 +1,16 @@
+{
+  "comment": "Various default values for OreDictionary names, from vanilla and other mods",
+  "comment_1": "This file is only shown as an example, it will be regenerated every time mapping occurs in order to let us",
+  "comment_2": "change default values. To specify your own custom values use a separate JSON or the /projecte commands ingame",
+  "values": {
+    "before": {
+      "OD|glowstone": 1536,
+      "OD|ingotElectrical": 1856,
+      "OD|obsidian": 64,
+      "OD|blockLapis": 7776,
+      "OD|blockCoal": 1152,
+      "OD|blockRedstone": 576,
+      "OD|ingotSteel": 256
+    }
+  }
+}
