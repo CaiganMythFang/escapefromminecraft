@@ -59,6 +59,7 @@ val loottrade = [
 <rats:rat_pelt>, <rats:raw_rat>, <rats:rat_upgrade_basic>
 ] as IItemStack[];
 for item in loottrade {
+    recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
     <ore:fleamarketable>.add(item);
 }

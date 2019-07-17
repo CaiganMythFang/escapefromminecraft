@@ -59,6 +59,7 @@ val loottrade = [
 <minecraft:record_ward>, <minecraft:record_mellohi>, <minecraft:record_strad>, <minecraft:record_stal>, <minecraft:record_13>, <minecraft:record_cat>, <minecraft:record_blocks>, <minecraft:record_11>, <minecraft:record_wait>, <minecraft:record_chirp>, <minecraft:record_far>, <minecraft:record_mall>
 ] as IItemStack[];
 for item in loottrade {
+    recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
     <ore:fleamarketable>.add(item);
 }
