@@ -11,6 +11,290 @@
     {
       "item": "minecraft:bread|0",
       "emc": 50
+    },
+    {
+      "item": "alchemistry:electrolyzer|0",
+      "emc": 7668
+    },
+    {
+      "item": "alchemistry:chemical_combiner|0",
+      "emc": 10292
+    },
+    {
+      "item": "pneumaticcraft:ingot_iron_compressed|0",
+      "emc": 256
+    },
+    {
+      "item": "armorplus:lava_crystal|0",
+      "emc": 1250
+    },
+    {
+      "item": "armorplus:lava_crystal|1",
+      "emc": 2500
+    },
+    {
+      "item": "armorplus:compressed_obsidian|0",
+      "emc": 576
+    },
+    {
+      "item": "armorplus:material|4",
+      "emc": 16500
+    },
+    {
+      "item": "armorplus:material|3",
+      "emc": 8000
+    },
+    {
+      "item": "armorplus:material|2",
+      "emc": 2000
+    },
+    {
+      "item": "armorplus:material|1",
+      "emc": 2000
+    },
+    {
+      "item": "armorplus:guardian_helmet|0",
+      "emc": 30336
+    },
+    {
+      "item": "armorplus:the_ultimate_part|0",
+      "emc": 462128
+    },
+    {
+      "item": "armorplus:ender_dragon_helmet|0",
+      "emc": 104000
+    },
+    {
+      "item": "armorplus:the_ultimate_part|1",
+      "emc": 564000
+    },
+    {
+      "item": "armorplus:super_star_helmet|0",
+      "emc": 712420
+    },
+    {
+      "item": "armorplus:the_ultimate_part|2",
+      "emc": 1142520
+    },
+    {
+      "item": "armorplus:the_ultimate_helmet|0",
+      "emc": 2631748
+    },
+    {
+      "item": "armorplus:guardian_chestplate|0",
+      "emc": 62528
+    },
+    {
+      "item": "armorplus:the_ultimate_part|3",
+      "emc": 494320
+    },
+    {
+      "item": "armorplus:ender_dragon_chestplate|0",
+      "emc": 192000
+    },
+    {
+      "item": "armorplus:the_ultimate_part|4",
+      "emc": 652000
+    },
+    {
+      "item": "armorplus:super_star_chestplate|0",
+      "emc": 1428640
+    },
+    {
+      "item": "armorplus:the_ultimate_part|5",
+      "emc": 1858740
+    },
+    {
+      "item": "armorplus:the_ultimate_chestplate|0",
+      "emc": 3435160
+    },
+    {
+      "item": "armorplus:guardian_leggings|0",
+      "emc": 41776
+    },
+    {
+      "item": "armorplus:the_ultimate_part|6",
+      "emc": 473568
+    },
+    {
+      "item": "armorplus:ender_dragon_leggings|0",
+      "emc": 178000
+    },
+    {
+      "item": "armorplus:the_ultimate_part|7",
+      "emc": 638000
+    },
+    {
+      "item": "armorplus:super_star_leggings|0",
+      "emc": 999198
+    },
+    {
+      "item": "armorplus:the_ultimate_part|8",
+      "emc": 1429398
+    },
+    {
+      "item": "armorplus:the_ultimate_leggings|0",
+      "emc": 2540966
+    },
+    {
+      "item": "armorplus:guardian_boots|0",
+      "emc": 12256
+    },
+    {
+      "item": "armorplus:the_ultimate_part|9",
+      "emc": 444048
+    },
+    {
+      "item": "armorplus:ender_dragon_boots|0",
+      "emc": 48000
+    },
+    {
+      "item": "armorplus:the_ultimate_part|10",
+      "emc": 506000
+    },
+    {
+      "item": "armorplus:super_star_boots|0",
+      "emc": 286628
+    },
+    {
+      "item": "armorplus:the_ultimate_part|11",
+      "emc": 716828
+    },
+    {
+      "item": "armorplus:the_ultimate_boots|0",
+      "emc": 1666876
+    },
+    {
+      "item": "armorplus:lapis_arrow|0",
+      "emc": 31100
+    },
+    {
+      "item": "armorplus:coal_arrow|0",
+      "emc": 36864
+    },
+    {
+      "item": "armorplus:redstone_arrow|0",
+      "emc": 2304
+    },
+    {
+      "item": "armorplus:infused_lava_arrow|0",
+      "emc": 10000
+    },
+    {
+      "item": "armorplus:ender_dragon_arrow|0",
+      "emc": 11000
+    },
+    {
+      "item": "techguns:itemshared|46",
+      "emc": 256
+    },
+    {
+      "item": "techguns:itemshared|4",
+      "emc": 250
+    },
+    {
+      "item": "techguns:itemshared|3",
+      "emc": 125
+    },
+    {
+      "item": "techguns:itemshared|2",
+      "emc": 100
+    },
+    {
+      "item": "techguns:itemshared|1",
+      "emc": 100
+    },
+    {
+      "item": "techguns:itemshared|97",
+      "emc": 4500
+    },
+    {
+      "item": "techguns:itemshared|98",
+      "emc": 5000
+    },
+    {
+      "item": "techguns:itemshared|95",
+      "emc": 32
+    },
+    {
+      "item": "techguns:itemshared|96",
+      "emc": 32
+    },
+    {
+      "item": "techguns:itemshared|75",
+      "emc": 1056
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "techguns:itemshared|64",
+      "emc": 4480
+    },
+    {
+      "item": "techguns:itemshared|76",
+      "emc": 12
+    },
+    {
+      "item": "techguns:itemshared|77",
+      "emc": 76
+    },
+    {
+      "item": "techguns:itemshared|57",
+      "emc": 256
+    },
+    {
+      "item": "techguns:itemshared|47",
+      "emc": 128
+    },
+    {
+      "item": "techguns:itemshared|62",
+      "emc": 32
+    },
+    {
+      "item": "techguns:itemshared|63",
+      "emc": 2048
+    },
+    {
+      "item": "techguns:itemshared|54",
+      "emc": 512
+    },
+    {
+      "item": "techguns:itemshared|53",
+      "emc": 4480
+    },
+    {
+      "item": "techguns:itemshared|52",
+      "emc": 512
+    },
+    {
+      "item": "techguns:itemshared|48",
+      "emc": 256
+    },
+    {
+      "item": "techguns:itemshared|49",
+      "emc": 160
+    },
+    {
+      "item": "techguns:itemshared|50",
+      "emc": 256
+    },
+    {
+      "item": "techguns:itemshared|51",
+      "emc": 320
+    },
+    {
+      "item": "techguns:itemshared|58",
+      "emc": 576
+    },
+    {
+      "item": "techguns:itemshared|59",
+      "emc": 3008
+    },
+    {
+      "item": "techguns:itemshared|45",
+      "emc": 416
     }
   ]
 }

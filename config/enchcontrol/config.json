@@ -17,7 +17,7 @@
     "creative_tab_level_cap": 10
   },
   "description": {
-    "enabled": true,
+    "enabled": false,
     "show_hint": true,
     "location": 0,
     "separator": "---",
@@ -26,7 +26,7 @@
     "show_domain": true
   },
   "mod_support": {
-    "load_enchantment_descriptions_desc": true,
+    "load_enchantment_descriptions_desc": false,
     "upload_desc_to_enchantment_descriptions": false,
     "thermal_expansion": true
   }

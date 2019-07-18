@@ -3,8 +3,8 @@ background = addStretchedTexture("top_left", "betterquesting:textures/gui/bg.png
 background.setRelRender(1, 1)
 
 tips = addRandomText("center")
-tips.setAbsXOffset(100)
-tips.setAbsYOffset(20)
+tips.setAbsXOffset(82)
+tips.setAbsYOffset(30)
 tips.addTip("Scav Raiders are usually hostile to everyone.")
 tips.addTip("Insure items if you don't want to lose them.")
 tips.addTip("Your Secure Container only works in your main inventory.")

@@ -600,6 +600,9 @@ quark:entity.frog.die
 quark:entity.frog.idle
 quark:entity.frog.jump
 quark:entity.pickarang.throw
+quark:entity.pickarang.clank
+quark:entity.pickarang.pickup
+quark:item.horse_whistle.blow
 psi:bullet_create
 psi:cad_create
 psi:cad_shoot
@@ -728,12 +731,12 @@ rats:rat_dig
 rats:rat_plague
 rats:rat_flute
 rats:piper_loop
+rftools:teleport_whoosh
+rftools:teleport_error
 rftools:elevator_start
 rftools:elevator_loop
 rftools:elevator_stop
 rftools:scan
-rftools:teleport_whoosh
-rftools:teleport_error
 statues:copy
 statues:paint
 techguns:guns.assaultriflefire
