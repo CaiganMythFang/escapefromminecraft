@@ -53,3 +53,10 @@ val techgunparts = [
 for item in techgunparts {
 <ore:techgunparts>.add(item);
 }
+
+val techgunpowmachine = [
+<techguns:basicmachine:2>, <techguns:basicmachine:1>, <techguns:simplemachine:10>, <techguns:basicmachine:3>
+] as IItemStack[];
+for item in techgunpowmachine {
+<ore:techgunpowmachine>.add(item);
+}
