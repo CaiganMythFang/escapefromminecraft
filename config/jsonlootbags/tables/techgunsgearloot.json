@@ -1,0 +1,1818 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 29
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 21
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 27
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 22
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 24
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 16
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 28
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 23
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 31
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 19
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 17
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 25
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 26
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 18
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 20
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 108
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 110
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 111
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 76
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:explosive_charge",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:explosive_charge",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:fraggrenade",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:stielgranate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 109
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 106
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 107
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 127
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 112
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 113
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 114
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 115
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 116
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 126
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 125
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:radpills",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:radaway",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 32
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 93
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:scubatanks",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_beret",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 132
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:pistol",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:18s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:mac10",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:32s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:handcannon",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:1s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:revolver",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:6s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_miner_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_miner_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_scout_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_scout_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_scout_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_scout_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:crowbar",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:combatknife",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 89
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_miner_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:hazmat_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:hazmat_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:hazmat_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:hazmat_helmet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_miner_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "techguns:blasterrifle",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:50s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:vector",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:25s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:combatshotgun",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:8s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:sawedoff",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:2s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:goldenrevolver",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:6s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:thompson",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:20s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:scar",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:20s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:nightvisiongoggles",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_combat_helmet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_combat_chestplate",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:gasmask",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:tacticalmask",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_combat_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:glider",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_combat_leggings",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_combat_chestplate",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_combat_helmet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_combat_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:t1_combat_leggings",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "techguns:m4",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:30s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:ak47",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:30s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:aug",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:30s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:pdw",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:40s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:m4_infiltrator",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:30s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:miningdrill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:300s,ammovariant:\"default\",miningHead:1,camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:powerhammer",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:300s,ammovariant:\"default\",miningHead:0,camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:miningdrill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:300s,ammovariant:\"default\",miningHead:0,camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:chainsaw",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:300s,ammovariant:\"default\",miningHead:0,camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:boltaction",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:6s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:alienblaster",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:10s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:lmg",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:100s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:steam_boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:steam_leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:steam_chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:steam_helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_riot_boots",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:jumppack",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:jetpack",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_riot_leggings",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_riot_chestplate",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_riot_helmet",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_commando_boots",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_commando_leggings",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_commando_chestplate",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:t2_commando_helmet",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "techguns:mibgun",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:20s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:minigun",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:200s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:teslagun",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:25s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:pulserifle",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:12s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:grenadelauncher",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:6s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:rocketlauncher",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:1s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:guidedmissilelauncher",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:1s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:biogun",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:30s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_exo_boots",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_exo_leggings",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_exo_chestplate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_exo_helmet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_combat_boots",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_combat_leggings",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_combat_chestplate",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_combat_helmet",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "techguns:lasergun",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:45s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:gaussrifle",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:8s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:tfg",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:20s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:nucleardeathray",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:40s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:scatterbeamrifle",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:40s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:as50",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:10s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:netherblaster",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:10s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:flamethrower",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:100s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:sonicshotgun",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:8s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:grimreaper",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ammo:4s,ammovariant:\"default\",camo:0b}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:antigravpack",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_power_chestplate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_miner_boots",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_miner_leggings",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_miner_chestplate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_miner_helmet",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_power_boots",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_power_leggings",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:t3_power_helmet",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{power:0}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "patchouli:guide_book",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{\"patchouli:book\":\"techguns:techguns_manual\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
