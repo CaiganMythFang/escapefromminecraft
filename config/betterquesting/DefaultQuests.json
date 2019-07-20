@@ -21717,6 +21717,1380 @@
           }
         }
       }
+    },
+    "295:10": {
+      "questID:3": 295,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The YAP - Rank I",
+          "desc:8": "    §2Bandit, we\u0027ve been contacted by a group that calls themselves The YAP. Yes, I know, I thought so too. I\u0027ve looked into them and they are... legitimate, in a way. They are an approved Trader group, at least.\n\n    According to the VanilModu they are thieves, but honorable ones. And with a good fashion sense. They are primarily interested in clothing and goods from a wide variety of sources\n\n    I\u0027ll patch you in to their representative : §r\n\n§b-------------------\n    Yo. Bandit, was it? Or merc? Nah I like Bandit, it\u0027s a good name, yeh! New mercs are always nice, especially interesting ones. Very interesting ones. Nah that\u0027s not important right now, but you are probably wondering about us, yeh? Well...\n\n    Having trouble getting somewhere? The YAP can help you; worldwide. Got some odd salvage? The YAP can buy it; certified. Need to look good in this wasteland? The YAP can dress you; verified.\n\n    A lot of this world is abandoned and full of rough and tumble scavs. Lots to explore, lots to loot. And lots of ways to make a fashion statement.\n-------------------§r\n\n    §oHmm, not the first time I\u0027ve had to work with seedier individuals. Something tells me they are on the up and up, as long as I\u0027m not a scav..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "296:10": {
+      "questID:3": 296,
+      "preRequisites:11": [
+        295
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "The YAP Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "297:10": {
+      "questID:3": 297,
+      "preRequisites:11": [
+        296
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:red_heart",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : Red Heart",
+          "desc:8": "    §bSometimes when you beat a scav at their own game, their magic life essence hits the ground. Looks like a video game heart! In that state, you can\u0027t really do anything with it though.\n\n    I mean, other than sell it to us, yeh! We know how to turn them into useful accessories.\n\n    The Red Heart is the most common you can find, so they won\u0027t get you much. Better than the Flea Market though!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:red_heart",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "298:10": {
+      "questID:3": 298,
+      "preRequisites:11": [
+        296
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:red_heart_canister",
+            "Count:3": 10,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Heart Cannister - Red",
+          "desc:8": "    §bWhat a rough world it is, Bandit. Quite rough. Hazardous, even, yeh. Armor\u0027s a good way to protect yourself, but it can slow you down. And there\u0027s things, both creatures and weapons, that can slice through armor like butter. And armor, even sealed power armor, is no good against certain magic.\n\n    What\u0027s a mercenary to do, hm? Well, The YAP has a solution for you. It\u0027s called Baubley Heart Canisters.\n\n    Sometimes the magic force of a creature flutters to the ground. Their heart? Nah, just a bit of magic shaped like a heart. Looks like a video game heart, if you\u0027ve come across any working game system these days.\n\n    Anyways, we in The YAP know how to turn these into nice little accessories to increase your health. Each one stacks up to 10 in one of your Bauble accessory slots (see that little circle in your Inventory portrait? click it!).\n\n    There\u0027s four colors of Heart Canister, each one rarer than the last.\n\n    Red is the most common, and therefore the cheapest!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bhc:red_heart_canister",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "299:10": {
+      "questID:3": 299,
+      "preRequisites:11": [
+        295
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The YAP - Rank I",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "300:10": {
+      "questID:3": 300,
+      "preRequisites:11": [
+        299
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 3,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The YAP - Rank I",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "301:10": {
+      "questID:3": 301,
+      "preRequisites:11": [
+        300
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 4,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The YAP - Rank I",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "302:10": {
+      "questID:3": 302,
+      "preRequisites:11": [
+        301
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The YAP - Rank I",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "303:10": {
+      "questID:3": 303,
+      "preRequisites:11": [
+        299
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "The YAP Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "304:10": {
+      "questID:3": 304,
+      "preRequisites:11": [
+        300
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "The YAP Rank III Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "305:10": {
+      "questID:3": 305,
+      "preRequisites:11": [
+        301
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "The YAP Rank IV Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "306:10": {
+      "questID:3": 306,
+      "preRequisites:11": [
+        302
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "The YAP Rank V Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "307:10": {
+      "questID:3": 307,
+      "preRequisites:11": [
+        296
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:canister",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : Empty Canister",
+          "desc:8": "    §bBandit, if you ever come across one of these empty heart canisters, we\u0027ll buy em. The YAP members sometimes fall in battle and their goods looted, and empty canisters are commonly amongst their belongings."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:canister",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "308:10": {
+      "questID:3": 308,
+      "preRequisites:11": [
+        303
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:orange_heart_canister",
+            "Count:3": 10,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Heart Cannister - Orange",
+          "desc:8": "    §bTougher creatures have bigger life forces. Takes a lot to take them down, and their life magic is likewise bigger, and harder to contain.\n\n    There\u0027s four colors of Heart Canister, each one rarer than the last.\n\n    Orange is the next step up from Red."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 350,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bhc:orange_heart_canister",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "309:10": {
+      "questID:3": 309,
+      "preRequisites:11": [
+        303
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:orange_heart",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Orange Heart",
+          "desc:8": "    §bHave you faced down The Wither yet? Maybe some other imposingly dangerous monster? Betcha the life heart they dropped was Orange instead of Red!\n\n    Heart Canisters can only stack up to 10, but more powerful hearts mean more powerful life forces means BIGGER STACKS, Bandit!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:orange_heart",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 60,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "310:10": {
+      "questID:3": 310,
+      "preRequisites:11": [
+        304
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:green_heart_canister",
+            "Count:3": 10,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : Heart Cannister - Green",
+          "desc:8": "    §bVery few creatures have the life force to overcome the Orange Heart Barrier. \n\n    But there is one, hovering around The End. The YAP knows how to contain that life force for a price.\n\n    There\u0027s four colors of Heart Canister, each one rarer than the last.\n\n    Green hearts are the second rarest heart canister."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 875,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bhc:green_heart_canister",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "311:10": {
+      "questID:3": 311,
+      "preRequisites:11": [
+        304
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:green_heart",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Green Heart",
+          "desc:8": "    §bSquared off against the Ender Dragon have you? Got a nice green heart? Yeah I know it should probably be red or orange for fire...or maybe purple. But it\u0027s green, and its worth a lot to us!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:green_heart",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "312:10": {
+      "questID:3": 312,
+      "preRequisites:11": [
+        305
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:blue_heart_canister",
+            "Count:3": 10,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Heart Cannister - Blue",
+          "desc:8": "    §bSometimes, it isn\u0027t about how strong your own life force is, but how much you can steal from others.\n\n    Tales tell of an evil Illager deep in the woods who carries the blue heart. We\u0027ve come across a few blue hearts in our trades, and The YAP has wares to sell, of course.\n\n    There\u0027s four colors of Heart Canister, each one rarer than the last.\n\n    Blue is the rarest heart to find."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1500,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bhc:blue_heart_canister",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "313:10": {
+      "questID:3": 313,
+      "preRequisites:11": [
+        305
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:blue_heart",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Buying : Blue Heart",
+          "desc:8": "    §bTrapse off into the woods, Bandit. Find a spooky mansion, maybe bring a dog along and a weird guy in an ascot as well. Unmask the... oh wait, it\u0027s not a mask, its an evil Illager! And he\u0027s stolen a lot of life essence.\n\n    If you are lucky, the Illager might have dropped a Blue Heart, the gathered life force. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:blue_heart",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 200,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "314:10": {
+      "questID:3": 314,
+      "preRequisites:11": [
+        306
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:heart_amulet",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[V] Selling : Heart Amulet",
+          "desc:8": "    §bFinding other things you want to accessorise yourself with, but finding Heart Canisters too valuable?\n\n    The YAP has a solution! The Heart Amulet can carry all four types of Heart Canisters, and only take one Bauble slot!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 3000,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bhc:heart_amulet",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "315:10": {
+      "questID:3": 315,
+      "preRequisites:11": [
+        303
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:wither_bone",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Buying : Wither Bones",
+          "desc:8": "    §bThe burned skeletons in The Nether are special, sought after by multiple Traders, including ourselves! They are part of the secret of unlocking the Heart Canister!\n\n    They drop multiple kinds of bones. Others Traders are interested in other bones, but The YAP is interested in Wither Bones!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:wither_bone",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "316:10": {
+      "questID:3": 316,
+      "preRequisites:11": [
+        296
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bhc:relic_apple",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : Jewel Apple",
+          "desc:8": "    §bIt is a long shot, but if you come across one of these Jewel Apples, Bandit, we\u0027ll buy em from you. Why? Oh, quite a delicacy, and something quite special."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bhc:relic_apple",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 30,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -23887,7 +25261,7 @@
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
+          "visibility:8": "UNLOCKED",
           "name:8": "Trader - The Flock",
           "icon:10": {
             "ForgeCaps:10": {
@@ -23904,6 +25278,184 @@
         }
       },
       "order:3": 4
+    },
+    "5:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 40,
+          "x:3": 200,
+          "y:3": 32,
+          "id:3": 295,
+          "sizeY:3": 40
+        },
+        "1:10": {
+          "sizeX:3": 8,
+          "x:3": 180,
+          "y:3": 100,
+          "id:3": 296,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 96,
+          "id:3": 297,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 256,
+          "y:3": 92,
+          "id:3": 298,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 40,
+          "x:3": 264,
+          "y:3": 32,
+          "id:3": 299,
+          "sizeY:3": 40
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 332,
+          "y:3": 32,
+          "id:3": 300,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 40,
+          "x:3": 400,
+          "y:3": 32,
+          "id:3": 301,
+          "sizeY:3": 40
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 464,
+          "y:3": 32,
+          "id:3": 302,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 180,
+          "id:3": 303,
+          "sizeY:3": 8
+        },
+        "9:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 236,
+          "id:3": 304,
+          "sizeY:3": 8
+        },
+        "10:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 284,
+          "id:3": 305,
+          "sizeY:3": 8
+        },
+        "11:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 316,
+          "id:3": 306,
+          "sizeY:3": 8
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 124,
+          "id:3": 307,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 284,
+          "y:3": 92,
+          "id:3": 308,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 96,
+          "id:3": 309,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 312,
+          "y:3": 92,
+          "id:3": 310,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 96,
+          "id:3": 311,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 92,
+          "id:3": 312,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 96,
+          "id:3": 313,
+          "sizeY:3": 24
+        },
+        "19:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 92,
+          "id:3": 314,
+          "sizeY:3": 24
+        },
+        "20:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 124,
+          "id:3": 315,
+          "sizeY:3": 24
+        },
+        "21:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 124,
+          "id:3": 316,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 5,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Trader - The YAP",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-theyap.png",
+          "bg_size:3": 512,
+          "desc:8": "    The YAP, a crew of professional (if you can really call it professional...) level looters and... fashionistas. Need to know how to get around, break into abandoned places, and look good doing it? Talk to The YAP\n\n    [Trades Baubley Heart Canisters, Grappling Hook, Hooked, Little Looter, Varied Commodities, Clothing Plus, and Cloth Mod]"
+        }
+      },
+      "order:3": 5
     }
   },
   "questSettings:10": {
