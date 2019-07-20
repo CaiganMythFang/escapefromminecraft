@@ -103,5 +103,26 @@
     },
     "always spawn full set": false,
     "weight": 10
+  },
+  {
+    "name": "The Joker Set",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazjokerhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazjokerbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazjokerlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazjokerboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 50
   }
 ]
