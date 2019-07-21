@@ -15,7 +15,7 @@ val stackminecraft1 = [
 for item in stackminecraft1 {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -40,31 +40,31 @@ val lootpurchase = [
 for item in lootpurchase {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.gold("Purchasable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
 //loot, trade, purchase
 
 val loottradepurchase = [
-<dap:detoxificationpills>, <dap:thccookie>
+
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
 // Loot Trade
 
 val loottrade = [
-
+<hooked:microcrafting:2>, <hooked:microcrafting:3>
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -75,7 +75,7 @@ val lootcrafttrade = [
 ] as IItemStack[];
 for item in lootcrafttrade {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -86,40 +86,41 @@ val lootcraftpurchase = [
 ] as IItemStack[];
 for item in lootcraftpurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
 // Lootable, Craftable, Tradeable, Purchasable
 
 val lootcrafttradepurchase = [
-<dap:joint>, <dap:beer>, <dap:magicmushroom>
+
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
 // Lootable, Craftable
 
 val lootcraft = [
-<dap:beerglass>, <dap:yeastbucket>
+<hooked:microcrafting>, <hooked:microcrafting:1>, <hooked:hook>
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
 
 // Lootable
 
 val loot = [
-<dap:thc>, <dap:yeast>
+
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
     <ore:fleamarketable>.add(item);
 }
+

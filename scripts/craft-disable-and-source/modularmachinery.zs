@@ -13,7 +13,8 @@ val stackminecraft1 = [
 
 ] as IItemStack[];
 for item in stackminecraft1 {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
 }
 
 */
@@ -25,7 +26,8 @@ val loottrade = [
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
 }
 
 // Lootable, Tradeable, Purchaseable
@@ -35,8 +37,8 @@ val stackminecraft1 = [
 ] as IItemStack[];
 for item in stackminecraft1 {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
-    recipes.remove(item);
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -46,7 +48,8 @@ val lootcrafttradepurchase = [
 
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -56,7 +59,8 @@ val lootcraft = [
 
 ] as IItemStack[];
 for item in lootcraft {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -66,6 +70,7 @@ val loot = [
 
 ] as IItemStack[];
 for item in loot {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
     <ore:fleamarketable>.add(item);
 }

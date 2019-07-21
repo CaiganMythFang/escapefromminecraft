@@ -14,7 +14,8 @@ val stackminecraft1 = [
 ] as IItemStack[];
 for item in stackminecraft1 {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -26,7 +27,7 @@ val corrupted = [
 <armorplus:ore_lava_crystal>
 ] as IItemStack[];
 for item in corrupted {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
     item.addTooltip(format.bold(format.red("This block will rapidly corrupt when placed. Be careful!")));
     item.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
 }
@@ -42,7 +43,8 @@ for item in lootpurchase {
     mods.armorplus.HighTechBench.remove(item);
     mods.armorplus.UltiTechBench.remove(item);
     mods.armorplus.ChampionBench.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -57,7 +59,8 @@ for item in loottradepurchase {
     mods.armorplus.HighTechBench.remove(item);
     mods.armorplus.UltiTechBench.remove(item);
     mods.armorplus.ChampionBench.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -72,7 +75,8 @@ for item in loottrade {
     mods.armorplus.HighTechBench.remove(item);
     mods.armorplus.UltiTechBench.remove(item);
     mods.armorplus.ChampionBench.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -82,7 +86,8 @@ val lootcrafttrade = [
 <armorplus:electrical_ingot>, <armorplus:steel_ingot>, <armorplus:lava_crystal:1>, <armorplus:lava_crystal>
 ] as IItemStack[];
 for item in lootcrafttrade {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -92,7 +97,8 @@ val lootcraftpurchase = [
 
 ] as IItemStack[];
 for item in lootcraftpurchase {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -102,7 +108,8 @@ val lootcrafttradepurchase = [
 
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -112,7 +119,8 @@ val lootcraft = [
 <armorplus:green_stone_brick>, <armorplus:blue_stone_brick>, <armorplus:black_stone_brick>, <armorplus:red_stone_brick>, <armorplus:white_stone_brick>, <armorplus:lava_infused_obsidian>, <armorplus:lava_cactus>, <armorplus:lava_nether_brick>, <armorplus:yellow_stone_brick>, <armorplus:purple_stone_brick>, <armorplus:green_stone_brick_corner>, <armorplus:blue_stone_brick_corner>, <armorplus:black_stone_brick_corner>, <armorplus:red_stone_brick_corner>, <armorplus:white_stone_brick_corner>, <armorplus:purple_stone_brick_tower>, <armorplus:yellow_stone_brick_tower>, <armorplus:blue_stone_brick_wall>, <armorplus:green_stone_brick_wall>, <armorplus:yellow_stone_brick_wall>, <armorplus:purple_stone_brick_wall>, <armorplus:white_stone_brick_tower>, <armorplus:red_stone_brick_tower>, <armorplus:black_stone_brick_tower>, <armorplus:blue_stone_brick_tower>, <armorplus:green_stone_brick_tower>, <armorplus:black_stone_brick_wall>, <armorplus:red_stone_brick_wall>, <armorplus:white_stone_brick_wall>, <armorplus:purple_stone_brick_corner>, <armorplus:yellow_stone_brick_corner>, <armorplus:block_compressed_infused_lava_crystal>, <armorplus:block_compressed_lava_crystal>, <armorplus:block_infused_lava_crystal>, <armorplus:block_lava_crystal>, <armorplus:compressed_obsidian>, <armorplus:electrical_block>, <armorplus:steel_block>, <armorplus:material>, <armorplus:diamond_leggings:*>, <armorplus:diamond_chestplate:*>, <armorplus:diamond_helmet:*>, <armorplus:diamond_boots:*>, <armorplus:gold_leggings:*>, <armorplus:gold_chestplate:*>, <armorplus:gold_helmet:*>, <armorplus:gold_boots:*>, <armorplus:iron_boots:*>, <armorplus:iron_leggings:*>, <armorplus:iron_chestplate:*>, <armorplus:iron_helmet:*>, <armorplus:chainmail_boots:*>, <armorplus:chainmail_leggings:*>, <armorplus:chainmail_chestplate:*>, <armorplus:chainmail_helmet:*>
 ] as IItemStack[];
 for item in lootcraft {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -127,7 +135,8 @@ for item in loot {
     mods.armorplus.HighTechBench.remove(item);
     mods.armorplus.UltiTechBench.remove(item);
     mods.armorplus.ChampionBench.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable"));
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("The Flock"));
     <ore:fleamarketable>.add(item);
 }
 
