@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-
+<hooked:hook>, <hooked:hook:1>, <hooked:hook:2>, <hooked:hook:3>, <hooked:hook:4>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
