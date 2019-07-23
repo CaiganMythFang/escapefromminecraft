@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "grapplemod:grapplinghook",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:repeller",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:launcheritem",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

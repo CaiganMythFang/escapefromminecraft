@@ -1,0 +1,67 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "grapplemod:block_grapple_modifier",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:swingupgradeitem",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:motorupgradeitem",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:ropeupgradeitem",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:doubleupgradeitem",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:throwupgradeitem",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:magnetupgradeitem",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:forcefieldupgradeitem",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:staffupgradeitem",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:limitsupgradeitem",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "grapplemod:longfallboots",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}
