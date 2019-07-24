@@ -1,0 +1,229 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:bow_tie\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:dragon_horns\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:round_glasses\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:top_hat\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:helmet_generic_2\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:helmet_generic_1\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:t_shirt_generic_2\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:t_shirt_generic_1\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:flippers\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:shoes_generic_1\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:pants_generic_1\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:tie\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:shirt_generic_1\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:retro_3d_glasses\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:glasses_1\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:shirt_generic_2\",colour_layers:[I;16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:modoff_cape\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:night_vision_goggles\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:wings\",colour_layers:[I;16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_component",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{identifier:\"wearables:jetpack\",colour_layers:[I;16777215,16777215,16777215],offset_y:0.0f,version:1b,offset_z:0.0f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

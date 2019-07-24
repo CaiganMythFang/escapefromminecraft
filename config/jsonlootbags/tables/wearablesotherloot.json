@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "wearables:wearable_colouriser",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "wearables:wearable_assembler",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "wearables:display_mannequin_item",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "wearables:mannequin_head_stand",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}
