@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 //Sets stack size for Minecraft's basic building blocks
 
 val stackminecraft1000 = [
-<rats:rat_crafting_table>
+<rats:rat_crafting_table>, <rats:marbled_cheese_raw>, <rats:marbled_cheese>, <rats:marbled_cheese_slab>, <rats:marbled_cheese_stairs>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_chiseled>, <rats:marbled_cheese_pillar>, <rats:marbled_cheese_brick>, <rats:marbled_cheese_brick_slab>, <rats:marbled_cheese_brick_stairs>, <rats:marbled_cheese_brick_chiseled>, <rats:marbled_cheese_brick_cracked>, <rats:marbled_cheese_brick_mossy>, <rats:marbled_cheese_dirt>, <rats:marbled_cheese_grass>
 ] as IItemStack[];
 for item in stackminecraft1000 {
     item.maxStackSize = 1000;
@@ -50,7 +50,7 @@ for item in stackminecraft2 {
 }
 
 val stackminecraft1 = [
-<rats:piper_hat>, <rats:rat_flute>, <rats:chef_toque>, <rats:cheese_stick>, <rats:confit_byaldi>, <rats:rat_upgrade_strength>, <rats:rat_upgrade_warrior>, <rats:rat_upgrade_god>, <rats:rat_upgrade_chef>, <rats:rat_upgrade_crafting>, <rats:rat_upgrade_blacklist>, <rats:rat_upgrade_whitelist>, <rats:rat_upgrade_flight>, <rats:rat_upgrade_armor>, <rats:rat_upgrade_health>, <rats:rat_upgrade_platter>, <rats:rat_upgrade_speed>, <rats:rat_upgrade_basic>
+<rats:piper_hat>, <rats:rat_flute>, <rats:chef_toque>, <rats:cheese_stick>, <rats:confit_byaldi>, <rats:rat_upgrade_strength>, <rats:rat_upgrade_warrior>, <rats:rat_upgrade_god>, <rats:rat_upgrade_chef>, <rats:rat_upgrade_crafting>, <rats:rat_upgrade_blacklist>, <rats:rat_upgrade_whitelist>, <rats:rat_upgrade_flight>, <rats:rat_upgrade_armor>, <rats:rat_upgrade_health>, <rats:rat_upgrade_platter>, <rats:rat_upgrade_speed>, <rats:rat_upgrade_basic>, <rats:rat_upgrade_ender>, <rats:rat_upgrade_lumberjack>, <rats:rat_upgrade_miner>, <rats:chunky_cheese_token>, <rats:rat_toga>
 ] as IItemStack[];
 for item in stackminecraft1 {
     item.maxStackSize = 1;

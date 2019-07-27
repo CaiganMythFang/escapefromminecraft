@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<rats:rat_crafting_table>, <rats:rat_upgrade_crafting>, <rats:rattrap>, <rats:rat_cage>, <rats:cheese_stick>, <rats:rat_upgrade_armor>, <rats:rat_upgrade_strength>, <rats:rat_upgrade_health>, <rats:rat_upgrade_speed>, <rats:rat_upgrade_platter>, <rats:rat_upgrade_blacklist>, <rats:rat_upgrade_whitelist>, <rats:rat_upgrade_warrior>, <rats:rat_flute>, <rats:rat_upgrade_flight>, <rats:assorted_vegetables>, <rats:rat_upgrade_chef>, <rats:rat_upgrade_god>
+<rats:rat_crafting_table>, <rats:rat_upgrade_crafting>, <rats:rattrap>, <rats:rat_cage>, <rats:cheese_stick>, <rats:rat_upgrade_armor>, <rats:rat_upgrade_strength>, <rats:rat_upgrade_health>, <rats:rat_upgrade_speed>, <rats:rat_upgrade_platter>, <rats:rat_upgrade_blacklist>, <rats:rat_upgrade_whitelist>, <rats:rat_upgrade_warrior>, <rats:rat_flute>, <rats:rat_upgrade_flight>, <rats:assorted_vegetables>, <rats:rat_upgrade_chef>, <rats:rat_upgrade_god>, <rats:rat_upgrade_ender>, <rats:rat_upgrade_lumberjack>, <rats:rat_upgrade_miner>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
@@ -59,7 +59,7 @@ for item in loottradepurchase {
 // Loot Trade
 
 val loottrade = [
-<rats:rat_pelt>, <rats:raw_rat>, <rats:rat_upgrade_basic>
+<rats:rat_pelt>, <rats:raw_rat>, <rats:rat_upgrade_basic>, <rats:chunky_cheese_token>
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
@@ -104,7 +104,7 @@ for item in lootcrafttradepurchase {
 // Lootable, Craftable
 
 val lootcraft = [
-<rats:string_cheese>, <rats:confit_byaldi>, <rats:feathery_wing>, <rats:cooked_rat>
+<rats:string_cheese>, <rats:confit_byaldi>, <rats:feathery_wing>, <rats:cooked_rat>, <rats:marbled_cheese_raw>, <rats:marbled_cheese>, <rats:marbled_cheese_slab>, <rats:marbled_cheese_stairs>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_chiseled>, <rats:marbled_cheese_pillar>, <rats:marbled_cheese_brick>, <rats:marbled_cheese_brick_slab>, <rats:marbled_cheese_brick_stairs>, <rats:marbled_cheese_brick_chiseled>, <rats:marbled_cheese_brick_cracked>, <rats:marbled_cheese_brick_mossy>, <rats:marbled_cheese_dirt>, <rats:marbled_cheese_grass>
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
@@ -115,7 +115,7 @@ for item in lootcraft {
 // Lootable
 
 val loot = [
-
+<rats:rat_toga>
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
