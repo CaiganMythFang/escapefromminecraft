@@ -30285,6 +30285,276 @@
           }
         }
       }
+    },
+    "383:10": {
+      "questID:3": 383,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_lumberjack",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Rat Upgrades - Lumberjack",
+          "desc:8": "    §aRats are smart, yes yes, and with the right upgrades, extremely useful!\n\n    You think rat too small to chop down tree? Nonsense! This upgrade will teach rat to chop down trees! Quite helpful!\n\n    Will only chop trees when you tell to Harvest though, so they won\u0027t chop everything down at all times, no no!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 200,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "rats:rat_upgrade_lumberjack",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "384:10": {
+      "questID:3": 384,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_miner",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : Upgrade - Miner",
+          "desc:8": "    §aRats tiny, but strong! Good at sniffing out things, not just food no no!\n\n    Mining Upgrade teaches rat to sniff out specific materials! Was once good for ores, but no longer exist, sadly! But can sniff out other materials for you!\n\n    Just Right Click upgrade in air to set up! Then give to rat!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "rats:rat_upgrade_miner",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "385:10": {
+      "questID:3": 385,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:chunky_cheese_token",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Buying : Chunky Cheese Token",
+          "desc:8": "    §aAh, fabled homeland! Though not really homeland, but dreamland! Or is real? Of course is!\n\n    I speak of Ratlantis, yes yes! Ancient home of ancient rats, before all of our times! Spoken of quietly underground yes yes.\n\n    Sometimes, a rat will find the gift of a Cheese Token, yes good! A great boon! They have visited nirvana and returned!\n\n    If you can get one of these, we pay well for it! Or you can use to visit Ratlantis yourself, see the majesty!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "rats:chunky_cheese_token",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 250,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "386:10": {
+      "questID:3": 386,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_ender",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[IV] Selling : Rat Upgrade - Flight",
+          "desc:8": "    §aScience do many things for rats! Sometimes, they do nearly magical things! but is not magic, is science of course!\n\n    We harness Enderman ability. Give to rat to become excellent rat! Teleporting rat!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 350,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "rats:rat_upgrade_ender",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -31253,50 +31523,50 @@
         },
         "44:10": {
           "sizeX:3": 24,
-          "x:3": 88,
-          "y:3": 144,
+          "x:3": 84,
+          "y:3": 184,
           "id:3": 127,
           "sizeY:3": 24
         },
         "45:10": {
           "sizeX:3": 24,
-          "x:3": 120,
-          "y:3": 144,
+          "x:3": 124,
+          "y:3": 184,
           "id:3": 128,
           "sizeY:3": 24
         },
         "46:10": {
           "sizeX:3": 24,
           "x:3": 104,
-          "y:3": 180,
+          "y:3": 212,
           "id:3": 129,
           "sizeY:3": 24
         },
         "47:10": {
           "sizeX:3": 24,
           "x:3": 80,
-          "y:3": 208,
+          "y:3": 240,
           "id:3": 130,
           "sizeY:3": 24
         },
         "48:10": {
           "sizeX:3": 24,
           "x:3": 88,
-          "y:3": 236,
+          "y:3": 268,
           "id:3": 131,
           "sizeY:3": 24
         },
         "49:10": {
           "sizeX:3": 24,
           "x:3": 116,
-          "y:3": 236,
+          "y:3": 268,
           "id:3": 132,
           "sizeY:3": 24
         },
         "50:10": {
           "sizeX:3": 24,
-          "x:3": 124,
-          "y:3": 208,
+          "x:3": 128,
+          "y:3": 240,
           "id:3": 133,
           "sizeY:3": 24
         },
@@ -31375,6 +31645,34 @@
           "x:3": 32,
           "y:3": 180,
           "id:3": 144,
+          "sizeY:3": 24
+        },
+        "62:10": {
+          "sizeX:3": 24,
+          "x:3": 424,
+          "y:3": 208,
+          "id:3": 383,
+          "sizeY:3": 24
+        },
+        "63:10": {
+          "sizeX:3": 24,
+          "x:3": 452,
+          "y:3": 208,
+          "id:3": 384,
+          "sizeY:3": 24
+        },
+        "64:10": {
+          "sizeX:3": 32,
+          "x:3": 68,
+          "y:3": 124,
+          "id:3": 385,
+          "sizeY:3": 32
+        },
+        "65:10": {
+          "sizeX:3": 24,
+          "x:3": 480,
+          "y:3": 208,
+          "id:3": 386,
           "sizeY:3": 24
         }
       },
