@@ -124,3 +124,10 @@ val clothinghat = [
 for item in clothinghat {
 <ore:clothinghat>.add(item);
 }
+
+val decocraftitems = [
+<props:props:*>
+] as IItemStack[];
+for item in decocraftitems {
+<ore:decocraftitems>.add(item);
+}
