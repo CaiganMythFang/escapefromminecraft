@@ -30555,6 +30555,789 @@
           }
         }
       }
+    },
+    "387:10": {
+      "questID:3": 387,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Emporium - Rank I",
+          "desc:8": "    §2It definitely seems we\u0027re going to be here for a while, Bandit. It\u0027s probably best if we make good of the situation and do something more than just a spartan box for shelter, right?\n\n    Right?!\n\n    Here, the VanilModu got us in contact with the Emporium, a big group of traders who deal with a lot of furniture and decorations. Hey, even in the apocalypse you can have nice things, Bandit!\n\n    Here, they want to talk to you : §r\n\n§6-------------------\n    Hmm, hmm hmm. A new merc. A pleasure! I am from the Emporium. We have many things you may be interested in!\n\n     A nice chair to sit on in front of your computer? A desk to put the computer on! Some carpets to rest under the desk, perhaps? Some lamps to light the room? A door to let yourself in? What about that computer itself?\n\n    See, we have many things to make this rough existance more livable. Your home is one of the big things you can control, to shape to your liking! Makes dealing with the rest of it a bit more.... palatable.\n-------------------§r\n\n    §oHmm, a bit eccentric, but then again so has everyone else been. \n\n    Maybe I will do more than a nine by nine meter box..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "388:10": {
+      "questID:3": 388,
+      "preRequisites:11": [
+        387
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emporium Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "389:10": {
+      "questID:3": 389,
+      "preRequisites:11": [
+        388
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "props:props",
+            "Count:3": 1,
+            "tag:10": {
+              "RepairCost:3": 0,
+              "display:10": {
+                "Name:8": "Any DecoCraft Items"
+              }
+            },
+            "Damage:2": 635,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Buying : DecoCraft Items",
+          "desc:8": "    §6There are many many DecoCraft items out there. And so many you can make!\n\n    If you find many, or are retheming a room and have many spares, we shall buy them from you.\n\n    They are not worth much each, but they are fairly plentiful to find!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "props:props",
+              "Count:3": 32,
+              "tag:10": {
+                "RepairCost:3": 0,
+                "display:10": {
+                  "Name:8": "Any DecoCraft Items"
+                }
+              },
+              "OreDict:8": "decocraftitems",
+              "Damage:3": 635
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "390:10": {
+      "questID:3": 390,
+      "preRequisites:11": [
+        388
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "props:props",
+            "Count:3": 1,
+            "Damage:2": 508,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : The Decobench",
+          "desc:8": "    §6Hmmm, would you like one of our catalogs, merc? Well, it isn\u0027t quite a catalog, but it has one built in!\n\n    The DecoBench allows you to purchase quite a lot of the furniture and decorations we offer! You can search for specific things, or catagories, and more!\n\n    Ah, no no. The Decobench does not accept Money, no. We\u0027re also a construction company, and the biggest thing we need is Clay and Dye. Red, Blue, and Green dye specifically, as we can make almost all the colors with just those!\n\n    So, the DecoBench lets you put Clay and any of those three dyes into it. With enough, you can easily §mmake§r§6 purchase one of our many offerings!\n\n    Hmm, well yes we do need money, but we have many other products you can purchase instead."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "props:props",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 508
+            }
+          }
+        }
+      }
+    },
+    "391:10": {
+      "questID:3": 391,
+      "preRequisites:11": [
+        387
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Emporium - Rank II",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "392:10": {
+      "questID:3": 392,
+      "preRequisites:11": [
+        391
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 3,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Emporium - Rank III",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "393:10": {
+      "questID:3": 393,
+      "preRequisites:11": [
+        392
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 4,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Emporium - Rank IV",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "394:10": {
+      "questID:3": 394,
+      "preRequisites:11": [
+        393
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Emporium - Rank V",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_block",
+              "Count:3": 1,
+              "OreDict:8": "blockGold",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "395:10": {
+      "questID:3": 395,
+      "preRequisites:11": [
+        391
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emporium Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "396:10": {
+      "questID:3": 396,
+      "preRequisites:11": [
+        392
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emporium Rank III Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "397:10": {
+      "questID:3": 397,
+      "preRequisites:11": [
+        393
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emporium Rank IV Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "398:10": {
+      "questID:3": 398,
+      "preRequisites:11": [
+        394
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Emporium Rank V Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "399:10": {
+      "questID:3": 399,
+      "preRequisites:11": [
+        395
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "props:tool",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : The DecoWand",
+          "desc:8": "    §6Many of our DecoCraft items have many simple color variations. Sometimes, changing the decor of a room includes changing all the colors. And most decorations just do not match when this happens.\n\n    But, take this DecoWand. Hold it, and Right or Left Click on one of the DecoCraft branded items. If there are alternate colors or designs for it, it\u0027ll swap through them! If not, nothing happens!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "props:tool",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -33412,12 +34195,104 @@
       "order:3": 5
     },
     "6:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 40,
+          "x:3": 200,
+          "y:3": 32,
+          "id:3": 387,
+          "sizeY:3": 40
+        },
+        "1:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 100,
+          "id:3": 388,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 40,
+          "x:3": 72,
+          "y:3": 112,
+          "id:3": 389,
+          "sizeY:3": 40
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 112,
+          "id:3": 390,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 40,
+          "x:3": 264,
+          "y:3": 32,
+          "id:3": 391,
+          "sizeY:3": 40
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 332,
+          "y:3": 32,
+          "id:3": 392,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 40,
+          "x:3": 396,
+          "y:3": 32,
+          "id:3": 393,
+          "sizeY:3": 40
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 464,
+          "y:3": 32,
+          "id:3": 394,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 156,
+          "id:3": 395,
+          "sizeY:3": 8
+        },
+        "9:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 212,
+          "id:3": 396,
+          "sizeY:3": 8
+        },
+        "10:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 264,
+          "id:3": 397,
+          "sizeY:3": 8
+        },
+        "11:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 328,
+          "id:3": 398,
+          "sizeY:3": 8
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 224,
+          "y:3": 112,
+          "id:3": 399,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 6,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
-          "name:8": "New Quest Line",
+          "visibility:8": "UNLOCKED",
+          "name:8": "Trader - Emporium",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
@@ -33427,9 +34302,9 @@
             "Damage:2": 0,
             "OreDict:8": ""
           },
-          "bg_image:8": "",
-          "bg_size:3": 256,
-          "desc:8": "No Description"
+          "bg_image:8": "betterquesting:textures/gui/trader-emporium.png",
+          "bg_size:3": 512,
+          "desc:8": "    Emporium traders specialize in buying and selling construction materials, furniture, decorations, and more.\n\n    [Trades Chisel, Decocraft, Headcrumbs, Malisis Doors, MrCrayfish\u0027s Furnirture]"
         }
       },
       "order:3": 6
