@@ -31338,6 +31338,353 @@
           }
         }
       }
+    },
+    "400:10": {
+      "questID:3": 400,
+      "preRequisites:11": [
+        388
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "chisel:chisel_iron",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : The Iron Chisel",
+          "desc:8": "    §6Plain blocks are nice for plain builds, but there is so much more variety one can have. Different arrangements, textures, and more are easy to add to a wide variety of blocks with the use of a Chisel!\n\n    Merely Right Click this Iron Chisel in the air. You can then place various blocks into the upper left, and if you can Chisel it, the right side shall fill with a variety of options!\n\n    Hmmm, yes, if you have a Chiseled block, you can do the same and return it to normal. I do know some things are quite picky on the material they use or accept.\n\n    Ah yes, if you leave a block in the upper left and close the screen, you can Left Click on that block type to Chisel already placed blocks. Excellent for detailing a room, I must say!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "chisel:chisel_iron",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "401:10": {
+      "questID:3": 401,
+      "preRequisites:11": [
+        395
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "chisel:chisel_diamond",
+            "Count:3": 1,
+            "tag:10": {
+              "chiseldata:10": {}
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : The Diamond Chisel",
+          "desc:8": "    §6Decorating a large area, mercenary? The Iron Chisel is cheap and useful, but at the obvious price of not being that durable, hmm.\n\n    We offer a Diamond tipped Chisel that lasts quite a bit longer. It also has a few more features in it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "chisel:chisel_diamond",
+              "Count:3": 1,
+              "tag:10": {
+                "chiseldata:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "402:10": {
+      "questID:3": 402,
+      "preRequisites:11": [
+        396
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "chisel:chisel_hitech",
+            "Count:3": 1,
+            "tag:10": {
+              "chiseldata:10": {}
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : The iChisel",
+          "desc:8": "    §6Hmmm, are you after the Top of the Line, mercenary? Of course you are!\n\n    This is why we offer the best Chisel around : The iChisel. You will be amazed by the vast variety of new features it has! And the durability is top notch!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 75,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "chisel:chisel_hitech",
+              "Count:3": 1,
+              "tag:10": {
+                "chiseldata:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "403:10": {
+      "questID:3": 403,
+      "preRequisites:11": [
+        388
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "chisel:offsettool",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : The Ender Offset Wand",
+          "desc:8": "    §6Many of these Chisel designs you can use stretch over multiple blocks. Like the giant fan ones, which is an odd choice of decoration, unless you are in a factory, then its very much welcome!\n\n    Sometimes, this design is not set properly. It\u0027s off by a bit, usually a block or so. To fix this, use this Ender Offset Wand! Just hold and Right Click it on the block with the odd texture to \u0027shift\u0027 it around. You\u0027ll get the hang of it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "chisel:offsettool",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "404:10": {
+      "questID:3": 404,
+      "preRequisites:11": [
+        395
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "chisel:auto_chisel",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : The Auto Chisel",
+          "desc:8": "    §6Hmmm, sometimes Chiseling blocks by hand can get tiring. Especially when you have an entire mansion\u0027s worth to decorate. Or a sprawling village. Or a large mountain base. So much to Chisel, so little time, mercenary.\n\n    That\u0027s why we have the Auto Chisel! Supply it with power (another Trader can help you here, mercenary), one of our Chisels, and the Chiseled Block you want. Then you can put in stacks of the same material, and it will automatically Chisel them for you!\n\nFantastic!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 30,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "chisel:auto_chisel",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -31422,114 +31769,6 @@
       "order:3": 0
     },
     "1:10": {
-      "quests:9": {
-        "0:10": {
-          "sizeX:3": 32,
-          "x:3": 352,
-          "y:3": 28,
-          "id:3": 104,
-          "sizeY:3": 32
-        },
-        "1:10": {
-          "sizeX:3": 12,
-          "x:3": 340,
-          "y:3": 84,
-          "id:3": 105,
-          "sizeY:3": 8
-        },
-        "2:10": {
-          "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 36,
-          "id:3": 106,
-          "sizeY:3": 24
-        },
-        "3:10": {
-          "sizeX:3": 24,
-          "x:3": 228,
-          "y:3": 36,
-          "id:3": 107,
-          "sizeY:3": 24
-        },
-        "4:10": {
-          "sizeX:3": 32,
-          "x:3": 260,
-          "y:3": 32,
-          "id:3": 108,
-          "sizeY:3": 32
-        },
-        "5:10": {
-          "sizeX:3": 40,
-          "x:3": 300,
-          "y:3": 28,
-          "id:3": 109,
-          "sizeY:3": 40
-        },
-        "6:10": {
-          "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 32,
-          "id:3": 110,
-          "sizeY:3": 24
-        },
-        "7:10": {
-          "sizeX:3": 40,
-          "x:3": 8,
-          "y:3": 96,
-          "id:3": 111,
-          "sizeY:3": 40
-        },
-        "8:10": {
-          "sizeX:3": 20,
-          "x:3": 8,
-          "y:3": 136,
-          "id:3": 112,
-          "sizeY:3": 20
-        },
-        "9:10": {
-          "sizeX:3": 20,
-          "x:3": 28,
-          "y:3": 136,
-          "id:3": 113,
-          "sizeY:3": 20
-        },
-        "10:10": {
-          "sizeX:3": 16,
-          "x:3": 48,
-          "y:3": 100,
-          "id:3": 114,
-          "sizeY:3": 32
-        },
-        "11:10": {
-          "sizeX:3": 20,
-          "x:3": 88,
-          "y:3": 120,
-          "id:3": 115,
-          "sizeY:3": 20
-        }
-      },
-      "lineID:3": 3,
-      "properties:10": {
-        "betterquesting:10": {
-          "visibility:8": "UNLOCKED",
-          "name:8": "Z\u0027s Workshop",
-          "icon:10": {
-            "ForgeCaps:10": {
-              "customnpcs:itemscripteddata:10": {}
-            },
-            "id:8": "minecraft:book",
-            "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": ""
-          },
-          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
-          "bg_size:3": 512,
-          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive.\n    [Z will explain mechanics and sell survival items like Waystones and Insurance. Z also has the main questline, as well as Administrative functions like updating the questbook]"
-        }
-      },
-      "order:3": 1
-    },
-    "2:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -31994,7 +32233,7 @@
       },
       "order:3": 2
     },
-    "3:10": {
+    "2:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -32479,6 +32718,114 @@
         }
       },
       "order:3": 3
+    },
+    "3:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 32,
+          "x:3": 352,
+          "y:3": 28,
+          "id:3": 104,
+          "sizeY:3": 32
+        },
+        "1:10": {
+          "sizeX:3": 12,
+          "x:3": 340,
+          "y:3": 84,
+          "id:3": 105,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 36,
+          "id:3": 106,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": 36,
+          "id:3": 107,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 32,
+          "x:3": 260,
+          "y:3": 32,
+          "id:3": 108,
+          "sizeY:3": 32
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 300,
+          "y:3": 28,
+          "id:3": 109,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 392,
+          "y:3": 32,
+          "id:3": 110,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 8,
+          "y:3": 96,
+          "id:3": 111,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 20,
+          "x:3": 8,
+          "y:3": 136,
+          "id:3": 112,
+          "sizeY:3": 20
+        },
+        "9:10": {
+          "sizeX:3": 20,
+          "x:3": 28,
+          "y:3": 136,
+          "id:3": 113,
+          "sizeY:3": 20
+        },
+        "10:10": {
+          "sizeX:3": 16,
+          "x:3": 48,
+          "y:3": 100,
+          "id:3": 114,
+          "sizeY:3": 32
+        },
+        "11:10": {
+          "sizeX:3": 20,
+          "x:3": 88,
+          "y:3": 120,
+          "id:3": 115,
+          "sizeY:3": 20
+        }
+      },
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Z\u0027s Workshop",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
+          "bg_size:3": 512,
+          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive.\n    [Z will explain mechanics and sell survival items like Waystones and Insurance. Z also has the main questline, as well as Administrative functions like updating the questbook]"
+        }
+      },
+      "order:3": 1
     },
     "4:10": {
       "quests:9": {
@@ -34285,6 +34632,41 @@
           "x:3": 224,
           "y:3": 112,
           "id:3": 399,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 260,
+          "y:3": 112,
+          "id:3": 400,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 288,
+          "y:3": 112,
+          "id:3": 401,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 316,
+          "y:3": 112,
+          "id:3": 402,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 276,
+          "y:3": 140,
+          "id:3": 403,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 304,
+          "y:3": 140,
+          "id:3": 404,
           "sizeY:3": 24
         }
       },
