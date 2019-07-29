@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "chisel:chisel_iron",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "chisel:chisel_diamond",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "chisel:chisel_hitech",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "chisel:offsettool",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}
