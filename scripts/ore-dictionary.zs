@@ -131,3 +131,17 @@ val decocraftitems = [
 for item in decocraftitems {
 <ore:decocraftitems>.add(item);
 }
+
+val playerheads = [
+<headcrumbs:player>, <minecraft:skull:3>
+] as IItemStack[];
+for item in playerheads {
+<ore:playerheads>.add(item);
+}
+
+val creatureheads = [
+<headcrumbs:skull>, <minecraft:skull:1>, <minecraft:skull:2>, <minecraft:skull:4>, <minecraft:skull:5>
+] as IItemStack[];
+for item in creatureheads {
+<ore:creatureheads>.add(item);
+}
