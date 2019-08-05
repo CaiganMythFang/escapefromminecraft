@@ -115,11 +115,23 @@ for item in lootcraft {
 // Lootable
 
 val loot = [
-<minecraft:monster_egg:5>, <minecraft:monster_egg:4>, <minecraft:monster_egg:3>, <minecraft:monster_egg:2>, <minecraft:monster_egg:1>, <minecraft:monster_egg>, <minecraft:end_portal_frame>, <minecraft:skull:2>, <minecraft:skull:1>, <minecraft:skull>, <minecraft:skull:4>, <minecraft:skull:5>, <minecraft:spider_eye>, <minecraft:rotten_flesh>, <minecraft:shulker_shell>
+<minecraft:monster_egg:5>, <minecraft:monster_egg:4>, <minecraft:monster_egg:3>, <minecraft:monster_egg:2>, <minecraft:monster_egg:1>, <minecraft:monster_egg>, <minecraft:end_portal_frame>, <minecraft:spider_eye>, <minecraft:rotten_flesh>, <minecraft:shulker_shell>
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("VanilModu"));
+    <ore:fleamarketable>.add(item);
+}
+
+// Loot Trade SKULLL SPECIAL
+
+val loottrade2 = [
+<minecraft:skull:2>, <minecraft:skull:1>, <minecraft:skull>, <minecraft:skull:4>, <minecraft:skull:5>, <minecraft:skull:3>
+] as IItemStack[];
+for item in loottrade2 {
+    recipes.remove(item);
+    item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Z's Workshop"));
     <ore:fleamarketable>.add(item);
 }
