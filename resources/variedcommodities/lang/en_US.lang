@@ -1,0 +1,445 @@
+
+block.editIcon=You have 10 seconds to place an Icon
+
+itemGroup.vcweapons=VariedCommodities Weapons
+itemGroup.vcarmors=VariedCommodities Armors
+itemGroup.vcblocks=VariedCommodities Blocks
+itemGroup.vcitems=VariedCommodities Items
+
+enchantment.damage=Damage
+enchantment.confusion=Confusion
+enchantment.infinite=Infinite
+enchantment.poison=Poison
+
+trader.busy=Already in use
+trader.trade=Trade
+trader.waiting=Waiting for trade to start
+trader.cancelled=Trade was cancelled
+trader.complete=Trade completed succesfully
+
+tile.carpentry_bench.name=Carpentry Bench
+tile.blood_block.name=Blood Block
+tile.banner.name=Banner
+tile.wall_banner.name=Wall Banner
+tile.chair.name=Chair
+tile.crate.name=Crate
+tile.tall_lamp.name=Tall Lamp
+tile.weapon_rack.name=Weapon Rack
+tile.couch_wool.name=Wool Couch
+tile.table.name=Wooden Table
+tile.couch_wood.name=Wooden Couch
+tile.lamp.name=Lamp
+tile.candle.name=Candle
+tile.stool.name=Stool
+tile.big_sign.name=Big Sign
+tile.barrel.name=Barrel
+tile.shelf.name=Shelf
+tile.sign.name=Sign
+tile.tombstone.name=Tombstone
+tile.campfire.name=Campfire
+tile.beam.name=Beam
+tile.pedestal.name=Pedestal
+tile.trading_block.name=Trading Block
+tile.crystal.name=Crystal
+
+tile.placeholder_0.name=Placeholder
+tile.placeholder_1.name=Placeholder
+tile.placeholder_2.name=Placeholder
+tile.placeholder_3.name=Placeholder
+tile.placeholder_4.name=Placeholder
+tile.placeholder_5.name=Placeholder
+tile.placeholder_6.name=Placeholder
+tile.placeholder_7.name=Placeholder
+tile.placeholder_8.name=Placeholder
+tile.placeholder_9.name=Placeholder
+tile.placeholder_10.name=Placeholder
+tile.placeholder_11.name=Placeholder
+tile.placeholder_12.name=Placeholder
+tile.placeholder_13.name=Placeholder
+tile.placeholder_14.name=Placeholder
+tile.placeholder_15.name=Placeholder
+
+item.banjo.name=Banjo
+item.violin.name=Violin
+item.violin_bow.name=Violin Bow
+item.harp.name=Harp
+item.guitar.name=Guitar
+item.french_horn.name=French Horn
+item.ocarina.name=Ocarina
+item.clarinet.name=Clarinet
+
+item.coin_wood.name=Old Wooden Coin
+item.coin_stone.name=Old Stone Coin
+item.coin_bronze.name=Old Bronze Coin
+item.coin_iron.name=Old Iron Coin
+item.coin_gold.name=Old Golden Coin
+item.coin_diamond.name=Old Diamond Coin
+item.coin_emerald.name=Old Emerald Coin
+
+item.wooden_gun.name=Old Wooden Gun
+item.stone_gun.name=Old Stone Gun
+item.iron_gun.name=Old Iron Gun
+item.golden_gun.name=Old Golden Gun
+item.diamond_gun.name=Old Diamond Gun
+item.bronze_gun.name=Old Bronze Gun
+item.emerald_gun.name=Old Emerald Gun
+item.machine_gun.name=Old Machine Gun
+item.bullet.name=Old Bullet
+
+item.wooden_trident.name=Odd Wooden Trident
+item.stone_trident.name=Odd Stone Trident
+item.iron_trident.name=Odd Iron Trident
+item.golden_trident.name=Odd Golden Trident
+item.diamond_trident.name=Odd Diamond Trident
+item.bronze_trident.name=Odd Bronze Trident
+item.emerald_trident.name=Odd Emerald Trident
+item.cursed_trident.name=Odd Cursed Trident
+item.demonic_trident.name=Odd Demonic Trident
+item.frost_trident.name=Odd Frost Trident
+item.mithril_trident.name=Odd Mithril Trident
+
+item.spell_nature.name=Inert Nature Spell
+item.spell_arcane.name=Inert Arcane Spell
+item.spell_lightning.name=Inert Lightning Spell
+item.spell_ice.name=Inert Ice Spell
+item.spell_fire.name=Inert Fire Spell
+item.spell_dark.name=Inert Dark Spell
+item.spell_holy.name=Inert Holy Spell
+
+item.kunai.name=Odd Kunai
+item.kunai_reversed.name=Odd Reverse Kunai
+item.shuriken.name=Odd Shuriken
+item.shuriken_giant.name=Odd Giant Shuriken
+item.katana.name=Odd Katana
+item.kukri.name=Odd Kukri
+item.ninja_claw.name=Odd Ninja Claw
+item.steel_claw.name=Odd Steel Claw
+item.bear_claw.name=Odd Bear Claw
+item.katar.name=Odd Katar
+
+item.golf_club.name=Odd Golf Club
+item.magic_wand.name=Odd Magic Wand
+item.chicken_sword.name=Odd Chicken Sword
+item.handcuffs.name=Odd Handcuffs
+item.hammer.name=Odd Hammer
+item.baseball_bat.name=Odd Baseball Bat
+item.lead_pipe.name=Odd Lead Pipe
+item.cleaver.name=Odd Cleaver
+item.saber.name=Odd Saber
+item.hockey_stick.name=Odd Hockey Stick
+item.sledge_hammer.name=Odd Sledgehammer
+item.broken_bottle.name=Odd Broken Bottle
+item.combat_knive.name=Odd Combat Knife
+item.lighter.name=Odd Lighter
+item.batton.name=Odd Baton
+item.chainsaw_gun.name=Odd GunChainsaw
+item.rapier.name=Odd Rapier
+item.crowbar.name=Odd Crowbar
+item.pipe_wrench.name=Odd Pipe Wrench
+item.wrench.name=Odd Wrench
+item.swiss_army_knife.name=Odd Swiss Army Knife
+item.leaf_sword.name=Odd Leaf Blade
+
+item.wooden_shield_round.name=Odd Round Wooden Shield
+item.stone_shield_round.name=Odd Round Stone Shield
+item.iron_shield_round.name=Odd Round Iron Shield
+item.golden_shield_round.name=Odd Round Golden Shield
+item.diamond_shield_round.name=Odd Round Diamond Shield
+item.bronze_shield_round.name=Odd Round Bronze Shield
+item.emerald_shield_round.name=Odd Round Emerald Shield
+item.demonic_shield_round.name=Odd Demonic Shield
+item.frost_shield.name=Odd Frost Shield
+item.mithril_shield_round.name=Odd Mithril Shield
+item.wooden_shield.name=Odd Wooden Shield
+item.stone_shield.name=Odd Stone Shield
+item.iron_shield.name=Odd Iron Shield
+item.golden_shield.name=Odd Golden Shield
+item.diamond_shield.name=Odd Diamond Shield
+item.bronze_shield.name=Odd Bronze Shield
+item.emerald_shield.name=Odd Emerald Shield
+item.tower_shield.name=Odd Steel Tower Shield
+item.crescent_shield.name=Odd Steel Cryscent Shield
+item.scutum_shield.name=Odd Steel Scutum Shield
+item.heater_shield.name=Odd Steel Heater Shield
+
+item.wooden_spear.name=Odd Wooden Spear
+item.stone_spear.name=Odd Stone Spear
+item.iron_spear.name=Odd Iron Spear
+item.golden_spear.name=Odd Golden Spear
+item.diamond_spear.name=Odd Diamond Spear
+item.bronze_spear.name=Odd Bronze Spear
+item.emerald_spear.name=Odd Emerald Spear
+item.demonic_spear.name=Odd Demonic Spear
+item.frost_spear.name=Odd Frost Spear
+item.mithril_spear.name=Odd Mithril Spear
+
+item.wooden_battleaxe.name=Odd Wooden Battle Axe
+item.stone_battleaxe.name=Odd Stone Battle Axe
+item.iron_battleaxe.name=Odd Iron Battle Axe
+item.golden_battleaxe.name=Odd Golden Battle Axe
+item.diamond_battleaxe.name=Odd Diamond Battle Axe
+item.bronze_battleaxe.name=Odd Bronze Battle Axe
+item.emerald_battleaxe.name=Odd Emerald Battle Axe
+item.demonic_battleaxe.name=Odd Demonic Battle Axe
+item.frost_battleaxe.name=Odd Frost Battle Axe
+item.mithril_battleaxe.name=Odd Mithril Battle Axe
+
+item.wooden_mace.name=Odd Wooden Mace
+item.stone_mace.name=Odd Stone Mace
+item.iron_mace.name=Odd Iron Mace
+item.golden_mace.name=Odd Golden Mace
+item.diamond_mace.name=Odd Diamond Mace
+item.bronze_mace.name=Odd Bronze Mace
+item.emerald_mace.name=Odd Emerald Mace
+item.demonic_mace.name=Odd Demonic Mace
+item.frost_mace.name=Odd Frost Mace
+item.mithril_mace.name=Odd Mithril Mace
+
+item.wooden_dagger.name=Odd Wooden Dagger
+item.stone_dagger.name=Odd Stone Dagger
+item.iron_dagger.name=Odd Iron Dagger
+item.golden_dagger.name=Odd Golden Dagger
+item.diamond_dagger.name=Odd Diamond Dagger
+item.bronze_dagger.name=Odd Bronze Dagger
+item.emerald_dagger.name=Odd Emerald Dagger
+item.demonic_dagger.name=Odd Demonic Dagger
+item.frost_dagger.name=Odd Frost Dagger
+item.mithril_dagger.name=Odd Mithril Dagger
+
+item.wooden_dagger_reversed.name=Odd Reversed Wooden Dagger
+item.stone_dagger_reversed.name=Odd Reversed Stone Dagger
+item.iron_dagger_reversed.name=Odd Reversed Iron Dagger
+item.golden_dagger_reversed.name=Odd Reversed Golden Dagger
+item.diamond_dagger_reversed.name=Odd Reversed Diamond Dagger
+item.bronze_dagger_reversed.name=Odd Reversed Bronze Dagger
+item.emerald_dagger_reversed.name=Odd Reversed Emerald Dagger
+item.demonic_dagger_reversed.name=Odd Reversed Demonic Dagger
+item.frost_dagger_reversed.name=Odd Reversed Frost Dagger
+item.mithril_dagger_reversed.name=Odd Reversed Mithril Dagger
+
+item.wooden_staff.name=Wooden Staff
+item.stone_staff.name=Stone Staff
+item.iron_staff.name=Iron Staff
+item.golden_staff.name=Golden Staff
+item.diamond_staff.name=Diamond Staff
+item.bronze_staff.name=Bronze Staff
+item.emerald_staff.name=Emerald Staff
+item.elemental_staff.name=Elemental Staff
+item.demonic_staff.name=Demonic Staff
+item.frost_staff.name=Frost Staff
+item.mithril_staff.name=Mithril Staff
+item.mana.name=Mana
+
+item.wooden_scythe.name=Odd Wooden Scythe
+item.stone_scythe.name=Odd Stone Scythe
+item.iron_scythe.name=Odd Iron Scythe
+item.golden_scythe.name=Odd Golden Scythe
+item.bronze_scythe.name=Odd Bronze Scythe
+item.diamond_scythe.name=Odd Diamond Scythe
+item.emerald_scythe.name=Odd Emerald Scythe
+item.demonic_scythe.name=Odd Demonic Scythe
+item.frost_scythe.name=Odd Frost Scythe
+item.mithril_scythe.name=Odd Mithril Scythe
+
+item.wooden_glaive.name=Odd Wooden Glaive
+item.stone_glaive.name=Odd Stone Glaive
+item.iron_glaive.name=Odd Iron Glaive
+item.golden_glaive.name=Odd Golden Glaive
+item.diamond_glaive.name=Odd Diamond Glaive
+item.bronze_glaive.name=Odd Bronze Glaive
+item.emerald_glaive.name=Odd Emerald Glaive
+item.demonic_glaive.name=Odd Demonic Glaive
+item.frost_glaive.name=Odd Frost Glaive
+item.mithril_glaive.name=Odd Mithril Glaive
+
+item.cow_leather_head.name=Odd Cowleather Helmet
+item.cow_leather_chest.name=Odd Cowleather ChestPlate
+item.cow_leather_legs.name=Odd Cowleather Leggings
+item.cow_leather_boots.name=Odd Cowleather Boots
+
+item.nanorum_head.name=Odd Nanorum Helmet
+item.nanorum_chest.name=Odd Nanorum ChestPlate
+item.nanorum_legs.name=Odd Nanorum Leggings
+item.nanorum_boots.name=Odd Nanorum Boots
+
+item.tactical_head.name=Odd Tactical Helmet
+item.tactical_chest.name=Odd Tactical Vest
+
+item.full_leather_head.name=Odd Full Leather Helmet
+item.full_leather_chest.name=Odd Full Leather ChestPlate
+item.full_iron_head.name=Odd Full Iron Helmet
+item.full_iron_chest.name=Odd Full Iron ChestPlate
+item.full_golden_head.name=Odd Full Gold Helmet
+item.full_golden_chest.name=Odd Full Gold ChestPlate
+item.full_diamond_head.name=Odd Full Diamond Helmet
+item.full_diamond_chest.name=Odd Full Diamond ChestPlate
+item.full_bronze_head.name=Odd Full Bronze Helmet
+item.full_bronze_chest.name=Odd Full Bronze ChestPlate
+item.full_bronze_legs.name=Odd Full Bronze Leggings
+item.full_bronze_boots.name=Odd Full Bronze Boots
+item.full_wooden_head.name=Odd Full Wooden Helmet
+item.full_wooden_chest.name=Odd Full Wooden ChestPlate
+item.full_wooden_legs.name=Odd Full Wooden Leggings
+item.full_wooden_boots.name=Odd Full Wooden Boots
+
+item.tuxedo_chest.name=Odd Tuxedo Chest
+item.tuxedo_pants.name=Odd Tuxedo Pants
+item.tuxedo_bottom.name=Odd Tuxedo Trenchcoat
+
+item.wizard_head.name=Odd Wizard Head
+item.wizard_chest.name=Odd Wizard Chest
+item.wizard_pants.name=Odd Wizard Leggings
+
+item.assassin_head.name=Odd Assassins Helmet
+item.assassin_chest.name=Odd Assassins ChestPlate
+item.assassin_legs.name=Odd Assassins Leggings
+item.assassin_boots.name=Odd Assassins Boots
+
+item.soldier_head.name=Odd Soldier Helmet
+item.soldier_chest.name=Odd Soldier ChestPlate
+item.soldier_legs.name=Odd Soldier Leggings
+item.soldier_bottom.name=Odd Soldier Trenchcoat
+
+item.x407_head.name=Odd X407 Prototype Helmet
+item.x407_chest.name=Odd X407 Prototype ChestPlate
+item.x407_legs.name=Odd X407 Prototype Leggings
+item.x407_boots.name=Odd X407 Prototype Boots
+
+item.mithril_head.name=Odd Mithril Helmet
+item.mithril_chest.name=Odd Mithril ChestPlate
+item.mithril_legs.name=Odd Mithril Leggings
+item.mithril_boots.name=Odd Mithril Boots
+
+item.demonic_head.name=Odd Demonic Helmet
+item.demonic_chest.name=Odd Demonic ChestPlate
+item.demonic_legs.name=Odd Demonic Leggings
+item.demonic_boots.name=Odd Demonic Boots
+
+item.commissar_head.name=Odd Commissar Helmet
+item.commissar_chest.name=Odd Commissar ChestPlate
+item.commissar_legs.name=Odd Commissar Leggings
+item.commissar_bottom.name=Odd Commissar Trenchcoat
+
+item.infantry_helmet.name=Odd Infantry Helmet
+item.officer_chest.name=Odd Officer ChestPlate
+
+item.crown2.name=Odd Crown
+item.crown.name=Odd Crown
+item.paper_crown.name=Odd Paper Crown
+
+item.ninja_head.name=Odd Ninja Head
+item.ninja_chest.name=Odd Ninja Chest
+item.ninja_legs.name=Odd Ninja Leggings
+
+item.full_emerald_head.name=Odd Full Emerald Helmet
+item.full_emerald_chest.name=Odd Full Emerald ChestPlate
+item.full_emerald_legs.name=Odd Full Emerald Leggings
+item.full_emerald_boots.name=Odd Full Emerald Boots
+
+item.orb.name=Inert Orb
+item.orb_broken.name=Inert Broken Orb
+item.letter.name=Old Letter
+item.plans.name=Old Plans
+item.satchel.name=Junk Satchel
+item.bag.name=Junk Bag
+item.crystal.name=Old Crystal
+item.severed_ear.name=Fake Severed Ear
+item.phone.name=Old Phone
+item.bandit_mask.name=Bandit Mask
+item.broken_arrow.name=Broken Arrow
+
+item.element_earth.name=Inert Earth Element
+item.element_water.name=Inert Water Element
+item.element_fire.name=Inert Fire Element
+item.element_air.name=Inert Air Element
+
+item.car_key.name=Old Car Key
+item.key.name=Old Key
+item.key2.name=Old Key
+
+item.pendant.name=Old Pendant
+item.blueprint.name=Old Blueprint
+item.ring.name=Old Ring
+item.skull.name=Fake Skull
+
+item.gem_sapphire.name=Old Sapphire
+item.gem_amethyst.name=Old Amethyst
+item.gem_ruby.name=Old Ruby
+
+item.ingot_bronze.name=Old Bronze Ingot
+item.ingot_demonic.name=Old Demonic Ingot
+item.ingot_mithril.name=Old Mithril Ingot
+item.ingot_steel.name=Steel Ingot
+
+item.macuahuitl.name=Odd Macuahuitl
+item.bo_staff.name=Odd Bo Staff
+item.sai.name=Odd Sai Blade
+item.crossbow.name=Odd Crossbow
+item.crossbow_bolt.name=Odd Crossbow Bolt
+item.slingshot.name=Odd Slingshot
+item.musket.name=Odd Musket
+
+item.excalibur.name=Odd Excalibur
+item.bronze_sword.name=Odd Bronze Sword
+item.emerald_sword.name=Odd Emerald Sword
+item.demonic_sword.name=Odd Demonic Sword
+item.frost_sword.name=Odd Frost Sword
+item.mithril_sword.name=Odd Mithril Sword
+
+item.ancient_coin.name=Ancient Coin
+item.ancient_scroll.name=Ancient Scroll
+item.artifact.name=Artifact
+item.locket.name=Old Locket
+item.silk.name=Silk
+item.statuette.name=Old Statuette
+item.tablet.name=Ancient Tablet
+
+item.wooden_halberd.name=Odd Wooden Halberd
+item.stone_halberd.name=Odd Stone Halberd
+item.iron_halberd.name=Odd Iron Halberd
+item.golden_halberd.name=Odd Golden Halberd
+item.diamond_halberd.name=Odd Diamond Halberd
+item.bronze_halberd.name=Odd Bronze Halberd
+item.emerald_halberd.name=Odd Emerald Halberd
+item.demonic_halberd.name=Odd Demonic Halberd
+item.frost_halberd.name=Odd Frost Halberd
+item.mithril_halberd.name=Odd Mithril Halberd
+
+item.wooden_warhammer.name=Odd Wooden Warhammer
+item.stone_warhammer.name=Odd Stone Warhammer
+item.iron_warhammer.name=Odd Iron Warhammer
+item.golden_warhammer.name=Odd Golden Warhammer
+item.diamond_warhammer.name=Odd Diamond Warhammer
+item.bronze_warhammer.name=Odd Bronze Warhammer
+item.emerald_warhammer.name=Odd Emerald Warhammer
+item.demonic_warhammer.name=Odd Demonic Warhammer
+item.frost_warhammer.name=Odd Frost Warhammer
+item.mithril_warhammer.name=Odd Mithril Warhammer
+
+item.chain_skirt.name=Odd Chain Skirt
+item.leather_skirt.name=Odd Leather Skirt
+item.golden_skirt.name=Odd Golden Skirt
+item.iron_skirt.name=Odd Iron Skirt
+item.diamond_skirt.name=Odd Diamond Skirt
+item.emerald_skirt.name=Odd Emerald Skirt
+item.bronze_skirt.name=Odd Bronze Skirt
+item.demonic_skirt.name=Odd Demonic Skirt
+item.mithril_skirt.name=Odd Mithril Skirt
+
+item.wooden_broadsword.name=Odd Wooden Broadsword
+item.stone_broadsword.name=Odd Stone Broadsword
+item.iron_broadsword.name=Odd Iron Broadsword
+item.golden_broadsword.name=Odd Golden Broadsword
+item.diamond_broadsword.name=Odd Diamond Broadsword
+item.bronze_broadsword.name=Odd Bronze Broadsword
+item.emerald_broadsword.name=Odd Emerald Broadsword
+item.demonic_broadsword.name=Odd Demonic Broadsword
+item.frost_broadsword.name=Odd Frost Broadsword
+item.mithril_broadsword.name=Odd Mithril Broadsword
+
+item.heart.name=Fake Heart
+item.money.name=Old Money
+item.necklace.name=Old Necklace
+item.usb_stick.name=Old USB-Stick
+
+item.vcrecipes_book.name=VariedCommodities Recipe Book
