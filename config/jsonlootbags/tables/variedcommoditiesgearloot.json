@@ -1,0 +1,1619 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "variedcommodities:shuriken",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:shuriken_giant",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mana",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bullet",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crossbow_bolt",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crossbow",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:machine_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:musket",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_battleaxe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_battleaxe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_broadsword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_broadsword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_broadsword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:chicken_sword",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:chainsaw_gun",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:slingshot",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_dagger_reversed",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_dagger_reversed",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_dagger",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_dagger_reversed",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_dagger",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_dagger",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_halberd",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_trident",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_trident",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:combat_knive",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_trident",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_halberd",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_spear",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_spear",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_spear",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_glaive",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_glaive",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_glaive",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_scythe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_scythe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_scythe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_battleaxe",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_halberd",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:batton",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_mace",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_mace",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_warhammer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_warhammer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_warhammer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_mace",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:hammer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:excalibur",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_sword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_sword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:leaf_sword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:saber",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_broadsword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:katana",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_sword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:rapier",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_broadsword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_broadsword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_broadsword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_broadsword",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_halberd",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_spear",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_battleaxe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_dagger_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_battleaxe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_spear",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_battleaxe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_dagger_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_spear",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_halberd",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_dagger",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_dagger",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_dagger_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_halberd",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_battleaxe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_dagger",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_halberd",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cleaver",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_trident",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_trident",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:katar",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_spear",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:steel_claw",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bear_claw",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_trident",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:sai",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:swiss_army_knife",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_dagger",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_dagger_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_dagger",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:ninja_claw",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:kukri",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_trident",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_trident",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:broken_bottle",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_spear",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_halberd",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_battleaxe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_dagger_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_glaive",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_glaive",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_scythe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_scythe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_scythe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_scythe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_scythe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_glaive",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_glaive",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:kunai",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:kunai_reversed",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:hockey_stick",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:sledge_hammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:macuahuitl",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bo_staff",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_mace",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_mace",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_mace",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_warhammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_warhammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_warhammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_mace",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_mace",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_warhammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_warhammer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:pipe_wrench",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crowbar",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wrench",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golf_club",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:lead_pipe",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:baseball_bat",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_sword",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_halberd",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_broadsword",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_dagger",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_dagger_reversed",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_warhammer",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_trident",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_spear",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_battleaxe",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_mace",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_glaive",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_glaive",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cursed_trident",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_scythe",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_warhammer",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_halberd",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_sword",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_battleaxe",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_broadsword",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_spear",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_dagger",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_dagger_reversed",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_mace",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_glaive",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_scythe",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_trident",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:banjo",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:violin",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:violin_bow",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:harp",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:guitar",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:clarinet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:ocarina",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:french_horn",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_bronze_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:assassin_legs",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:assassin_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:assassin_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_leather_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_leather_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_iron_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_iron_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_golden_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_bronze_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_bronze_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:nanorum_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:nanorum_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:nanorum_legs",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:nanorum_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_skirt",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_skirt",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:commissar_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:commissar_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:ninja_head",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:ninja_chest",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:ninja_legs",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_golden_head",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_bronze_legs",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wizard_pants",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wizard_chest",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wizard_head",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tuxedo_chest",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tuxedo_pants",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tuxedo_bottom",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cow_leather_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cow_leather_legs",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cow_leather_chest",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_skirt",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:leather_skirt",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:commissar_legs",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:commissar_bottom",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_skirt",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:assassin_head",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_wooden_head",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_wooden_chest",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_wooden_legs",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_wooden_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tower_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:scutum_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crescent_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:heater_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:chain_skirt",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_shield_round",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_shield",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_diamond_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_diamond_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_emerald_legs",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:soldier_legs",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:soldier_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:soldier_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:cow_leather_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_emerald_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_emerald_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:full_emerald_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:soldier_bottom",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_skirt",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tactical_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:tactical_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:x407_legs",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_skirt",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:infantry_helmet",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crown2",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:x407_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:x407_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_legs",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:officer_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_skirt",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:crown",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:x407_boots",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_head",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_chest",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_legs",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:stone_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:frost_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:iron_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:golden_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:diamond_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:bronze_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:emerald_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:demonic_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:mithril_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:magic_wand",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:wooden_staff",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "variedcommodities:elemental_staff",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
