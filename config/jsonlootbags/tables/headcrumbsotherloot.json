@@ -1,0 +1,649 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ocelotBlack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ocelot\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"blaze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"polarBear\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"polarBear\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"bat\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"cow\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:player",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"guardianElder\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"guardian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ghast\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"endermite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"enderman\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"mooshroom\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"chicken\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ocelotSiamese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ocelotRed\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"mule\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"donkey\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseWhite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseGrey\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseDarkBrown\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseCreamy\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseChestnut\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseBrown\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseBlack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitToast\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitSalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitGold\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitBrown\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitBlack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"pig\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"ironGolem\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseSkeleton\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseUndead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"silverfish\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"sheep\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitWhite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"pigman\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"magmaCube\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"zombieVillager\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"wolf\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"snowMan\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"spider\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"caveSpider\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"squid\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"villager\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"witch\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"wither\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitSplotched\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseDarkBrown\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseCreamy\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseChestnut\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseBrown\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"horseBlack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"rabbitToast\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "headcrumbs:skull",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{SkullModel:\"donkey\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
