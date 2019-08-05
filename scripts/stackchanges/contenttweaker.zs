@@ -50,7 +50,7 @@ for item in stackminecraft2 {
 }
 
 val stackminecraft1 = [
-
+<contenttweaker:dogtags>
 ] as IItemStack[];
 for item in stackminecraft1 {
     item.maxStackSize = 1;
