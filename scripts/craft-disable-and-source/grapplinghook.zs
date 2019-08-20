@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<grapplemod:block_grapple_modifier>, <grapplemod:block_grapple_modifier>, <grapplemod:swingupgradeitem>, <grapplemod:motorupgradeitem>, <grapplemod:ropeupgradeitem>, <grapplemod:doubleupgradeitem>, <grapplemod:throwupgradeitem>, <grapplemod:magnetupgradeitem>, <grapplemod:forcefieldupgradeitem>, <grapplemod:staffupgradeitem>, <grapplemod:limitsupgradeitem>, <grapplemod:longfallboots>, <grapplemod:grapplinghook>, <grapplemod:repeller>, <grapplemod:launcheritem>
+<grapplemod:block_grapple_modifier>, <grapplemod:swingupgradeitem>, <grapplemod:motorupgradeitem>, <grapplemod:ropeupgradeitem>, <grapplemod:doubleupgradeitem>, <grapplemod:throwupgradeitem>, <grapplemod:magnetupgradeitem>, <grapplemod:forcefieldupgradeitem>, <grapplemod:staffupgradeitem>, <grapplemod:limitsupgradeitem>, <grapplemod:longfallboots>, <grapplemod:grapplinghook>, <grapplemod:repeller>, <grapplemod:launcheritem>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);

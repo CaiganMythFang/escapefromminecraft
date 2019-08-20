@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<cfm:item_spatula>
+
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);

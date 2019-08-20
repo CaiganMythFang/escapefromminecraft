@@ -115,7 +115,7 @@ for item in lootcraft {
 // Lootable
 
 val loot = [
-<malisisdoors:rustyhandle>
+
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);

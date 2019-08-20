@@ -94,7 +94,7 @@ for item in lootcrafttrade {
 // Loot, Craft, Purchase
 
 val lootcraftpurchase = [
-<techguns:itemshared:126>, <techguns:itemshared:125>, <techguns:item_door3x3:2>, <techguns:item_door3x3:1>, <techguns:item_bunkerdoor>, <techguns:item_door3x3>
+<techguns:itemshared:126>, <techguns:itemshared:125>, <techguns:item_bunkerdoor>, <techguns:item_door3x3>
 ] as IItemStack[];
 for item in lootcraftpurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
