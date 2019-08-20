@@ -1,0 +1,625 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Small Belt Pouch\"},hue:42}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Small Money Pouch\"},hue:28}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Mini Backpack\"},hue:202}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Tiny Rucksack\"},hue:161}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Fanny Pack\"},hue:277}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Ammo Pouch\"},hue:344}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Small Canvas Bag\"},hue:49}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Heavy Plastic Bag\"},hue:-1}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"Sling\"},hue:216}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"M-Bag\"},hue:165}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"ScavBag\"},hue:19}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"Clip Bag\"},hue:85}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Large Money Bag\"},hue:30}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Large Fanny Pack\"},hue:307}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Duffle Bag\"},hue:225}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Raider Bag\"},hue:353}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Big Rucksack\"},hue:142}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Giant Canvas Bag\"},hue:43}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Backpack\"},hue:197}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Gun Bag\"},hue:56}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Tourist Backpack\"},hue:126}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Raid Pack\"},hue:348}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Junk Bag\"},hue:312}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Quad Zip\"},hue:60}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Assault Bag\"},hue:126}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Rancher Backpack\"},hue:348}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Tactical Rucksack\"},hue:312}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"M2 Rig\"},hue:5}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Small Belt Pouch\"},hue:42,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Small Money Pouch\"},hue:28,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Mini Backpack\"},hue:202}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 70,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,1],display:{Name:\"Tiny Rucksack\"},hue:161,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Fanny Pack\"},hue:277,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Ammo Pouch\"},hue:344,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Small Canvas Bag\"},hue:49,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;2,2],display:{Name:\"Heavy Plastic Bag\"},hue:-1,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"Sling\"},hue:216,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"M-Bag\"},hue:165,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"ScavBag\"},hue:19,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,3],display:{Name:\"Clip Bag\"},hue:85,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Large Money Bag\"},hue:30,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Large Fanny Pack\"},hue:307,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Duffle Bag\"},hue:225,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;3,5],display:{Name:\"Raider Bag\"},hue:353,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Big Rucksack\"},hue:142,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Giant Canvas Bag\"},hue:43,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Backpack\"},hue:197,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;6,6],display:{Name:\"Gun Bag\"},hue:56,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Tourist Backpack\"},hue:126,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Raid Pack\"},hue:348,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Junk Bag\"},hue:312,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;9,6],display:{Name:\"Quad Zip\"},hue:60,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Assault Bag\"},hue:126,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Rancher Backpack\"},hue:348,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"Tactical Rucksack\"},hue:312,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "compactstorage:backpack",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{size:[I;12,12],display:{Name:\"M2 Rig\"},hue:5,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"jsonlootbags:cleansedloot\",Count:1,Damage:0s}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

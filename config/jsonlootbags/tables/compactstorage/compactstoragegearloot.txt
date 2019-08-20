@@ -1,0 +1,56 @@
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Small Belt Pouch"},hue:42}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Small Money Pouch"},hue:28}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Mini Backpack"},hue:202}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Tiny Rucksack"},hue:161}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Fanny Pack"},hue:277}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Ammo Pouch"},hue:344}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Small Canvas Bag"},hue:49}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Heavy Plastic Bag"},hue:-1}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"Sling"},hue:216}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"M-Bag"},hue:165}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"ScavBag"},hue:19}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"Clip Bag"},hue:85}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Large Money Bag"},hue:30}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Large Fanny Pack"},hue:307}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Duffle Bag"},hue:225}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Raider Bag"},hue:353}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Big Rucksack"},hue:142}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Giant Canvas Bag"},hue:43}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Backpack"},hue:197}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Gun Bag"},hue:56}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Tourist Backpack"},hue:126}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Raid Pack"},hue:348}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Junk Bag"},hue:312}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Quad Zip"},hue:60}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Assault Bag"},hue:126}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Rancher Backpack"},hue:348}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Tactical Rucksack"},hue:312}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"M2 Rig"},hue:5}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Small Belt Pouch"},hue:42,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Small Money Pouch"},hue:28,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Mini Backpack"},hue:202}
+compactstorage:backpack:0:1:70:{size:[I;2,1],display:{Name:"Tiny Rucksack"},hue:161,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Fanny Pack"},hue:277,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Ammo Pouch"},hue:344,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Small Canvas Bag"},hue:49,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:45:{size:[I;2,2],display:{Name:"Heavy Plastic Bag"},hue:-1,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"Sling"},hue:216,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"M-Bag"},hue:165,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"ScavBag"},hue:19,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:35:{size:[I;3,3],display:{Name:"Clip Bag"},hue:85,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Large Money Bag"},hue:30,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Large Fanny Pack"},hue:307,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Duffle Bag"},hue:225,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:20:{size:[I;3,5],display:{Name:"Raider Bag"},hue:353,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Big Rucksack"},hue:142,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Giant Canvas Bag"},hue:43,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Backpack"},hue:197,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:10:{size:[I;6,6],display:{Name:"Gun Bag"},hue:56,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Tourist Backpack"},hue:126,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Raid Pack"},hue:348,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Junk Bag"},hue:312,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:5:{size:[I;9,6],display:{Name:"Quad Zip"},hue:60,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Assault Bag"},hue:126,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Rancher Backpack"},hue:348,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"Tactical Rucksack"},hue:312,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
+compactstorage:backpack:0:1:1:{size:[I;12,12],display:{Name:"M2 Rig"},hue:5,Items:[{Slot:0,ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"jsonlootbags:cleansedloot",Count:1,Damage:0s}]}
