@@ -1,0 +1,384 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "jsonlootbags:airdrops_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:alchemistry_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:alchemistry_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:alchemistry_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:armorplus_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:armorplus_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:armorplus_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:baubleyhearts_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:baubleyhearts_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other2_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other3_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other4_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other5_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other6_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:chisel_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:clothingmod_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:clothmod_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:dap_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:dap_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:dap_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other2_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other3_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other4_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other5_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other6_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other7_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other8_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:decocraft_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:pneumaticcraft_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:grapplinghook_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:grapplinghook_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:grapplinghook_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:headcrumbs_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:hooked_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:hooked_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:insurance_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:littlelooter_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:littlelooter_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:littlelooter_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:malisisdoors_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:malisisdoors_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:malisisdoors_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:rats_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:rats_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:minecraft_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:minecraft_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:minecraft_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:rats_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:mrcrayfishfurniture_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:mrcrayfishfurniture_other2_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:mrcrayfishfurniture_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:mrcrayfishfurniture_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:pneumaticcraft_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:pneumaticcraft_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:techguns_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:techguns_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:techguns_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:variedcommodities_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:variedcommodities_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:variedcommodities_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:waystones_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:wearables_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:wearables_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:wearables_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:raiders_resource_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:raiders_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:drones_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:onlinepictureframe_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:cyclic_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:cyclic_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:cyclic_resource_loot",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1498 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:coal",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_block",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 83
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 82
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "pneumaticcraft:ingot_iron_compressed",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 81
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 80
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 79
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:electrical_ingot",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:steel_ingot",
+          "weight": 75,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:slime_ball",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:quartz_block",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:coal",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modularmachinery:itemmodularium",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_nugget",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 87
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 86
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 88
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:clay_ball",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:clay",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "alchemistry:mineral_salt",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glowstone_dust",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 84
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:peat_biomass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 96
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 95
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:quartz",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:blaze_powder",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 85
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"lpg\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"fuel\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"kerosene\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"diesel\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"lubricant\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"plastic\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"etchacid\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"oil\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "bhc:canister",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone_block",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:peat_fuel",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:obsidian",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "bhc:red_heart",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ender_pearl",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:blaze_rod",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:peat_fuel_enriched",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:prismarine_crystals",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:prismarine_shard",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chorus_plant",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chorus_flower",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:purpur_block",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:prismarine",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:crystallized_amber",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ender_eye",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:magma_cream",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_crystal",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "raiders:sat_transmitter_part",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "raiders:brute_serum_sample",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "bhc:orange_heart",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:sprout_seed",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lava_crystal",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 17
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 25
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 23
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 21
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 19
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:shulker_shell",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_block",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald_block",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:crystallized_obsidian",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 27
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 29
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 31
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 97
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "techguns:itemshared",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 98
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "bhc:green_heart",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "bhc:blue_heart",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:nether_star",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dragon_egg",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-    "loot-table": "jsonlootbags:tradeofferloot", // REQUIRED What loot table to use. See above.
+    "loot-table": "jsonlootbags:jsonlootbagsotherloot", // REQUIRED What loot table to use. See above.
     "name": "trade_offer_loot",                 // REQUIRED Internal item name: alphanumerical and underscores only
     "human-name": "Trade Offer - Unsearched Loot",    // REQUIRED Human readable name.
     "texture": "jsonlootbags:tradeoffer-loot",  // Model file for item. Provide your own via resource pack if desired. Default is "jsonlootbags:bag"
