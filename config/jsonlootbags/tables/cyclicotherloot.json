@@ -1,0 +1,699 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slowest",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_med_angle",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slowest_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_fast_corner",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_launch_small",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_launch_med",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_launch_extra",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slow_angle",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_fast_angle",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slow_corner",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_launch_large",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slowest_angle",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_fast",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_push_slow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:item_pipe",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:glass_strong",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fluid_pipe",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:energy_pipe",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_fragile_weak",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_fragile_auto",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_fragile",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:button_large",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:clock",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:item_pipe_sort",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:wireless_receiver",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:wireless_transmitter",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:bundled_pipe",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:trash",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:sound_player",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:dice",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:password_block",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:sprinkler",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:doorbell_simple",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_shears",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:plate_vector",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{vectorYaw:90,vectorAngle:45,sound:1,vectorPower:60}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:spikes_iron",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fire_starter",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fluid_placer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_hydrator",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:solidifier",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fluid_drain",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:peat_generator",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:peat_farm",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fluid_pump",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:energy_pump",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:item_pump",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_library",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_workbench",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_soundproofing",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_storeempty",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:target",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:fan",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:dehydrator",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:laser",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:beacon_redstone",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_screen",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:moon_sensor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:auto_packager",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:dropper_exact",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:battery",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:water_candle",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:auto_crafter",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_fishing",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:placer_block",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:harvester_block",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:builder_block",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:entity_detector",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:cable_wireless_energy",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:cable_wireless",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:cable_wireless_fluid",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:melter",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:void_anvil",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_miner_smart",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_vacuum",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_miner",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_forester",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_disenchanter",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:screen_target",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_user",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:imbuer",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:builder_pattern",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:uncrafting_block",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:exp_pylon",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_library_ctrl",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:spikes_diamond",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_anvil_magma",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_enchanter",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:magnet_block",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:block_anvil",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:magnet_anti_block",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "cyclicmagic:beacon_potion",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

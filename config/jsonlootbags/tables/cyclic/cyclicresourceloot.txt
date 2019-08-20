@@ -1,0 +1,11 @@
+#rolls: {"min": 1, "max": 2}
+cyclicmagic:apple:0:1-6:50
+cyclicmagic:stone_pebble:0:1-6:50
+cyclicmagic:peat_biomass:0:1-6:50
+cyclicmagic:peat_fuel:0:1-6:50
+cyclicmagic:peat_fuel_enriched:0:1-3:30
+cyclicmagic:peat_baked:0:1-3:30
+cyclicmagic:peat_unbaked:0:1-3:30
+cyclicmagic:crystallized_obsidian:0:1-3:30
+cyclicmagic:crystallized_amber:0:1:10
+cyclicmagic:sprout_seed:0:1:10
