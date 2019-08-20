@@ -31,9 +31,9 @@ corrupted.setChance(0.50);
 corrupted.addItemOutput(<minecraft:brick_block>);
 corrupted.setChance(0.50);
 
-// 10% for a skeleton skull, 1 times
+// 1% for a skeleton skull, 1 times
 corrupted.addItemOutput(<minecraft:skull>);
-corrupted.setChance(0.10);
+corrupted.setChance(0.01);
 
 // 10% for a bone, 1 times
 corrupted.addItemOutput(<minecraft:bone>);
@@ -53,13 +53,13 @@ corrupted.setChance(0.01);
 corrupted.addItemOutput(<waystones:waystone>);
 corrupted.setChance(0.01);
 
-// 25% for a Cleansed Resource Bag, 1 time
+// 10% for a Cleansed Resource Bag, 1 time
 corrupted.addItemOutput(<jsonlootbags:cleansedresources>);
-corrupted.setChance(0.25);
+corrupted.setChance(0.10);
 
-// 10% for a Cleaned Loot Bag, 1 time
+// 1% for a Cleaned Loot Bag, 1 time
 corrupted.addItemOutput(<jsonlootbags:cleansedloot>);
-corrupted.setChance(0.1);
+corrupted.setChance(0.01);
 
 // 20% for a torch, 1 times
 corrupted.addItemOutput(<minecraft:torch>);
