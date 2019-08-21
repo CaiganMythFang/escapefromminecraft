@@ -29,7 +29,7 @@ for item in stackminecraft16 {
 }
 
 val stackminecraft10 = [
-<minecraft:crafting_table>, <minecraft:furnace>, <minecraft:comparator>, <minecraft:experience_bottle>, <minecraft:name_tag>, <minecraft:painting>, <minecraft:item_frame>, <minecraft:end_rod>, <minecraft:sign>, <minecraft:chest>, <minecraft:trapped_chest>, <minecraft:repeater>, <minecraft:quartz_ore>, <minecraft:emerald_ore>, <minecraft:iron_ore>, <minecraft:coal_ore>, <minecraft:lapis_ore>, <minecraft:glowstone>, <minecraft:gold_ore>, <minecraft:diamond_ore>, <minecraft:redstone_ore>, <minecraft:glass_bottle>, <minecraft:ender_pearl>, <minecraft:noteblock>
+<minecraft:crafting_table>, <minecraft:furnace>, <minecraft:comparator>, <minecraft:experience_bottle>, <minecraft:name_tag>, <minecraft:painting>, <minecraft:item_frame>, <minecraft:end_rod>, <minecraft:sign>, <minecraft:chest>, <minecraft:trapped_chest>, <minecraft:repeater>, <minecraft:quartz_ore>, <minecraft:emerald_ore>, <minecraft:iron_ore>, <minecraft:coal_ore>, <minecraft:lapis_ore>, <minecraft:glowstone>, <minecraft:gold_ore>, <minecraft:diamond_ore>, <minecraft:redstone_ore>, <minecraft:glass_bottle>, <minecraft:ender_pearl>, <minecraft:noteblock>, <minecraft:fireworks>
 ] as IItemStack[];
 for item in stackminecraft10 {
     item.maxStackSize = 10;
