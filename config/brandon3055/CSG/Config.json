@@ -1,9 +1,10 @@
 {
   "inventory": {
-    "0:8": "compactstorage:backpack,1,0,{ench:[{lvl:1s,id:56s}],RepairCost:1,size:[I;3,3],display:{Name:\"Secure Container GAMMA\"},hue:282,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"hooked:hook\",Count:1,Damage:0s},{Slot:1,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"techguns:itemshared\",Count:64,Damage:62s},{Slot:2,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:crowbar\",Count:1,Damage:0s},{Slot:3,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:wire_cutter\",Count:1,Damage:0s},{Slot:4,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:screwdriver\",Count:1,Damage:0s}]}",
-    "0:0": "variedcommodities:combat_knive",
-    "0:7": "questbook:itemquestbook",
     "0:34": "harvestcraft:sushiitem,3",
-    "0:35": "harvestcraft:bubblywateritem"
+    "0:8": "compactstorage:backpack,1,0,{ench:[{lvl:1s,id:25s}],RepairCost:1,size:[I;3,3],display:{Name:\"Secure Container GAMMA\"},hue:282,Items:[{Slot:0,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"hooked:hook\",Count:1,Damage:0s},{Slot:1,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"techguns:itemshared\",Count:3,Damage:62s},{Slot:2,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:crowbar\",Count:1,Damage:0s},{Slot:3,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:wire_cutter\",Count:1,Damage:0s},{Slot:4,ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"littlelooter:screwdriver\",Count:1,Damage:0s}]}",
+    "0:7": "questbook:itemquestbook",
+    "0:35": "harvestcraft:grapesodaitem",
+    "0:0": "variedcommodities:combat_knive",
+    "0:15": "locks:lock_pick,16"
   }
 }
