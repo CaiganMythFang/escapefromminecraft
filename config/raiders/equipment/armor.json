@@ -123,6 +123,2232 @@
       "metaID": 0
     },
     "always spawn full set": false,
-    "weight": 50
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Agent",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaagentehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaagentebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaagentelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaagenteboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Unifform - Sergeant",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacabohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacabobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacabolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacaboboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Sergeant 2",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasargentohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasargentobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasargentolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasargentoboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Officer",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaoficialhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaoficialbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaoficiallegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiaoficialboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Inspector",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainspectorhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainspectorbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainspectorlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainspectorboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Instructor",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainstructorhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainstructorbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainstructorlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiainstructorboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Unifomr - Sub-Comissioner",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasubcomisariohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasubcomisariobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasubcomisariolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiasubcomisarioboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Uniform - Commissioner",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacomisariohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacomisariobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacomisariolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:policiacomisarioboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "GEO Lieutenant",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:geotenientehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:geotenientebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:geotenientelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:geotenienteboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "GEO Capitan",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:geocapitanhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:geocapitanbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:geocapitanlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:geocapitanboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "GEO Colonel",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:geocoronelhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:geocoronelbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:geocoronellegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:geocoronelboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "EMS Nurse",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:emsoperacionhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:emsoperacionbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:emsoperacionlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:emsoperacionboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "EMS Doctor",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:emsoperacionhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:emsdoctorbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:emsdoctorlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:emsdoctorboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "EMS Exterior",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:emsexteriorhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:emsexteriorbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:emsexteriorlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:emsexteriorboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Creeper Costume",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazcreeperhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazcreeperbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazcreeperlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Blue Dinosaur",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinoazulhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinoazulbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinoazullegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Red Dinosaur",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorojohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorojobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorojolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink Dinosaur",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorosahelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorosabody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazdinorosalegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Hot Dog Costume",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazperritocalientehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazperritocalientebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazperritocalientelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Chicken Costume",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazpollohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazpollobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:leather_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazpolloboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Queen Costume",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreinahelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreinabody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreinalegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "King costume",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreyhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreybody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazreylegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Anon",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:caretaanonimushelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "variedcommodities:tuxedo_chest",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "variedcommodities:tuxedo_pants",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Payday Dallas",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:caretadallashelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "variedcommodities:tuxedo_chest",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "variedcommodities:tuxedo_pants",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Payday Hoxton",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:caretahoxtonhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "variedcommodities:tuxedo_chest",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "variedcommodities:tuxedo_pants",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Payday Sokol",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:caretasokolhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "variedcommodities:tuxedo_chest",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "variedcommodities:tuxedo_pants",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pennywise",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazithelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazitbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazitlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:disfrazitboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Firefighter",
+    "head": {
+      "itemID": "cloth_mod__fegaming_rpg:bomberohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "cloth_mod__fegaming_rpg:bomberobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "cloth_mod__fegaming_rpg:bomberolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "cloth_mod__fegaming_rpg:bomberoboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Chicken Costume 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:chickenhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:chickenbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:chickenlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:chickenboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cotton Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cottonclothinghelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:cottonclothingbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:cottonclothinglegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:cottonclothingboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Creeper costume 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Hot dog costume 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:hotdoghelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:hotdogbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:hotdoglegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:hotdogboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Angel's Wings",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:anglewingsbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:anglewingslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Brown Apron",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbrownhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbrownbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbrownlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbrownboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Butcher's Apron",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbutcherhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbutcherbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbutcherlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronbutcherboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Green Apron",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:aprongreenhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:aprongreenbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:aprongreenlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:aprongreenboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Plain Apron",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronplainhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronplainbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronplainlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:apronplainboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Artists Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:artisthelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:artistbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:artistlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:artistboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Black PJs",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackpjbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackpjlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackpjboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Black Shoes",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoeshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoeslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blackshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Black Tank",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:blacktankhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:blacktankbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:blacktanklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blacktankboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Blue Boxers",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:blueboxerslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blueboxersboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Blue Board Shorts",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:blueboardsshortslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:blueboardsshortsboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Blue Cap",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluecaphelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluecapbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluecaplegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluecapboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Blue PJs",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluepjbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluepjlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:bluepjboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Boots Outfit",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:schuhe1legs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:schuhe1boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Bunny OUtfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:bunnyhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:bunnybody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:bunnylegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:bunnyboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Black Cap",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:capblackhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:capblackbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:capblacklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:capblackboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cat Clothing",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cathelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:catbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:catlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:catboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Coral dress",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cforaldresshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:cforaldressbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:cforaldresslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:cforaldressboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Construction Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:constructionworkerhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:constructionworkerbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:constructionworkerlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:constructionworkerboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cookie Tshirt",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cookieteehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:cookieteebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:cookieteelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:cookieteeboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Creeper Tshirt",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperteebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:creeperteelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cupcake Tshirt",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cupcaketeehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:cupcaketeebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:cupcaketeelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:cupcaketeeboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Scrubs",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:scrubshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:scrubsbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:scrubslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:scrubsboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cyan Sweater",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:cyansweaterhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:cyansweaterbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:cyansweaterlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:cyansweaterboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Daisychain",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:daisychainhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:daisychainbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:daisychainlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:daisychainboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Diamond Tshirt",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:diamondteebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:diamondteelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Cyan Dinosaur 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinocyanhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinocyanbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinocyanlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinocyanboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink Dinosaur 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinopinkhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinopinkbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinopinklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinopinkboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Red Dinosaur 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinoredhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinoredbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinoredlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:dinoredboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Earmuff Slav",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:earmuffslavhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:earmuffslavbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:earmuffslavlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:earmuffslavboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Farmer Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:farmerhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:farmerbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:farmerlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:farmerboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Fairy Wings",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:fairywingsbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:fairywingslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Floral PJs",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:floralyshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:floralysbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:floralyslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:floralysboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Flower Sweater",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:flowersweaterhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:flowersweaterbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:flowersweaterlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:flowersweaterboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Galaxy Formal",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyformerhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyformerbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyformerlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyformerboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Galaxy Shirt",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyshirthelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyshirtbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyshirtlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:galaxyshirtboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "black Glasses",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:glassesblackhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:glassesblackbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:glassesblacklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:glassesblackboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Glasses",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:glasshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:leather_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Red Glasses",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:glassredhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "minecraft:leather_leggings",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Glowstone Dress",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonedressbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonedresslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonedressboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Glowstone Tuxedo",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonetuxhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonetuxbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonetuxlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:glowstonetuxboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Goggles",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:goggleshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:gogglesbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:goggleslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:gogglesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Grass Tshirt",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:grassteebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:grassteelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Gray Tshirt",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:grayshirtlegs",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:grayshirtboots",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Green PJs",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:greenpjbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:greenpjlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:greenpjboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Halo",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:halohelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:halobody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:halolegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:haloboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Headphones",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:headphonehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:headphonebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:headphonelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:headphoneboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Heart tanktop",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:heartankbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:heartanklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Jeans",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:jeanslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:jeansboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Khakis",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:khakislegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:khakisboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "King Outfit 2",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:kinghelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:kingbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:kinglegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:kingboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Labcoat",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:labcoathelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:labcoatbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:labcoatlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:labcoatboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Lavender Dress",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:lavdresshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:lavdressbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:lavdresslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:lavdressboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Lime Shoes",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:limeshoeshelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:limeshoesbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:limeshoeslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:limeshoesboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Mage",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:magehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:magebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:magelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:mageboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Mint Gown",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:mintgyownhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:mintgyownbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:mintgyownlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:mintgyownboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Mushroom Costume",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomhathelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomhatbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomhatlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomhatboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Mushroom Tshirt",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomteebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:mushroomteelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Navy Bathing Suit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:navybathingsuithelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:navybathingsuitbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:navybathingsuitlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:navybathingsuitboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "New Orange",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:neworangebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:neworangelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink tanktop",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:newpinktankbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:newpinktanklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "minecraft:leather_boots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Nyan Cat",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:nyanhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:nyanbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:nyanlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:nyanboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Police Outfit 3",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:policehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:policebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:policelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:policeboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pig costume",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:pighathelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:pighatbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:pighatlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:pighatboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink Pink Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinkpinkhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinkpinkbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinkpinklegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinkpinkboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink Sneaker",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinksneakerhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinksneakerbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinksneakerlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinksneakerboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Pink Two PIece",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinktwopiecehelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinktwopiecebody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinktwopiecelegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:pinktwopieceboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Psy Red",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:pysredbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:pysredlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:pysredboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Purple Cap",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:purplecaphelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:purplecapbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:purplecaplegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:purplecapboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Queen Outfit 3",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:queenhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:queenbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:queenlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:queenboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Rainbow Flower Outfit",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:rainbowflowercrownhelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:rainbowflowercrownbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:rainbowflowercrownlegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:rainbowflowercrownboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Red Board Shorts",
+    "head": {
+      "itemID": "minecraft:leather_helmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "minecraft:leather_chestplate",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:redboardshortslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:redboardshortsboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Red Cap",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:redcaphelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:redcapbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:redcaplegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:redcapboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
+  },
+  {
+    "name": "Ezio Assassin",
+    "head": {
+      "itemID": "clothingmodbetav04bytitoo8899:eziobrutushelmet",
+      "metaID": 0
+    },
+    "body": {
+      "itemID": "clothingmodbetav04bytitoo8899:eziobrutusbody",
+      "metaID": 0
+    },
+    "legs": {
+      "itemID": "clothingmodbetav04bytitoo8899:eziobrutuslegs",
+      "metaID": 0
+    },
+    "feet": {
+      "itemID": "clothingmodbetav04bytitoo8899:eziobrutusboots",
+      "metaID": 0
+    },
+    "always spawn full set": false,
+    "weight": 10
   }
 ]
