@@ -9,7 +9,7 @@
     "startDiff": 0
   },
   "Pyromaniac": {
-    "isEnabled": true,
+    "isEnabled": false,
     "spawnWeight": 10,
     "startDiff": 0
   },
@@ -29,6 +29,6 @@
     "isEnabled": true,
     "spawnWeight": 50,
     "startDiff": 1,
-    "attackSpeedInTicks": 20
+    "attackSpeedInTicks": 30
   }
 }
