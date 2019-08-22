@@ -751,12 +751,12 @@ rats:rat_dig
 rats:rat_plague
 rats:rat_flute
 rats:piper_loop
-rftools:teleport_whoosh
-rftools:teleport_error
 rftools:elevator_start
 rftools:elevator_loop
 rftools:elevator_stop
 rftools:scan
+rftools:teleport_whoosh
+rftools:teleport_error
 statues:copy
 statues:paint
 techguns:guns.assaultriflefire
