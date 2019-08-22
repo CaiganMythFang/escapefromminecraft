@@ -353,8 +353,11 @@
               "Damage:3": 3
             },
             "4:10": {
-              "id:8": "minecraft:stone",
+              "id:8": "modularmachinery:itemblueprint",
               "Count:3": 1,
+              "tag:10": {
+                "dynamicmachine:8": "modularmachinery:flea_market"
+              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -685,7 +688,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "VaniModu - Rank III",
-          "desc:8": "    §3Excellent, your survivability is commendable. Welcome to the Trade network, mercenary. You now have access to almost every Trader.§r\n\n    §o\"Almost?\"§r\n\n    §3Some Traders are very reclusive. You\u0027ll have to earn their attention.§r\n\n    §o\"I see. So we\u0027ll have to work on reputation with each Trader seperately, yes?\"§o§r.\n\n    §r§3Correct. We all network together, but we do not work together well. Survival these days is a precarious balance of give and take. We are still in business competition with each other, in the end.§o§r \n\n    §oNice to see that hasn\u0027t changed much...§r\n\n    §2Can\u0027t even escape to Space to avoid capitalism I guess... \"Okay, I think we understand. So to get access to better stuff from a Trader, we need to raise our reputation with them, yes?\"§ §r\n\n§3    Correct. Each Trader will have tasks for you to earn their trust. They may be hunting Scav Raiders or some of the monsters of the world. They may be collecting resources for them. Each Trader is different. §r\n\n    §o\"Okay, so how about you?\"§r\n\n    §3Us, as in the VanilModu? We would like you to utilize the two machines we\u0027ve presented to you : The Flea Market and The Cleansing Sieve. Both can give you gear and resources. Give us multiple of each. Some tips, mercenary...\n\n    The Flea Market : \n\n    1) The Market pay differently depending on the kind of item you sell. Anything you can craft is not high in demand. They will still sell, but only expect one or two pennies per item most of the time.\n\n    2) Resources, ammo, etc are higher in demand. You are more likely to get more money per Resource, as well as more likely to get some Gear in return.\n\n    3) Gear and Machines are the highest in demand. Mercenaries are more likely to buy weapons and armor for a higher price. In return, they are more likely to trade you Resources.\n\n    The Cleansing Sieve : \n\n    1) With no Ores around, Caves might seem pointless to search. This is false. There are so many unexplored caves, you are bound to find lots of Compressed Ruins, which are quite easy to dig up. \n\n    2) Not only that, exploring Caves will lead to long abandoned mineshafts, as well as Dungeons. Both may have long forgotten loot you may find useful."
+          "desc:8": "    §3Excellent, your survivability is commendable. Welcome to the Trade network, mercenary. You now have access to almost every Trader.§r\n\n    §o\"Almost?\"§r\n\n    §3Some Traders are very reclusive. You\u0027ll have to earn their attention.§r\n\n    §o\"I see. So we\u0027ll have to work on reputation with each Trader seperately, yes?\"§o§r.\n\n    §r§3Correct. We all network together, but we do not work together well. Survival these days is a precarious balance of give and take. We are still in business competition with each other, in the end.§o§r \n\n    §oNice to see that hasn\u0027t changed much...§r\n\n    §2Can\u0027t even escape to Space to avoid capitalism I guess... \"Okay, I think we understand. So to get access to better stuff from a Trader, we need to raise our reputation with them, yes?\"§ §r\n\n§3    Correct. Each Trader will have tasks for you to earn their trust. They may be hunting Scav Raiders or some of the monsters of the world. They may be collecting resources for them. Each Trader is different. §r\n\n    §o\"Okay, so how about you?\"§r\n\n    §3Us, as in the VanilModu? We would like you to utilize the two machines we\u0027ve presented to you : The Flea Market and The Cleansing Sieve. Both can give you gear and resources. Give us multiple of each. Some tips, mercenary...\n\n    The Flea Market : \n\n    1) The Market pay differently depending on the kind of item you sell. Anything you can craft is not high in demand. They will still sell, but only expect one or two pennies per item most of the time.\n\n    2) Resources, ammo, etc are higher in demand. You are more likely to get more money per Resource, as well as more likely to get some Gear in return.\n\n    3) Gear and Machines are the highest in demand. Mercenaries are more likely to buy weapons and armor for a higher price. In return, they are more likely to trade you Resources.\n\n    4) The Flea Market machine will also automatically combine coins and bills put into it up to the $10 bill, as long as you put it in the input.\n\n    The Cleansing Sieve : \n\n    1) With no Ores around, Caves might seem pointless to search. This is false. There are so many unexplored caves, you are bound to find lots of Compressed Ruins, which are quite easy to dig up. \n\n    2) Not only that, exploring Caves will lead to long abandoned mineshafts, as well as Dungeons. Both may have long forgotten loot you may find useful."
         }
       },
       "tasks:9": {
@@ -41434,7 +41437,7 @@
           "rewards:9": {
             "0:10": {
               "id:8": "modcurrency:banknote",
-              "Count:3": 50,
+              "Count:3": 15,
               "OreDict:8": "",
               "Damage:3": 2
             }
@@ -41542,7 +41545,7 @@
           "rewards:9": {
             "0:10": {
               "id:8": "modcurrency:banknote",
-              "Count:3": 20,
+              "Count:3": 15,
               "OreDict:8": "",
               "Damage:3": 2
             }
@@ -47618,6 +47621,239 @@
           }
         }
       }
+    },
+    "572:10": {
+      "questID:3": 572,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "locks:key_blank",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Lock and Key",
+          "desc:8": "    §2I have to say, this place is more paranoid than that merc enclave we hung out at for a while. Remember that?\n\n    §r§o\"I mean, they had good reason. But what do you mean?\"§r\n\n    §2So... you may have noticed already, but most every chest you find in the world? It\u0027s got a lock on it. And since so much of it is abandoned, where do you think the keys are?\n\n    §r§o\"....I see.\"§r\n\n    §2Okay so, thankfully it looks like your multimeter turned into a stack of Lockpicks. Right Click them onto a chest to try picking it. You need to use A and D to move the pick back and forth, and W to try the pin.\n\n     You need to figure out the correct order to set the pins. Each time you fail, progress resets and you might break your pick.\n\n    §r§o\"Wow, going old school I see.\"§r\n\n    §2No kidding. I swear of a sweet roll is in one of these... but anyways. You can then Sneak + Right Click the chest with an empty hand to remove the Lock and use it later. But you\u0027ll want to set a Blank Key to it, unless you REALLY like picking locks.\n\n    Take a Blank Key and craft it with the Lock. Now that Key will unlock that Lock when it is on a Chest.\n\n    Oh, there\u0027s also a Keyring you can place your keys on."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "locks:lock_pick",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "locks:key_blank",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "locks:lock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "locks:key_ring",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "573:10": {
+      "questID:3": 573,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "locks:lock",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "Buying : Locks",
+          "desc:8": "    §2I got in contact with a few Villages who want to purchase Locks.§r\n\n    §o\"Just Locks? Not Keys?\"§r\n\n    §2Nope, just Locks.§r\n\n    §o\"Why?\"§r\n\n    §2They apparently have a Master Key that unlocks any lock. But braving the Scav Raiders and undead are kinda not worth it for just some Locks. Not when they can pay YOU for them!§r\n\n    §o\"Of course...\"§r\n\n    §2So yeah. Go get some Locks. I mean, you\u0027ll find them anyways, right? Might as well make a few bucks."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "locks:lock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "574:10": {
+      "questID:3": 574,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "oeintegration:excavatemodifier",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Ore Excavation",
+          "desc:8": "    §2Bandit, I know you miss your vein mining tools.\n\n    §r§o\"Mostly for the trees. There isn\u0027t much ore around here unfortunately.\"§r\n\n    §2True, but I think I got a line on some useful stuff for you, which might be a little better than your old Vein Mine trick!\n\n    §r§o\"How so?\"§r\n\n    §2Okay so, a few Traders have access to a bit of stable magic. Juuust enough to create what is called an Excavation Enchant. You can put the enchant on anything (with an Anvil of course!) and it\u0027ll mine extra blocks as long as you are Sneaking.\n\n    §r§o\"Ah, just like Vein Mining. Sneaking while breaking a block breaks the vein. Or the tree.\"§r\n\n    §2Or whatever else! Thats one of the differences, this lets you mine stone and stuff too with it! It\u0027ll eat through your tool durability though. And your hunger...\n\n    §r§o\"Okay so what\u0027s the catch?\"§r\n\n    §2Well, the Enchants cost money. There\u0027s also FIVE tiers of enchant! You\u0027ll have to combine lower level books in an Anvil to get a higher tier. \n\n    You can also Modify your Tinker\u0027s Tools using the Modifier. Five modifier levels equals one Enchant level... I think? "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "oeintegration:excavatemodifier",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 2,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 14
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -47856,6 +48092,27 @@
           "y:3": 152,
           "id:3": 491,
           "sizeY:3": 20
+        },
+        "21:10": {
+          "sizeX:3": 24,
+          "x:3": 236,
+          "y:3": 116,
+          "id:3": 572,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "sizeX:3": 24,
+          "x:3": 236,
+          "y:3": 140,
+          "id:3": 573,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "sizeX:3": 32,
+          "x:3": 272,
+          "y:3": 124,
+          "id:3": 574,
+          "sizeY:3": 32
         }
       },
       "lineID:3": 3,
@@ -51825,11 +52082,11 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 1,
+      "editmode:1": 0,
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 1,
+      "pack_version:3": 101,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
