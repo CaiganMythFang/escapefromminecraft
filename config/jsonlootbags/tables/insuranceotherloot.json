@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:25s}]}"
+              "tag": "{StoredEnchantments:[{lvl:1s,id:36s}]}"
             }
           ]
         },
@@ -21,7 +21,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:2s,id:25s}]}"
+              "tag": "{StoredEnchantments:[{lvl:2s,id:36s}]}"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:3s,id:25s}]}"
+              "tag": "{StoredEnchantments:[{lvl:3s,id:36s}]}"
             }
           ]
         }
