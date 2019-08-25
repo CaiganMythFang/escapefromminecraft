@@ -274,7 +274,7 @@
     "6:10": {
       "questID:3": 6,
       "preRequisites:11": [
-        5
+        577
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -7249,7 +7249,7 @@
     "104:10": {
       "questID:3": 104,
       "preRequisites:11": [
-        5
+        577
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -47854,6 +47854,134 @@
           }
         }
       }
+    },
+    "575:10": {
+      "questID:3": 575,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:purified_water_bottle",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Notes : Fed and Hydrated",
+          "desc:8": "    §2Got your cooking skills up to snuff, Bandit?§r\n\n    §o\"Why?\"\n\n    §2Looks like food in this world isn\u0027t as... saturating as it is in Minecraftia. You\u0027ll have to track both your food AND your water intake a lot more closely. §r\n\n    §o\"Oh. I try to do that anyways.\"\n\n    §2Yeah yeah, but reminding you about things is my job. Well, one of my jobs. So drink things when you can. Heck, even potions will hydrate you some. Tea, coffee, soda, etc. \n\n    Some things that SHOULD hydrate you might not, though, so be careful!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "576:10": {
+      "questID:3": 576,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:monster_box",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Z\u0027s Notes : Hunting Bounties",
+          "desc:8": "    §2The VanilModu let me know about two types of bounties that we should be aware of as new Mercenaries.§r\n\n    §o\"Bounties huh? I guess we ARE considered mercenaries afterall.\"\n\n    §2Yep. Okay, the first one is simple. There are Bounty Boards in Villages, or you can make one. They\u0027ll automatically fill in with requests from locals, and you fulfill them and get paid in return. §r\n\n    §o\"Uh... what if my base is out in the boonies?§r\"\n\n    §2You\u0027d be surprised where folks can settle down, especially in secret. Don\u0027t worry about it.§r\n\n    §o\"If you say so. What\u0027s the other bounty?§r\"\n\n    §2Okay, the big abandoned cities are giant breeding grounds for both monsters and large Scav Raider gangs. The Trader network has pooled together money for Mercenaries who go in and clear out buildings.\n\n    I\u0027ve activated a scanner in the Survival Guide. If a building is marked with a Bounty, I\u0027ll let you know. Wander the floors and fight all the monsters and Scavs you find, but be careful, as they get pretty strong. Call it a home field advantage.§r\n\n    §o\"What about anything I find in the building?§r\"\n\n    §2Yours as part of the payment, but I suggest bringing lots of Lockpicks.\n\n    Clear out the building and you\u0027ll get a stack of cash as a reward."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "577:10": {
+      "questID:3": 577,
+      "preRequisites:11": [
+        5,
+        575,
+        27,
+        490,
+        576,
+        26
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:fireworks",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Time to Start",
+          "desc:8": "    §2Sorry for talking your ear off, Bandit, but this is both of our survival we\u0027re talking about here, yeah?§r\n\n    §o\"I know I know, it\u0027s good stuff to know. What now?\"§r\n\n    §2Well, first thing\u0027s first, we need to get in good with the VanilModu. That should open doors to the rest of the Traders.§r\n\n    §o\"And then...?\"§r\n\n    §2We\u0027re bound to find the equipment we\u0027ll need to get out of this dimension. Not being able to craft it ourselves, we have to rely on buying it from others instead.\n\n    Check out my Workshop, I\u0027ll have some more things to tell you about, as well as guiding you to what we\u0027ll need to escape. I\u0027ll also have some things for you to buy and sell. Not every Trader has their own shop page, apparently...§r\n\n    §o\"Wait, your Workshop? What?\"\n\n    §2You\u0027ll see. Let\u0027s get started."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -47904,23 +48032,44 @@
         "6:10": {
           "sizeX:3": 16,
           "x:3": 192,
-          "y:3": 60,
+          "y:3": 84,
           "id:3": 26,
           "sizeY:3": 16
         },
         "7:10": {
           "sizeX:3": 16,
           "x:3": 192,
-          "y:3": 32,
+          "y:3": 36,
           "id:3": 27,
           "sizeY:3": 16
         },
         "8:10": {
           "sizeX:3": 16,
-          "x:3": 192,
-          "y:3": 88,
+          "x:3": 204,
+          "y:3": 60,
           "id:3": 490,
           "sizeY:3": 16
+        },
+        "9:10": {
+          "sizeX:3": 16,
+          "x:3": 216,
+          "y:3": 36,
+          "id:3": 575,
+          "sizeY:3": 16
+        },
+        "10:10": {
+          "sizeX:3": 16,
+          "x:3": 216,
+          "y:3": 84,
+          "id:3": 576,
+          "sizeY:3": 16
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 240,
+          "y:3": 56,
+          "id:3": 577,
+          "sizeY:3": 24
         }
       },
       "lineID:3": 0,
