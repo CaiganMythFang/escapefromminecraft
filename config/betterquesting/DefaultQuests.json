@@ -416,8 +416,13 @@
             "1:10": {
               "id:8": "minecraft:log",
               "Count:3": 30,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Logs"
+                }
+              },
               "OreDict:8": "logWood",
-              "Damage:3": 0
+              "Damage:3": 1
             },
             "2:10": {
               "id:8": "jsonlootbags:minecraft_gear_loot",
@@ -428,6 +433,11 @@
             "3:10": {
               "id:8": "minecraft:wool",
               "Count:3": 10,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Color Wool"
+                }
+              },
               "OreDict:8": "wool",
               "Damage:3": 0
             }
@@ -10723,7 +10733,7 @@
             "HurtTime:2": 0
           },
           "damageType:8": "",
-          "required:3": 1,
+          "required:3": 15,
           "taskID:8": "bq_standard:hunt",
           "target:8": "raiders:raider",
           "subtypes:1": 1
@@ -22182,8 +22192,13 @@
             "3:10": {
               "id:8": "minecraft:dye",
               "Count:3": 20,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Dye"
+                }
+              },
               "OreDict:8": "dye",
-              "Damage:3": 1
+              "Damage:3": 15
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -22515,7 +22530,7 @@
             "HurtTime:2": 0
           },
           "damageType:8": "",
-          "required:3": 1,
+          "required:3": 10,
           "taskID:8": "bq_standard:hunt",
           "target:8": "raiders:raider",
           "subtypes:1": 1
@@ -32545,7 +32560,10 @@
               "id:8": "headcrumbs:skull",
               "Count:3": 5,
               "tag:10": {
-                "SkullModel:8": "cow"
+                "display:10": {
+                  "Name:8": "Any Creature Head"
+                },
+                "SkullModel:8": "pigman"
               },
               "OreDict:8": "creatureheads",
               "Damage:3": 0
