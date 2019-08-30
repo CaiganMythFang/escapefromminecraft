@@ -1,0 +1,113 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tombstone:fishing_rod_of_misadventure",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "tombstone:dust_of_vanishing",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "tombstone:voodoo_poppet",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tombstone:lost_tablet",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "tombstone:tablet_of_assistance",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tombstone:familiar_receptacle",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_buff",
+          "weight": 53,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tombstone:ankh_of_pray",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "tombstone:scroll_of_knowledge",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "tombstone:tablet_of_recall",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "tombstone:book_of_disenchantment",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}
