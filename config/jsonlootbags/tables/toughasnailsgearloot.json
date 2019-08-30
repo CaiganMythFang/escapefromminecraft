@@ -1,0 +1,168 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "toughasnails:thermometer",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:jelled_slime_helmet",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:jelled_slime_chestplate",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:jelled_slime_leggings",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:jelled_slime_boots",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:wool_leggings",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:wool_chestplate",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:wool_boots",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:canteen",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:wool_helmet",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:purified_water_bottle",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:fruit_juice",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
