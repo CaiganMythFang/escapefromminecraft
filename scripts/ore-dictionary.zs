@@ -285,3 +285,10 @@ val quarkrunes = [
 for item in quarkrunes {
 <ore:quarkrunes>.add(item);
 }
+
+val quarkhats = [
+<quark:archaeologist_hat:*>, <quark:pirate_hat:*>, <quark:witch_hat:*>
+] as IItemStack[];
+for item in quarkhats {
+<ore:quarkhats>.add(item);
+}
