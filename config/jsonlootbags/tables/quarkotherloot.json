@@ -2883,15 +2883,14 @@
         {
           "type": "item",
           "name": "quark:midori_block_slab",
-          "weight": null,
+          "weight": 50,
           "functions": [
             {
-              "function": "set_data",
-              "data": 1
-            },
-            {
               "function": "set_count",
-              "count": 50
+              "count": {
+                "min": 1,
+                "max": 16
+              }
             }
           ]
         },
