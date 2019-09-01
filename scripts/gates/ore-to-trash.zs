@@ -10,7 +10,8 @@ val basicore = [
 <techguns:basicore:4>, <techguns:basicore:3>, <techguns:basicore:2>, <techguns:basicore:1>, <techguns:basicore>, 
 <armorplus:ore_lava_crystal>, 
 <cyclicmagic:end_coal_ore>, <cyclicmagic:end_redstone_ore>, <cyclicmagic:nether_diamond_ore>, <cyclicmagic:nether_emerald_ore>, <cyclicmagic:nether_lapis_ore>, <cyclicmagic:nether_coal_ore>, <cyclicmagic:nether_gold_ore>, <cyclicmagic:nether_iron_ore>, <cyclicmagic:nether_redstone_ore>, <cyclicmagic:end_lapis_ore>, <cyclicmagic:end_emerald_ore>, <cyclicmagic:end_diamond_ore>, <cyclicmagic:end_gold_ore>, <cyclicmagic:end_iron_ore>,
-<quark:biotite_ore>
+<quark:biotite_ore>,
+<geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>
 ] as IItemStack[];
 for item in basicore {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
