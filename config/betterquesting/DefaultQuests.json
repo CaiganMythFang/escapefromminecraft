@@ -41714,7 +41714,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "[I] Buying : Enriched Peat",
+          "name:8": "[I] Buying : Enriched Peat (x16)",
           "desc:8": "    §4Hey there mercenary, you got a good Peat farm going, right? It\u0027s the most natural power source you can get, so of course you do!\n\n    Got some spare Peat? Did you know you can enrich it by mixing it with some charcoal as well?\n\n    Hey, tell ya what. If you need some cash, you could always send us some spare Enriched Peat and we\u0027ll give ya a bit of money in return.  We can always use more."
         }
       },
@@ -42863,7 +42863,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "[IV] Buying : Crystallized Obsidian",
+          "name:8": "[IV] Buying : Crystallized Obsidian (x5)",
           "desc:8": "    §4There\u0027s a few things you could really help us out with providing, mercenary! One of them is Crystallized Obsidian.\n\n    We make some of it in house, but we like to offer mercenaries like yourself the opportunity to make some extra cash as well!"
         }
       },
@@ -47903,7 +47903,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Z\u0027s Notes : Fed and Hydrated",
-          "desc:8": "    §2Got your cooking skills up to snuff, Bandit?§r\n\n    §o\"Why?\"\n\n    §2Looks like food in this world isn\u0027t as... saturating as it is in Minecraftia. You\u0027ll have to track both your food AND your water intake a lot more closely. §r\n\n    §o\"Oh. I try to do that anyways.\"\n\n    §2Yeah yeah, but reminding you about things is my job. Well, one of my jobs. So drink things when you can. Heck, even potions will hydrate you some. Tea, coffee, soda, etc. \n\n    Some things that SHOULD hydrate you might not, though, so be careful!"
+          "desc:8": "    §2Got your cooking skills up to snuff, Bandit?§r\n\n    §o\"Why?\"\n\n    §2Looks like food in this world isn\u0027t as... saturating as it is in Minecraftia. You\u0027ll have to track both your food AND your water intake a lot more closely. §r\n\n    §o\"Oh. I try to do that anyways.\"\n\n    §2Yeah yeah, but reminding you about things is my job. Well, one of my jobs. So drink things when you can. Heck, even potions will hydrate you some. Tea, coffee, soda, etc. \n\n    Some things that SHOULD hydrate you might not, though, so be careful!§r\n\n    §o\"Are those the only ways?\"\n\n    §2No, you can Sneak + Right Click with an Empty Hand to drink from puddles, lakes, rivers, etc. But that water might not be all that clean, you know?\n\n    You can fill Glass Bottles with Water (Right Click them on the water), and then Purify them with a Charcoal Filter. You can also make a Canteen, fill it with Water, and Purify it the same way too."
         }
       },
       "tasks:9": {
@@ -48353,6 +48353,1617 @@
         }
       },
       "rewards:9": {}
+    },
+    "584:10": {
+      "questID:3": 584,
+      "preRequisites:11": [
+        493
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:ice_cube",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[I] Buying : Ice Cubes (x8)",
+          "desc:8": "    §4Hey mercenary, if your travels bring you to some nice, cold areas, you might be able to harvest up some Ice for us! Nah, not those big chunks of ice, but these little Ice Cubes that never seem to melt!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "toughasnails:ice_cube",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "585:10": {
+      "questID:3": 585,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:magma_shard",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Magma Shard (x8)",
+          "desc:8": "    §4Hey mercenary, if your travels bring you to some the hot hot Nether, think you could go searching for some Magma Blocks?\n\n    See, they are the only source for Magma Shards, which are pretty useful to us.  "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "toughasnails:magma_shard",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "586:10": {
+      "questID:3": 586,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:temperature_coil",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Cooling Coil",
+          "desc:8": "    §4Heating and cooling bases is pretty tough these days, mercenary. You can\u0027t just generate power as easily as in the old days!\n\n    If you happen to find a Cooling Coil, we could use it around here. They are pretty finicky devices, most mercs don\u0027t really have use for them, but in Heaven Plaza we got plenty of uses for em!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "toughasnails:temperature_coil",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "587:10": {
+      "questID:3": 587,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:temperature_coil",
+            "Count:3": 2,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Heating Coil",
+          "desc:8": "    §4Heating and cooling bases is pretty tough these days, mercenary. You can\u0027t just generate power as easily as in the old days!\n\n    If you happen to find a Heating Coil, we could use it around here. They are pretty finicky devices, most mercs don\u0027t really have use for them, but in Heaven Plaza we got plenty of uses for em!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "toughasnails:temperature_coil",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "588:10": {
+      "questID:3": 588,
+      "preRequisites:11": [
+        501
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "toughasnails:thermometer",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[III] Buying : Thermometer",
+          "desc:8": "    §4To a mercenary, the changing temperatures these days aren\u0027t much. A hearty bunch, the lot of you! To those of us in Heaven Plaza though? They play havoc with our bones some times, so knowing the temp of the area is always good!\n\n    These special thermometers don\u0027t really have a use to you mercs, so we\u0027ll buy them off ya."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "toughasnails:thermometer",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "589:10": {
+      "questID:3": 589,
+      "preRequisites:11": [
+        493
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:rune",
+            "Count:3": 64,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[I] Buying : Quark Runes (x2)",
+          "desc:8": "    §4You\u0027ve probably come across some of these in ruins, mercenary, but they are pretty special to us.\n\n    See, these Runes? They aren\u0027t used for much, but they contain just that little bit of magic that gives us boneheads life. So we like to collect all of them we can!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:rune",
+              "Count:3": 2,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Quark Rune"
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "590:10": {
+      "questID:3": 590,
+      "preRequisites:11": [
+        105
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "UNLOCKED",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "firstaid:plaster",
+            "Count:3": 15,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Healing Factor",
+          "desc:8": "    §2Bandit, I mentioned that damage and healing in this world are not what you are used to, right?§r\n\n    §o\"Right, you mentioned something about that...\"§r\n\n    §2In Minecrafta, a hit is a hit, right? A hit to an arm might as well be a hit to your face. Not here though. Your legs, body/arms, and head are seperate, and the armor that covers them is seperate too. A good helmet will save your noggin, but won\u0027t do as much for your feet, right?\n\n    Hit F to see the status of your entire body. Each body part takes damage, and if they get enough damage you got problems. You might get slowed down, or your vision goes blurry. If your Body goes out? Bye bye, see you when you respawn.\n\n   And unlike Minecraftia, you don\u0027t have the natural healing factor of Deadpool. More like uh... Well, let\u0027s just say your healing factor is a bit sluggish. Very sluggish.§r\n\n    §o\"Okay, so I\u0027ll need to rely on potions and stuff to heal?\"§r\n\n    §2You\u0027ll probably mostly rely on Bandages, Plaster, and Morphine to start with. You can easily make them yourself, at least.§r\n\n    §o\"What\u0027s the downside, then?\"§r\n\n    §2Yeah, applying them takes time. You can\u0027t just pop em like a potion and instantly be dandy. They take a bit of time to apply and take effect. But they are the cheap option, as most other healing items are a bit...dulled, here.\n\n    Here, if you don\u0027t have the supplies, I have a line in with a Doctor Trader here who will sell us some."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "firstaid:bandage",
+              "Count:3": 6,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "firstaid:plaster",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "firstaid:morphine",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "591:10": {
+      "questID:3": 591,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:black_ash",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Spooky Ash",
+          "desc:8": "    §4Protecting every little nook and cranny of your base is quite a aduous task. Especially with how sneaky some of these monsters can be!\n\n    So thats why we have...\n\n    §lWITHER ASH§r§4!\n\n    This black powder is dropped by Withers and Wither Skeletons. Place it down, much like Redstone, and no creatures will \u0027spawn\u0027 on or above it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "quark:black_ash",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "592:10": {
+      "questID:3": 592,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:black_ash",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Wither Ash (x10)",
+          "desc:8": "    §4Next time you are in the Nether, if you could hunt down some Wither Skeletons, we could use some of their Wither Ash. It\u0027s quite a popular item! And we need it since well... let us just say family likes stopping by a lot. \n\n    The kind we\u0027d unfriend on social media when that used to be a thing."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:black_ash",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 6,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "593:10": {
+      "questID:3": 593,
+      "preRequisites:11": [
+        493
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:tallow",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[I] Buying : Tallow (x4)",
+          "desc:8": "    §4If you got a good farm going, we might have a proposition for you, mercenary!\n\n    See, torchlight is okay in a pinch, but some of us really old school boneheads love the soft glow of candles.\n\n     And the main way to make candles? With pig Tallow!\n\n    So you get us some Tallow, we\u0027ll pay you a bit!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:tallow",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "594:10": {
+      "questID:3": 594,
+      "preRequisites:11": [
+        501
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:biotite",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[III] Buying : Ender Biotite (x5)",
+          "desc:8": "    §4The End was, and still is, a very dangerous place! And it used to be the source of a resouce called Ender Biotite.\n\n    Unfortunately, like everywhere else, there is no Ore, only trash and ruins.\n\n    You can sometimes salvage Ender Biotite from various places, and we\u0027ll pay for whatever you find!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:biotite",
+              "Count:3": 5,
+              "OreDict:8": "gemEnderBiotite",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "595:10": {
+      "questID:3": 595,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:smoker",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Nether Smoker (x2)",
+          "desc:8": "    §4You\u0027ve most likely seen these thick black smoke clouds when travelling the Nether, right? Though it\u0027s kind of hard to tell with everything being on fire, I know.\n\n     If you track some of the really thick clouds, you can find these Nether Smokers! They are a little magical, creating endless amounts of smoke and not much else.\n \n    We like using them as smoke signals when communications are down."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:smoker",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "596:10": {
+      "questID:3": 596,
+      "preRequisites:11": [
+        501
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:soul_bead",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[III] Buying : Soul Bead (x2)",
+          "desc:8": "    §4Sometimes, the undead don\u0027t stay undead. Or they do, but become something a bit different. We call these Wraiths.\n\n    Wraiths are fairly dangerous, but they carry with them a soul essence called a Soul Bead. While sure, you can consume the Soul Bead, it kind of just...curses you, making you quite attractive to both Scavs and our evil undead breathren!\n\n    But with it, we in the Heaven\u0027s Collective can make a special Soul Powder you might find useful!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:soul_bead",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "597:10": {
+      "questID:3": 597,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:soul_powder",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Powdered Soul",
+          "desc:8": "    §4Most mercenaries who go to the Nether are searching for one thing : The Nether Fortress. Or A Nether Fortress, really, there\u0027s always more being built!\n\n    But finding Nether Fortresses can be a daunting task, with the burning, winding Nether. So we\u0027ve come up with...\n\n    §lSOUL POWDER§r§4!\n\n    This magical powder, when used, will create a smoke trail that points you towards the nearest Nether Fortress!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 40,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "quark:soul_powder",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "598:10": {
+      "questID:3": 598,
+      "preRequisites:11": [
+        502
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:enderdragon_scale",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[IV] Buying : Dragon Scale",
+          "desc:8": "    §4Ender Dragons are the most dangerous inhabitant of the End. Deadly, destructive and huge.\n\n    If you can take one down, they carry a lot of treasures. And even their scales are quite sought after by collectors!\n\n    We can help find buyers for them : us!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:enderdragon_scale",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "599:10": {
+      "questID:3": 599,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:archaeologist_hat",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Good Hats",
+          "desc:8": "    §4They say the hat is part of the job, and the job is part of the hat. I think. It\u0027s a fairly old saying, older than this bonehead for sure!\n\n    But with that, we have a small collection of hats you may like!\n\n    §lARCHAEOLOGIST HAT§r§4!\n\n    This is a good hat when you are digging around. Sure, almost only thing you\u0027ll find is trash, but the occasional goodie might pop up if you wear this! \n\n    §lPIRATE HAT!§r§4\n\n    It\u0027s a Pirate Hat! What more do you want?\n\n    §lWITCH\"S HAT§r§4!\n\n    A great hat, especially when you are up against another Witch! They fight a little more fair while you wear one!\n    "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "quark:archaeologist_hat",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "quark:pirate_hat",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "quark:witch_hat",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "600:10": {
+      "questID:3": 600,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:pirate_hat",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[II] Buying : Quark Hats",
+          "desc:8": "    §4Some of our older boneheads are always on the lookout for certain pieces of history. Specifically, hats!\n\n    There are a few hats in specific they want : Pirate, Witch, and Archaeologist. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:witch_hat",
+              "Count:3": 1,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Quark Hat"
+                }
+              },
+              "OreDict:8": "quarkhats",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "601:10": {
+      "questID:3": 601,
+      "preRequisites:11": [
+        493
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:trowel",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Little Tools",
+          "desc:8": "    §4Not every useful tool is some big, expensive thing! Here\u0027s a couple cheap, simple tools you might like, mercenary!\n\n    §lHORSE WHISTLE§r§4!\n\n    Did your horse wander off while you were searching some ruins? As long as it\u0027s close by, you can call it back to you using this Horse Whistle!\n\n    §lTROWEL§r§4!\n\n    Want some variety in your construction? Use the Trowel! Right Clicking on a block with it will act like you were placing material down, but it\u0027ll choose a random block on your Hotbar! \n    "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 1,
+          "choices:9": {
+            "0:10": {
+              "id:8": "quark:trowel",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "quark:horse_whistle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "602:10": {
+      "questID:3": 602,
+      "preRequisites:11": [
+        493
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:chute",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Shifting Items",
+          "desc:8": "    §4Conveyor belts might be a nice way to move items around, but they aren\u0027t the only way! Here\u0027s two useful things you might have a use for!\n\n    §lCHUTE§r§4!\n\n    The Chute is simple! When an item is put into it, it immediately drops it straight downward! Thus, a Chute!\n\n    But you can turn the Chute on and off with a Redstone Signal! Drop only when you want it to drop!\n\n    §lITEM PIPE§r§4!\n\n    This is a good way to safely transport something across short distances, without risking it being picked up along the way (like on a conveyor belt!)\n\n    Use a Hopper or other block to put the items into the Pipe, and it then travels along it. What happens when it reaches multiple paths, though? Well, it has a few rules : \n\n    First, it will take a DOWN path when possible.\n\n    Second, if there is a straight path, it will take that.\n\n    If there is a left AND right path, it will randomly choose which way to go.\n\n    If there is an up path, it will choose a different path if it can.\n\n    If the item reaches the end of the Pipe, and the inventory is full, it will U turn.\n\n    You can turn off a pipe as a valid route by supplying it with a Redstone Signal!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "quark:chute",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "quark:pipe",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "603:10": {
+      "questID:3": 603,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:redstone_randomizer",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Redstone Utilities",
+          "desc:8": "    §4Redstone is such a powerful thing. It provides signals, power, and creates lots of great machines! \n\n    Here\u0027s a few more things you can add to your Redstone toolbox : \n\n    §lREDSTONE RANDOMIZER§r§4!\n\n    When a Redstone Signal hits this, it will randomly pass it on to either the Left or Right.\n\n    §lWEATHER SENSOR§r§4!\n\n    When it rains, this Weather Sensor will output a Redstone Signal! You can Right Click the block to have it do the opposite!\n\n    §lENDER WATCHER§r§4!\n\n    If you look at this block, it will emit a Redstone Signal!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "quark:redstone_randomizer",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "quark:rain_detector",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "quark:ender_watcher",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "604:10": {
+      "questID:3": 604,
+      "preRequisites:11": [
+        501
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:diamond_heart",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[III] Buying : Heart of Diamond",
+          "desc:8": "    §4Sometimes when exploring the underground, you\u0027ll come across these golem like creatures.\n\n    If you can defeat one, it may drop a Heart of Diamond. There isn\u0027t much use for it for mercenaries, but us boneheads can use it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "quark:diamond_heart",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "605:10": {
+      "questID:3": 605,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:paper_lantern",
+            "Count:3": 4,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[II] Selling : Lighting Options!",
+          "desc:8": "    §4Torches. Candles. Fire. Sometimes lighting your base the same old way is boring, right?\n\n    So we have a few new Lighting options for you, mercenary!\n\n    §lELDER SEA LANTERN§r§4!\n\n    An alternate to the normal Sea Lantern!\n\n    §lBLAZE LANTERN§r§4!\n\n    A more firey light than a normal Redstone Lantern!\n\n    §lPAPER LANTERN§r§4!\n\n    A more elegant and festive flair to your lights!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 30,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "quark:elder_sea_lantern",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "quark:blaze_lantern",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "quark:paper_lantern",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "606:10": {
+      "questID:3": 606,
+      "preRequisites:11": [
+        501
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:pickarang",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[III] Selling : Return to Sender",
+          "desc:8": "    §4Some tools are just fun to use!\n\n    §lPICKARANG§r§4!\n\n    The Pickarang is exactly that! You can Right Click to throw it, and it\u0027ll break most blocks it hits!\n\n    It will also pick up any items the block drops when broken (not all blocks will drop something if hit with the Pickarang though!), and bring them back to you!\n\n    If you kill an enemy with the Pickarang, it will return with all the drops!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "quark:pickarang",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -48517,119 +50128,119 @@
         },
         "7:10": {
           "sizeX:3": 40,
-          "x:3": 8,
+          "x:3": 56,
           "y:3": 108,
           "id:3": 111,
           "sizeY:3": 40
         },
         "8:10": {
           "sizeX:3": 20,
-          "x:3": 8,
+          "x:3": 56,
           "y:3": 148,
           "id:3": 112,
           "sizeY:3": 20
         },
         "9:10": {
           "sizeX:3": 20,
-          "x:3": 28,
+          "x:3": 76,
           "y:3": 148,
           "id:3": 113,
           "sizeY:3": 20
         },
         "10:10": {
           "sizeX:3": 16,
-          "x:3": 48,
+          "x:3": 96,
           "y:3": 112,
           "id:3": 114,
           "sizeY:3": 32
         },
         "11:10": {
           "sizeX:3": 24,
-          "x:3": 76,
+          "x:3": 124,
           "y:3": 100,
           "id:3": 115,
           "sizeY:3": 24
         },
         "12:10": {
           "sizeX:3": 24,
-          "x:3": 76,
+          "x:3": 124,
           "y:3": 148,
           "id:3": 405,
           "sizeY:3": 24
         },
         "13:10": {
           "sizeX:3": 24,
-          "x:3": 112,
+          "x:3": 160,
           "y:3": 96,
           "id:3": 406,
           "sizeY:3": 24
         },
         "14:10": {
           "sizeX:3": 24,
-          "x:3": 112,
+          "x:3": 160,
           "y:3": 124,
           "id:3": 407,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 112,
+          "x:3": 160,
           "y:3": 152,
           "id:3": 408,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 148,
+          "x:3": 196,
           "y:3": 116,
           "id:3": 480,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
-          "x:3": 148,
+          "x:3": 196,
           "y:3": 140,
           "id:3": 487,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 40,
-          "x:3": 184,
+          "x:3": 232,
           "y:3": 112,
           "id:3": 488,
           "sizeY:3": 40
         },
         "19:10": {
           "sizeX:3": 20,
-          "x:3": 184,
+          "x:3": 232,
           "y:3": 152,
           "id:3": 489,
           "sizeY:3": 20
         },
         "20:10": {
           "sizeX:3": 20,
-          "x:3": 204,
+          "x:3": 252,
           "y:3": 152,
           "id:3": 491,
           "sizeY:3": 20
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 236,
+          "x:3": 284,
           "y:3": 116,
           "id:3": 572,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
-          "x:3": 236,
+          "x:3": 284,
           "y:3": 140,
           "id:3": 573,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 32,
-          "x:3": 272,
+          "x:3": 320,
           "y:3": 124,
           "id:3": 574,
           "sizeY:3": 32
@@ -48647,6 +50258,13 @@
           "y:3": 52,
           "id:3": 583,
           "sizeY:3": 16
+        },
+        "26:10": {
+          "sizeX:3": 36,
+          "x:3": 12,
+          "y:3": 108,
+          "id:3": 590,
+          "sizeY:3": 40
         }
       },
       "lineID:3": 3,
@@ -52077,8 +53695,8 @@
         },
         "3:10": {
           "sizeX:3": 24,
-          "x:3": 188,
-          "y:3": 112,
+          "x:3": 200,
+          "y:3": 108,
           "id:3": 495,
           "sizeY:3": 24
         },
@@ -52140,287 +53758,287 @@
         },
         "12:10": {
           "sizeX:3": 24,
-          "x:3": 216,
-          "y:3": 112,
+          "x:3": 352,
+          "y:3": 136,
           "id:3": 504,
           "sizeY:3": 24
         },
         "13:10": {
           "sizeX:3": 24,
-          "x:3": 216,
-          "y:3": 140,
+          "x:3": 380,
+          "y:3": 136,
           "id:3": 505,
           "sizeY:3": 24
         },
         "14:10": {
           "sizeX:3": 24,
-          "x:3": 244,
-          "y:3": 112,
+          "x:3": 216,
+          "y:3": 224,
           "id:3": 506,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 244,
-          "y:3": 140,
+          "x:3": 216,
+          "y:3": 252,
           "id:3": 507,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 244,
-          "y:3": 168,
+          "x:3": 216,
+          "y:3": 280,
           "id:3": 508,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
-          "x:3": 336,
-          "y:3": 196,
+          "x:3": 420,
+          "y:3": 104,
           "id:3": 509,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 196,
+          "x:3": 448,
+          "y:3": 312,
           "id:3": 510,
           "sizeY:3": 24
         },
         "19:10": {
           "sizeX:3": 24,
-          "x:3": 140,
+          "x:3": 144,
           "y:3": 260,
           "id:3": 511,
           "sizeY:3": 24
         },
         "20:10": {
           "sizeX:3": 24,
-          "x:3": 336,
-          "y:3": 140,
+          "x:3": 364,
+          "y:3": 104,
           "id:3": 512,
           "sizeY:3": 24
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 140,
+          "x:3": 448,
+          "y:3": 284,
           "id:3": 513,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
           "x:3": 336,
-          "y:3": 112,
+          "y:3": 104,
           "id:3": 514,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 224,
+          "x:3": 392,
+          "y:3": 168,
           "id:3": 515,
           "sizeY:3": 24
         },
         "24:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 112,
+          "x:3": 216,
+          "y:3": 196,
           "id:3": 516,
           "sizeY:3": 24
         },
         "25:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 168,
+          "x:3": 352,
+          "y:3": 224,
           "id:3": 517,
           "sizeY:3": 24
         },
         "26:10": {
           "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 112,
+          "x:3": 448,
+          "y:3": 256,
           "id:3": 518,
           "sizeY:3": 24
         },
         "27:10": {
           "sizeX:3": 24,
-          "x:3": 392,
+          "x:3": 424,
           "y:3": 140,
           "id:3": 519,
           "sizeY:3": 24
         },
         "28:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 140,
+          "x:3": 336,
+          "y:3": 196,
           "id:3": 520,
           "sizeY:3": 24
         },
         "29:10": {
           "sizeX:3": 24,
-          "x:3": 304,
-          "y:3": 112,
+          "x:3": 188,
+          "y:3": 312,
           "id:3": 521,
           "sizeY:3": 24
         },
         "30:10": {
           "sizeX:3": 24,
-          "x:3": 304,
-          "y:3": 168,
+          "x:3": 300,
+          "y:3": 312,
           "id:3": 522,
           "sizeY:3": 24
         },
         "31:10": {
           "sizeX:3": 24,
-          "x:3": 368,
-          "y:3": 280,
+          "x:3": 264,
+          "y:3": 108,
           "id:3": 523,
           "sizeY:3": 24
         },
         "32:10": {
           "sizeX:3": 24,
-          "x:3": 476,
+          "x:3": 480,
           "y:3": 112,
           "id:3": 524,
           "sizeY:3": 24
         },
         "33:10": {
           "sizeX:3": 24,
-          "x:3": 476,
+          "x:3": 480,
           "y:3": 140,
           "id:3": 525,
           "sizeY:3": 24
         },
         "34:10": {
           "sizeX:3": 24,
-          "x:3": 476,
+          "x:3": 480,
           "y:3": 168,
           "id:3": 526,
           "sizeY:3": 24
         },
         "35:10": {
           "sizeX:3": 24,
-          "x:3": 476,
+          "x:3": 480,
           "y:3": 196,
           "id:3": 527,
           "sizeY:3": 24
         },
         "36:10": {
           "sizeX:3": 24,
-          "x:3": 476,
+          "x:3": 480,
           "y:3": 224,
           "id:3": 528,
           "sizeY:3": 24
         },
         "37:10": {
           "sizeX:3": 24,
-          "x:3": 448,
+          "x:3": 452,
           "y:3": 112,
           "id:3": 529,
           "sizeY:3": 24
         },
         "38:10": {
           "sizeX:3": 24,
-          "x:3": 448,
+          "x:3": 452,
           "y:3": 140,
           "id:3": 530,
           "sizeY:3": 24
         },
         "39:10": {
           "sizeX:3": 24,
-          "x:3": 448,
+          "x:3": 452,
           "y:3": 168,
           "id:3": 531,
           "sizeY:3": 24
         },
         "40:10": {
           "sizeX:3": 24,
-          "x:3": 448,
+          "x:3": 452,
           "y:3": 196,
           "id:3": 532,
           "sizeY:3": 24
         },
         "41:10": {
           "sizeX:3": 24,
-          "x:3": 448,
+          "x:3": 452,
           "y:3": 224,
           "id:3": 533,
           "sizeY:3": 24
         },
         "42:10": {
           "sizeX:3": 24,
-          "x:3": 216,
-          "y:3": 168,
+          "x:3": 388,
+          "y:3": 256,
           "id:3": 534,
           "sizeY:3": 24
         },
         "43:10": {
           "sizeX:3": 24,
           "x:3": 188,
-          "y:3": 140,
+          "y:3": 168,
           "id:3": 535,
           "sizeY:3": 24
         },
         "44:10": {
           "sizeX:3": 24,
           "x:3": 188,
-          "y:3": 168,
+          "y:3": 196,
           "id:3": 536,
           "sizeY:3": 24
         },
         "45:10": {
           "sizeX:3": 24,
           "x:3": 188,
-          "y:3": 196,
+          "y:3": 224,
           "id:3": 537,
           "sizeY:3": 24
         },
         "46:10": {
           "sizeX:3": 24,
           "x:3": 188,
-          "y:3": 224,
+          "y:3": 252,
           "id:3": 538,
           "sizeY:3": 24
         },
         "47:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 140,
+          "x:3": 216,
+          "y:3": 136,
           "id:3": 539,
           "sizeY:3": 24
         },
         "48:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 112,
+          "x:3": 360,
+          "y:3": 256,
           "id:3": 540,
           "sizeY:3": 24
         },
         "49:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 196,
+          "x:3": 332,
+          "y:3": 284,
           "id:3": 541,
           "sizeY:3": 24
         },
         "50:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 168,
+          "x:3": 244,
+          "y:3": 224,
           "id:3": 542,
           "sizeY:3": 24
         },
         "51:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 112,
+          "x:3": 216,
+          "y:3": 168,
           "id:3": 543,
           "sizeY:3": 24
         },
         "52:10": {
           "sizeX:3": 24,
-          "x:3": 272,
+          "x:3": 244,
           "y:3": 196,
           "id:3": 544,
           "sizeY:3": 24
@@ -52428,7 +54046,7 @@
         "53:10": {
           "sizeX:3": 24,
           "x:3": 304,
-          "y:3": 196,
+          "y:3": 112,
           "id:3": 545,
           "sizeY:3": 24
         },
@@ -52442,125 +54060,125 @@
         "55:10": {
           "sizeX:3": 24,
           "x:3": 304,
-          "y:3": 224,
+          "y:3": 168,
           "id:3": 547,
           "sizeY:3": 24
         },
         "56:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 168,
+          "x:3": 408,
+          "y:3": 224,
           "id:3": 548,
           "sizeY:3": 24
         },
         "57:10": {
           "sizeX:3": 24,
-          "x:3": 244,
-          "y:3": 224,
+          "x:3": 364,
+          "y:3": 168,
           "id:3": 549,
           "sizeY:3": 24
         },
         "58:10": {
           "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 168,
+          "x:3": 324,
+          "y:3": 224,
           "id:3": 550,
           "sizeY:3": 24
         },
         "59:10": {
           "sizeX:3": 24,
-          "x:3": 336,
-          "y:3": 168,
+          "x:3": 392,
+          "y:3": 196,
           "id:3": 551,
           "sizeY:3": 24
         },
         "60:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 224,
+          "x:3": 328,
+          "y:3": 312,
           "id:3": 552,
           "sizeY:3": 24
         },
         "61:10": {
           "sizeX:3": 24,
-          "x:3": 216,
+          "x:3": 364,
           "y:3": 196,
           "id:3": 553,
           "sizeY:3": 24
         },
         "62:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 252,
+          "x:3": 480,
+          "y:3": 256,
           "id:3": 554,
           "sizeY:3": 24
         },
         "63:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 280,
+          "x:3": 480,
+          "y:3": 284,
           "id:3": 555,
           "sizeY:3": 24
         },
         "64:10": {
           "sizeX:3": 24,
-          "x:3": 420,
-          "y:3": 308,
+          "x:3": 480,
+          "y:3": 312,
           "id:3": 556,
           "sizeY:3": 24
         },
         "65:10": {
           "sizeX:3": 24,
-          "x:3": 268,
-          "y:3": 272,
+          "x:3": 416,
+          "y:3": 256,
           "id:3": 557,
           "sizeY:3": 24
         },
         "66:10": {
           "sizeX:3": 24,
-          "x:3": 240,
-          "y:3": 272,
+          "x:3": 304,
+          "y:3": 256,
           "id:3": 558,
           "sizeY:3": 24
         },
         "67:10": {
           "sizeX:3": 24,
-          "x:3": 240,
-          "y:3": 312,
+          "x:3": 272,
+          "y:3": 168,
           "id:3": 559,
           "sizeY:3": 24
         },
         "68:10": {
           "sizeX:3": 24,
-          "x:3": 268,
-          "y:3": 312,
+          "x:3": 272,
+          "y:3": 196,
           "id:3": 560,
           "sizeY:3": 24
         },
         "69:10": {
           "sizeX:3": 24,
-          "x:3": 296,
-          "y:3": 312,
+          "x:3": 272,
+          "y:3": 224,
           "id:3": 561,
           "sizeY:3": 24
         },
         "70:10": {
           "sizeX:3": 24,
-          "x:3": 324,
-          "y:3": 312,
+          "x:3": 272,
+          "y:3": 252,
           "id:3": 562,
           "sizeY:3": 24
         },
         "71:10": {
           "sizeX:3": 24,
-          "x:3": 352,
-          "y:3": 312,
+          "x:3": 272,
+          "y:3": 280,
           "id:3": 563,
           "sizeY:3": 24
         },
         "72:10": {
           "sizeX:3": 24,
-          "x:3": 216,
+          "x:3": 244,
           "y:3": 252,
           "id:3": 564,
           "sizeY:3": 24
@@ -52568,50 +54186,204 @@
         "73:10": {
           "sizeX:3": 24,
           "x:3": 188,
-          "y:3": 252,
+          "y:3": 136,
           "id:3": 565,
           "sizeY:3": 24
         },
         "74:10": {
           "sizeX:3": 24,
-          "x:3": 336,
-          "y:3": 260,
+          "x:3": 228,
+          "y:3": 108,
           "id:3": 566,
           "sizeY:3": 24
         },
         "75:10": {
           "sizeX:3": 24,
-          "x:3": 452,
-          "y:3": 312,
+          "x:3": 360,
+          "y:3": 284,
           "id:3": 567,
           "sizeY:3": 24
         },
         "76:10": {
           "sizeX:3": 24,
-          "x:3": 452,
+          "x:3": 304,
           "y:3": 284,
           "id:3": 568,
           "sizeY:3": 24
         },
         "77:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 312,
+          "x:3": 188,
+          "y:3": 280,
           "id:3": 569,
           "sizeY:3": 24
         },
         "78:10": {
           "sizeX:3": 24,
-          "x:3": 296,
-          "y:3": 272,
+          "x:3": 332,
+          "y:3": 256,
           "id:3": 570,
           "sizeY:3": 24
         },
         "79:10": {
           "sizeX:3": 24,
-          "x:3": 244,
-          "y:3": 196,
+          "x:3": 216,
+          "y:3": 312,
           "id:3": 571,
+          "sizeY:3": 24
+        },
+        "80:10": {
+          "sizeX:3": 24,
+          "x:3": 112,
+          "y:3": 144,
+          "id:3": 584,
+          "sizeY:3": 24
+        },
+        "81:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 144,
+          "id:3": 585,
+          "sizeY:3": 24
+        },
+        "82:10": {
+          "sizeX:3": 24,
+          "x:3": 112,
+          "y:3": 176,
+          "id:3": 586,
+          "sizeY:3": 24
+        },
+        "83:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 176,
+          "id:3": 587,
+          "sizeY:3": 24
+        },
+        "84:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 216,
+          "id:3": 588,
+          "sizeY:3": 24
+        },
+        "85:10": {
+          "sizeX:3": 24,
+          "x:3": 112,
+          "y:3": 112,
+          "id:3": 589,
+          "sizeY:3": 24
+        },
+        "86:10": {
+          "sizeX:3": 24,
+          "x:3": 244,
+          "y:3": 312,
+          "id:3": 591,
+          "sizeY:3": 24
+        },
+        "87:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 144,
+          "id:3": 592,
+          "sizeY:3": 24
+        },
+        "88:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 112,
+          "id:3": 593,
+          "sizeY:3": 24
+        },
+        "89:10": {
+          "sizeX:3": 24,
+          "x:3": 48,
+          "y:3": 176,
+          "id:3": 594,
+          "sizeY:3": 24
+        },
+        "90:10": {
+          "sizeX:3": 24,
+          "x:3": 80,
+          "y:3": 144,
+          "id:3": 595,
+          "sizeY:3": 24
+        },
+        "91:10": {
+          "sizeX:3": 24,
+          "x:3": 80,
+          "y:3": 176,
+          "id:3": 596,
+          "sizeY:3": 24
+        },
+        "92:10": {
+          "sizeX:3": 24,
+          "x:3": 272,
+          "y:3": 312,
+          "id:3": 597,
+          "sizeY:3": 24
+        },
+        "93:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 260,
+          "id:3": 598,
+          "sizeY:3": 24
+        },
+        "94:10": {
+          "sizeX:3": 24,
+          "x:3": 392,
+          "y:3": 104,
+          "id:3": 599,
+          "sizeY:3": 24
+        },
+        "95:10": {
+          "sizeX:3": 24,
+          "x:3": 16,
+          "y:3": 144,
+          "id:3": 600,
+          "sizeY:3": 24
+        },
+        "96:10": {
+          "sizeX:3": 24,
+          "x:3": 336,
+          "y:3": 168,
+          "id:3": 601,
+          "sizeY:3": 24
+        },
+        "97:10": {
+          "sizeX:3": 24,
+          "x:3": 244,
+          "y:3": 168,
+          "id:3": 602,
+          "sizeY:3": 24
+        },
+        "98:10": {
+          "sizeX:3": 24,
+          "x:3": 244,
+          "y:3": 136,
+          "id:3": 603,
+          "sizeY:3": 24
+        },
+        "99:10": {
+          "sizeX:3": 24,
+          "x:3": 112,
+          "y:3": 216,
+          "id:3": 604,
+          "sizeY:3": 24
+        },
+        "100:10": {
+          "sizeX:3": 24,
+          "x:3": 416,
+          "y:3": 284,
+          "id:3": 605,
+          "sizeY:3": 24
+        },
+        "101:10": {
+          "sizeX:3": 24,
+          "x:3": 380,
+          "y:3": 224,
+          "id:3": 606,
           "sizeY:3": 24
         }
       },
