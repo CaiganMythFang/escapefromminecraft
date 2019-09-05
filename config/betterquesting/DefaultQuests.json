@@ -193,7 +193,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Kill Or Be Killed",
-          "desc:8": "    §oAfter a short discussion with my pAI and getting a bit of a rest in, I gathered my gear and set out to start hunting. I made sure to mark my safe house on my map (using the J key), as I had the feeling I\u0027d need a base of operations if I wanted any hope of getting out of here. \n\n    From what Z could gather, there were four factions at play in this world : \n \n    The remnants of civilized society were huddled in small villages that dotted the landscape. Dubbed simply §l§oVillagers§r§o, they farmed, traded, and just tried to survive day to day.\n\n    A few survivors have set up a trade network. The §o§lTraders§r§o, as they called themselves, use the Global Network to buy and sell nearly everything. They don\u0027t just work with anyone, reputation is important to them. We\u0027ll need to find a way to earn some reputation, they\u0027ll probably be key to survival.\n\n    Many survivors, however, did not band together for the greater good. Instead, the mantra of a dog eat dog world is apt, as they have gathered into roving gangs of §lScav Raiders§r§o, attacking villagers, traders, and each other for the supplies to survive.\n\n    The last faction, and definitely the largest and always growing larger, are the §lMonsters§r§o. Twisted creatures, the undead, and more roam the abandoned cities, many of them attracted the discarded items of civilization.\n\n    Our targets were the latter two. Some of them should have some stuff we can salvage for food, gear, and resources.\n\n    Fighting is going to be deadly, I probably won\u0027t have time to search over most of what I loot until its safe."
+          "desc:8": "    §oAfter a short discussion with my pAI and getting a bit of a rest in, I gathered my gear and set out to start hunting. I made sure to mark my safe house on my map (using the J key), as I had the feeling I\u0027d need a base of operations if I wanted any hope of getting out of here. \n\n    From what Z could gather, there were four factions at play in this world : \n \n    The remnants of civilized society were huddled in small villages that dotted the landscape. Dubbed simply §l§oVillagers§r§o, they farmed, traded, and just tried to survive day to day.\n\n    A few survivors have set up a trade network. The §o§lTraders§r§o, as they called themselves, use the Global Network to buy and sell nearly everything. They don\u0027t just work with anyone, reputation is important to them. We\u0027ll need to find a way to earn some reputation, they\u0027ll probably be key to survival.\n\n    Many survivors, however, did not band together for the greater good. Instead, the mantra of a dog eat dog world is apt, as they have gathered into roving gangs of §lScav Raiders§r§o, attacking villagers, traders, and each other for the supplies to survive.\n\n    The last faction, and definitely the largest and always growing larger, are the §lMonsters§r§o. Twisted creatures, the undead, and more roam the abandoned cities, many of them attracted the discarded items of civilization.\n\n    Our targets were the latter two. Some of them should have some stuff we can salvage for food, gear, and resources.\n\n    Fighting is going to be deadly, I probably won\u0027t have time to search over most of what I loot until its safe.\n\n    Z also warned me to be careful about getting hurt. I can\u0027t as easily chow down on a dozen cheese wheels to heal properly anymore."
         }
       },
       "tasks:9": {
@@ -1974,7 +1974,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Z\u0027s Notes : Wreckage and You",
-          "desc:8": "    §2Okay, now that we\u0027ve gotten a base up, gotten contact with the locals, it might be a good time to go over a few... changes this dimension has brought. \n\n    Mostly about mining, since I know thats your favorite pasttime...§r\n\n    §o\"It\u0027s very relaxing! Wait, what\u0027s different here?§r\"\n\n    §2I wonder if you\u0027ve gone spelunking yet. You probably noticed there isn\u0027t much ore in the walls like back home. That\u0027s because geological forces formed differently here. §r\n\n    §o\"They formed differently?§r\"\n\n    §2Before the calamities, ore didn\u0027t form in small pockets like you know it to. Five Iron Ore here, six Coal ore there, two Diamonds over there, right? Well, here, Ores used to form in giant, sprawling pockets. You could easily get half a bag full of Iron and Coal from a single deposit when you you found it.§r\n\n    §o\"Before? What about now??§r\"\n\n    §2Unfortunately, the back to back calamaties broke some fundamental things with this universe. One of them is that every Ore has been corrupted. Whenever they are placed down, or form in the world, they immediately twist and corrode, transforming to match the twisted, condensed ruins all around.\n\n    There might be a way to reverse the corruption, but for now the only thing we can do is use a Cleansing Sieve to find anything useful out of these Compressed Ruins. (The VanilModu Trader offers the Cleansing Sieve at Reputation II, to note!)"
+          "desc:8": "    §2Okay, now that we\u0027ve gotten a base up, gotten contact with the locals, it might be a good time to go over a few... changes this dimension has brought. \n\n    Mostly about mining, since I know thats your favorite pasttime...§r\n\n    §o\"It\u0027s very relaxing! Wait, what\u0027s different here?§r\"\n\n    §2I wonder if you\u0027ve gone spelunking yet. You probably noticed there isn\u0027t much ore in the walls like back home. That\u0027s because geological forces formed differently here. §r\n\n    §o\"They formed differently?§r\"\n\n    §2Before the calamities, ore didn\u0027t form in small pockets like you know it to. Five Iron Ore here, six Coal ore there, two Diamonds over there, right? Well, here, Ores used to form in giant, sprawling pockets. You could easily get half a bag full of Iron and Coal from a single deposit when you you found it.§r\n\n    §o\"Before? What about now??§r\"\n\n    §2Unfortunately, the back to back calamaties broke some fundamental things with this universe. One of them is that every Ore has been corrupted. Whenever they are placed down, or form in the world, they immediately twist and corrode, transforming to match the twisted, compressed junk all around.\n\n    There might be a way to reverse the corruption, but for now the only thing we can do is use a Cleansing Sieve to find anything useful out of this Compressed Junk. (The VanilModu Trader offers the Cleansing Sieve at Reputation II, to note!)"
         }
       },
       "tasks:9": {
@@ -50211,6 +50211,248 @@
           }
         }
       }
+    },
+    "607:10": {
+      "questID:3": 607,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Urist\u0027s Forge - Rank I",
+          "desc:8": "    §2Since we\u0027ve gained reputation rank II with the VanilModu, they\u0027ve been kind enough to get us in contact with a few other traders. Like our own dimension, this one has a mix of humans and anthros, called Beastfolk here. Seems the multiple catastrophies accelerated the evolution of many species, including this group called the Labrats.\n\n    Here, I\u0027ll let them talk to you now, Bandit. : §r\n\n§a-------------------\n    Ah yes yes, hello Bandit. The VanilModu are very much kind to be bringing us new mercs to deal with. The world is dangerous, and many do not last long, no no.\n\n    No doubt you\u0027ve already had to deal with our small, unintelligent ancestors, yes? No? Perhaps your larders are a bit lessened of food? Holes in the wall? We can help you deal with them, but that is not our purpose in life. Our grand purpose!\n\n    We wish to understand the universe. What makes every single thing, down to the basic elements. Then... we can rebuild it, yes yes. A better world. \n\n    Through Chemistry, we break it down.\n\n    Through Engineering, we build it up.\n\n    But what we lack is Materials. Money. Chemicals. Test subjects. \n\n    Can you help provide these, maybe yes? At least some money, and some of the basic materials we need. Provide these to us, and we\u0027ll provide you with SCIENCE!\n-------------------§r\n\n    §oKnowing there are both humans and anthros in this world is comforting in a way. The last dimensional mishap we had, the only sentient creature were slugs... slugs everywhere. That was... interesting.\n\n    Tangents aside, the Labrats look like they\u0027ll give me access to the first thing I\u0027ll need if I want to fix this mess I\u0027ve gotten myself into : chemistry equipment."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:iron_block",
+              "Count:3": 1,
+              "OreDict:8": "blockIron",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:glowstone",
+              "Count:3": 1,
+              "OreDict:8": "glowstone",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 1,
+              "OreDict:8": "blockLapis",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "608:10": {
+      "questID:3": 608,
+      "preRequisites:11": [
+        607
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Urist Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "609:10": {
+      "questID:3": 609,
+      "preRequisites:11": [
+        608
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "dap:detoxificationpills",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "name:8": "[I] Buying : Move",
+          "desc:8": "    §aDetoxification Pills are quite in demand, yes yes. Many take in too many chemicals, or travel dangerous areas that make them sick, very bad areas.\n\n    If you find Detoxification Pills, we will pay for them!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "dap:detoxificationpills",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "610:10": {
+      "questID:3": 610,
+      "preRequisites:11": [
+        608
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "dap:detoxificationpills",
+            "Count:3": 5,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "[I] Selling : Move",
+          "desc:8": "    §aChemicals we understand much, including those people wish to put into their bodies, yes?\n\n    Many of these chemicals are fun to human and beastfolk alike, but too much of a good thing is usually a bad thing!\n\n    You imbibe too many Chemicals? This pill can nullify some of them! Make headache less, yes?\n\n    You be careful. Detox pills are expensive! Useful, but pricey, hard to make!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "modcurrency:banknote",
+              "Count:3": 80,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "dap:detoxificationpills",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -50310,9 +50552,9 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "variedcommodities:orb_broken",
             "Count:3": 1,
-            "Damage:2": 0,
+            "Damage:2": 13,
             "OreDict:8": ""
           },
           "bg_image:8": "",
@@ -50323,219 +50565,6 @@
       "order:3": 0
     },
     "1:10": {
-      "quests:9": {
-        "0:10": {
-          "sizeX:3": 32,
-          "x:3": 352,
-          "y:3": 28,
-          "id:3": 104,
-          "sizeY:3": 32
-        },
-        "1:10": {
-          "sizeX:3": 12,
-          "x:3": 340,
-          "y:3": 84,
-          "id:3": 105,
-          "sizeY:3": 8
-        },
-        "2:10": {
-          "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 28,
-          "id:3": 106,
-          "sizeY:3": 24
-        },
-        "3:10": {
-          "sizeX:3": 24,
-          "x:3": 228,
-          "y:3": 36,
-          "id:3": 107,
-          "sizeY:3": 24
-        },
-        "4:10": {
-          "sizeX:3": 32,
-          "x:3": 260,
-          "y:3": 32,
-          "id:3": 108,
-          "sizeY:3": 32
-        },
-        "5:10": {
-          "sizeX:3": 40,
-          "x:3": 300,
-          "y:3": 28,
-          "id:3": 109,
-          "sizeY:3": 40
-        },
-        "6:10": {
-          "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 32,
-          "id:3": 110,
-          "sizeY:3": 24
-        },
-        "7:10": {
-          "sizeX:3": 40,
-          "x:3": 56,
-          "y:3": 108,
-          "id:3": 111,
-          "sizeY:3": 40
-        },
-        "8:10": {
-          "sizeX:3": 20,
-          "x:3": 56,
-          "y:3": 148,
-          "id:3": 112,
-          "sizeY:3": 20
-        },
-        "9:10": {
-          "sizeX:3": 20,
-          "x:3": 76,
-          "y:3": 148,
-          "id:3": 113,
-          "sizeY:3": 20
-        },
-        "10:10": {
-          "sizeX:3": 16,
-          "x:3": 96,
-          "y:3": 112,
-          "id:3": 114,
-          "sizeY:3": 32
-        },
-        "11:10": {
-          "sizeX:3": 24,
-          "x:3": 124,
-          "y:3": 100,
-          "id:3": 115,
-          "sizeY:3": 24
-        },
-        "12:10": {
-          "sizeX:3": 24,
-          "x:3": 124,
-          "y:3": 148,
-          "id:3": 405,
-          "sizeY:3": 24
-        },
-        "13:10": {
-          "sizeX:3": 24,
-          "x:3": 160,
-          "y:3": 96,
-          "id:3": 406,
-          "sizeY:3": 24
-        },
-        "14:10": {
-          "sizeX:3": 24,
-          "x:3": 160,
-          "y:3": 124,
-          "id:3": 407,
-          "sizeY:3": 24
-        },
-        "15:10": {
-          "sizeX:3": 24,
-          "x:3": 160,
-          "y:3": 152,
-          "id:3": 408,
-          "sizeY:3": 24
-        },
-        "16:10": {
-          "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 116,
-          "id:3": 480,
-          "sizeY:3": 24
-        },
-        "17:10": {
-          "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 140,
-          "id:3": 487,
-          "sizeY:3": 24
-        },
-        "18:10": {
-          "sizeX:3": 40,
-          "x:3": 232,
-          "y:3": 112,
-          "id:3": 488,
-          "sizeY:3": 40
-        },
-        "19:10": {
-          "sizeX:3": 20,
-          "x:3": 232,
-          "y:3": 152,
-          "id:3": 489,
-          "sizeY:3": 20
-        },
-        "20:10": {
-          "sizeX:3": 20,
-          "x:3": 252,
-          "y:3": 152,
-          "id:3": 491,
-          "sizeY:3": 20
-        },
-        "21:10": {
-          "sizeX:3": 24,
-          "x:3": 284,
-          "y:3": 116,
-          "id:3": 572,
-          "sizeY:3": 24
-        },
-        "22:10": {
-          "sizeX:3": 24,
-          "x:3": 284,
-          "y:3": 140,
-          "id:3": 573,
-          "sizeY:3": 24
-        },
-        "23:10": {
-          "sizeX:3": 32,
-          "x:3": 320,
-          "y:3": 124,
-          "id:3": 574,
-          "sizeY:3": 32
-        },
-        "24:10": {
-          "sizeX:3": 16,
-          "x:3": 192,
-          "y:3": 52,
-          "id:3": 582,
-          "sizeY:3": 16
-        },
-        "25:10": {
-          "sizeX:3": 16,
-          "x:3": 208,
-          "y:3": 52,
-          "id:3": 583,
-          "sizeY:3": 16
-        },
-        "26:10": {
-          "sizeX:3": 36,
-          "x:3": 12,
-          "y:3": 108,
-          "id:3": 590,
-          "sizeY:3": 40
-        }
-      },
-      "lineID:3": 3,
-      "properties:10": {
-        "betterquesting:10": {
-          "visibility:8": "UNLOCKED",
-          "name:8": "Z\u0027s Workshop",
-          "icon:10": {
-            "ForgeCaps:10": {
-              "customnpcs:itemscripteddata:10": {}
-            },
-            "id:8": "minecraft:book",
-            "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": ""
-          },
-          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
-          "bg_size:3": 512,
-          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive.\n    [Z will explain mechanics and sell survival items like Waystones and Insurance. Z also has the main questline, as well as Administrative functions like updating the questbook]"
-        }
-      },
-      "order:3": 1
-    },
-    "2:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -51016,7 +51045,7 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "minecraft:iron_ingot",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -51028,7 +51057,7 @@
       },
       "order:3": 2
     },
-    "3:10": {
+    "2:10": {
       "quests:9": {
         "0:10": {
           "sizeX:3": 40,
@@ -51502,7 +51531,7 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "rats:cheese",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -51513,6 +51542,219 @@
         }
       },
       "order:3": 3
+    },
+    "3:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 32,
+          "x:3": 352,
+          "y:3": 28,
+          "id:3": 104,
+          "sizeY:3": 32
+        },
+        "1:10": {
+          "sizeX:3": 12,
+          "x:3": 340,
+          "y:3": 84,
+          "id:3": 105,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 28,
+          "id:3": 106,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": 36,
+          "id:3": 107,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 32,
+          "x:3": 260,
+          "y:3": 32,
+          "id:3": 108,
+          "sizeY:3": 32
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 300,
+          "y:3": 28,
+          "id:3": 109,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": 392,
+          "y:3": 32,
+          "id:3": 110,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 56,
+          "y:3": 108,
+          "id:3": 111,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 20,
+          "x:3": 56,
+          "y:3": 148,
+          "id:3": 112,
+          "sizeY:3": 20
+        },
+        "9:10": {
+          "sizeX:3": 20,
+          "x:3": 76,
+          "y:3": 148,
+          "id:3": 113,
+          "sizeY:3": 20
+        },
+        "10:10": {
+          "sizeX:3": 16,
+          "x:3": 96,
+          "y:3": 112,
+          "id:3": 114,
+          "sizeY:3": 32
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 124,
+          "y:3": 100,
+          "id:3": 115,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 124,
+          "y:3": 148,
+          "id:3": 405,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 160,
+          "y:3": 96,
+          "id:3": 406,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 160,
+          "y:3": 124,
+          "id:3": 407,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 160,
+          "y:3": 152,
+          "id:3": 408,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 116,
+          "id:3": 480,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 196,
+          "y:3": 140,
+          "id:3": 487,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 40,
+          "x:3": 232,
+          "y:3": 112,
+          "id:3": 488,
+          "sizeY:3": 40
+        },
+        "19:10": {
+          "sizeX:3": 20,
+          "x:3": 232,
+          "y:3": 152,
+          "id:3": 489,
+          "sizeY:3": 20
+        },
+        "20:10": {
+          "sizeX:3": 20,
+          "x:3": 252,
+          "y:3": 152,
+          "id:3": 491,
+          "sizeY:3": 20
+        },
+        "21:10": {
+          "sizeX:3": 24,
+          "x:3": 284,
+          "y:3": 116,
+          "id:3": 572,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "sizeX:3": 24,
+          "x:3": 284,
+          "y:3": 140,
+          "id:3": 573,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "sizeX:3": 32,
+          "x:3": 320,
+          "y:3": 124,
+          "id:3": 574,
+          "sizeY:3": 32
+        },
+        "24:10": {
+          "sizeX:3": 16,
+          "x:3": 192,
+          "y:3": 52,
+          "id:3": 582,
+          "sizeY:3": 16
+        },
+        "25:10": {
+          "sizeX:3": 16,
+          "x:3": 208,
+          "y:3": 52,
+          "id:3": 583,
+          "sizeY:3": 16
+        },
+        "26:10": {
+          "sizeX:3": 36,
+          "x:3": 12,
+          "y:3": 108,
+          "id:3": 590,
+          "sizeY:3": 40
+        }
+      },
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Z\u0027s Workshop",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "props:props",
+            "Count:3": 1,
+            "Damage:2": 2664,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-zworkshop.png",
+          "bg_size:3": 512,
+          "desc:8": "    Now that we have our bearings, we need to get to work if we want to get out of here. Z should be able to help us survive.\n    [Z will explain mechanics and sell survival items like Waystones and Insurance. Z also has the main questline, as well as Administrative functions like updating the questbook]"
+        }
+      },
+      "order:3": 1
     },
     "4:10": {
       "quests:9": {
@@ -52576,8 +52818,13 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "techguns:blasterrifle",
             "Count:3": 1,
+            "tag:10": {
+              "ammo:2": 50,
+              "ammovariant:8": "default",
+              "camo:1": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -53216,7 +53463,7 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "cloth_mod__fegaming_rpg:caretadallashelmet",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -53905,9 +54152,9 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "props:props",
             "Count:3": 1,
-            "Damage:2": 0,
+            "Damage:2": 702,
             "OreDict:8": ""
           },
           "bg_image:8": "betterquesting:textures/gui/trader-emporium.png",
@@ -54643,7 +54890,7 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "quark:pickarang",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -54654,6 +54901,109 @@
         }
       },
       "order:3": 7
+    },
+    "8:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 44,
+          "x:3": 200,
+          "y:3": 28,
+          "id:3": 607,
+          "sizeY:3": 44
+        },
+        "1:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 112,
+          "id:3": 608,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 112,
+          "id:3": 609,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 112,
+          "id:3": 610,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 8,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "UNLOCKED",
+          "name:8": "Trader - Urist\u0027s Forge",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "tconstruct:hammer",
+            "Count:3": 1,
+            "tag:10": {
+              "StatsOriginal:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 7.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 1590,
+                "HarvestLevel:3": 3,
+                "Attack:5": 6.0
+              },
+              "Stats:10": {
+                "AttackSpeedMultiplier:5": 1.0,
+                "MiningSpeed:5": 7.0,
+                "FreeModifiers:3": 3,
+                "Durability:3": 1590,
+                "HarvestLevel:3": 3,
+                "Attack:5": 6.0
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "0:8": "weapon",
+                  "1:8": "aoe",
+                  "2:8": "harvest",
+                  "3:8": "tool"
+                }
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "0:8": "steel",
+                  "1:8": "steel",
+                  "2:8": "steel",
+                  "3:8": "steel"
+                },
+                "Modifiers:9": {}
+              },
+              "Modifiers:9": {
+                "0:10": {
+                  "identifier:8": "stiff",
+                  "color:3": -5789785,
+                  "level:3": 1
+                },
+                "1:10": {
+                  "identifier:8": "sharp",
+                  "color:3": -5789785,
+                  "level:3": 1
+                }
+              },
+              "Traits:9": {
+                "0:8": "stiff",
+                "1:8": "sharp"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "betterquesting:textures/gui/trader-uristsforge.png",
+          "bg_size:3": 512,
+          "desc:8": "    Urist\u0027s Forge consists of the remaining Dwarven tribes, who resurfaced after a calamaty corrupted every ore in the world.\n\n    [Trades Tinker\u0027s Construct, Construct\u0027s Armory, and Spartan Shields]"
+        }
+      },
+      "order:3": 8
     }
   },
   "questSettings:10": {
@@ -54667,7 +55017,7 @@
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 102,
+      "pack_version:3": 103,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
