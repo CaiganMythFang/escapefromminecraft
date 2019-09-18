@@ -1,0 +1,5701 @@
+[
+  {
+    "type": "palette",
+    "name": "rails",
+    "palette": [
+      {
+        "char": "k",
+        "block": "minecraft:rail"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:rail@1"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:rail@2"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:rail@6"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:rail@7"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:rail@8"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:rail@9"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:golden_rail@8"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:golden_rail@13"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:golden_rail@12"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:golden_rail@9"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:golden_rail@10"
+      }
+    ]
+  },
+  {
+    "type": "palette",
+    "name": "common",
+    "palette": [
+      {
+        "char": "1",
+        "block": "minecraft:mob_spawner",
+        "mob": "easymobs"
+      },
+      {
+        "char": "4",
+        "block": "minecraft:mob_spawner",
+        "mob": "hardmobs"
+      },
+      {
+        "char": "T",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "minecraft:torch"
+          },
+          {
+            "random": 32,
+            "block": "techguns:lamp0"
+          },
+          {
+            "random": 32,
+            "block": "techguns:lamp0@6"
+          },
+          {
+            "random": 32,
+            "block": "harvestcraft:candledeco9"
+          },
+          {
+            "random": 32,
+            "block": "harvestcraft:candledeco13"
+          }
+        ],
+        "facing": {
+          "north": 4,
+          "south": 3,
+          "west": 2,
+          "east": 1,
+          "up": 5
+        }
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glowstone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:redstone_torch@5"
+      },
+      {
+        "char": "9",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "minecraft:stained_hardened_clay@9"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:stained_hardened_clay@7"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:concrete@9"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:concrete@7"
+          }
+        ]
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:stained_glass"
+      },
+      {
+        "char": "Z",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "minecraft:glass"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:stained_glass@7"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:stained_glass@11"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:stained_glass@3"
+          }
+        ]
+      },
+      {
+        "char": "p",
+        "blocks": [
+          {
+            "random": 30,
+            "block": "minecraft:red_flower"
+          },
+          {
+            "random": 30,
+            "block": "minecraft:yellow_flower"
+          },
+          {
+            "random": 15,
+            "block": "minecraft:sapling"
+          },
+          {
+            "random": 15,
+            "block": "minecraft:sapling@1"
+          },
+          {
+            "random": 15,
+            "block": "minecraft:sapling@2"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:sapling@4"
+          }
+        ]
+      },
+      {
+        "char": "I",
+        "blocks": [
+          {
+            "random": 5,
+            "block": "cookingforblockheads:corner"
+          },
+          {
+            "random": 5,
+            "block": "cookingforblockheads:counter"
+          },
+          {
+            "random": 5,
+            "block": "cookingforblockheads:sink"
+          },
+          {
+            "random": 2,
+            "block": "cookingforblockheads:fridge"
+          },
+          {
+            "random": 2,
+            "block": "cookingforblockheads:oven"
+          },
+          {
+            "random": 1,
+            "block": "cookingforblockheads:cooking_table"
+          },
+          {
+            "random": 2,
+            "block": "cfm:oven"
+          },
+          {
+            "random": 5,
+            "block": "cfm:bin"
+          },
+          {
+            "random": 5,
+            "block": "cfm:counter@9"
+          },
+          {
+            "random": 5,
+            "block": "cfm:counter@13"
+          },
+          {
+            "random": 2,
+            "block": "cfm:counter_sink@1"
+          },
+          {
+            "random": 2,
+            "block": "cfm:counter_sink@14"
+          },
+          {
+            "random": 2,
+            "block": "cfm:counter_sink@15"
+          },
+          {
+            "random": 3,
+            "block": "cfm:counter_drawer"
+          },
+          {
+            "random": 3,
+            "block": "cfm:counter_drawer@13"
+          },
+          {
+            "random": 3,
+            "block": "cfm:counter_drawer@15"
+          },
+          {
+            "random": 2,
+            "block": "cfm:dishwasher"
+          },
+          {
+            "random": 3,
+            "block": "cfm:cabinet_kitchen@6"
+          },
+          {
+            "random": 3,
+            "block": "cfm:cabinet_kitchen@13"
+          },
+          {
+            "random": 3,
+            "block": "cfm:cabinet_kitchen@10"
+          },
+          {
+            "random": 10000,
+            "block": "cfm:counter@11"
+          }
+        ],
+        "facing": {
+          "north": 4,
+          "south": 3,
+          "west": 2,
+          "east": 1,
+          "up": 5
+        }
+      },
+      {
+        "char": "3",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 500,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "K",
+        "blocks": [
+          {
+            "random": 64,
+            "block": "minecraft:red_flower"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:yellow_flower"
+          }
+        ]
+      },
+      {
+        "char": "!",
+        "blocks": [
+          {
+            "random": 15,
+            "block": "minecraft:diamond_block"
+          },
+          {
+            "random": 20,
+            "block": "minecraft:gold_block"
+          },
+          {
+            "random": 15,
+            "block": "minecraft:emerald_block"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:iron_block"
+          }
+        ]
+      },
+      {
+        "char": "F",
+        "blocks": [
+          {
+            "random": 25,
+            "block": "minecraft:furnace"
+          },
+          {
+            "random": 10,
+            "block": "minecraft:dropper"
+          },
+          {
+            "random": 20,
+            "block": "minecraft:crafting_table"
+          },
+          {
+            "random": 7,
+            "block": "minecraft:brewing_stand"
+          },
+          {
+            "random": 6,
+            "block": "minecraft:anvil"
+          },
+          {
+            "random": 5,
+            "block": "minecraft:cauldron"
+          },
+          {
+            "random": 2,
+            "block": "minecraft:enchanting_table"
+          },
+          {
+            "random": 2,
+            "block": "alchemistry:evaporator"
+          },
+          {
+            "random": 2,
+            "block": "betterrecords:recordplayer"
+          },
+          {
+            "random": 2,
+            "block": "betterrecords:radio"
+          },
+          {
+            "random": 2,
+            "block": "conarm:armorforge"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:fluid_drain"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:fire_starter"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:dehydrator"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:placer_block"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:fan"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:dice"
+          },
+          {
+            "random": 2,
+            "block": "testdummy:dummy"
+          },
+          {
+            "random": 2,
+            "block": "cfm:grill"
+          },
+          {
+            "random": 2,
+            "block": "harvestcraft:market"
+          },
+          {
+            "random": 2,
+            "block": "harvestcraft:grinder"
+          },
+          {
+            "random": 2,
+            "block": "pneumaticcraft:air_compressor"
+          },
+          {
+            "random": 2,
+            "block": "pneumaticcraft:heat_sink"
+          },
+          {
+            "random": 2,
+            "block": "pneumaticcraft:plastic_mixer"
+          },
+          {
+            "random": 2,
+            "block": "rftools:coalgenerator"
+          },
+          {
+            "random": 2,
+            "block": "simplegenerators:combustion_simple"
+          },
+          {
+            "random": 2,
+            "block": "techguns:basicmachine"
+          },
+          {
+            "random": 2,
+            "block": "techguns:military_crate"
+          },
+          {
+            "random": 2,
+            "block": "techguns:military_crate@5"
+          },
+          {
+            "random": 2,
+            "block": "tconstruct:tooltables"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:tooltables@1"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:tooltables@2"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:tooltables@3"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:tooltables@4"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:tooltables@5"
+          },
+          {
+            "random": 2,
+            "block": "tconstruct:toolforge"
+          },
+          {
+            "random": 2,
+            "block": "variedcommodities:trading_block"
+          },
+          {
+            "random": 2,
+            "block": "variedcommodities:campfire"
+          },
+          {
+            "random": 2,
+            "block": "variedcommodities:pedestal"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:web"
+          }
+        ]
+      },
+      {
+        "char": "O",
+        "blocks": [
+          {
+            "random": 9,
+            "block": "variedcommodities:shelf@2"
+          },
+          {
+            "random": 9,
+            "block": "variedcommodities:shelf@3"
+          },
+          {
+            "random": 9,
+            "block": "cfm:cabinet_diorite"
+          },
+          {
+            "random": 9,
+            "block": "cfm:cabinet_jungle",
+            "loot": "chestloot"
+          },
+          {
+            "random": 9,
+            "block": "cfm:cabinet_kitchen@5"
+          },
+          {
+            "random": 9,
+            "block": "cfm:cabinet_kitchen@9"
+          },
+          {
+            "random": 9,
+            "block": "cfm:cabinet_dark_oak",
+            "loot": "chestloot"
+          },
+          {
+            "random": 9,
+            "block": "cfm:range_hood"
+          },
+          {
+            "random": 9,
+            "block": "cookingforblockheads:cabinet",
+            "loot": "chestloot"
+          },
+          {
+            "random": 9,
+            "block": "cookingforblockheads:spice_rack"
+          },
+          {
+            "random": 200,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "6",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "cookingforblockheads:toaster"
+          },
+          {
+            "random": 2,
+            "block": "cookingforblockheads:milk_jar"
+          },
+          {
+            "random": 2,
+            "block": "cookingforblockheads:fruit_basket"
+          },
+          {
+            "random": 2,
+            "block": "cfm:stereo"
+          },
+          {
+            "random": 1,
+            "block": "cfm:microwave"
+          },
+          {
+            "random": 2,
+            "block": "cfm:cookie_jar"
+          },
+          {
+            "random": 2,
+            "block": "cfm:toaster"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chopping_board"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "M",
+        "blocks": [
+          {
+            "random": 1,
+            "block": "variedcommodities:stool"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:stool@5"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:stool@3"
+          },
+          {
+            "random": 2,
+            "block": "cfm:basin"
+          },
+          {
+            "random": 3,
+            "block": "cfm:toilet"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bath_bottom"
+          },
+          {
+            "random": 2,
+            "block": "cfm:shower_bottom"
+          },
+          {
+            "random": 3,
+            "block": "cfm:bin"
+          },
+          {
+            "random": 1,
+            "block": "cfm:washing_machine"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "7",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "cfm:couch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@1"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@2"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@3"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@4"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@5"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@6"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@7"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@8"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@9"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@10"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@11"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@12"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@13"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@14"
+          },
+          {
+            "random": 2,
+            "block": "cfm:couch@15"
+          },
+          {
+            "random": 2,
+            "block": "cfm:tree_bottom"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:tall_lamp"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:tall_lamp@1"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:tall_lamp@2"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:tall_lamp@3"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:tall_lamp@4"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@1"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@2"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@3"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@4"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@5"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@6"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@7"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@8"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@9"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@10"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@12"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@13"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@14"
+          },
+          {
+            "random": 7,
+            "block": "cfm:door_mat@15"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_tv"
+          },
+          {
+            "random": 1,
+            "block": "cfm:couch_jeb"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "%",
+        "blocks": [
+          {
+            "random": 40,
+            "block": "minecraft:web"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "*",
+        "blocks": [
+          {
+            "random": 5,
+            "block": "minecraft:flower_pot"
+          },
+          {
+            "random": 5,
+            "block": "variedcommodities:book"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@1"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@2"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@3"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@4"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@5"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@6"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@7"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@8"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@9"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@10"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@11"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@12"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@13"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@14"
+          },
+          {
+            "random": 1,
+            "block": "cfm:lamp_off@15"
+          },
+          {
+            "random": 5,
+            "block": "cfm:candle"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@1"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@2"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@3"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@4"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@5"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@6"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@7"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@8"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@9"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@10"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@11"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@12"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@13"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@14"
+          },
+          {
+            "random": 1,
+            "block": "cfm:digital_clock@15"
+          },
+          {
+            "random": 1,
+            "block": "cfm:tv"
+          },
+          {
+            "random": 1,
+            "block": "cfm:computer"
+          },
+          {
+            "random": 1,
+            "block": "cfm:printer"
+          },
+          {
+            "random": 1,
+            "block": "cfm:stereo"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 400,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "l",
+        "block": "minecraft:ladder@2"
+      },
+      {
+        "char": "-",
+        "block": "cfm:toaster"
+      },
+      {
+        "char": ".",
+        "block": "minecraft:fence"
+      },
+      {
+        "char": "U",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "cfm:chair_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_spruce"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_birch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_jungle"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_acacia"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_dark_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_stone"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_granite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_diorite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:chair_andesite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@1"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@2"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@3"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@4"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@5"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@6"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@7"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@8"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@9"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@10"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@11"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@12"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@13"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@14"
+          },
+          {
+            "random": 2,
+            "block": "cfm:bar_stool@15"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@1"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@2"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@3"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@4"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@5"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@6"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@7"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@9"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@10"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@11"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@12"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@13"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@14"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@15"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_chair"
+          },
+          {
+            "random": 2,
+            "block": "cfm:modern_couch@8"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_spruce"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_birch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_jungle"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_acacia"
+          },
+          {
+            "random": 2,
+            "block": "cfm:park_bench_dark_oak"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 300,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "N",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "cfm:table_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_spruce"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_birch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_jungle"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_acacia"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_dark_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_stone"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_granite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_diorite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_andesite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:table_outdoor"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_birch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_jungle"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_acacia"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_dark_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_stone"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_granite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_diorite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_andesite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_spruce"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_birch"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_jungle"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_acacia"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_dark_oak"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_stone"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_granite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_diorite"
+          },
+          {
+            "random": 2,
+            "block": "cfm:desk_cabinet_andesite"
+          },
+          {
+            "random": 10000,
+            "block": "cfm:modern_table"
+          }
+        ]
+      },
+      {
+        "char": "J",
+        "blocks": [
+          {
+            "random": 2,
+            "block": "minecraft:enchanting_table"
+          },
+          {
+            "random": 1,
+            "block": "minecraft:white_shulker_box"
+          },
+          {
+            "random": 1,
+            "block": "minecraft:magenta_shulker_box"
+          },
+          {
+            "random": 3,
+            "block": "minecraft:observer"
+          },
+          {
+            "random": 5,
+            "block": "alchemistry:chemical_combiner"
+          },
+          {
+            "random": 5,
+            "block": "alchemistry:atomizer"
+          },
+          {
+            "random": 5,
+            "block": "chisel:auto_chisel"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:wireless_transmitter"
+          },
+          {
+            "random": 2,
+            "block": "cyclicmagic:wireless_receiver"
+          },
+          {
+            "random": 1,
+            "block": "cyclicmagic:battery"
+          },
+          {
+            "random": 3,
+            "block": "cyclicmagic:block_shears"
+          },
+          {
+            "random": 5,
+            "block": "grapplemod:block_grapple_modifier"
+          },
+          {
+            "random": 5,
+            "block": "ironchest:iron_chest"
+          },
+          {
+            "random": 2,
+            "block": "malisisdoors:door_factory"
+          },
+          {
+            "random": 2,
+            "block": "cfm:computer"
+          },
+          {
+            "random": 3,
+            "block": "pneumaticcraft:assembly_io_unit"
+          },
+          {
+            "random": 3,
+            "block": "pneumaticcraft:liquid_compressor"
+          },
+          {
+            "random": 3,
+            "block": "pneumaticcraft:refinery"
+          },
+          {
+            "random": 1,
+            "block": "psi:programmer"
+          },
+          {
+            "random": 4,
+            "block": "simplegenerators:culinary_simple"
+          },
+          {
+            "random": 4,
+            "block": "techguns:basicmachine@2"
+          },
+          {
+            "random": 4,
+            "block": "techguns:simplemachine@9"
+          },
+          {
+            "random": 2,
+            "block": "tconstruct:toolforge"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:smeltery_controller"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 400,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "8",
+        "blocks": [
+          {
+            "random": 75,
+            "block": "littlelooter:store_shelf",
+            "loot": "chestloot",
+            "facing": {
+            "north": 2,
+            "south": 3,
+            "west": 4,
+            "east": 5,
+            "up": 1
+            }
+          },
+          {
+            "random": 10,
+            "block": "littlelooter:barrel",
+            "loot": "chestloot",
+            "facing": {
+            "north": 2,
+            "south": 3,
+            "west": 4,
+            "east": 5,
+            "up": 1
+            }
+          },
+          {
+            "random": 5000,
+            "block": "littlelooter:barbed_wire"
+          }
+        ]
+      },
+      {
+        "char": "5",
+        "blocks": [
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_launch_med"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_launch_small"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_launch_large"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_launch_extra"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:slime_channel"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:slime_channel@1"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:slime_channel@2"
+          },
+          {
+            "random": 5,
+            "block": "tconstruct:slime_channel@4"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_corner"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_fast"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_fast_corner"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_slow"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_slow_corner"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_slowest"
+          },
+          {
+            "random": 5,
+            "block": "cyclicmagic:plate_push_slowest_corner"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 500,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "L",
+        "blocks": [
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@1"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@2"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@3"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@4"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@5"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@6"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@7"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@8"
+          },
+          {
+            "random": 10,
+            "block": "chisel:bookshelf_oak@9"
+          },
+          {
+            "random": 10000,
+            "block": "minecraft:bookshelf"
+          }
+        ]
+      },
+      {
+        "char": "W",
+        "block": "minecraft:water"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:chest",
+        "loot": "chestloot"
+      },
+      {
+        "char": "2",
+        "blocks": [
+          {
+            "random": 1,
+            "block": "cfm:crate_dark_oak",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:crate_acacia",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:crate_jungle",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:crate_birch",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:crate_spruce",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:crate",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@8",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@1",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@2",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@3",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@4",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@5",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@6",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@7",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@9",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@10",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@11",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@12",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@13",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@14",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "cfm:esky@15",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate@1",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate@2",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate@3",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate@4",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:crate@5",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel@1",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel@2",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel@4",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel@5",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "variedcommodities:barrel@3",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "air_support:medical_crate",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@1",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@2",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@3",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@4",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@5",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@6",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@7",
+            "loot": "chestloot"
+          },
+          {
+            "random": 1,
+            "block": "techguns:military_crate@8",
+            "loot": "chestloot"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@5"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@6"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample@7"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@1"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@2"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@3"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@4"
+          },
+          {
+            "random": 2,
+            "block": "geolosys:ore_sample_vanilla@5"
+          },
+          {
+            "random": 400,
+            "block": "minecraft:air"
+          }
+        ]
+      },
+      {
+        "char": "G",
+        "block": "minecraft:grass"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "~",
+        "block": "minecraft:command_block"
+      }
+    ]
+  },
+  {
+    "type": "worldstyle",
+    "name": "standard",
+    "outsidestyle": "outside",
+    "citystyles": [
+      {
+        "factor": 0.5,
+        "citystyle": "citystyle_standard"
+      },
+      {
+        "factor": 9.0,
+        "biomes": [
+          "desert",
+          "desert_hills",
+          "mesa",
+          "mesa_rock",
+          "mesa_clear_rock"
+        ],
+        "citystyle": "citystyle_desert"
+      }
+    ]
+  },
+  {
+    "type": "worldstyle",
+    "name": "chisel",
+    "outsidestyle": "outside_chisel",
+    "citystyles": [
+      {
+        "factor": 0.5,
+        "citystyle": "citystyle_chisel_standard"
+      },
+      {
+        "factor": 9.0,
+        "biomes": [
+          "desert",
+          "desert_hills",
+          "mesa",
+          "mesa_rock",
+          "mesa_clear_rock"
+        ],
+        "citystyle": "citystyle_chisel_desert"
+      }
+    ]
+  },
+
+  {
+    "type": "citystyle",
+    "name": "citystyle_config",
+    "streetblocks": {
+      "width": 8
+    }
+  },
+
+  {
+    "type": "citystyle",
+    "name": "citystyle_common",
+    "inherit": "citystyle_config",
+    "streetblocks": {
+      "border": "y",
+      "wall": "w",
+      "street": "S",
+      "streetbase": "b",
+      "streetvariant": "B"
+    },
+    "parkblocks": {
+      "elevation": "x"
+    },
+    "corridorblocks": {
+      "roof": "x",
+      "glass": "+"
+    },
+    "railblocks": {
+      "railmain": "y"
+    },
+    "sphereblocks": {
+      "glass": "Z",
+      "border": "9",
+      "inner": "b"
+    },
+    "buildings": [
+      {
+        "factor": 0.4,
+        "building": "building1"
+      },
+      {
+        "factor": 0.4,
+        "building": "building2"
+      },
+      {
+        "factor": 0.2,
+        "building": "building3"
+      },
+      {
+        "factor": 0.2,
+        "building": "building4"
+      },
+      {
+        "factor": 0.3,
+        "building": "building5"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.3,
+        "multibuilding": "multi1"
+      },
+      {
+        "factor": 0.3,
+        "multibuilding": "multi2"
+      },
+      {
+        "factor": 0.2,
+        "multibuilding": "multi3"
+      },
+      {
+        "factor": 0.2,
+        "multibuilding": "multi4"
+      },
+      {
+        "factor": 0.1,
+        "multibuilding": "multi5"
+      },
+      {
+        "factor": 0.1,
+        "multibuilding": "library"
+      },
+      {
+        "factor": 0.1,
+        "multibuilding": "center"
+      },
+      {
+        "factor": 0.08,
+        "multibuilding": "townhall"
+      },
+      {
+        "factor": 0.25,
+        "multibuilding": "shopping"
+      },
+      {
+        "factor": 0.2,
+        "multibuilding": "shopping_open"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "bridge": "bridge_open"
+      },
+      {
+        "factor": 1.0,
+        "bridge": "bridge_covered"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "front": "building_front1"
+      },
+      {
+        "factor": 1.0,
+        "front": "building_front2"
+      },
+      {
+        "factor": 1.0,
+        "front": "building_front3"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "stair": "stairs1"
+      },
+      {
+        "factor": 1.0,
+        "stair": "stairs2"
+      },
+      {
+        "factor": 1.0,
+        "stair": "stairsnormal"
+      },
+      {
+        "factor": 1.0,
+        "stair": "stairsbig"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "fountain": "fountain1"
+      },
+      {
+        "factor": 1.0,
+        "fountain": "fountain2"
+      },
+      {
+        "factor": 1.0,
+        "fountain": "fountain3"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "park": "park_pool"
+      },
+      {
+        "factor": 1.0,
+        "park": "park_plants"
+      },
+      {
+        "factor": 1.0,
+        "park": "park_trees"
+      },
+      {
+        "factor": 1.0,
+        "park": "park_plants_pillars"
+      },
+      {
+        "factor": 0.8,
+        "park": "park_fountain1"
+      },
+      {
+        "factor": 0.8,
+        "park": "park_fountain2"
+      },
+      {
+        "factor": 0.3,
+        "park": "park_building"
+      },
+      {
+        "factor": 0.3,
+        "park": "park_building2"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "dungeon": "rail_dungeon1"
+      },
+      {
+        "factor": 1.0,
+        "dungeon": "rail_dungeon2"
+      }
+    ]
+  },
+
+  {
+    "type": "citystyle",
+    "name": "citystyle_desert",
+    "style": "desert",
+    "inherit": "citystyle_common"
+  },
+  {
+    "type": "citystyle",
+    "name": "citystyle_standard",
+    "style": "standard",
+    "inherit": "citystyle_common"
+  },
+  {
+    "type": "citystyle",
+    "name": "citystyle_chisel_desert",
+    "style": "desert_chisel",
+    "inherit": "citystyle_common"
+  },
+  {
+    "type": "citystyle",
+    "name": "citystyle_chisel_standard",
+    "style": "standard_chisel",
+    "inherit": "citystyle_common"
+  },
+
+  {
+    "type": "part",
+    "name": "building_front1",
+    "xsize": 2,
+    "zsize": 16,
+    "slices": [
+      [
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "__",
+        "  ",
+        "  ",
+        "  "
+      ]
+    ],
+    "meta": []
+  },
+  {
+    "type": "part",
+    "name": "building_front2",
+    "xsize": 3,
+    "zsize": 16,
+    "slices": [
+      [
+        "   ",
+        "   ",
+        "   ",
+        "## ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "## ",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        " w ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        " w ",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        " w ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        "   ",
+        " w ",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "   ",
+        "   ",
+        "   "
+      ]
+    ],
+    "meta": []
+  },
+  {
+    "type": "part",
+    "name": "building_front3",
+    "xsize": 3,
+    "zsize": 16,
+    "slices": [
+      [
+        "   ",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "  #",
+        "   ",
+        "   ",
+        "aa#",
+        "   ",
+        "   ",
+        "   "
+      ],
+      [
+        "   ",
+        "   ",
+        "   ",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "___",
+        "   ",
+        "   ",
+        "   "
+      ]
+    ],
+    "meta": []
+  },
+  {
+    "type": "part",
+    "name": "stairsbig",
+    "xsize": 6,
+    "zsize": 12,
+    "meta": [
+      {
+        "key": "z1",
+        "integer": 4
+      },
+      {
+        "key": "z2",
+        "integer": 11
+      }
+    ],
+    "slices": [
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxxxx",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxxx"
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxxx_",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxxx_"
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxx_ ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxxx_ "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxx_  ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xxx_  "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xx_   ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "xx_   "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "x_    ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "x_    "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "_     ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "_     "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "stairsnormal",
+    "xsize": 6,
+    "zsize": 11,
+    "meta": [
+      {
+        "key": "z1",
+        "integer": 5
+      },
+      {
+        "key": "z2",
+        "integer": 10
+      }
+    ],
+    "slices": [
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxxxx",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxx/",
+        "xxxxxx"
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxxx_",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxx/ ",
+        "xxxxx_"
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxxx_ ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxx/  ",
+        "xxxx_ "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xxx_  ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xx/   ",
+        "xxx_  "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "xx_   ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "x/    ",
+        "xx_   "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "x_    ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "/     ",
+        "x_    "
+      ],
+      [
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "_     ",
+        "      ",
+        "      ",
+        "      ",
+        "      ",
+        "_     "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "stairs1",
+    "xsize": 2,
+    "zsize": 13,
+    "meta": [
+      {
+        "key": "z1",
+        "integer": 0
+      },
+      {
+        "key": "z2",
+        "integer": 2
+      }
+    ],
+    "slices": [
+      [
+        "  ",
+        "  ",
+        " w",
+        " T",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "==",
+        "__"
+      ],
+      [
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "==",
+        "__",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "==",
+        "__",
+        "  ",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  ",
+        "==",
+        "__",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        " w",
+        "==",
+        "__",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  "
+      ],
+      [
+        "__",
+        "__",
+        "__",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "stairs2",
+    "xsize": 2,
+    "zsize": 16,
+    "meta": [
+      {
+        "key": "z1",
+        "integer": 13
+      },
+      {
+        "key": "z2",
+        "integer": 15
+      }
+    ],
+    "slices": [
+      [
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "==",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " T",
+        " w",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "==",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "==",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "==",
+        "  ",
+        "  ",
+        " w",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "==",
+        " w",
+        "  ",
+        "  "
+      ],
+      [
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "  ",
+        "__",
+        "__",
+        "__"
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "bridge_open",
+    "xsize": 16,
+    "zsize": 16,
+    "meta": [
+      {
+        "key": "support",
+        "char": "v"
+      }
+    ],
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "vvvvvvvvvvvvvvvv",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "vvvvvvvvvvvvvvvv",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "wwwwvwwwwwwwvwww",
+        "             3  ",
+        "   3     3      ",
+        "                ",
+        "       3        ",
+        "                ",
+        "              3 ",
+        "           3    ",
+        " 3      3     3 ",
+        "wwwwvwwwwwwwvwww",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "bridge_covered",
+    "xsize": 16,
+    "zsize": 16,
+    "meta": [
+      {
+        "key": "support",
+        "char": "v"
+      }
+    ],
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "vvvvvvvvvvvvvvvv",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "vvvvvvvvvvvvvvvv",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "wwwwvwwwwwwwvwww",
+        "    T      2T   ",
+        "    3           ",
+        "        3       ",
+        "                ",
+        "           3    ",
+        "  3             ",
+        " 3            3 ",
+        "    T   3   T   ",
+        "wwwwvwwwwwwwvwww",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "    w       w   ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "vvvvvvvvvvvvvvvv",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "SSSSSSSSSSSSSSSS",
+        "vvvvvvvvvvvvvvvv",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "fountain1",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      ####      ",
+        "      #WW#      ",
+        "      #WW#      ",
+        "      ####      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      T  T      ",
+        "                ",
+        "                ",
+        "      T  T      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "fountain2",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       ##       ",
+        "      #WW#      ",
+        "     #WWWW#     ",
+        "     #WWWW#     ",
+        "      #WW#      ",
+        "       ##       ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      T  T      ",
+        "                ",
+        "                ",
+        "      T  T      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "fountain3",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      ####      ",
+        "      #WW#      ",
+        "      #WW#      ",
+        "      ####      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      :  :      ",
+        "                ",
+        "                ",
+        "      :  :      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      :  :      ",
+        "                ",
+        "                ",
+        "      :  :      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "     T####T     ",
+        "      #  #      ",
+        "      #  #      ",
+        "     T####T     ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_pool",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        " ______________ ",
+        " _SSSSSSSSSSSS_ ",
+        " _SGGGGGGGGGGS_ ",
+        " _SGGGGGGGGGGS_ ",
+        " _SGGGGWWWGGGS_ ",
+        " _SGGGGWWGGGGS_ ",
+        " _SGGGWWWWWGGS_ ",
+        " _SGGGGWWWGGGS_ ",
+        " _SGGGGGWWGGGS_ ",
+        " _SGGGGGGGGGGS_ ",
+        " _SGGGGGGGGGGS_ ",
+        " _SGGGGGGGGGGS_ ",
+        " _SSSSSSSSSSSS_ ",
+        " ______________ ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "    p    3      ",
+        "   T       pT   ",
+        "                ",
+        "            3   ",
+        "                ",
+        " 3              ",
+        "                ",
+        "           3    ",
+        "  3      p      ",
+        "     p          ",
+        "   T      p T   ",
+        "        3       ",
+        "    3           ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_trees",
+    "xsize": 16,
+    "zsize": 16,
+    "palette": [
+      {
+        "char": "P",
+        "blocks": [
+          {
+            "random": 32,
+            "block": "minecraft:sapling"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:sapling@1"
+          },
+          {
+            "random": 32,
+            "block": "minecraft:sapling@2"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:sapling@4"
+          }
+        ]
+      }
+    ],
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "  _____  _____  ",
+        "  _SSS_ 3_SSS_  ",
+        "  _SDS_  _SDS_  ",
+        "  _SSS_  _SSS_  ",
+        "  _____  _____  ",
+        " 3          3   ",
+        "          3     ",
+        "  _____  _____  ",
+        " 3_SSS_  _SSS_  ",
+        "  _SDS_  _SDS_  ",
+        "  _SSS_  _SSS_  ",
+        "  _____  _____  ",
+        "        3    3  ",
+        "  3             "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   TP      PT   ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "   TP      PT   ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_plants",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        " T        p   T ",
+        "                ",
+        "  3  p       p  ",
+        "          3     ",
+        "    p           ",
+        "  3             ",
+        "        p   p   ",
+        "   p            ",
+        "           3    ",
+        "     3          ",
+        "           p  3 ",
+        "      p         ",
+        "                ",
+        " T        3   T ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_plants_pillars",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        " w3       p   w ",
+        " 33         33  ",
+        "     p       p  ",
+        "                ",
+        " 3  p     3     ",
+        "             3  ",
+        "   3    p   p   ",
+        "   p      3     ",
+        "             3  ",
+        "     3          ",
+        "           p    ",
+        "      p     3   ",
+        "                ",
+        " w      3     w ",
+        "                "
+      ],
+      [
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                "
+      ],
+      [
+        "                ",
+        "Tw            wT",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "Tw            wT",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_fountain1",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        " wwww      wwww ",
+        " w     p p  p w ",
+        " wp  p        w ",
+        " w           pw ",
+        "     3 p   p    ",
+        "  p   3##     3 ",
+        "     3#WW#  p   ",
+        "    p #WW#  33  ",
+        "       ##3 3 3  ",
+        "  p     3 p     ",
+        " w    p     p w ",
+        " w         3 3w ",
+        " w p  3  p  33w ",
+        " wwwwp    3wwww ",
+        "                "
+      ],
+      [
+        "                ",
+        " w  T      T  w ",
+        "                ",
+        "                ",
+        " T            T ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        " T            T ",
+        "                ",
+        "                ",
+        " w  T      T  w ",
+        "                "
+      ],
+      [
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_fountain2",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        " wwww      wwww ",
+        " w 3 3 p p  p w ",
+        " w   p 3      w ",
+        " w           pw ",
+        "       3   p    ",
+        "  p    ###33    ",
+        " 3    #WWW# p   ",
+        "    p #WWW#     ",
+        "  3   #WWW#   3 ",
+        "  p    ###p     ",
+        " w    p     p w ",
+        " w   3        w ",
+        " w p    3p  3 w ",
+        " wwwwp     wwww ",
+        "                "
+      ],
+      [
+        "                ",
+        " w  w      w  w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "       wTw      ",
+        "      w   w     ",
+        "        W       ",
+        "      w   w     ",
+        "       wTw      ",
+        " w            w ",
+        "                ",
+        "                ",
+        " w  w      w  w ",
+        "                "
+      ],
+      [
+        "                ",
+        " w  w      w  w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "                ",
+        "        W       ",
+        "                ",
+        "                ",
+        "  w           w ",
+        "                ",
+        "                ",
+        " w  w      w  w ",
+        "                "
+      ],
+      [
+        "                ",
+        " ____      ____ ",
+        " _            _ ",
+        " _            _ ",
+        " _            _ ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        " _            _ ",
+        " _            _ ",
+        " _            _ ",
+        " ____      ____ ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_building",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "      x  x      ",
+        "                ",
+        "   x     3  x   ",
+        "      3         ",
+        "   3        3   ",
+        " x2       3   x ",
+        "      3         ",
+        "                ",
+        " x  3        2x ",
+        "                ",
+        "           3    ",
+        "   x    3   x   ",
+        "     3          ",
+        "      x  x      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "      T  T      ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " wT          Tw ",
+        "                ",
+        "                ",
+        " wT          Tw ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "      T  T      ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      ____      ",
+        "    ________    ",
+        "   __________   ",
+        "  ____________  ",
+        "  ____________  ",
+        " ______________ ",
+        " ______________ ",
+        " ______________ ",
+        " ______________ ",
+        "  ____________  ",
+        "  ____________  ",
+        "   __________   ",
+        "    ________    ",
+        "      ____      ",
+        "                "
+      ]
+    ]
+  },
+  {
+    "type": "part",
+    "name": "park_building2",
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "      x  x      ",
+        "      2  2      ",
+        "   x      3 x   ",
+        "                ",
+        "   3       3    ",
+        " x     3      x ",
+        "                ",
+        "            3   ",
+        " x   3        x ",
+        "                ",
+        "           3    ",
+        "   x   3    x   ",
+        "                ",
+        "      x  x      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "      T  T      ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " wT          Tw ",
+        "                ",
+        "                ",
+        " wT          Tw ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "      T  T      ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      w  w      ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        " w            w ",
+        "                ",
+        "                ",
+        "   w        w   ",
+        "                ",
+        "      w  w      ",
+        "                "
+      ],
+      [
+        "                ",
+        "      ____      ",
+        "    ________    ",
+        "   ___uuuu___   ",
+        "  ___uuuuuu___  ",
+        "  __uuuuuuuu__  ",
+        " __uuuuuuuuuu__ ",
+        " __uuuuuuuuuu__ ",
+        " __uuuuuuuuuu__ ",
+        " __uuuuuuuuuu__ ",
+        "  __uuuuuuuu__  ",
+        "  ___uuuuuu___  ",
+        "   ___uuuu___   ",
+        "    ________    ",
+        "      ____      ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       __       ",
+        "      ____      ",
+        "     ______     ",
+        "     ______     ",
+        "      ____      ",
+        "       __       ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ],
+    "meta": []
+  },
+  {
+    "type": "building",
+    "name": "center00",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "center00_1"
+      },
+      {
+        "top": false,
+        "part": "center00_2"
+      },
+      {
+        "top": false,
+        "part": "center00_3"
+      },
+      {
+        "top": true,
+        "part": "top_center00_1"
+      },
+      {
+        "top": true,
+        "part": "top_center00_2"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "center11",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "center11_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping00",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "preferslonely": 0.9,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping00_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping00_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping00_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping00_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping01",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "preferslonely": 0.9,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping01_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping01_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping01_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping01_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping01_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping01_in_3"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_1"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_3"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping10",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping10_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping10_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping10_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping10_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping10_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping10_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping10_in_3"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_1"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_2"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_3"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping11",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping11_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping11_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping11_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping11_r1"
+      },
+      {
+        "top": true,
+        "part": "shopping11_top"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping11_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping11_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping11_in_3"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_1"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_2"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_3"
+      }
+    ]
+  },
+
+
+  {
+    "type": "building",
+    "name": "shopping_open00",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "preferslonely": 0.9,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping_open00_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping_open00_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping_open00_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping00_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping_open01",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "preferslonely": 0.9,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping_open01_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping_open01_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping_open01_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping01_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping01_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping01_in_3"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_1"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping01_in_3"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping_open10",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping_open10_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping_open10_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping_open10_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping10_r1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping10_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping10_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping10_in_3"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_1"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_2"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping10_in_3"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "shopping_open11",
+    "filler": "#",
+    "maxcellars": 0,
+    "minfloors": 4,
+    "maxfloors": 6,
+    "parts": [
+      {
+        "floor": 0,
+        "part": "shopping_open11_0"
+      },
+      {
+        "floor": 1,
+        "part": "shopping_open11_1"
+      },
+      {
+        "floor": 2,
+        "part": "shopping_open11_2"
+      },
+      {
+        "top": false,
+        "range": "3,100",
+        "part": "shopping11_r1"
+      },
+      {
+        "top": true,
+        "part": "shopping11_top"
+      }
+    ],
+    "parts2": [
+      {
+        "floor": 0,
+        "part": "shopping11_in_1"
+      },
+      {
+        "floor": 0,
+        "part": "shopping11_in_2"
+      },
+      {
+        "floor": 0,
+        "part": "shopping11_in_3"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_1"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_2"
+      },
+      {
+        "top": false,
+        "range": "2,100",
+        "part": "shopping11_in_3"
+      }
+    ]
+  },
+
+
+
+  {
+    "type": "building",
+    "name": "town00",
+    "filler": "#",
+    "parts": [
+      {
+        "cellar": true,
+        "part": "town00_c"
+      },
+      {
+        "top": false,
+        "ground": true,
+        "cellar": false,
+        "part": "town00_0"
+      },
+      {
+        "top": false,
+        "ground": false,
+        "cellar": false,
+        "part": "town00_1"
+      },
+      {
+        "top": true,
+        "part": "top_center00_1"
+      },
+      {
+        "top": true,
+        "part": "top_center00_2"
+      }
+    ],
+    "parts2": [
+      {
+        "top": false,
+        "part": "town00_in_1"
+      },
+      {
+        "top": false,
+        "part": "town00_in_2"
+      },
+      {
+        "top": false,
+        "part": "town00_in_3"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "town01",
+    "filler": "#",
+    "parts": [
+      {
+        "cellar": true,
+        "part": "town01_c"
+      },
+      {
+        "top": false,
+        "ground": true,
+        "cellar": false,
+        "part": "town01_0"
+      },
+      {
+        "top": false,
+        "ground": false,
+        "cellar": false,
+        "part": "town01_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "top": false,
+        "part": "town01_in_1"
+      },
+      {
+        "top": false,
+        "part": "town_in_1"
+      },
+      {
+        "top": false,
+        "part": "town_in_2"
+      },
+      {
+        "top": false,
+        "part": "town_in_3"
+      },
+      {
+        "top": false,
+        "part": "town_in_4"
+      },
+      {
+        "top": false,
+        "part": "town_in_5"
+      },
+      {
+        "top": false,
+        "part": "town_in_6"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "town10",
+    "filler": "#",
+    "parts": [
+      {
+        "cellar": true,
+        "part": "town10_c"
+      },
+      {
+        "top": false,
+        "ground": true,
+        "cellar": false,
+        "part": "town10_0"
+      },
+      {
+        "top": false,
+        "ground": false,
+        "cellar": false,
+        "part": "town10_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "top": false,
+        "part": "town_in_1"
+      },
+      {
+        "top": false,
+        "part": "town_in_2"
+      },
+      {
+        "top": false,
+        "part": "town_in_3"
+      },
+      {
+        "top": false,
+        "part": "town_in_4"
+      },
+      {
+        "top": false,
+        "part": "town_in_5"
+      },
+      {
+        "top": false,
+        "part": "town_in_6"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "town11",
+    "filler": "#",
+    "parts": [
+      {
+        "cellar": true,
+        "part": "town11_c"
+      },
+      {
+        "top": false,
+        "ground": true,
+        "cellar": false,
+        "part": "town11_0"
+      },
+      {
+        "top": false,
+        "ground": false,
+        "cellar": false,
+        "part": "town11_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ],
+    "parts2": [
+      {
+        "top": false,
+        "part": "town_in_1"
+      },
+      {
+        "top": false,
+        "part": "town_in_2"
+      },
+      {
+        "top": false,
+        "part": "town_in_3"
+      },
+      {
+        "top": false,
+        "part": "town_in_4"
+      },
+      {
+        "top": false,
+        "part": "town_in_5"
+      },
+      {
+        "top": false,
+        "part": "town_in_6"
+      }
+    ]
+  },
+
+
+
+  {
+    "type": "building",
+    "name": "building1",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "building1_1"
+      },
+      {
+        "top": false,
+        "part": "building1_2"
+      },
+      {
+        "top": false,
+        "part": "building1_3"
+      },
+      {
+        "top": false,
+        "part": "building1_4"
+      },
+      {
+        "top": false,
+        "part": "building1_5"
+      },
+      {
+        "top": false,
+        "part": "building1_6"
+      },
+      {
+        "top": false,
+        "part": "building1_7"
+      },
+      {
+        "top": false,
+        "part": "building1_8"
+      },
+      {
+        "top": false,
+        "part": "building1_9"
+      },
+      {
+        "top": true,
+        "part": "top1x1_1"
+      },
+      {
+        "top": true,
+        "part": "top1x1_2"
+      },
+      {
+        "top": true,
+        "part": "top1x1_3"
+      },
+      {
+        "top": true,
+        "part": "top1x1_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_5"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "center10",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "center10_1"
+      },
+      {
+        "top": false,
+        "part": "center10_2"
+      },
+      {
+        "top": false,
+        "part": "center10_3"
+      },
+      {
+        "top": false,
+        "part": "center10_4"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "building2",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "building2_1"
+      },
+      {
+        "top": false,
+        "part": "building2_2"
+      },
+      {
+        "top": false,
+        "part": "building2_3"
+      },
+      {
+        "top": false,
+        "part": "building2_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_1"
+      },
+      {
+        "top": true,
+        "part": "top1x1_2"
+      },
+      {
+        "top": true,
+        "part": "top1x1_3"
+      },
+      {
+        "top": true,
+        "part": "top1x1_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_5"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "building3",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "building3_1"
+      },
+      {
+        "top": false,
+        "part": "building3_2"
+      },
+      {
+        "top": false,
+        "part": "building3_3"
+      },
+      {
+        "top": false,
+        "part": "building3_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_1"
+      },
+      {
+        "top": true,
+        "part": "top1x1_2"
+      },
+      {
+        "top": true,
+        "part": "top1x1_3"
+      },
+      {
+        "top": true,
+        "part": "top1x1_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_5"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "building4",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "building4_1"
+      },
+      {
+        "top": false,
+        "part": "building4_2"
+      },
+      {
+        "top": false,
+        "part": "building4_3"
+      },
+      {
+        "top": false,
+        "part": "building4_4"
+      },
+      {
+        "top": true,
+        "part": "top4_1"
+      },
+      {
+        "top": true,
+        "part": "top4_2"
+      },
+      {
+        "top": true,
+        "part": "top4_3"
+      }
+    ]
+  },
+
+  {
+    "type": "building",
+    "name": "building5",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "building5_1"
+      },
+      {
+        "top": false,
+        "part": "building5_2"
+      },
+      {
+        "top": false,
+        "part": "building5_3"
+      },
+      {
+        "top": false,
+        "part": "building5_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_2"
+      },
+      {
+        "top": true,
+        "part": "top1x1_3"
+      },
+      {
+        "top": true,
+        "part": "top1x1_4"
+      },
+      {
+        "top": true,
+        "part": "top1x1_5"
+      }
+    ]
+  },
+
+  {
+    "type": "building",
+    "name": "center01",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "center01_1"
+      },
+      {
+        "top": false,
+        "part": "center01_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_1"
+      },
+      {
+        "top": true,
+        "part": "top_center_2"
+      },
+      {
+        "top": true,
+        "part": "top_center_3"
+      },
+      {
+        "top": true,
+        "part": "top_center_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "library00",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "library00_1"
+      },
+      {
+        "top": true,
+        "part": "top_library00_1"
+      },
+      {
+        "top": true,
+        "part": "top_library00_2"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "library11",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "library11_1"
+      },
+      {
+        "top": false,
+        "part": "library11_2"
+      },
+      {
+        "top": true,
+        "part": "top_library_1"
+      },
+      {
+        "top": true,
+        "part": "top_library_2"
+      },
+      {
+        "top": true,
+        "part": "top_library_3"
+      },
+      {
+        "top": true,
+        "part": "top_library_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "library10",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "library10_1"
+      },
+      {
+        "top": false,
+        "part": "library10_2"
+      },
+      {
+        "top": false,
+        "part": "library10_3"
+      },
+      {
+        "top": false,
+        "part": "library10_4"
+      },
+      {
+        "top": false,
+        "part": "library10_5"
+      },
+      {
+        "top": true,
+        "part": "top_library_1"
+      },
+      {
+        "top": true,
+        "part": "top_library_2"
+      },
+      {
+        "top": true,
+        "part": "top_library_3"
+      },
+      {
+        "top": true,
+        "part": "top_library_4"
+      }
+    ]
+  },
+  {
+    "type": "building",
+    "name": "library01",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "library01_1"
+      },
+      {
+        "top": false,
+        "part": "library01_2"
+      },
+      {
+        "top": false,
+        "part": "library01_3"
+      },
+      {
+        "top": true,
+        "part": "top_library_1"
+      },
+      {
+        "top": true,
+        "part": "top_library_2"
+      },
+      {
+        "top": true,
+        "part": "top_library_3"
+      },
+      {
+        "top": true,
+        "part": "top_library_4"
+      }
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "library",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "library00",
+        "library01"
+      ],
+      [
+        "library10",
+        "library11"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "center",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "center00",
+        "center01"
+      ],
+      [
+        "center10",
+        "center11"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "townhall",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "town00",
+        "town01"
+      ],
+      [
+        "town10",
+        "town11"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "shopping",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "shopping00",
+        "shopping01"
+      ],
+      [
+        "shopping10",
+        "shopping11"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "shopping_open",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "shopping_open00",
+        "shopping_open01"
+      ],
+      [
+        "shopping_open10",
+        "shopping_open11"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "multi3",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building3",
+        "building3"
+      ],
+      [
+        "building3",
+        "building3"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "multi4",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building4",
+        "building4"
+      ],
+      [
+        "building4",
+        "building4"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "multi5",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building5",
+        "building5"
+      ],
+      [
+        "building5",
+        "building5"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "multi2",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building2",
+        "building2"
+      ],
+      [
+        "building2",
+        "building2"
+      ]
+    ]
+  },
+  {
+    "type": "multibuilding",
+    "name": "multi1",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building1",
+        "building1"
+      ],
+      [
+        "building1",
+        "building1"
+      ]
+    ]
+  }
+]
