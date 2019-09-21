@@ -1,0 +1,1659 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:357,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:360,HarvestLevel:3,Attack:3.2350001f},Special:{Categories:[\"weapon\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.005f,durability:3,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.254999f,durability:287,speed:1.8339984f}},TinkerData:{Materials:[\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:199,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:199,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:30,HarvestLevel:1,Attack:2.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:30,HarvestLevel:1,Attack:2.9f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:10,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:8,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:60,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:60,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:6,HarvestLevel:0,Attack:0.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:6,HarvestLevel:0,Attack:0.05f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:350,HarvestLevel:0,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:350,HarvestLevel:0,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:233,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:233,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:456,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:456,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:925,HarvestLevel:3,Attack:5.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:925,HarvestLevel:3,Attack:5.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:700,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:700,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:964,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:964,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:310,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:310,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:636,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:636,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:254,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:254,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:543,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:543,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:660,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:660,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1186,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1186,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:802,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:802,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:80,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:80,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:210,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:210,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:233,HarvestLevel:4,Attack:2.35f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:233,HarvestLevel:4,Attack:2.35f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:145,HarvestLevel:4,Attack:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:145,HarvestLevel:4,Attack:2.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:800,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:800,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:490,HarvestLevel:1,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:490,HarvestLevel:1,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:frypan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:357,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:359,HarvestLevel:3,Attack:3.2350001f},Special:{Categories:[\"weapon\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.005f,durability:2,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.4049989f,durability:270,speed:1.7429988f}},TinkerData:{Materials:[\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:25,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:270,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:199,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:199,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:30,HarvestLevel:1,Attack:2.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:30,HarvestLevel:1,Attack:2.9f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:10,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:8,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:60,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:60,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:6,HarvestLevel:0,Attack:0.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:6,HarvestLevel:0,Attack:0.05f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1510,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:350,HarvestLevel:0,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:350,HarvestLevel:0,Attack:5.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:233,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:233,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:456,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:456,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:925,HarvestLevel:3,Attack:5.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:925,HarvestLevel:3,Attack:5.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:700,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:700,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:964,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:964,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:310,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:310,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:636,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:636,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:288,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:254,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:254,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:543,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:543,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:250,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:660,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:660,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1186,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1186,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:802,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:802,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:210,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:210,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:233,HarvestLevel:4,Attack:2.35f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:233,HarvestLevel:4,Attack:2.35f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:145,HarvestLevel:4,Attack:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:145,HarvestLevel:4,Attack:2.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:800,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:800,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:490,HarvestLevel:1,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:490,HarvestLevel:1,Attack:2.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:80,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:80,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:battlesign",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:444,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:786,HarvestLevel:3,Attack:7.199f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:787,HarvestLevel:3,Attack:7.209f},Special:{Categories:[\"weapon\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.01f,durability:1,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.4749988f,durability:241,speed:1.8479984f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\",\"endstone\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:336,HarvestLevel:1,Attack:11.059999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:336,HarvestLevel:1,Attack:11.059999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:212,HarvestLevel:4,Attack:8.459999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:212,HarvestLevel:4,Attack:8.459999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:684,HarvestLevel:1,Attack:6.25f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:684,HarvestLevel:1,Attack:7.75f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\",\"bone\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:482,HarvestLevel:1,Attack:7.42f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:482,HarvestLevel:1,Attack:7.42f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\",\"cactus\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.77f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:108,HarvestLevel:1,Attack:6.77f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\",\"flint\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:40,HarvestLevel:1,Attack:6.8999996f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:32,HarvestLevel:1,Attack:6.8999996f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\",\"stone\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:5.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\",\"wood\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:3620,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:3620,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\",\"sponge\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:1000,HarvestLevel:0,Attack:10.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:1000,HarvestLevel:0,Attack:10.15f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\",\"firewood\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:552,HarvestLevel:2,Attack:8.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:552,HarvestLevel:2,Attack:8.2f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\",\"iron\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:1320,HarvestLevel:2,Attack:8.85f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:1320,HarvestLevel:2,Attack:8.85f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1976,HarvestLevel:3,Attack:9.629999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:1976,HarvestLevel:3,Attack:9.629999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1890,HarvestLevel:0,Attack:5.34f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:1890,HarvestLevel:0,Attack:5.34f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\",\"slime\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:2448,HarvestLevel:0,Attack:5.34f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:2448,HarvestLevel:0,Attack:5.34f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:876,HarvestLevel:0,Attack:12.099999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:876,HarvestLevel:0,Attack:12.099999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:620,HarvestLevel:4,Attack:8.459999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:620,HarvestLevel:4,Attack:8.459999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1318,HarvestLevel:3,Attack:10.799999f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:1318,HarvestLevel:3,Attack:10.799999f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\",\"steel\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:860,HarvestLevel:1,Attack:9.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:860,HarvestLevel:1,Attack:9.5f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\",\"silver\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:648,HarvestLevel:1,Attack:7.5499997f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:648,HarvestLevel:1,Attack:7.5499997f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\",\"lead\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:1262,HarvestLevel:2,Attack:7.5499997f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:1262,HarvestLevel:2,Attack:7.5499997f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\",\"bronze\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:3632,HarvestLevel:4,Attack:7.68f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:3632,HarvestLevel:4,Attack:7.68f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\",\"ardite\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:16,HarvestLevel:0,Attack:3.065f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:16,HarvestLevel:0,Attack:3.065f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\",\"paper\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:286,HarvestLevel:1,Attack:6.8999996f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:286,HarvestLevel:1,Attack:6.8999996f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:452,HarvestLevel:4,Attack:5.8599997f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:452,HarvestLevel:4,Attack:5.8599997f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:1370,HarvestLevel:4,Attack:14.3359995f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:1370,HarvestLevel:4,Attack:14.3359995f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2144,HarvestLevel:4,Attack:8.33f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:2144,HarvestLevel:4,Attack:8.33f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:666,HarvestLevel:4,Attack:6.055f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:666,HarvestLevel:4,Attack:6.055f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:712,HarvestLevel:1,Attack:6.8999996f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:712,HarvestLevel:1,Attack:6.8999996f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\",\"copper\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"established\",color:-1204473,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:2536,HarvestLevel:4,Attack:13.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:2536,HarvestLevel:4,Attack:13.4f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:1408,HarvestLevel:3,Attack:1.7f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"beheading_cleaver\",color:1070923,level:2}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cleaver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:1430,HarvestLevel:1,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:1430,HarvestLevel:1,Attack:5.6f},Special:{Categories:[\"weapon\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\",\"cheese\"],Modifiers:[\"beheading_cleaver\"]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1},{identifier:\"beheading_cleaver\",color:1070923,level:2}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:420,HarvestLevel:3,Attack:3.23f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:422,HarvestLevel:3,Attack:3.2350001f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"],alienStatBonus:{identifier:\"\",color:0,attack:0.005f,durability:2,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.4449989f,durability:251,speed:1.8199985f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:430,HarvestLevel:1,Attack:6.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:430,HarvestLevel:1,Attack:6.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:139,HarvestLevel:4,Attack:4.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:139,HarvestLevel:4,Attack:4.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:200,HarvestLevel:1,Attack:2.5f,Range:1.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:200,HarvestLevel:1,Attack:4.0f,Range:1.15f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:210,HarvestLevel:1,Attack:3.4f,Range:0.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:210,HarvestLevel:1,Attack:3.4f,Range:0.9f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:150,HarvestLevel:1,Attack:2.9f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:150,HarvestLevel:1,Attack:2.9f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:35,HarvestLevel:0,Attack:2.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:35,HarvestLevel:0,Attack:2.0f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,DrawSpeed:0.45f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:990,HarvestLevel:4,Attack:3.6f,Range:0.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,DrawSpeed:0.45f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:990,HarvestLevel:4,Attack:3.6f,Range:0.8f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,DrawSpeed:0.75f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:780,HarvestLevel:4,Attack:4.1f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,DrawSpeed:0.90749997f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:780,HarvestLevel:4,Attack:4.1f,Range:1.3f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:270,HarvestLevel:1,Attack:3.0f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:270,HarvestLevel:1,Attack:3.0f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:120,HarvestLevel:1,Attack:3.0f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:96,HarvestLevel:1,Attack:3.0f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:600,HarvestLevel:0,Attack:7.0f,Range:1.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,DrawSpeed:1.1f,FreeModifiers:3,ProjectileBonusDamage:1.0f,Durability:600,HarvestLevel:0,Attack:7.0f,Range:1.05f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:780,HarvestLevel:0,Attack:1.8f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:780,HarvestLevel:0,Attack:1.8f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1000,HarvestLevel:0,Attack:1.8f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1000,HarvestLevel:0,Attack:1.8f,Range:1.3f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:850,HarvestLevel:3,Attack:5.1f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:850,HarvestLevel:3,Attack:5.1f,Range:2.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:204,HarvestLevel:2,Attack:4.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:204,HarvestLevel:2,Attack:4.0f,Range:1.5f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:380,HarvestLevel:2,Attack:4.5f,Range:1.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:380,HarvestLevel:2,Attack:4.5f,Range:1.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:540,HarvestLevel:3,Attack:6.0f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:9.0f,Durability:540,HarvestLevel:3,Attack:6.0f,Range:2.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:250,HarvestLevel:1,Attack:5.0f,Range:0.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:1.2f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:250,HarvestLevel:1,Attack:5.0f,Range:0.8f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:434,HarvestLevel:1,Attack:3.5f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:3.0f,Durability:434,HarvestLevel:1,Attack:3.5f,Range:1.3f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,DrawSpeed:0.55f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:430,HarvestLevel:2,Attack:3.5f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,DrawSpeed:0.55f,FreeModifiers:3,ProjectileBonusDamage:6.0f,Durability:430,HarvestLevel:2,Attack:3.5f,Range:1.5f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:820,HarvestLevel:4,Attack:8.72f,Range:1.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,DrawSpeed:0.65f,FreeModifiers:3,ProjectileBonusDamage:4.0f,Durability:820,HarvestLevel:4,Attack:8.72f,Range:1.2f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:12,HarvestLevel:0,Attack:0.05f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:5,ProjectileBonusDamage:-2.0f,Durability:12,HarvestLevel:0,Attack:0.05f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1050,HarvestLevel:0,Attack:0.0f,Range:0.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1050,HarvestLevel:0,Attack:0.0f,Range:0.75f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:550,HarvestLevel:0,Attack:5.5f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:550,HarvestLevel:0,Attack:5.5f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:160,HarvestLevel:3,Attack:-1.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:160,HarvestLevel:3,Attack:-1.0f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"string\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:160,HarvestLevel:3,Attack:-1.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:160,HarvestLevel:3,Attack:-1.0f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"string\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-0.5f,Durability:300,HarvestLevel:1,Attack:2.0f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-0.5f,Durability:300,HarvestLevel:1,Attack:2.0f,Range:2.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:70,HarvestLevel:0,Attack:2.0f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:70,HarvestLevel:0,Attack:2.0f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shortbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:210,HarvestLevel:1,Attack:3.0f,Range:1.45f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:5.0f,Durability:210,HarvestLevel:1,Attack:3.0f,Range:1.45f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:266,HarvestLevel:1,Attack:2.9f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:266,HarvestLevel:1,Attack:2.9f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1890,HarvestLevel:0,Attack:1.8f,Range:1.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,DrawSpeed:0.85f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1890,HarvestLevel:0,Attack:1.8f,Range:1.3f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:196,HarvestLevel:1,Attack:3.0f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:156,HarvestLevel:1,Attack:3.0f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:1365,HarvestLevel:3,Attack:5.1f,Range:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,DrawSpeed:0.4f,FreeModifiers:3,ProjectileBonusDamage:2.0f,Durability:1365,HarvestLevel:3,Attack:5.1f,Range:2.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:770,HarvestLevel:2,Attack:4.5f,Range:1.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,DrawSpeed:0.6f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:770,HarvestLevel:2,Attack:4.5f,Range:1.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:355,HarvestLevel:2,Attack:4.0f,Range:1.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:0.5f,FreeModifiers:3,ProjectileBonusDamage:7.0f,Durability:355,HarvestLevel:2,Attack:4.0f,Range:1.5f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:980,HarvestLevel:0,Attack:5.5f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,DrawSpeed:1.0f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:980,HarvestLevel:0,Attack:5.5f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1820,HarvestLevel:0,Attack:0.0f,Range:0.75f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,DrawSpeed:1.15f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1820,HarvestLevel:0,Attack:0.0f,Range:0.75f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:3,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,DrawSpeed:1.5f,FreeModifiers:5,ProjectileBonusDamage:-2.0f,Durability:37,HarvestLevel:0,Attack:0.05f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:364,HarvestLevel:1,Attack:3.4f,Range:0.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:364,HarvestLevel:1,Attack:3.4f,Range:0.9f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:742,HarvestLevel:1,Attack:6.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:742,HarvestLevel:1,Attack:6.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:320,HarvestLevel:4,Attack:4.2f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:320,HarvestLevel:4,Attack:4.2f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:371,HarvestLevel:1,Attack:2.5f,Range:1.15f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,DrawSpeed:0.95f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:371,HarvestLevel:1,Attack:4.0f,Range:1.15f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:646,HarvestLevel:3,Attack:3.23f,Range:0.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.251f,DrawSpeed:0.2f,FreeModifiers:3,ProjectileBonusDamage:-1.0f,Durability:647,HarvestLevel:3,Attack:3.2400002f,Range:0.4f},Special:{Categories:[\"tool\",\"launcher\"],alienStatBonus:{identifier:\"\",color:0,attack:0.01f,durability:1,speed:0.021000002f},alienStatPool:{identifier:\"\",color:16777215,attack:1.319999f,durability:279,speed:1.7989986f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:longbow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1372,HarvestLevel:0,Attack:1.8f,Range:1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,DrawSpeed:1.05f,FreeModifiers:3,ProjectileBonusDamage:0.0f,Durability:1372,HarvestLevel:0,Attack:1.8f,Range:1.0f},Special:{Categories:[\"tool\",\"launcher\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\",\"string\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

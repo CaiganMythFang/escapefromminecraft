@@ -1,0 +1,13 @@
+{
+    "loot-table": "jsonlootbags:tinkersgearloot", // REQUIRED What loot table to use. See above.
+    "name": "tinkers_gear_loot",                 // REQUIRED Internal item name: alphanumerical and underscores only
+    "human-name": "Unexamined Bag",    // REQUIRED Human readable name.
+    "texture": "jsonlootbags:bag031",  // Model file for item. Provide your own via resource pack if desired. Default is "jsonlootbags:bag"
+    "rarity": "Common",   // Color of text. (Common, Uncommon, Rare, or Epic) "Common" is default.
+    "effect": false,     // Give item the 'enchanted' effect. Defaults to true if rarity is not common.
+    "colors": [         // Colors to use on texture layers. Allows you to ship 1 model/texture and have multiple visuals.
+    "0xFFFFFF",         // Every line is a number, but you can also encode it in a string and use the more common # or 0x notation.
+    "0xFFFFFF"           // Do not prefix the number with a 0. It will be interpreted as octal based!
+                        // If you use "0xFFFFFF" (white), it will have no effect. Use this if you want to skip a layer.
+    ]
+}

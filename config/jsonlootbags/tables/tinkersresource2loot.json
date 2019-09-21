@@ -1,0 +1,6672 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:cross_guard",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:axe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:scythe_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:large_sword_blade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer_head",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:excavator_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pan_head",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_tool_rod",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:sign_head",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bonedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tough_binding",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

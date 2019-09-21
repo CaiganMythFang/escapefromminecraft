@@ -1,0 +1,2255 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "tconstruct:slime_boots",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_boots",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slimesling",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slimesling",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_boots",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slimesling",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slimesling",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slimesling",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_boots",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_boots",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:moms_spaghetti",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 20
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 23
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:piggybackpack",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:throwball",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:throwball",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 22
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 31
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 32
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 34
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:edible",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 33
+            },
+            {
+              "function": "set_count",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.251f,FreeModifiers:3,Durability:394,HarvestLevel:3,Attack:3.2350001f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.005f,durability:1,speed:0.021000002f},alienStatPool:{identifier:\"\",color:16777215,attack:1.2199991f,durability:257,speed:2.0929973f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:20,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:16,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:8,HarvestLevel:0,Attack:0.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:8,HarvestLevel:0,Attack:0.05f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:pickaxe",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:395,HarvestLevel:3,Attack:3.2400002f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.01f,durability:2,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.284999f,durability:253,speed:2.0299976f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:20,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:16,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:8,HarvestLevel:0,Attack:0.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:8,HarvestLevel:0,Attack:0.05f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:shovel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.73f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.7350001f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.005f,durability:0,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.3749989f,durability:280,speed:1.714999f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.7f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.7f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:4.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.9f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:20,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:16,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:8,HarvestLevel:0,Attack:0.55f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:8,HarvestLevel:0,Attack:0.55f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.02f,FreeModifiers:3,Durability:1810,HarvestLevel:0,Attack:0.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:6.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:9.22f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:9.22f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.6f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.6f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.0f,FreeModifiers:3,Durability:659,HarvestLevel:3,Attack:6.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:5.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.8f,FreeModifiers:3,Durability:988,HarvestLevel:3,Attack:5.6f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:2.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:2.3f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:2.3f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:2.3f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:715,HarvestLevel:1,Attack:2.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-0.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.7f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.85f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.85f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hatchet",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.7f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:9.0f,FreeModifiers:3,Durability:310,HarvestLevel:4,Attack:4.7f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:0.51f,FreeModifiers:3,HarvestLevelShovel:0,Durability:6,HarvestLevel:0,Attack:3.05f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:0.51f,FreeModifiers:5,HarvestLevelShovel:0,Durability:6,HarvestLevel:0,Attack:3.05f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.23f,FreeModifiers:3,HarvestLevelShovel:3,Durability:357,HarvestLevel:3,Attack:6.23f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.237f,FreeModifiers:3,HarvestLevelShovel:3,Durability:360,HarvestLevel:3,Attack:6.2400002f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.01f,durability:3,speed:0.007f},alienStatPool:{identifier:\"\",color:16777215,attack:1.269999f,durability:275,speed:1.8969982f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.5f,FreeModifiers:3,HarvestLevelShovel:1,Durability:108,HarvestLevel:1,Attack:9.2f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.5f,FreeModifiers:3,HarvestLevelShovel:1,Durability:108,HarvestLevel:1,Attack:9.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.07f,FreeModifiers:3,HarvestLevelShovel:4,Durability:25,HarvestLevel:4,Attack:7.2f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.07f,FreeModifiers:3,HarvestLevelShovel:4,Durability:25,HarvestLevel:4,Attack:7.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.09f,FreeModifiers:3,HarvestLevelShovel:1,Durability:270,HarvestLevel:1,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.09f,FreeModifiers:3,HarvestLevelShovel:1,Durability:270,HarvestLevel:1,Attack:7.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:199,HarvestLevel:1,Attack:6.4f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:199,HarvestLevel:1,Attack:6.4f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:30,HarvestLevel:1,Attack:5.9f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:30,HarvestLevel:1,Attack:5.9f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:60,HarvestLevel:0,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:60,HarvestLevel:0,Attack:5.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{ench:[{lvl:1s,id:33s}],StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:3.02f,FreeModifiers:3,HarvestLevelShovel:0,Durability:1510,HarvestLevel:0,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:3.02f,FreeModifiers:3,HarvestLevelShovel:0,Durability:1510,HarvestLevel:0,Attack:3.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"squeaky\",color:-3486642,level:1}],Traits:[\"squeaky\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:10,HarvestLevel:1,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:8,HarvestLevel:1,Attack:6.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:6.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:350,HarvestLevel:0,Attack:8.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:6.0f,FreeModifiers:3,HarvestLevelShovel:0,Durability:350,HarvestLevel:0,Attack:8.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.0f,FreeModifiers:3,HarvestLevelShovel:2,Durability:233,HarvestLevel:2,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.0f,FreeModifiers:3,HarvestLevelShovel:2,Durability:233,HarvestLevel:2,Attack:7.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.25f,FreeModifiers:3,HarvestLevelShovel:1,Durability:254,HarvestLevel:1,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.25f,FreeModifiers:3,HarvestLevelShovel:1,Durability:254,HarvestLevel:1,Attack:6.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.8f,FreeModifiers:3,HarvestLevelShovel:2,Durability:543,HarvestLevel:2,Attack:6.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.8f,FreeModifiers:3,HarvestLevelShovel:2,Durability:543,HarvestLevel:2,Attack:6.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.3f,FreeModifiers:3,HarvestLevelShovel:1,Durability:250,HarvestLevel:1,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.3f,FreeModifiers:3,HarvestLevelShovel:1,Durability:250,HarvestLevel:1,Attack:6.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.02f,FreeModifiers:3,HarvestLevelShovel:4,Durability:660,HarvestLevel:4,Attack:11.72f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.02f,FreeModifiers:3,HarvestLevelShovel:4,Durability:660,HarvestLevel:4,Attack:11.72f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:3.5f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1186,HarvestLevel:4,Attack:6.6f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:3.5f,FreeModifiers:3,HarvestLevelShovel:4,Durability:1186,HarvestLevel:4,Attack:6.6f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:3,Durability:636,HarvestLevel:3,Attack:9.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:7.0f,FreeModifiers:3,HarvestLevelShovel:3,Durability:636,HarvestLevel:3,Attack:9.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"stiff\",color:-5789785,level:1},{identifier:\"sharp\",color:-5789785,level:1}],Traits:[\"stiff\",\"sharp\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:288,HarvestLevel:1,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:5.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:288,HarvestLevel:1,Attack:8.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.2f,FreeModifiers:3,HarvestLevelShovel:2,Durability:456,HarvestLevel:2,Attack:7.5f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:2,MiningSpeed:6.2f,FreeModifiers:3,HarvestLevelShovel:2,Durability:456,HarvestLevel:2,Attack:7.5f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:5.8f,FreeModifiers:3,HarvestLevelShovel:3,Durability:925,HarvestLevel:3,Attack:8.1f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:5.8f,FreeModifiers:3,HarvestLevelShovel:3,Durability:925,HarvestLevel:3,Attack:8.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"unnatural\",color:-946192,level:1},{identifier:\"crumbling\",color:-946192,level:1}],Traits:[\"unnatural\",\"crumbling\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.03f,FreeModifiers:3,HarvestLevelShovel:0,Durability:964,HarvestLevel:0,Attack:4.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.1f,FreeModifiers:3,HarvestLevelShovel:0,Durability:310,HarvestLevel:0,Attack:10.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:2.1f,FreeModifiers:3,HarvestLevelShovel:0,Durability:310,HarvestLevel:0,Attack:10.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.5f,FreeModifiers:3,HarvestLevelShovel:1,Durability:80,HarvestLevel:1,Attack:6.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.5f,FreeModifiers:3,HarvestLevelShovel:1,Durability:80,HarvestLevel:1,Attack:6.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:12.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:802,HarvestLevel:4,Attack:7.1f},Stats:{AttackSpeedMultiplier:1.1f,HarvestLevelAxe:4,MiningSpeed:12.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:802,HarvestLevel:4,Attack:7.1f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:9.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:210,HarvestLevel:4,Attack:7.2f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:9.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:210,HarvestLevel:4,Attack:7.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1},{identifier:\"firestorm\",color:-5034752,level:1},{identifier:\"flammable\",color:-5034752,level:1}],Traits:[\"autosmelt\",\"firestorm\",\"flammable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:8.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:233,HarvestLevel:4,Attack:5.35f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:8.0f,FreeModifiers:3,HarvestLevelShovel:4,Durability:233,HarvestLevel:4,Attack:5.35f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.07f,FreeModifiers:3,HarvestLevelShovel:4,Durability:145,HarvestLevel:4,Attack:5.2f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:7.07f,FreeModifiers:3,HarvestLevelShovel:4,Durability:145,HarvestLevel:4,Attack:5.2f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:6.5f,FreeModifiers:3,HarvestLevelShovel:4,Durability:800,HarvestLevel:4,Attack:11.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:4,MiningSpeed:6.5f,FreeModifiers:3,HarvestLevelShovel:4,Durability:800,HarvestLevel:4,Attack:11.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:3,MiningSpeed:3.8999999f,FreeModifiers:3,HarvestLevelShovel:3,Durability:444,HarvestLevel:3,Attack:2.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:490,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:1,MiningSpeed:4.0f,FreeModifiers:3,HarvestLevelShovel:1,Durability:490,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mattock",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.24f,FreeModifiers:3,HarvestLevelShovel:0,Durability:700,HarvestLevel:0,Attack:4.8f},Stats:{AttackSpeedMultiplier:1.0f,HarvestLevelAxe:0,MiningSpeed:4.24f,FreeModifiers:3,HarvestLevelShovel:0,Durability:700,HarvestLevel:0,Attack:4.8f},Special:{Categories:[\"aoe\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:500,HarvestLevel:0,Attack:5.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-3386624,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.0f,FreeModifiers:3,Durability:276,HarvestLevel:2,Attack:4.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic\",color:-3487030,level:3,magnetic1:1b,magnetic2:1b}],Traits:[\"magnetic1\",\"magnetic2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.25f,FreeModifiers:3,Durability:324,HarvestLevel:1,Attack:3.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"poisonous\",color:-11712152,level:1},{identifier:\"heavy\",color:-11712152,level:1}],Traits:[\"poisonous\",\"heavy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:150,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:hammer",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:25,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:20,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:430,HarvestLevel:1,Attack:5.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"holy\",color:-3019530,level:1}],Traits:[\"holy\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.2f,FreeModifiers:3,Durability:660,HarvestLevel:2,Attack:4.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"tasty\",color:-1073509,level:1},{identifier:\"baconlicious\",color:-1073509,level:1}],Traits:[\"tasty\",\"baconlicious\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.0f,FreeModifiers:3,Durability:75,HarvestLevel:0,Attack:2.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological\",color:-7444965,level:1}],Traits:[\"ecological\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:3,Durability:8,HarvestLevel:0,Attack:0.05f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:0.51f,FreeModifiers:5,Durability:8,HarvestLevel:0,Attack:0.05f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable1\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.23f,FreeModifiers:3,Durability:393,HarvestLevel:3,Attack:3.23f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.244f,FreeModifiers:3,Durability:394,HarvestLevel:3,Attack:3.2450004f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"],alienStatBonus:{identifier:\"\",color:0,attack:0.015f,durability:1,speed:0.014f},alienStatPool:{identifier:\"\",color:16777215,attack:1.2249991f,durability:277,speed:1.945998f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"enderference\",color:-2041712,level:1},{identifier:\"alien\",color:-2041712,level:1}],Traits:[\"enderference\",\"alien\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.5f,FreeModifiers:3,Durability:168,HarvestLevel:1,Attack:6.2f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquadynamic\",color:-8462660,level:1},{identifier:\"jagged\",color:-8462660,level:1}],Traits:[\"aquadynamic\",\"jagged\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:106,HarvestLevel:4,Attack:4.2f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10478396,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:2.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.09f,FreeModifiers:3,Durability:342,HarvestLevel:1,Attack:4.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"fractured\",color:-1186113,level:1},{identifier:\"splintering\",color:-1186113,level:1}],Traits:[\"fractured\",\"splintering\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:241,HarvestLevel:1,Attack:3.4f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiky\",color:-16735985,level:1},{identifier:\"prickly\",color:-16735985,level:1}],Traits:[\"spiky\",\"prickly\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.0f,FreeModifiers:3,Durability:54,HarvestLevel:1,Attack:2.9f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"crude\",color:-9868951,level:3,crude1:1b,crude2:1b}],Traits:[\"crude1\",\"crude2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:20,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.0f,FreeModifiers:3,Durability:16,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheap\",color:-6710887,level:1},{identifier:\"cheapskate\",color:-6710887,level:1}],Traits:[\"cheap\",\"cheapskate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.8f,FreeModifiers:3,Durability:631,HarvestLevel:2,Attack:3.5f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense\",color:-1852056,level:1}],Traits:[\"dense\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:5.3f,FreeModifiers:3,Durability:356,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"established\",color:-1204473,level:1}],Traits:[\"established\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.02f,FreeModifiers:3,Durability:685,HarvestLevel:4,Attack:8.72f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"coldblooded\",color:-6202120,level:1},{identifier:\"insatiable\",color:-6202120,level:1}],Traits:[\"coldblooded\",\"insatiable\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.5f,FreeModifiers:3,Durability:1816,HarvestLevel:4,Attack:3.6f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"petramor\",color:-3063280,level:1},{identifier:\"stonebound\",color:-3063280,level:1}],Traits:[\"petramor\",\"stonebound\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Stats:{AttackSpeedMultiplier:1.1f,MiningSpeed:12.0f,FreeModifiers:3,Durability:1072,HarvestLevel:4,Attack:4.1f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"lightweight\",color:-14122284,level:1},{identifier:\"momentum\",color:-14122284,level:1}],Traits:[\"lightweight\",\"momentum\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.5f,FreeModifiers:3,Durability:143,HarvestLevel:1,Attack:3.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"hellish\",color:-4698289,level:1},{identifier:\"aridiculous\",color:-4698289,level:1}],Traits:[\"hellish\",\"aridiculous\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:2.1f,FreeModifiers:3,Durability:438,HarvestLevel:0,Attack:7.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"flammable\",color:-27123,level:1},{identifier:\"superheat\",color:-27123,level:1}],Traits:[\"flammable\",\"superheat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.03f,FreeModifiers:3,Durability:1224,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue\",color:-9123641,level:1}],Traits:[\"slimey_blue\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:4.24f,FreeModifiers:3,Durability:945,HarvestLevel:0,Attack:1.8f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green\",color:-8206221,level:1}],Traits:[\"slimey_green\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:8.0f,FreeModifiers:3,Durability:333,HarvestLevel:4,Attack:2.35f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-10283258,level:1},{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"autosmelt\",\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:7.07f,FreeModifiers:3,Durability:226,HarvestLevel:4,Attack:2.2f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:3.8999999f,FreeModifiers:3,Durability:704,HarvestLevel:3,Attack:-1.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:kama",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Stats:{AttackSpeedMultiplier:1.0f,MiningSpeed:6.5f,FreeModifiers:3,Durability:1268,HarvestLevel:4,Attack:8.0f},Special:{Categories:[\"aoe\",\"weapon\",\"harvest\",\"tool\"]},TinkerData:{Materials:[\"bonedragon\",\"bonedragon\",\"bonedragon\"],Modifiers:[]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4907 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:lavawood_stairs",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:firewood_stairs",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:mudbrick_stairs",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:firewood_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:firewood_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:deco_ground_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:firewood",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:clear_stained_glass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:deco_ground",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:firewood",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick_fancy",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick_cracked",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_paver",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_cobble",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_stone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick_square",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick_triangle",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_brick_small",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_road",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_tile",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:rack",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:rack",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:stone_ladder",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:stone_torch",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_stairs_creeper",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_clay_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_clay_stairs",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_brick_stairs",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_clay_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_clay",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:dried_clay",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_tile",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_road",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_smooth",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_rough",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_paver",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab2",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_creeper",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_slab",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick_small",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick_fancy",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick_cracked",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_sapling",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_sapling",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:wood_rail_trapdoor",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:wood_rail",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick_square",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:brownstone_stairs_brick_triangle",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_sapling",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_leaves",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_leaves",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_leaves",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass_tall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_blue_end",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_blue_mid",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_purple_end",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_purple_mid",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_vine_purple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_dirt",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:punji",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_glass",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_tank",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:casting",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_tank",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:channel",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:faucet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_tank",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:smeltery_controller",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:seared_furnace_controller",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tinker_tank_controller",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:smeltery_io",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:casting",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_congealed",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_congealed",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_congealed",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_congealed",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_congealed",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:wooden_hopper",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:fancy_frame",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:soil",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:soil",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:soil",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:soil",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockcobalt\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocknickel\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockaluminum\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockcopper\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockbronze\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocklead\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocksilver\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockelectrum\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocksteel\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:gold_block\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocktin\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_dirt",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_dirt",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_dirt",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:soil",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:book",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:iron_block\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:toolforge",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:slime_grass",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:log\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:log2\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:log2\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"harvestcraft:pampaperbark\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"harvestcraft:pamcinnamon\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"traverse:fir_planks\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"traverse:fir_log\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:8s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"harvestcraft:pammaple\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:8s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:log\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:log\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"quark:vertical_planks\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"quark:vertical_stained_planks\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"quark:stained_planks\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-dark-oak\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:8s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-jungle\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-acacia\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:8s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:14s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:13s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:12s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:planks\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:9s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:7s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:8s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:11s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-birch\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:6s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-spruce\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:10s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "tconstruct:tooltables",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:planks-oak\",Count:1,Damage:8s}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
