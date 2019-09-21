@@ -292,3 +292,17 @@ val quarkhats = [
 for item in quarkhats {
 <ore:quarkhats>.add(item);
 }
+
+val tinkermods = [
+<tconstruct:materials:19>, <tconstruct:materials:14>, <tconstruct:materials:13>, <tconstruct:materials:12>, <tconstruct:materials:16>
+] as IItemStack[];
+for item in tinkermods {
+<ore:tinkermods>.add(item);
+}
+
+val tinkerdrops = [
+<tconstruct:materials:17>, <tconstruct:materials:18>, <tconstruct:materials:15>
+] as IItemStack[];
+for item in tinkerdrops {
+<ore:tinkerdrops>.add(item);
+}
