@@ -1,0 +1,3039 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "conarm:book",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:413,Defense:1.8f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:413,Defense:1.8f},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue_armor\",color:-9123641,level:1},{identifier:\"bouncy_armor\",color:-9123641,level:1}],Traits:[\"slimey_blue_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:272,Defense:2.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:272,Defense:2.0f},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green_armor\",color:-8206221,level:1},{identifier:\"bouncy_armor\",color:-8206221,level:1}],Traits:[\"slimey_green_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:344,Defense:17.1f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:344,Defense:17.1f},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"dramatic_armor\",color:-946192,level:1},{identifier:\"invigorating_armor\",color:-946192,level:1}],Traits:[\"dramatic_armor\",\"invigorating_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:337,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:337,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:200,Defense:15.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:200,Defense:15.0f},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic_armor\",color:-3487030,magnetic2_armor:1b,level:3,magnetic1_armor:1b}],Traits:[\"magnetic2_armor\",\"magnetic1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.5f,FreeModifiers:3,Durability:165,Defense:17.5f},Stats:{Toughness:0.5f,FreeModifiers:3,Durability:165,Defense:17.5f},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"combustible_armor\",color:-3386624,level:1}],Traits:[\"combustible_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:5.0f,FreeModifiers:3,Durability:592,Defense:1.0f},Stats:{Toughness:5.0f,FreeModifiers:3,Durability:592,Defense:1.0f},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"absorbent_armor\",color:-3486642,level:1}],Traits:[\"absorbent_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4,Defense:0.5f},Stats:{Toughness:0.0f,FreeModifiers:5,Durability:4,Defense:0.5f},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable2\",\"writable1\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:130,Defense:19.4f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:130,Defense:19.4f},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"autoforge_armor\",color:-27123,level:1},{identifier:\"superhot_armor\",color:-27123,level:1}],Traits:[\"autoforge_armor\",\"superhot_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:69,Defense:5.3f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:69,Defense:5.3f},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"aridiculous_armor\",color:-4698289,level:1},{identifier:\"infernal_armor\",color:-4698289,level:1}],Traits:[\"aridiculous_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:420,Defense:15.6f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:420,Defense:15.6f},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"featherweight_armor\",color:-14122284,level:1},{identifier:\"lightweight_armor\",color:-14122284,level:1}],Traits:[\"featherweight_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.0f,FreeModifiers:3,Durability:434,Defense:13.0f},Stats:{Toughness:4.0f,FreeModifiers:3,Durability:434,Defense:13.0f},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"subterranean_armor\",color:-3063280,level:1},{identifier:\"petravidity_armor\",color:-3063280,level:1}],Traits:[\"subterranean_armor\",\"petravidity_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:399,Defense:20.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:399,Defense:20.0f},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"vengeful_armor\",color:-6202120,level:1},{identifier:\"prideful_armor\",color:-6202120,level:1}],Traits:[\"vengeful_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:253,Defense:8.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:253,Defense:8.0f},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"ambitious_armor\",color:-1204473,level:1}],Traits:[\"ambitious_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},TinkerData:{Materials:[\"chitintandeathworm\",\"chitintandeathworm\",\"chitintandeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalebronzedragon\",\"scalebronzedragon\",\"scalebronzedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-8102610,level:1},{identifier:\"autoforge_armor\",color:-8102610,level:1},{identifier:\"prideful_armor\",color:-8102610,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.25f,FreeModifiers:3,Durability:334,Defense:12.0f},Stats:{Toughness:1.25f,FreeModifiers:3,Durability:334,Defense:12.0f},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense_armor\",color:-1852056,level:1}],Traits:[\"dense_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:147,Defense:11.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:147,Defense:11.0f},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"heavy_armor\",color:-11712152,level:1},{identifier:\"shielding_armor\",color:-11712152,level:1}],Traits:[\"heavy_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:279,Defense:17.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:279,Defense:17.0f},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"blessed_armor\",color:-3019530,level:1}],Traits:[\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},TinkerData:{Materials:[\"leatherfrosttroll\",\"leatherfrosttroll\",\"leatherfrosttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:1863,Defense:9.9f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:1863,Defense:9.9f},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:2238,Defense:10.574999f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:2238,Defense:10.574999f},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:3487,Defense:18.899998f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:3487,Defense:18.899998f},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.5f,FreeModifiers:3,Durability:288,Defense:18.4f},Stats:{Toughness:5.4f,FreeModifiers:3,Durability:288,Defense:22.08f},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"steady_armor\",color:-5789785,level:1},{identifier:\"indomitable_armor\",color:-5789785,level:1}],Traits:[\"steady_armor\",\"indomitable_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:14,Defense:5.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:11,Defense:5.0f},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheapskate_armor\",color:-6710887,level:1},{identifier:\"cheap_armor\",color:-6710887,level:1}],Traits:[\"cheapskate_armor\",\"cheap_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:28,Defense:4.5f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:28,Defense:4.5f},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"mundane_armor\",color:-9868951,level:3,mundane2_armor:1b,mundane1_armor:1b}],Traits:[\"mundane2_armor\",\"mundane1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:158,Defense:10.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:158,Defense:10.0f},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiny_armor\",color:-16735985,level:1}],Traits:[\"spiny_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:248,Defense:4.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:248,Defense:4.0f},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"calcic_armor\",color:-1186113,level:1},{identifier:\"skeletal_armor\",color:-1186113,level:1}],Traits:[\"calcic_armor\",\"skeletal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:76,Defense:16.2f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:76,Defense:16.2f},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos_ranch_armor\",color:-10478396,level:1}],Traits:[\"duritos_ranch_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:48,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:48,Defense:18.8f},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:171,Defense:9.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:171,Defense:9.0f},Special:{alienStatPool:{identifier:\"\",color:16777215,defense:4.299997f,durability:204,toughness:2.0099986f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"alien_armor\",color:-2041712,level:1},{identifier:\"enderport_armor\",color:-2041712,level:1}],Traits:[\"alien_armor\",\"enderport_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:45,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:45,Defense:3.0f},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1}],Traits:[\"ecological_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scaleblueseaserpent\",\"scaleblueseaserpent\",\"scaleblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:20,Defense:5.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:16,Defense:5.0f},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheapskate_armor\",color:-6710887,level:1},{identifier:\"cheap_armor\",color:-6710887,level:1}],Traits:[\"cheapskate_armor\",\"cheap_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:64,Defense:3.0f},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1}],Traits:[\"ecological_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:189,Defense:19.4f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:189,Defense:19.4f},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"autoforge_armor\",color:-27123,level:1},{identifier:\"superhot_armor\",color:-27123,level:1}],Traits:[\"autoforge_armor\",\"superhot_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:98,Defense:5.3f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:98,Defense:5.3f},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"aridiculous_armor\",color:-4698289,level:1},{identifier:\"infernal_armor\",color:-4698289,level:1}],Traits:[\"aridiculous_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:610,Defense:15.6f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:610,Defense:15.6f},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"featherweight_armor\",color:-14122284,level:1},{identifier:\"lightweight_armor\",color:-14122284,level:1}],Traits:[\"featherweight_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.0f,FreeModifiers:3,Durability:630,Defense:13.0f},Stats:{Toughness:4.0f,FreeModifiers:3,Durability:630,Defense:13.0f},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"subterranean_armor\",color:-3063280,level:1},{identifier:\"petravidity_armor\",color:-3063280,level:1}],Traits:[\"subterranean_armor\",\"petravidity_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:579,Defense:20.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:579,Defense:20.0f},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"vengeful_armor\",color:-6202120,level:1},{identifier:\"prideful_armor\",color:-6202120,level:1}],Traits:[\"vengeful_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:368,Defense:8.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:368,Defense:8.0f},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"ambitious_armor\",color:-1204473,level:1}],Traits:[\"ambitious_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:41,Defense:4.5f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:41,Defense:4.5f},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"mundane_armor\",color:-9868951,level:3,mundane2_armor:1b,mundane1_armor:1b}],Traits:[\"mundane2_armor\",\"mundane1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:230,Defense:10.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:230,Defense:10.0f},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiny_armor\",color:-16735985,level:1}],Traits:[\"spiny_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:361,Defense:4.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:361,Defense:4.0f},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"calcic_armor\",color:-1186113,level:1},{identifier:\"skeletal_armor\",color:-1186113,level:1}],Traits:[\"calcic_armor\",\"skeletal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:110,Defense:16.2f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:110,Defense:16.2f},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos_ranch_armor\",color:-10478396,level:1}],Traits:[\"duritos_ranch_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:70,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:70,Defense:18.8f},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:247,Defense:9.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:247,Defense:9.0f},Special:{alienStatPool:{identifier:\"\",color:16777215,defense:3.779997f,durability:182,toughness:2.1899984f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"alien_armor\",color:-2041712,level:1},{identifier:\"enderport_armor\",color:-2041712,level:1}],Traits:[\"alien_armor\",\"enderport_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:6,Defense:0.5f},Stats:{Toughness:0.0f,FreeModifiers:5,Durability:6,Defense:0.5f},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable2\",\"writable1\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:3236,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:3236,Defense:9.0f},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalebluedragon\",\"scalebluedragon\",\"scalebluedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1968144,level:1},{identifier:\"lightweight_armor\",color:-1968144,level:1}],Traits:[\"rough_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},TinkerData:{Materials:[\"leatherforesttroll\",\"leatherforesttroll\",\"leatherforesttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalegreendragon\",\"scalegreendragon\",\"scalegreendragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"autoforge_armor\",color:-16733696,level:1},{identifier:\"shielding_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:530,Defense:14.0f},TinkerData:{Materials:[\"leathermountaintroll\",\"leathermountaintroll\",\"leathermountaintroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scalebronzeseaserpent\",\"scalebronzeseaserpent\",\"scalebronzeseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-22016,level:1},{identifier:\"aquaspeed_armor\",color:-22016,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalereddragon\",\"scalereddragon\",\"scalereddragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5636096,level:1},{identifier:\"autoforge_armor\",color:-5636096,level:1},{identifier:\"infernal_armor\",color:-5636096,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16777046,level:1},{identifier:\"aquaspeed_armor\",color:-16777046,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scalegreenseaserpent\",\"scalegreenseaserpent\",\"scalegreenseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"aquaspeed_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalesilverdragon\",\"scalesilverdragon\",\"scalesilverdragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5592406,level:1},{identifier:\"blessed_armor\",color:-5592406,level:1}],Traits:[\"rough_armor\",\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:685,Defense:14.0f},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scalepurpleseaserpent\",\"scalepurpleseaserpent\",\"scalepurpleseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5635926,level:1},{identifier:\"aquaspeed_armor\",color:-5635926,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},TinkerData:{Materials:[\"chitinwhitedeathworm\",\"chitinwhitedeathworm\",\"chitinwhitedeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:281,Defense:14.0f},TinkerData:{Materials:[\"chitinbrowndeathworm\",\"chitinbrowndeathworm\",\"chitinbrowndeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalesapphiredragon\",\"scalesapphiredragon\",\"scalesapphiredragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scaletealseaserpent\",\"scaletealseaserpent\",\"scaletealseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733526,level:1},{identifier:\"aquaspeed_armor\",color:-16733526,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalegraydragon\",\"scalegraydragon\",\"scalegraydragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184811,level:1},{identifier:\"autoforge_armor\",color:-11184811,level:1},{identifier:\"steady_armor\",color:-11184811,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"steady_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1232,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:4,Durability:1232,Defense:18.0f},TinkerData:{Materials:[\"scalewhitedragon\",\"scalewhitedragon\",\"scalewhitedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1,level:1},{identifier:\"writable\",color:-1,level:1,writable2:1b}],Traits:[\"rough_armor\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:helmet",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1489,Defense:14.0f},TinkerData:{Materials:[\"scaleredseaserpent\",\"scaleredseaserpent\",\"scaleredseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-43691,level:1},{identifier:\"aquaspeed_armor\",color:-43691,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:370,Defense:2.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:370,Defense:2.0f},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green_armor\",color:-8206221,level:1},{identifier:\"bouncy_armor\",color:-8206221,level:1}],Traits:[\"slimey_green_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:563,Defense:1.8f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:563,Defense:1.8f},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue_armor\",color:-9123641,level:1},{identifier:\"bouncy_armor\",color:-9123641,level:1}],Traits:[\"slimey_blue_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:177,Defense:19.4f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:177,Defense:19.4f},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"autoforge_armor\",color:-27123,level:1},{identifier:\"superhot_armor\",color:-27123,level:1}],Traits:[\"autoforge_armor\",\"superhot_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:4,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalewhitedragon\",\"scalewhitedragon\",\"scalewhitedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1,level:1},{identifier:\"writable\",color:-1,level:1,writable2:1b}],Traits:[\"rough_armor\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},TinkerData:{Materials:[\"chitinwhitedeathworm\",\"chitinwhitedeathworm\",\"chitinwhitedeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},TinkerData:{Materials:[\"chitinbrowndeathworm\",\"chitinbrowndeathworm\",\"chitinbrowndeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalegraydragon\",\"scalegraydragon\",\"scalegraydragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184811,level:1},{identifier:\"autoforge_armor\",color:-11184811,level:1},{identifier:\"steady_armor\",color:-11184811,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"steady_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalesapphiredragon\",\"scalesapphiredragon\",\"scalesapphiredragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:469,Defense:17.1f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:469,Defense:17.1f},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"dramatic_armor\",color:-946192,level:1},{identifier:\"invigorating_armor\",color:-946192,level:1}],Traits:[\"dramatic_armor\",\"invigorating_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:460,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:460,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:273,Defense:15.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:273,Defense:15.0f},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic_armor\",color:-3487030,magnetic2_armor:1b,level:3,magnetic1_armor:1b}],Traits:[\"magnetic2_armor\",\"magnetic1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.5f,FreeModifiers:3,Durability:225,Defense:17.5f},Stats:{Toughness:0.5f,FreeModifiers:3,Durability:225,Defense:17.5f},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"combustible_armor\",color:-3386624,level:1}],Traits:[\"combustible_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:5.0f,FreeModifiers:3,Durability:807,Defense:1.0f},Stats:{Toughness:5.0f,FreeModifiers:3,Durability:807,Defense:1.0f},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"absorbent_armor\",color:-3486642,level:1}],Traits:[\"absorbent_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:6,Defense:0.5f},Stats:{Toughness:0.0f,FreeModifiers:5,Durability:6,Defense:0.5f},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable2\",\"writable1\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:5.0f,FreeModifiers:3,Durability:861,Defense:1.0f},Stats:{Toughness:5.0f,FreeModifiers:3,Durability:861,Defense:1.0f},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"absorbent_armor\",color:-3486642,level:1}],Traits:[\"absorbent_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.5f,FreeModifiers:3,Durability:240,Defense:17.5f},Stats:{Toughness:0.5f,FreeModifiers:3,Durability:240,Defense:17.5f},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"combustible_armor\",color:-3386624,level:1}],Traits:[\"combustible_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:291,Defense:15.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:291,Defense:15.0f},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic_armor\",color:-3487030,magnetic2_armor:1b,level:3,magnetic1_armor:1b}],Traits:[\"magnetic2_armor\",\"magnetic1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:409,Defense:14.0f},TinkerData:{Materials:[\"chitintandeathworm\",\"chitintandeathworm\",\"chitintandeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalebronzedragon\",\"scalebronzedragon\",\"scalebronzedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-8102610,level:1},{identifier:\"autoforge_armor\",color:-8102610,level:1},{identifier:\"prideful_armor\",color:-8102610,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scaleblueseaserpent\",\"scaleblueseaserpent\",\"scaleblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scalepurpleseaserpent\",\"scalepurpleseaserpent\",\"scalepurpleseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5635926,level:1},{identifier:\"aquaspeed_armor\",color:-5635926,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:599,Defense:1.8f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:599,Defense:1.8f},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue_armor\",color:-9123641,level:1},{identifier:\"bouncy_armor\",color:-9123641,level:1}],Traits:[\"slimey_blue_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:394,Defense:2.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:394,Defense:2.0f},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green_armor\",color:-8206221,level:1},{identifier:\"bouncy_armor\",color:-8206221,level:1}],Traits:[\"slimey_green_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:499,Defense:17.1f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:499,Defense:17.1f},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"dramatic_armor\",color:-946192,level:1},{identifier:\"invigorating_armor\",color:-946192,level:1}],Traits:[\"dramatic_armor\",\"invigorating_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:490,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:490,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},TinkerData:{Materials:[\"leatherfrosttroll\",\"leatherfrosttroll\",\"leatherfrosttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:2705,Defense:9.9f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:2705,Defense:9.9f},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:5074,Defense:18.899998f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:5074,Defense:18.899998f},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.5f,FreeModifiers:3,Durability:419,Defense:18.4f},Stats:{Toughness:5.4f,FreeModifiers:3,Durability:419,Defense:22.08f},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"steady_armor\",color:-5789785,level:1},{identifier:\"indomitable_armor\",color:-5789785,level:1}],Traits:[\"steady_armor\",\"indomitable_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:406,Defense:17.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:406,Defense:17.0f},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"blessed_armor\",color:-3019530,level:1}],Traits:[\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:213,Defense:11.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:213,Defense:11.0f},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"heavy_armor\",color:-11712152,level:1},{identifier:\"shielding_armor\",color:-11712152,level:1}],Traits:[\"heavy_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.25f,FreeModifiers:3,Durability:484,Defense:12.0f},Stats:{Toughness:1.25f,FreeModifiers:3,Durability:484,Defense:12.0f},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense_armor\",color:-1852056,level:1}],Traits:[\"dense_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:3256,Defense:10.574999f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:3256,Defense:10.574999f},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scaleredseaserpent\",\"scaleredseaserpent\",\"scaleredseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-43691,level:1},{identifier:\"aquaspeed_armor\",color:-43691,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scalegreenseaserpent\",\"scalegreenseaserpent\",\"scalegreenseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"aquaspeed_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalesilverdragon\",\"scalesilverdragon\",\"scalesilverdragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5592406,level:1},{identifier:\"blessed_armor\",color:-5592406,level:1}],Traits:[\"rough_armor\",\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:93,Defense:5.3f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:93,Defense:5.3f},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"aridiculous_armor\",color:-4698289,level:1},{identifier:\"infernal_armor\",color:-4698289,level:1}],Traits:[\"aridiculous_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:573,Defense:15.6f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:573,Defense:15.6f},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"featherweight_armor\",color:-14122284,level:1},{identifier:\"lightweight_armor\",color:-14122284,level:1}],Traits:[\"featherweight_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.0f,FreeModifiers:3,Durability:591,Defense:13.0f},Stats:{Toughness:4.0f,FreeModifiers:3,Durability:591,Defense:13.0f},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"subterranean_armor\",color:-3063280,level:1},{identifier:\"petravidity_armor\",color:-3063280,level:1}],Traits:[\"subterranean_armor\",\"petravidity_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:544,Defense:20.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:544,Defense:20.0f},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"vengeful_armor\",color:-6202120,level:1},{identifier:\"prideful_armor\",color:-6202120,level:1}],Traits:[\"vengeful_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16777046,level:1},{identifier:\"aquaspeed_armor\",color:-16777046,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalereddragon\",\"scalereddragon\",\"scalereddragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5636096,level:1},{identifier:\"autoforge_armor\",color:-5636096,level:1},{identifier:\"infernal_armor\",color:-5636096,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scalebronzeseaserpent\",\"scalebronzeseaserpent\",\"scalebronzeseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-22016,level:1},{identifier:\"aquaspeed_armor\",color:-22016,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},TinkerData:{Materials:[\"leathermountaintroll\",\"leathermountaintroll\",\"leathermountaintroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalegreendragon\",\"scalegreendragon\",\"scalegreendragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"autoforge_armor\",color:-16733696,level:1},{identifier:\"shielding_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:233,Defense:9.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:233,Defense:9.0f},Special:{alienStatPool:{identifier:\"\",color:16777215,defense:4.219997f,durability:197,toughness:2.0099986f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"alien_armor\",color:-2041712,level:1},{identifier:\"enderport_armor\",color:-2041712,level:1}],Traits:[\"alien_armor\",\"enderport_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:66,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:66,Defense:18.8f},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:103,Defense:16.2f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:103,Defense:16.2f},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos_ranch_armor\",color:-10478396,level:1}],Traits:[\"duritos_ranch_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:339,Defense:4.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:339,Defense:4.0f},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"calcic_armor\",color:-1186113,level:1},{identifier:\"skeletal_armor\",color:-1186113,level:1}],Traits:[\"calcic_armor\",\"skeletal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scalegreenseaserpent\",\"scalegreenseaserpent\",\"scalegreenseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"aquaspeed_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalesilverdragon\",\"scalesilverdragon\",\"scalesilverdragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5592406,level:1},{identifier:\"blessed_armor\",color:-5592406,level:1}],Traits:[\"rough_armor\",\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:995,Defense:14.0f},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4706,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:4706,Defense:9.0f},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:61,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:61,Defense:3.0f},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1}],Traits:[\"ecological_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:19,Defense:5.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:15,Defense:5.0f},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheapskate_armor\",color:-6710887,level:1},{identifier:\"cheap_armor\",color:-6710887,level:1}],Traits:[\"cheapskate_armor\",\"cheap_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:38,Defense:4.5f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:38,Defense:4.5f},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"mundane_armor\",color:-9868951,level:3,mundane2_armor:1b,mundane1_armor:1b}],Traits:[\"mundane2_armor\",\"mundane1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:216,Defense:10.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:216,Defense:10.0f},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiny_armor\",color:-16735985,level:1}],Traits:[\"spiny_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scaleredseaserpent\",\"scaleredseaserpent\",\"scaleredseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-43691,level:1},{identifier:\"aquaspeed_armor\",color:-43691,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16777046,level:1},{identifier:\"aquaspeed_armor\",color:-16777046,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalereddragon\",\"scalereddragon\",\"scalereddragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5636096,level:1},{identifier:\"autoforge_armor\",color:-5636096,level:1},{identifier:\"infernal_armor\",color:-5636096,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scalebronzeseaserpent\",\"scalebronzeseaserpent\",\"scalebronzeseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-22016,level:1},{identifier:\"aquaspeed_armor\",color:-22016,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},TinkerData:{Materials:[\"leathermountaintroll\",\"leathermountaintroll\",\"leathermountaintroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalegreendragon\",\"scalegreendragon\",\"scalegreendragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"autoforge_armor\",color:-16733696,level:1},{identifier:\"shielding_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1791,Defense:18.0f},TinkerData:{Materials:[\"scalebluedragon\",\"scalebluedragon\",\"scalebluedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1968144,level:1},{identifier:\"lightweight_armor\",color:-1968144,level:1}],Traits:[\"rough_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2168,Defense:14.0f},TinkerData:{Materials:[\"scaletealseaserpent\",\"scaletealseaserpent\",\"scaletealseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733526,level:1},{identifier:\"aquaspeed_armor\",color:-16733526,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:chestplate",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:770,Defense:14.0f},TinkerData:{Materials:[\"leatherforesttroll\",\"leatherforesttroll\",\"leatherforesttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},TinkerData:{Materials:[\"leatherfrosttroll\",\"leatherfrosttroll\",\"leatherfrosttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},TinkerData:{Materials:[\"chitintandeathworm\",\"chitintandeathworm\",\"chitintandeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalebronzedragon\",\"scalebronzedragon\",\"scalebronzedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-8102610,level:1},{identifier:\"autoforge_armor\",color:-8102610,level:1},{identifier:\"prideful_armor\",color:-8102610,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4410,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:4410,Defense:9.0f},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:53,Defense:3.0f},TinkerData:{Materials:[\"wood\",\"wood\",\"wood\"],Modifiers:[]},Modifiers:[{identifier:\"ecological_armor\",color:-7444965,level:1}],Traits:[\"ecological_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:2200,Defense:9.9f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:2200,Defense:9.9f},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:2652,Defense:10.574999f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:2652,Defense:10.574999f},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4134,Defense:18.899998f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:4134,Defense:18.899998f},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.5f,FreeModifiers:3,Durability:341,Defense:18.4f},Stats:{Toughness:5.4f,FreeModifiers:3,Durability:341,Defense:22.08f},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"steady_armor\",color:-5789785,level:1},{identifier:\"indomitable_armor\",color:-5789785,level:1}],Traits:[\"steady_armor\",\"indomitable_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},TinkerData:{Materials:[\"leatherforesttroll\",\"leatherforesttroll\",\"leatherforesttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalebluedragon\",\"scalebluedragon\",\"scalebluedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1968144,level:1},{identifier:\"lightweight_armor\",color:-1968144,level:1}],Traits:[\"rough_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scaletealseaserpent\",\"scaletealseaserpent\",\"scaletealseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733526,level:1},{identifier:\"aquaspeed_armor\",color:-16733526,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalesapphiredragon\",\"scalesapphiredragon\",\"scalesapphiredragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalegraydragon\",\"scalegraydragon\",\"scalegraydragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184811,level:1},{identifier:\"autoforge_armor\",color:-11184811,level:1},{identifier:\"steady_armor\",color:-11184811,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"steady_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},TinkerData:{Materials:[\"chitindesertmyrmex\",\"chitindesertmyrmex\",\"chitindesertmyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},TinkerData:{Materials:[\"chitintandeathworm\",\"chitintandeathworm\",\"chitintandeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:934,Defense:14.0f},TinkerData:{Materials:[\"chitinjunglemyrmex\",\"chitinjunglemyrmex\",\"chitinjunglemyrmex\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalebronzedragon\",\"scalebronzedragon\",\"scalebronzedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-8102610,level:1},{identifier:\"autoforge_armor\",color:-8102610,level:1},{identifier:\"prideful_armor\",color:-8102610,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scaleblueseaserpent\",\"scaleblueseaserpent\",\"scaleblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:2031,Defense:14.0f},TinkerData:{Materials:[\"scalepurpleseaserpent\",\"scalepurpleseaserpent\",\"scalepurpleseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5635926,level:1},{identifier:\"aquaspeed_armor\",color:-5635926,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1680,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:4,Durability:1680,Defense:18.0f},TinkerData:{Materials:[\"scalewhitedragon\",\"scalewhitedragon\",\"scalewhitedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1,level:1},{identifier:\"writable\",color:-1,level:1,writable2:1b}],Traits:[\"rough_armor\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},TinkerData:{Materials:[\"chitinwhitedeathworm\",\"chitinwhitedeathworm\",\"chitinwhitedeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:383,Defense:14.0f},TinkerData:{Materials:[\"chitinbrowndeathworm\",\"chitinbrowndeathworm\",\"chitinbrowndeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:723,Defense:14.0f},TinkerData:{Materials:[\"leatherfrosttroll\",\"leatherfrosttroll\",\"leatherfrosttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:2537,Defense:9.9f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:2537,Defense:9.9f},TinkerData:{Materials:[\"compressed_obsidian\",\"compressed_obsidian\",\"compressed_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-16755328,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:3055,Defense:10.574999f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:3055,Defense:10.574999f},TinkerData:{Materials:[\"lava_infused_obsidian\",\"lava_infused_obsidian\",\"lava_infused_obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos\",color:-10283258,level:1}],Traits:[\"duritos\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:4761,Defense:18.899998f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:4761,Defense:18.899998f},TinkerData:{Materials:[\"infused_lava_crystal\",\"infused_lava_crystal\",\"infused_lava_crystal\"],Modifiers:[]},Modifiers:[{identifier:\"autosmelt\",color:-5034752,level:1}],Traits:[\"autosmelt\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.5f,FreeModifiers:3,Durability:393,Defense:18.4f},Stats:{Toughness:5.4f,FreeModifiers:3,Durability:393,Defense:22.08f},TinkerData:{Materials:[\"steel\",\"steel\",\"steel\"],Modifiers:[]},Modifiers:[{identifier:\"steady_armor\",color:-5789785,level:1},{identifier:\"indomitable_armor\",color:-5789785,level:1}],Traits:[\"steady_armor\",\"indomitable_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:381,Defense:17.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:381,Defense:17.0f},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"blessed_armor\",color:-3019530,level:1}],Traits:[\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:200,Defense:11.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:200,Defense:11.0f},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"heavy_armor\",color:-11712152,level:1},{identifier:\"shielding_armor\",color:-11712152,level:1}],Traits:[\"heavy_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.25f,FreeModifiers:3,Durability:455,Defense:12.0f},Stats:{Toughness:1.25f,FreeModifiers:3,Durability:455,Defense:12.0f},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense_armor\",color:-1852056,level:1}],Traits:[\"dense_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:leggings",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:345,Defense:8.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:345,Defense:8.0f},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"ambitious_armor\",color:-1204473,level:1}],Traits:[\"ambitious_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scalegreenseaserpent\",\"scalegreenseaserpent\",\"scalegreenseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"aquaspeed_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scaleredseaserpent\",\"scaleredseaserpent\",\"scaleredseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-43691,level:1},{identifier:\"aquaspeed_armor\",color:-43691,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\",\"scaledeepblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16777046,level:1},{identifier:\"aquaspeed_armor\",color:-16777046,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalereddragon\",\"scalereddragon\",\"scalereddragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5636096,level:1},{identifier:\"autoforge_armor\",color:-5636096,level:1},{identifier:\"infernal_armor\",color:-5636096,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scalebronzeseaserpent\",\"scalebronzeseaserpent\",\"scalebronzeseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-22016,level:1},{identifier:\"aquaspeed_armor\",color:-22016,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},TinkerData:{Materials:[\"leathermountaintroll\",\"leathermountaintroll\",\"leathermountaintroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scaleblueseaserpent\",\"scaleblueseaserpent\",\"scaleblueseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scalepurpleseaserpent\",\"scalepurpleseaserpent\",\"scalepurpleseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5635926,level:1},{identifier:\"aquaspeed_armor\",color:-5635926,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalesilverdragon\",\"scalesilverdragon\",\"scalesilverdragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-5592406,level:1},{identifier:\"blessed_armor\",color:-5592406,level:1}],Traits:[\"rough_armor\",\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},TinkerData:{Materials:[\"dilithium\",\"dilithium\",\"dilithium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:809,Defense:14.0f},TinkerData:{Materials:[\"tritanium\",\"tritanium\",\"tritanium\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:330,Defense:17.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:330,Defense:17.0f},TinkerData:{Materials:[\"silver\",\"silver\",\"silver\"],Modifiers:[]},Modifiers:[{identifier:\"blessed_armor\",color:-3019530,level:1}],Traits:[\"blessed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:173,Defense:11.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:173,Defense:11.0f},TinkerData:{Materials:[\"lead\",\"lead\",\"lead\"],Modifiers:[]},Modifiers:[{identifier:\"heavy_armor\",color:-11712152,level:1},{identifier:\"shielding_armor\",color:-11712152,level:1}],Traits:[\"heavy_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.25f,FreeModifiers:3,Durability:394,Defense:12.0f},Stats:{Toughness:1.25f,FreeModifiers:3,Durability:394,Defense:12.0f},TinkerData:{Materials:[\"bronze\",\"bronze\",\"bronze\"],Modifiers:[]},Modifiers:[{identifier:\"dense_armor\",color:-1852056,level:1}],Traits:[\"dense_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:471,Defense:20.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:471,Defense:20.0f},TinkerData:{Materials:[\"manyullyn\",\"manyullyn\",\"manyullyn\"],Modifiers:[]},Modifiers:[{identifier:\"vengeful_armor\",color:-6202120,level:1},{identifier:\"prideful_armor\",color:-6202120,level:1}],Traits:[\"vengeful_armor\",\"prideful_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:4.0f,FreeModifiers:3,Durability:513,Defense:13.0f},Stats:{Toughness:4.0f,FreeModifiers:3,Durability:513,Defense:13.0f},TinkerData:{Materials:[\"ardite\",\"ardite\",\"ardite\"],Modifiers:[]},Modifiers:[{identifier:\"subterranean_armor\",color:-3063280,level:1},{identifier:\"petravidity_armor\",color:-3063280,level:1}],Traits:[\"subterranean_armor\",\"petravidity_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.5f,FreeModifiers:3,Durability:195,Defense:17.5f},Stats:{Toughness:0.5f,FreeModifiers:3,Durability:195,Defense:17.5f},TinkerData:{Materials:[\"firewood\",\"firewood\",\"firewood\"],Modifiers:[]},Modifiers:[{identifier:\"combustible_armor\",color:-3386624,level:1}],Traits:[\"combustible_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:237,Defense:15.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:237,Defense:15.0f},TinkerData:{Materials:[\"iron\",\"iron\",\"iron\"],Modifiers:[]},Modifiers:[{identifier:\"magnetic_armor\",color:-3487030,magnetic2_armor:1b,level:3,magnetic1_armor:1b}],Traits:[\"magnetic2_armor\",\"magnetic1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:398,Defense:16.7f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:398,Defense:16.7f},TinkerData:{Materials:[\"pigiron\",\"pigiron\",\"pigiron\"],Modifiers:[]},Modifiers:[{identifier:\"baconlicious_armor\",color:-1073509,level:1},{identifier:\"tasty_armor\",color:-1073509,level:1}],Traits:[\"baconlicious_armor\",\"tasty_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:406,Defense:17.1f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:406,Defense:17.1f},TinkerData:{Materials:[\"knightslime\",\"knightslime\",\"knightslime\"],Modifiers:[]},Modifiers:[{identifier:\"dramatic_armor\",color:-946192,level:1},{identifier:\"invigorating_armor\",color:-946192,level:1}],Traits:[\"dramatic_armor\",\"invigorating_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:321,Defense:2.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:321,Defense:2.0f},TinkerData:{Materials:[\"slime\",\"slime\",\"slime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_green_armor\",color:-8206221,level:1},{identifier:\"bouncy_armor\",color:-8206221,level:1}],Traits:[\"slimey_green_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:299,Defense:8.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:299,Defense:8.0f},TinkerData:{Materials:[\"copper\",\"copper\",\"copper\"],Modifiers:[]},Modifiers:[{identifier:\"ambitious_armor\",color:-1204473,level:1}],Traits:[\"ambitious_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:496,Defense:15.6f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:496,Defense:15.6f},TinkerData:{Materials:[\"cobalt\",\"cobalt\",\"cobalt\"],Modifiers:[]},Modifiers:[{identifier:\"featherweight_armor\",color:-14122284,level:1},{identifier:\"lightweight_armor\",color:-14122284,level:1}],Traits:[\"featherweight_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:5.0f,FreeModifiers:3,Durability:699,Defense:1.0f},Stats:{Toughness:5.0f,FreeModifiers:3,Durability:699,Defense:1.0f},TinkerData:{Materials:[\"sponge\",\"sponge\",\"sponge\"],Modifiers:[]},Modifiers:[{identifier:\"absorbent_armor\",color:-3486642,level:1}],Traits:[\"absorbent_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:5,Defense:0.5f},Stats:{Toughness:0.0f,FreeModifiers:5,Durability:5,Defense:0.5f},TinkerData:{Materials:[\"paper\",\"paper\",\"paper\"],Modifiers:[]},Modifiers:[{identifier:\"writable\",color:-1,level:2,writable2:1b,writable1:1b}],Traits:[\"writable2\",\"writable1\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:201,Defense:9.0f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:201,Defense:9.0f},Special:{alienStatPool:{identifier:\"\",color:16777215,defense:4.099997f,durability:196,toughness:2.0499985f}},TinkerData:{Materials:[\"endstone\",\"endstone\",\"endstone\"],Modifiers:[]},Modifiers:[{identifier:\"alien_armor\",color:-2041712,level:1},{identifier:\"enderport_armor\",color:-2041712,level:1}],Traits:[\"alien_armor\",\"enderport_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.5f,FreeModifiers:3,Durability:153,Defense:19.4f},Stats:{Toughness:2.5f,FreeModifiers:3,Durability:153,Defense:19.4f},TinkerData:{Materials:[\"magmaslime\",\"magmaslime\",\"magmaslime\"],Modifiers:[]},Modifiers:[{identifier:\"autoforge_armor\",color:-27123,level:1},{identifier:\"superhot_armor\",color:-27123,level:1}],Traits:[\"autoforge_armor\",\"superhot_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:488,Defense:1.8f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:488,Defense:1.8f},TinkerData:{Materials:[\"blueslime\",\"blueslime\",\"blueslime\"],Modifiers:[]},Modifiers:[{identifier:\"slimey_blue_armor\",color:-9123641,level:1},{identifier:\"bouncy_armor\",color:-9123641,level:1}],Traits:[\"slimey_blue_armor\",\"bouncy_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:81,Defense:5.3f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:81,Defense:5.3f},TinkerData:{Materials:[\"netherrack\",\"netherrack\",\"netherrack\"],Modifiers:[]},Modifiers:[{identifier:\"aridiculous_armor\",color:-4698289,level:1},{identifier:\"infernal_armor\",color:-4698289,level:1}],Traits:[\"aridiculous_armor\",\"infernal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.0f,FreeModifiers:3,Durability:57,Defense:18.8f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:57,Defense:18.8f},TinkerData:{Materials:[\"prismarine\",\"prismarine\",\"prismarine\"],Modifiers:[]},Modifiers:[{identifier:\"aquaspeed_armor\",color:-8462660,level:1},{identifier:\"rough_armor\",color:-8462660,level:1}],Traits:[\"aquaspeed_armor\",\"rough_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.5f,FreeModifiers:3,Durability:90,Defense:16.2f},Stats:{Toughness:3.5f,FreeModifiers:3,Durability:90,Defense:16.2f},TinkerData:{Materials:[\"obsidian\",\"obsidian\",\"obsidian\"],Modifiers:[]},Modifiers:[{identifier:\"duritos_ranch_armor\",color:-10478396,level:1}],Traits:[\"duritos_ranch_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:294,Defense:4.0f},Stats:{Toughness:2.0f,FreeModifiers:3,Durability:294,Defense:4.0f},TinkerData:{Materials:[\"bone\",\"bone\",\"bone\"],Modifiers:[]},Modifiers:[{identifier:\"calcic_armor\",color:-1186113,level:1},{identifier:\"skeletal_armor\",color:-1186113,level:1}],Traits:[\"calcic_armor\",\"skeletal_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:188,Defense:10.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:188,Defense:10.0f},TinkerData:{Materials:[\"cactus\",\"cactus\",\"cactus\"],Modifiers:[]},Modifiers:[{identifier:\"spiny_armor\",color:-16735985,level:1}],Traits:[\"spiny_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.0f,FreeModifiers:3,Durability:33,Defense:4.5f},Stats:{Toughness:1.0f,FreeModifiers:3,Durability:33,Defense:4.5f},TinkerData:{Materials:[\"flint\",\"flint\",\"flint\"],Modifiers:[]},Modifiers:[{identifier:\"mundane_armor\",color:-9868951,level:3,mundane2_armor:1b,mundane1_armor:1b}],Traits:[\"mundane2_armor\",\"mundane1_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:17,Defense:5.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:13,Defense:5.0f},TinkerData:{Materials:[\"stone\",\"stone\",\"stone\"],Modifiers:[]},Modifiers:[{identifier:\"cheapskate_armor\",color:-6710887,level:1},{identifier:\"cheap_armor\",color:-6710887,level:1}],Traits:[\"cheapskate_armor\",\"cheap_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"paper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"sponge\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"firewood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"iron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"pigiron\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"knightslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"slime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"blueslime\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"endstone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"prismarine\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cactus\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"flint\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"stone\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"wood\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalepurpleseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:0.0f,FreeModifiers:3,Durability:3818,Defense:9.0f},Stats:{Toughness:0.0f,FreeModifiers:3,Durability:3818,Defense:9.0f},TinkerData:{Materials:[\"cheese\",\"cheese\",\"cheese\"],Modifiers:[]},Modifiers:[{identifier:\"ratty\",color:-868046,level:1},{identifier:\"tasty\",color:-868046,level:1}],Traits:[\"ratty\",\"tasty\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lava_infused_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"compressed_obsidian\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"leatherfrosttroll\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitindesertmyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitintandeathworm\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinjunglemyrmex\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalebronzedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scaleblueseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalegreendragon\",\"scalegreendragon\",\"scalegreendragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733696,level:1},{identifier:\"autoforge_armor\",color:-16733696,level:1},{identifier:\"shielding_armor\",color:-16733696,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"shielding_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},Stats:{Toughness:1.5f,FreeModifiers:3,Durability:626,Defense:14.0f},TinkerData:{Materials:[\"leatherforesttroll\",\"leatherforesttroll\",\"leatherforesttroll\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalebluedragon\",\"scalebluedragon\",\"scalebluedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1968144,level:1},{identifier:\"lightweight_armor\",color:-1968144,level:1}],Traits:[\"rough_armor\",\"lightweight_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},Stats:{Toughness:3.75f,FreeModifiers:3,Durability:1762,Defense:14.0f},TinkerData:{Materials:[\"scaletealseaserpent\",\"scaletealseaserpent\",\"scaletealseaserpent\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-16733526,level:1},{identifier:\"aquaspeed_armor\",color:-16733526,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalesapphiredragon\",\"scalesapphiredragon\",\"scalesapphiredragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184641,level:1},{identifier:\"aquaspeed_armor\",color:-11184641,level:1}],Traits:[\"rough_armor\",\"aquaspeed_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalegraydragon\",\"scalegraydragon\",\"scalegraydragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-11184811,level:1},{identifier:\"autoforge_armor\",color:-11184811,level:1},{identifier:\"steady_armor\",color:-11184811,level:1}],Traits:[\"rough_armor\",\"autoforge_armor\",\"steady_armor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},TinkerData:{Materials:[\"chitinbrowndeathworm\",\"chitinbrowndeathworm\",\"chitinbrowndeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},Stats:{Toughness:2.25f,FreeModifiers:3,Durability:332,Defense:14.0f},TinkerData:{Materials:[\"chitinwhitedeathworm\",\"chitinwhitedeathworm\",\"chitinwhitedeathworm\"],Modifiers:[]}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:boots",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{StatsOriginal:{Toughness:3.0f,FreeModifiers:3,Durability:1456,Defense:18.0f},Stats:{Toughness:3.0f,FreeModifiers:4,Durability:1456,Defense:18.0f},TinkerData:{Materials:[\"scalewhitedragon\",\"scalewhitedragon\",\"scalewhitedragon\"],Modifiers:[]},Modifiers:[{identifier:\"rough_armor\",color:-1,level:1},{identifier:\"writable\",color:-1,level:1,writable2:1b}],Traits:[\"rough_armor\",\"writable2\"]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"dilithium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"tritanium\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cheese\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalesilverdragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalegreenseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scaleredseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scaledeepblueseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalereddragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalebronzeseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"leathermountaintroll\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalegreendragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"leatherforesttroll\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"steel\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"infused_lava_crystal\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalewhitedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinwhitedeathworm\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"chitinbrowndeathworm\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalegraydragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalesapphiredragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scaletealseaserpent\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"scalebluedragon\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"silver\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"lead\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"bronze\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"copper\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"manyullyn\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"ardite\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"cobalt\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"netherrack\"}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:polishing_kit",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Material:\"magmaslime\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

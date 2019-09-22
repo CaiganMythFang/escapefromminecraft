@@ -1,0 +1,204 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "conarm:armorstation",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocksilver\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockelectrum\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocksteel\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocktin\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocknickel\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockaluminum\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blocklead\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockbronze\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:5s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockcopper\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:2s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:1s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"chisel:blockcobalt\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:3s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"tconstruct:metal\",Count:1,Damage:4s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:gold_block\",Count:1,Damage:0s}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "conarm:armorforge",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{textureBlock:{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"minecraft:iron_block\",Count:1,Damage:0s}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+#rolls: {"min": 1, "max": 2}
+conarm:armorstation:0:1:20
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blocksilver",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blockelectrum",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blocksteel",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blocktin",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blocknickel",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blockaluminum",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blocklead",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blockbronze",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"tconstruct:metal",Count:1,Damage:5s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blockcopper",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"tconstruct:metal",Count:1,Damage:2s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"tconstruct:metal",Count:1,Damage:1s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"chisel:blockcobalt",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"tconstruct:metal",Count:1,Damage:3s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"tconstruct:metal",Count:1,Damage:4s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"minecraft:gold_block",Count:1,Damage:0s}}
+conarm:armorforge:0:1:20:{textureBlock:{ForgeCaps:{"customnpcs:itemscripteddata":{}},id:"minecraft:iron_block",Count:1,Damage:0s}}
