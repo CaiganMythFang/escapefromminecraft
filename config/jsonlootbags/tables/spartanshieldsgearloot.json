@@ -1,0 +1,264 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_wood",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_wood",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_gold",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_gold",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_silver",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_silver",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_stone",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tc_void",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_stone",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_abyssalcraft_darkstone",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_tin",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_tin",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_electrum",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_electrum",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_nickel",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_nickel",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_copper",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_copper",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_botania_manasteel",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_lead",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_lead",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_iron",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_iron",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_constantan",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_constantan",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_bronze",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_bronze",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_invar",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_invar",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_steel",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_steel",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_soulforged_steel",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tc_thaumium",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_botania_elementium",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_lumium",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_platinum",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_platinum",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_obsidian",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_obsidian",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_signalum",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_abyssalcraft_abyssalnite",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_tower_diamond",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_riot_enderio",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_riot_rftools",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_flux_ra",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_diamond",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_botania_terrasteel",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_enderium",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_abyssalcraft_dreadium",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_abyssalcraft_coralium",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_abyssalcraft_ethaxium",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}
