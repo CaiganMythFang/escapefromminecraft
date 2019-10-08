@@ -985,6 +985,9 @@ emberroot:bossdeath
 firstaid:debuff.heartbeat
 patchouli:book_open
 patchouli:book_flip
+trumpetskeleton:entity.trumpet_skeleton.ambient
+trumpetskeleton:item.trumpet.use
+trumpetskeleton:entity.parrot.imitate.trumpet_skeleton
 variedcommodities:gun.pistol.shot
 variedcommodities:gun.pistol.trigger
 variedcommodities:gun.empty
