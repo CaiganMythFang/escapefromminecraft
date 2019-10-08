@@ -1,0 +1,13 @@
+#rolls: {"min": 1, "max": 2}
+vehicle:jack:0:1:30
+vehicle:fluid_pipe:0:1-5:50
+vehicle:fluid_pump:0:1:40
+vehicle:fluid_mixer:0:1:30
+vehicle:fluid_extractor:0:1:30
+vehicle:industrial_fuel_drum:0:1:10
+vehicle:fuel_drum:0:1:20
+vehicle:gas_pump:0:1:30
+vehicle:steep_boost_ramp:0:1-2:40
+vehicle:boost_ramp:0:1-2:40
+vehicle:boost_pad:0:1-2:40
+vehicle:traffic_cone:0:1-5:40

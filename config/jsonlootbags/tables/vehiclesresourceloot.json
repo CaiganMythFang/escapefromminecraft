@@ -1,0 +1,293 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"fuelium\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"ender_sap\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "forge:bucketfilled",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{FluidName:\"blaze_juice\",Amount:1000}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:industrial_jerry_can",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{fuel:15000.0f}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "vehicle:small_engine",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:large_engine",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:electric_engine",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:small_engine",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:large_engine",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:electric_engine",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:small_engine",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:large_engine",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:electric_engine",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:small_engine",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:large_engine",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:electric_engine",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:small_engine",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:large_engine",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:electric_engine",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:panel",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:wheel",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

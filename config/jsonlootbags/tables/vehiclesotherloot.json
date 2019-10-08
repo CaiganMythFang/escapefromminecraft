@@ -1,0 +1,117 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "vehicle:jack",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "vehicle:fluid_pipe",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:fluid_pump",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "vehicle:fluid_mixer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "vehicle:fluid_extractor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "vehicle:industrial_fuel_drum",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "vehicle:fuel_drum",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "vehicle:gas_pump",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "vehicle:steep_boost_ramp",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:boost_ramp",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:boost_pad",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:traffic_cone",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

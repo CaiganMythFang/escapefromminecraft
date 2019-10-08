@@ -1,0 +1,299 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "vehicle:wrench",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:hammer",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "vehicle:spray_can",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{remainingSprays:5}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:key",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:shopping_cart\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:golf_cart\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:moped\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:go_kart\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:aluminum_boat\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:speed_boat\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:mini_bike\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:bumper_car\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:dune_buggy\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:atv\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:tractor\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:storage_trailer\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:trailer\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:fluid_trailer\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:seeder_trailer\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:lawn_mower\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:jet_ski\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:sports_plane\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:off_roader\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:smart_car\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:sofacopter\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:fertilizer_trailer\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:couch\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vehicle:vehicle_crate",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{engineTier:0,wheelType:0,vehicle:\"vehicle:bath\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
