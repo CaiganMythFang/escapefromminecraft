@@ -1,0 +1,106 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "cookingforblockheads:cooking_table",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:fridge",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:oven",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:toaster",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:milk_jar",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:sink",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:cow_jar",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:kitchen_floor",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:fruit_basket",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:spice_rack",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:tool_rack",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:corner",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:cabinet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:counter",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:preservation_chamber",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:ice_unit",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "cookingforblockheads:heating_unit",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}
