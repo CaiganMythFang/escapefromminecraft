@@ -1782,6 +1782,10 @@
           },
           {
             "random": 1,
+            "block": "vehicle:jack"
+          },
+          {
+            "random": 1,
             "block": "psi:programmer"
           },
           {
