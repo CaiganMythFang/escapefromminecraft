@@ -313,3 +313,52 @@ val spartanshields = [
 for item in spartanshields {
 <ore:spartanshields>.add(item);
 }
+
+val vehiclewood = [
+<vehicle:small_engine>, <vehicle:large_engine>, <vehicle:electric_engine>
+] as IItemStack[];
+for item in vehiclewood {
+<ore:vehiclewood>.add(item);
+}
+
+val vehiclestone = [
+<vehicle:small_engine:1>, <vehicle:large_engine:1>, <vehicle:electric_engine:1>
+] as IItemStack[];
+for item in vehiclestone {
+<ore:vehiclestone>.add(item);
+}
+
+val vehicleiron = [
+<vehicle:small_engine:2>, <vehicle:large_engine:2>, <vehicle:electric_engine:2>
+] as IItemStack[];
+for item in vehicleiron {
+<ore:vehicleiron>.add(item);
+}
+
+val vehiclegold = [
+<vehicle:small_engine:3>, <vehicle:large_engine:3>, <vehicle:electric_engine:3>
+] as IItemStack[];
+for item in vehiclegold {
+<ore:vehiclegold>.add(item);
+}
+
+val vehiclediamond = [
+<vehicle:small_engine:4>, <vehicle:large_engine:4>, <vehicle:electric_engine:4>
+] as IItemStack[];
+for item in vehiclediamond {
+<ore:vehiclediamond>.add(item);
+}
+
+val vehiclewheel1 = [
+<vehicle:wheel>, <vehicle:wheel:6>
+] as IItemStack[];
+for item in vehiclewheel1 {
+<ore:vehiclewheel1>.add(item);
+}
+
+val vehiclewheel2 = [
+<vehicle:wheel:4>, <vehicle:wheel:3>, <vehicle:wheel:5>
+] as IItemStack[];
+for item in vehiclewheel2 {
+<ore:vehiclewheel2>.add(item);
+}
