@@ -362,3 +362,10 @@ val vehiclewheel2 = [
 for item in vehiclewheel2 {
 <ore:vehiclewheel2>.add(item);
 }
+
+val cookblockmain = [
+<cookingforblockheads:recipe_book:2>, <cookingforblockheads:cooking_table>, <cookingforblockheads:fridge>, <cookingforblockheads:oven>, <cookingforblockheads:sink>, <cookingforblockheads:cow_jar>, <cookingforblockheads:preservation_chamber>, <cookingforblockheads:ice_unit>, <cookingforblockheads:heating_unit>
+] as IItemStack[];
+for item in cookblockmain {
+<ore:cookblockmain>.add(item);
+}
