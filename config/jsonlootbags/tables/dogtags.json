@@ -5,12 +5,56 @@
       "entries": [
         {
           "type": "item",
-          "name": "contenttweaker:dogtags",
+          "name": "contenttweaker:dogtags-caigan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"caigan's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-green",
           "weight": 50,
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"caigan's Dog Tag\"}}"
+              "tag": "{display:{Name:\"Joshua The Sloth's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-yellow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Dogtag Steve's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-black",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"A Single Bee's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-white",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Unruly Ferret's Dog Tags\"}}"
             }
           ]
         }
