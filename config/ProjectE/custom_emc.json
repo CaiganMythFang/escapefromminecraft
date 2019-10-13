@@ -323,6 +323,94 @@
     {
       "item": "cyclicmagic:peat_fuel|0",
       "emc": 5
+    },
+    {
+      "item": "minecraft:apple|0",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:melon|0",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:pumpkin_seeds|0",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:melon_seeds|0",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:cooked_beef|0",
+      "emc": 1000
+    },
+    {
+      "item": "OD|listAllmeatraw",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:dye|3",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:spider_eye|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:coffeebeanitem|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:cottonitem|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:maplesyrupitem|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:juiceritem|0",
+      "emc": 100
+    },
+    {
+      "item": "harvestcraft:cuttingboarditem|0",
+      "emc": 100
+    },
+    {
+      "item": "harvestcraft:skilletitem|0",
+      "emc": 10
+    },
+    {
+      "item": "harvestcraft:saucepanitem|0",
+      "emc": 10
+    },
+    {
+      "item": "harvestcraft:potitem|0",
+      "emc": 10
+    },
+    {
+      "item": "harvestcraft:mixingbowlitem|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:bakewareitem|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:mortarandpestleitem|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:freshwateritem|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:saltitem|0",
+      "emc": 1000
+    },
+    {
+      "item": "harvestcraft:freshmilkitem|0",
+      "emc": 1000
     }
   ]
 }

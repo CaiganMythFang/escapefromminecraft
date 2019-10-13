@@ -13,7 +13,24 @@
       "OD|ingotSteel": 256,
       "OD|ingotTitanium": 512,
       "OD|ingotObsidianSteel": 320,
-      "OD|blockIron": 2304
+      "OD|blockIron": 2304,
+      "OD|listAllfruit": 1000,
+      "OD|listAllveggie": 1000,
+      "OD|listAllspice": 1000,
+      "OD|listAllherb": 1000,
+      "OD|listAllseed": 1000,
+      "OD|listAllmeatraw": 1000,
+      "OD|listAllmeatcooked": 1000,
+      "OD|listAllfishraw": 1000,
+      "OD|listAllfishfresh": 1000,
+      "OD|listAllfishcooked": 1000,
+      "OD|listAllegg": 1000,
+      "OD|listAllsugar": 1000,
+      "OD|listAllgrain": 1000,
+      "OD|listAllmilk": 1000,
+      "OD|listAllmushroom": 1000,
+      "OD|listAllfiber": 1000,
+      "OD|listAllnut": 1000
     }
   }
 }
