@@ -25,7 +25,7 @@ item.displayName = "Corrupted Ore";
 //Gate non ore blocks to prevent gamebreaking crafting loops
 
 val basicore2 = [
-<wearables:wearable_fabricator>, <variedcommodities:carpentry_bench>, <compactstorage:chestbuilder>, <vehicle:workstation>
+<wearables:wearable_fabricator>, <variedcommodities:carpentry_bench>, <compactstorage:chestbuilder>, <vehicle:workstation>, <harvestcraft:shippingbin>
 ] as IItemStack[];
 for item in basicore2 {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
