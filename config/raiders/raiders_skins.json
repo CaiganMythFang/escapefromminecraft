@@ -110,11 +110,6 @@
     "enabled": true,
     "_comment": " "
   },
-  "Notch": {
-    "weight": 10,
-    "enabled": true,
-    "_comment": " "
-  },
   "C418": {
     "weight": 10,
     "enabled": true,
@@ -146,6 +141,16 @@
     "_comment": " "
   },
   "Vash505": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "GooSquirrel": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "frzfox": {
     "weight": 10,
     "enabled": true,
     "_comment": " "
