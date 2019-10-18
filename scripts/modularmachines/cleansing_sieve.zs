@@ -65,4 +65,36 @@ corrupted.setChance(0.01);
 corrupted.addItemOutput(<minecraft:torch>);
 corrupted.setChance(0.20);
 
+// 10% for a glowing ruins, 1 times
+corrupted.addItemOutput(<contenttweaker:glowingruins>);
+corrupted.setChance(0.20);
+
 corrupted.build();
+
+
+
+// Glowing Junk processing Return
+
+val glowing = mods.modularmachinery.RecipeBuilder.newBuilder("glowingruins", "cleansing_sieve", 300, 0);
+
+glowing.addItemInput(<contenttweaker:glowingruins>);
+
+// 25% for a Rider Case, 1 times
+glowing.addItemOutput(<contenttweaker:rider-case>);
+glowing.setChance(0.25);
+
+// 5% for a quarter, 2 times
+glowing.addItemOutput(<modcurrency:coin:3>);
+glowing.setChance(0.05);
+glowing.addItemOutput(<modcurrency:coin:3>);
+glowing.setChance(0.05);
+
+// 10% for a Cleansed Resource Bag, 1 time
+glowing.addItemOutput(<jsonlootbags:cleansedresources>);
+glowing.setChance(0.10);
+
+// 1% for a Cleaned Loot Bag, 1 time
+glowing.addItemOutput(<jsonlootbags:cleansedloot>);
+glowing.setChance(0.01);
+
+glowing.build();
