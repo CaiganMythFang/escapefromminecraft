@@ -1,0 +1,112 @@
+[
+  {
+    "coreMaterialStats": {
+      "durability": 36.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 20.16,
+      "modifier": 27.0,
+      "toughness": -0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 20.16,
+      "materialType": "trim"
+    },
+    "identifier": "plague_metal",
+    "color": -11447216,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 6.0,
+      "defense": 9.9,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 10.08,
+      "modifier": 9.9,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 10.08,
+      "materialType": "trim"
+    },
+    "identifier": "compressed_obsidian",
+    "color": -16755328,
+    "type": "METAL",
+    "castable": false,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 5.0,
+      "defense": 18.899998,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.2,
+      "modifier": 18.899998,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.2,
+      "materialType": "trim"
+    },
+    "identifier": "infused_lava_crystal",
+    "color": -5034752,
+    "type": "METAL",
+    "castable": false,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 7.0,
+      "defense": 10.574999,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.2,
+      "modifier": 10.574999,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.2,
+      "materialType": "trim"
+    },
+    "identifier": "lava_infused_obsidian",
+    "color": -10283258,
+    "type": "METAL",
+    "castable": false,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 14.0,
+      "defense": 9.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 16.8,
+      "modifier": 9.0,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 16.8,
+      "materialType": "trim"
+    },
+    "identifier": "cheese",
+    "color": -868046,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  }
+]
