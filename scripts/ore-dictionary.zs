@@ -13,7 +13,7 @@ for item in lootbags {
 }
 
 val recdrug = [
-<dap:magicmushroom>, <dap:joint>, <dap:thccookie>
+<dap:magicmushroom>, <dap:joint>, <dap:thccookie>, <dap:lsd>
 ] as IItemStack[];
 for item in recdrug {
     item.addTooltip(format.gray("RecDrugs - Trade to Labrats."));
@@ -615,4 +615,11 @@ val harvestcraftpizza = [
 for item in harvestcraftpizza {
     <ore:harvestcraftpizza>.add(item);
     item.addTooltip(format.gold("Fanciest Hat : ") + format.white("Pizza"));
+}
+
+val dappills = [
+<dap:energypill>, <dap:hastepill>, <dap:strengthpill>, <dap:luckpill>, <dap:rpill>, <dap:nvpill>, <dap:regenpill>
+] as IItemStack[];
+for item in dappills {
+    <ore:dappills>.add(item);
 }

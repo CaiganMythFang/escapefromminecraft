@@ -47,7 +47,7 @@ for item in lootpurchase {
 //loot, trade, purchase
 
 val loottradepurchase = [
-<dap:detoxificationpills>, <dap:thccookie>
+<dap:thccookie>, <dap:energypill>, <dap:hastepill>, <dap:strengthpill>, <dap:luckpill>, <dap:rpill>, <dap:nvpill>, <dap:regenpill>
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);

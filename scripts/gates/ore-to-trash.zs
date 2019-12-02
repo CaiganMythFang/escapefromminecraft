@@ -22,6 +22,19 @@ item.displayName = "Corrupted Ore";
 <ore:corruptedore>.add(item);
 }
 
+//Gate Kamen Rider ores to glowing junk
+
+val basicore5 = [
+<kamenridercraft4th:stone_kuuga>, <kamenridercraft4th:hellrock_agito>, <kamenridercraft4th:stone_agito>, <kamenridercraft4th:advent_glass>, <kamenridercraft4th:hell_advent_glass>, <kamenridercraft4th:mission_memory_block>, <kamenridercraft4th:bladecard_block>, <kamenridercraft4th:bladecard_hellrock>, <kamenridercraft4th:oni_ore_hellrock>, <kamenridercraft4th:oni_ore_block>
+] as IItemStack[];
+for item in basicore5 {
+mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:glowingruins>);
+mods.ItemStages.setUnfamiliarName("Corrupted Item", item);
+mods.ItemStages.addItemStage("corrupted_ore", item);
+item.displayName = "Corrupted Item";
+<ore:corruptedore>.add(item);
+}
+
 //Gate non ore blocks to prevent gamebreaking crafting loops
 
 val basicore2 = [
