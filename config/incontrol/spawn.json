@@ -1,0 +1,8 @@
+[
+  {
+    "mob": ["raiders:raider", "headcrumbs:human", "techguns:zombieminer", "techguns:dictatordave", "techguns:bandit", "techguns:outcast", "techguns:supermutantelite", "techguns:alienbug", "techguns:psychosteve", "techguns:stormtrooper", "techguns:zombiesoldier", "techguns:supermutantheavy", "techguns:skeletonsoldier", "techguns:zombiefarmer", "techguns:commando", "techguns:zombiepigmansoldier", "techguns:attackhelicopter", "techguns:cyberdemon", "techguns:armysoldier", "techguns:supermutantbasic", "raiders:tweaker", "raiders:ranger", "raiders:brute", "raiders:pyromaniac", "raiders:witch"],
+    "dimension": -8,
+    "onjoin": true,
+    "result": "deny"
+  }
+]
