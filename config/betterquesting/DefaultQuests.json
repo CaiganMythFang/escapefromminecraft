@@ -57894,7 +57894,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "[II] Selling : Redstone Utilities",
-          "desc:8": "    §4Redstone is such a powerful thing. It provides signals, power, and creates lots of great machines! \n\n    Here\u0027s a few more things you can add to your Redstone toolbox : \n\n    §lREDSTONE RANDOMIZER§r§4!\n\n    When a Redstone Signal hits this, it will randomly pass it on to either the Left or Right.\n\n    §lWEATHER SENSOR§r§4!\n\n    When it rains, this Weather Sensor will output a Redstone Signal! You can Right Click the block to have it do the opposite!\n\n    §lENDER WATCHER§r§4!\n\n    If you look at this block, it will emit a Redstone Signal!"
+          "desc:8": "    §4Redstone is such a powerful thing. It provides signals, power, and creates lots of great machines! \n\n    Here\u0027s a few more things you can add to your Redstone toolbox : \n\n    §lREDSTONE RANDOMIZER§r§4!\n\n    When a Redstone Signal hits this, it will randomly pass it on to either the Left or Right.\n\n    §lWEATHER SENSOR§r§4!\n\n    When it rains, this Weather Sensor will output a Redstone Signal! You can Right Click the block to have it do the opposite!\n\n    §lENDER WATCHER§r§4!\n\n    If you look at this block, it will emit a Redstone Signal!\n\n    §lREDSTONE INDUCTOR§r§4!\n\n    This piece will combine the strength of two Redstone Signals going into it, and output that!"
         }
       },
       "tasks:9": {
@@ -57947,6 +57947,15 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "quark:ender_watcher",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "quark:redstone_inductor",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -83765,6 +83774,80 @@
           }
         }
       }
+    },
+    "892:10": {
+      "questID:3": 892,
+      "preRequisites:11": [
+        496
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "quark:tiny_potato",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Little Mascot!",
+          "desc:8": "    §4Sometimes, you just need a little cheerful helper, even if they don\u0027t help! A boost in motivation is a good thing! So we present...\n\n    §lTINY POTATO§r§4!\n\n    The Tiny Potato is a tiny little mascot with lots of love for you! Set it down, Right Click it, and enjoy its presence!\n\n    Sometimes, you can give the Tiny Potato an item, and if its a special item, you\u0027ll get a special Tiny Potato!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "quark:tiny_potato",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -88314,14 +88397,14 @@
         "54:10": {
           "sizeX:3": 24,
           "x:3": 304,
-          "y:3": 140,
+          "y:3": 168,
           "id:3": 546,
           "sizeY:3": 24
         },
         "55:10": {
           "sizeX:3": 24,
           "x:3": 304,
-          "y:3": 168,
+          "y:3": 196,
           "id:3": 547,
           "sizeY:3": 24
         },
@@ -88645,6 +88728,13 @@
           "x:3": 380,
           "y:3": 224,
           "id:3": 606,
+          "sizeY:3": 24
+        },
+        "102:10": {
+          "sizeX:3": 24,
+          "x:3": 304,
+          "y:3": 140,
+          "id:3": 892,
           "sizeY:3": 24
         }
       },
