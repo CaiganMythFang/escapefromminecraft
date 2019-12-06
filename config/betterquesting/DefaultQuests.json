@@ -83848,6 +83848,773 @@
           }
         }
       }
+    },
+    "893:10": {
+      "questID:3": 893,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard - Rank I",
+          "desc:8": "    §2Bandit, I got a line to a set of traders that might interest you. Remember the sea folk of Klar9?§r\n\n    §o\"...The ones that installed a giant aquarium in our ship when we weren\u0027t looking?\"§r\n\n    §2Yeah, them! Well, these guys aren\u0027t them, but they remind me a lot of them. Eccentric and very...§r\n\n    §o\"Weird?\"§r\n\n     §2Looked in a mirror lately?§r\n\n    §o\"Touche. I guess patch them through?\" §r\n\n§b-------------------\n    We smell... food? Food! No, wait, Survival book doesn\u0027t have smellovision... Yet. That good to... OH! Sorry, mind is elsewhere.\n\n    Hello mercenary person! Have you any food? No? Maybe?\n\n    Oh, yes good point. Trader duties first. Food second. Hello, we represent the Fanciest Hat traders! We enjoy food! And driving fast!\n\n    Driving? Yes! Vroom. Under water is one thing, but zipping along the streets and dodging zombies? Nothing like it!\n\n    And having a slice of pizza in one tenta... I mean hand, and a drink in another while zooming around? Heaven!\n\n    Where was I? Oh, yes! You give me. I mean us food. And we can do business!\n-------------------§r\n\n    §oI... I wonder if I took off the hat if we\u0027d find an octopus again... Yeah this is just like Klar9, like Z said..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:apple",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": "cropApple"
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:bread",
+              "Count:3": 15,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:pumpkin",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:melon",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "894:10": {
+      "questID:3": 894,
+      "preRequisites:11": [
+        893
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "895:10": {
+      "questID:3": 895,
+      "preRequisites:11": [
+        894
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "vehicle:panel",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : DHoard",
+          "desc:8": "    §bWe are always looking to buy vehicle parts from mercenaries!\n\n    I do not expect you to find many of these out there, but in case you do, we\u0027ll pay a bit for some of them! Not much, they are just a bit of fiberglass, but we can use em in vehicles."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "vehicle:panel",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "896:10": {
+      "questID:3": 896,
+      "preRequisites:11": [
+        894
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "vehicle:wrench",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : DHoard",
+          "desc:8": "    §bTo start with vehicles, you need Wrench! Wrench is tool for everything, and good for bashing Scav Raiders in face with!\n\n    Okay not so much second, but gives them big surprise!\n\n    You will need Wrench to open up Vehicle crates we sell! Wrench very useful!\n\n    Vehicles can get damaged when traveling around, bumping into Scav Raiders. Can Right Click Hammer on vehicle to repair it, but only when up on Jack!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "vehicle:wrench",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "vehicle:hammer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "897:10": {
+      "questID:3": 897,
+      "preRequisites:11": [
+        893
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard - Rank II",
+          "desc:8": "    §2Bandit, I got a line to a set of traders that might interest you. Remember the sea folk of Klar9?§r\n\n    §o\"...The ones that installed a giant aquarium in our ship when we weren\u0027t looking?\"§r\n\n    §2Yeah, them! Well, these guys aren\u0027t them, but they remind me a lot of them. Eccentric and very...§r\n\n    §o\"Weird?\"§r\n\n     §2Looked in a mirror lately?§r\n\n    §o\"Touche. I guess patch them through?\" §r\n\n§b-------------------\n    We smell... food? Food! No, wait, Survival book doesn\u0027t have smellovision... Yet. That good to... OH! Sorry, mind is elsewhere.\n\n    Hello mercenary person! Have you any food? No? Maybe?\n\n    Oh, yes good point. Trader duties first. Food second. Hello, we represent the Fanciest Hat traders! We enjoy food! And driving fast!\n\n    Driving? Yes! Vroom. Under water is one thing, but zipping along the streets and dodging zombies? Nothing like it!\n\n    And having a slice of pizza in one tenta... I mean hand, and a drink in another while zooming around? Heaven!\n\n    Where was I? Oh, yes! You give me. I mean us food. And we can do business!\n-------------------§r\n\n    §oI... I wonder if I took off the hat if we\u0027d find an octopus again... Yeah this is just like Klar9, like Z said..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:apple",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": "cropApple"
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:bread",
+              "Count:3": 15,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:pumpkin",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:melon",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "898:10": {
+      "questID:3": 898,
+      "preRequisites:11": [
+        897
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard - Rank III",
+          "desc:8": "    §2Bandit, I got a line to a set of traders that might interest you. Remember the sea folk of Klar9?§r\n\n    §o\"...The ones that installed a giant aquarium in our ship when we weren\u0027t looking?\"§r\n\n    §2Yeah, them! Well, these guys aren\u0027t them, but they remind me a lot of them. Eccentric and very...§r\n\n    §o\"Weird?\"§r\n\n     §2Looked in a mirror lately?§r\n\n    §o\"Touche. I guess patch them through?\" §r\n\n§b-------------------\n    We smell... food? Food! No, wait, Survival book doesn\u0027t have smellovision... Yet. That good to... OH! Sorry, mind is elsewhere.\n\n    Hello mercenary person! Have you any food? No? Maybe?\n\n    Oh, yes good point. Trader duties first. Food second. Hello, we represent the Fanciest Hat traders! We enjoy food! And driving fast!\n\n    Driving? Yes! Vroom. Under water is one thing, but zipping along the streets and dodging zombies? Nothing like it!\n\n    And having a slice of pizza in one tenta... I mean hand, and a drink in another while zooming around? Heaven!\n\n    Where was I? Oh, yes! You give me. I mean us food. And we can do business!\n-------------------§r\n\n    §oI... I wonder if I took off the hat if we\u0027d find an octopus again... Yeah this is just like Klar9, like Z said..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:apple",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": "cropApple"
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:bread",
+              "Count:3": 15,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:pumpkin",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:melon",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "899:10": {
+      "questID:3": 899,
+      "preRequisites:11": [
+        898
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard - Rank IV",
+          "desc:8": "    §2Bandit, I got a line to a set of traders that might interest you. Remember the sea folk of Klar9?§r\n\n    §o\"...The ones that installed a giant aquarium in our ship when we weren\u0027t looking?\"§r\n\n    §2Yeah, them! Well, these guys aren\u0027t them, but they remind me a lot of them. Eccentric and very...§r\n\n    §o\"Weird?\"§r\n\n     §2Looked in a mirror lately?§r\n\n    §o\"Touche. I guess patch them through?\" §r\n\n§b-------------------\n    We smell... food? Food! No, wait, Survival book doesn\u0027t have smellovision... Yet. That good to... OH! Sorry, mind is elsewhere.\n\n    Hello mercenary person! Have you any food? No? Maybe?\n\n    Oh, yes good point. Trader duties first. Food second. Hello, we represent the Fanciest Hat traders! We enjoy food! And driving fast!\n\n    Driving? Yes! Vroom. Under water is one thing, but zipping along the streets and dodging zombies? Nothing like it!\n\n    And having a slice of pizza in one tenta... I mean hand, and a drink in another while zooming around? Heaven!\n\n    Where was I? Oh, yes! You give me. I mean us food. And we can do business!\n-------------------§r\n\n    §oI... I wonder if I took off the hat if we\u0027d find an octopus again... Yeah this is just like Klar9, like Z said..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:apple",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": "cropApple"
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:bread",
+              "Count:3": 15,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:pumpkin",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:melon",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "900:10": {
+      "questID:3": 900,
+      "preRequisites:11": [
+        899
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard - Rank V",
+          "desc:8": "    §2Bandit, I got a line to a set of traders that might interest you. Remember the sea folk of Klar9?§r\n\n    §o\"...The ones that installed a giant aquarium in our ship when we weren\u0027t looking?\"§r\n\n    §2Yeah, them! Well, these guys aren\u0027t them, but they remind me a lot of them. Eccentric and very...§r\n\n    §o\"Weird?\"§r\n\n     §2Looked in a mirror lately?§r\n\n    §o\"Touche. I guess patch them through?\" §r\n\n§b-------------------\n    We smell... food? Food! No, wait, Survival book doesn\u0027t have smellovision... Yet. That good to... OH! Sorry, mind is elsewhere.\n\n    Hello mercenary person! Have you any food? No? Maybe?\n\n    Oh, yes good point. Trader duties first. Food second. Hello, we represent the Fanciest Hat traders! We enjoy food! And driving fast!\n\n    Driving? Yes! Vroom. Under water is one thing, but zipping along the streets and dodging zombies? Nothing like it!\n\n    And having a slice of pizza in one tenta... I mean hand, and a drink in another while zooming around? Heaven!\n\n    Where was I? Oh, yes! You give me. I mean us food. And we can do business!\n-------------------§r\n\n    §oI... I wonder if I took off the hat if we\u0027d find an octopus again... Yeah this is just like Klar9, like Z said..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:apple",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": "cropApple"
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:bread",
+              "Count:3": 15,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:pumpkin",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:melon",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "901:10": {
+      "questID:3": 901,
+      "preRequisites:11": [
+        897
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "902:10": {
+      "questID:3": 902,
+      "preRequisites:11": [
+        898
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard Rank III Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "903:10": {
+      "questID:3": 903,
+      "preRequisites:11": [
+        899
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard Rank IV Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "904:10": {
+      "questID:3": 904,
+      "preRequisites:11": [
+        900
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Dragon\u0027s Hoard Rank V Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -90423,23 +91190,108 @@
       "order:3": 2
     },
     "11:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 40,
+          "x:3": 196,
+          "y:3": 28,
+          "id:3": 893,
+          "sizeY:3": 40
+        },
+        "1:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 104,
+          "id:3": 894,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 112,
+          "id:3": 895,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 112,
+          "id:3": 896,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 40,
+          "x:3": 260,
+          "y:3": 28,
+          "id:3": 897,
+          "sizeY:3": 40
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 328,
+          "y:3": 28,
+          "id:3": 898,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 40,
+          "x:3": 396,
+          "y:3": 28,
+          "id:3": 899,
+          "sizeY:3": 40
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 460,
+          "y:3": 28,
+          "id:3": 900,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 148,
+          "id:3": 901,
+          "sizeY:3": 8
+        },
+        "9:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 188,
+          "id:3": 902,
+          "sizeY:3": 8
+        },
+        "10:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 252,
+          "id:3": 903,
+          "sizeY:3": 8
+        },
+        "11:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 320,
+          "id:3": 904,
+          "sizeY:3": 8
+        }
+      },
       "lineID:3": 11,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
-          "name:8": "New Quest Line",
+          "visibility:8": "UNLOCKED",
+          "name:8": "Trader - Dragon\u0027s Hoard",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:book",
+            "id:8": "ironchest:iron_chest",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
           },
-          "bg_image:8": "",
-          "bg_size:3": 256,
+          "bg_image:8": "betterquesting:textures/gui/trader-dragonshoard.png",
+          "bg_size:3": 512,
           "desc:8": "No Description"
         }
       },
