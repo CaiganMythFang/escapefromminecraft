@@ -22,6 +22,20 @@
         },
         {
           "type": "item",
+          "name": "dap:lsd",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
           "name": "dap:yeastbucket",
           "weight": 40
         }
