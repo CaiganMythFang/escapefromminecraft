@@ -623,3 +623,10 @@ val dappills = [
 for item in dappills {
     <ore:dappills>.add(item);
 }
+
+val rathats = [
+<rats:fisherman_hat>, <rats:farmer_hat>, <rats:archeologist_hat>, <rats:chef_toque>, <rats:pirat_hat>, <rats:rat_fez>, <rats:santa_hat>, <rats:top_hat>, <rats:piper_hat>
+] as IItemStack[];
+for item in rathats {
+    <ore:rathats>.add(item);
+}
