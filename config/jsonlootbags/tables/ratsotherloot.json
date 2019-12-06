@@ -114,6 +114,11 @@
         },
         {
           "type": "item",
+          "name": "rats:rat_upgrade_aristocrat",
+          "weight": 20
+        },
+        {
+          "type": "item",
           "name": "rats:rat_upgrade_warrior",
           "weight": 10
         },
@@ -375,6 +380,700 @@
           "type": "item",
           "name": "rats:rat_toga",
           "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_white",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_gray",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_pink",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_lime",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_yellow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_light_blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_magenta",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_orange",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_black",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_red",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_green",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_brown",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_purple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_cyan",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_tube_silver",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:auto_curdler",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:fish_barrel",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:plague_doctorate",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:vial_of_sentience",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_combined",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_basic_ratlantean",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:upgrade_combiner",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:upgrade_separator",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:marbled_cheese_rat_head",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:marbled_cheese_golem_core",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:music_disc_mice_on_venus",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:dragon_wing",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:music_disc_living_mice",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:centipede",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:little_black_squash_balls",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:little_black_worm",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_white",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_orange",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_magenta",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_light_blue",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_yellow",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_lime",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_pink",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_gray",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_silver",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_cyan",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_purple",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_blue",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_brown",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_green",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_red",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_igloo_black",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_breeding_lantern",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_seed_bowl",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_water_bottle",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_white",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_orange",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_magenta",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_light_blue",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_yellow",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_lime",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_pink",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_gray",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_silver",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_cyan",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_purple",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_blue",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_brown",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_green",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_red",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_hammock_black",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:token_piece",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:cheese_cannonball",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_farmer",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_dragon",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_fisherman",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_underwater",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_aquatic",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_breeder",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_poison",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_asbestos",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_voodoo",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_damage_protection",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_shears",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_milker",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_nonbeliever",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_psychic",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_basic_energy",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_bucket",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_advanced_energy",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_elite_energy",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_big_bucket",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_extreme_energy",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_feral_bite",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_buccaneer",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_ratinator",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_archeologist",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_tnt_survivor",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_tnt",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_disenchanter",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_enchanter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_christmas",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_gemcutter",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_placer",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_no_flute",
+          "weight": 35
         }
       ]
     }
