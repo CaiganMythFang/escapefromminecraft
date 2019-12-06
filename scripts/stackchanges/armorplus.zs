@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 //Sets stack size for Minecraft's basic building blocks
 
 val stackminecraft1000 = [
-<armorplus:green_stone_brick>, <armorplus:blue_stone_brick>, <armorplus:black_stone_brick>, <armorplus:red_stone_brick>, <armorplus:white_stone_brick>, <armorplus:lava_infused_obsidian>, <armorplus:lava_cactus>, <armorplus:lava_nether_brick>, <armorplus:yellow_stone_brick>, <armorplus:purple_stone_brick>, <armorplus:green_stone_brick_corner>, <armorplus:blue_stone_brick_corner>, <armorplus:black_stone_brick_corner>, <armorplus:red_stone_brick_corner>, <armorplus:white_stone_brick_corner>, <armorplus:purple_stone_brick_tower>, <armorplus:yellow_stone_brick_tower>, <armorplus:blue_stone_brick_wall>, <armorplus:green_stone_brick_wall>, <armorplus:yellow_stone_brick_wall>, <armorplus:purple_stone_brick_wall>, <armorplus:white_stone_brick_tower>, <armorplus:red_stone_brick_tower>, <armorplus:black_stone_brick_tower>, <armorplus:blue_stone_brick_tower>, <armorplus:green_stone_brick_tower>, <armorplus:black_stone_brick_wall>, <armorplus:red_stone_brick_wall>, <armorplus:white_stone_brick_wall>, <armorplus:purple_stone_brick_corner>, <armorplus:yellow_stone_brick_corner>
+<armorplus:green_stone_brick>, <armorplus:blue_stone_brick>, <armorplus:black_stone_brick>, <armorplus:red_stone_brick>, <armorplus:white_stone_brick>, <armorplus:lava_infused_obsidian>, <armorplus:lava_cactus>, <armorplus:lava_nether_brick>, <armorplus:yellow_stone_brick>, <armorplus:purple_stone_brick>, <armorplus:green_stone_brick_corner>, <armorplus:blue_stone_brick_corner>, <armorplus:black_stone_brick_corner>, <armorplus:red_stone_brick_corner>, <armorplus:white_stone_brick_corner>, <armorplus:purple_stone_brick_tower>, <armorplus:yellow_stone_brick_tower>, <armorplus:blue_stone_brick_wall>, <armorplus:green_stone_brick_wall>, <armorplus:yellow_stone_brick_wall>, <armorplus:purple_stone_brick_wall>, <armorplus:white_stone_brick_tower>, <armorplus:red_stone_brick_tower>, <armorplus:black_stone_brick_tower>, <armorplus:blue_stone_brick_tower>, <armorplus:green_stone_brick_tower>, <armorplus:black_stone_brick_wall>, <armorplus:red_stone_brick_wall>, <armorplus:white_stone_brick_wall>, <armorplus:purple_stone_brick_corner>, <armorplus:yellow_stone_brick_corner>, <armorplus:empty_sword_display>
 ] as IItemStack[];
 for item in stackminecraft1000 {
     item.maxStackSize = 1000;
@@ -43,7 +43,7 @@ for item in stackminecraft5 {
 }
 
 val stackminecraft2 = [
-<armorplus:champion_bench>, <armorplus:ulti_tech_bench>, <armorplus:high_tech_bench>, <armorplus:workbench>, <armorplus:lava_infuser>, <armorplus:redstone_apple:1>, <armorplus:redstone_apple>
+<armorplus:champion_bench>, <armorplus:ulti_tech_bench>, <armorplus:high_tech_bench>, <armorplus:workbench>, <armorplus:lava_infuser>, <armorplus:redstone_apple:1>, <armorplus:redstone_apple>, <armorplus:ender_dragon_sword_display>, <armorplus:guardian_sword_display>, <armorplus:super_star_sword_display>, <armorplus:infused_lava_sword_display>, <armorplus:obsidian_sword_display>, <armorplus:emerald_sword_display>, <armorplus:redstone_sword_display>, <armorplus:lapis_sword_display>, <armorplus:coal_sword_display>
 ] as IItemStack[];
 for item in stackminecraft2 {
     item.maxStackSize = 2;
