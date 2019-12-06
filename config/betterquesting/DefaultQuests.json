@@ -3451,7 +3451,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "repeat_relative:1": 1,
-          "name:8": "[II] Buying : Diamond",
+          "name:8": "[II] Buying : Emerald",
           "desc:8": "    §3Going trading in some Villages soon, Bandit? We can always use some more Emeralds, keeping a stockpile is a good idea as Villagers sometimes come across rare items we like to trade for.\n\n    And usually they either trade Emeralds or stacks and stacks of the most mundane items. Not that I\u0027m complaining, getting an Enchanted book for a big pile of feathers is a great trade off to us!"
         }
       },
@@ -5966,8 +5966,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "[I] Selling : Rat Trap (x4)",
-          "desc:8": "    §aOur tiny ancestors are much trouble, yes yes?\n\n    Quite a nuisance, even to us, we agree.\n\n    Rat Traps are a good way to protect your stockpiles. Just place near them. Solves problem right quick!"
+          "name:8": "[I] Selling : Rat Trap and Garbage Pile (x4)",
+          "desc:8": "    §aOur tiny ancestors are much trouble, yes yes?\n\n    Quite a nuisance, even to us, we agree.\n\n    Rat Traps are a good way to protect your stockpiles. Just place near them. Solves problem right quick!\n\n    Or perhaps looking for way to attract rats? Sometimes when Rat goes after food, it spoils it! You can use these to create Garbage, which tiny ancestors love to dig in!\n\n    Can also find garbage in villages! Or we can offer prime garbage for you!\n\n    Do not forget, rats like darkness, yes yes! Put garbage in dark room!\n\n    Be careful when breaking Garbage. Sometimes you find lots of plastic scrap! May be useful, yes?"
         }
       },
       "tasks:9": {
@@ -5994,14 +5994,23 @@
       },
       "rewards:9": {
         "0:10": {
-          "rewardID:8": "bq_standard:item",
+          "rewardID:8": "bq_standard:choice",
           "index:3": 0,
-          "rewards:9": {
+          "choices:9": {
             "0:10": {
               "ForgeCaps:10": {
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "rats:rattrap",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:garbage_pile",
               "Count:3": 4,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -6041,7 +6050,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "[I] Selling : Rat Cage",
-          "desc:8": "    §aFor as much trouble as our miniscule elders are, they can be quite useful yes? Yes. Very much so! Rats are smart creatures, and quite friendly with the right people!\n\n    Are you the right people?\n\n    Make cheese, is easy. Pour Milk into Cauldron, wait, then take out Cheese! Then craft cheese into smaller slices.\n\n    Now drop these cheese wedges near wild rats. Feed it many cheese wedges! Five. Ten. Fifteen. Sometimes twenty cheeses needed! World is dangerous, trust is hard, yes?\n\n    Watch for hearts. Then Rat is now friend! Right Click to open your pet rat\u0027s inventory! Can give him any kind of hat to wear. or item to carry. You can also train the rat with an  Upgrade, but that for another time!\n\n    For now, want more rats? Can tame more. Want special rats? Then you need Rat Cage!\n\n    Sneak and Right Click your Rat to put it on your shoulder. Then Sneak and Right Click cage to put into cage! Put male and female in cage with some cheese, and soon, baby rats!\n\n    Can improve health of rats over generations. Get special fur patterns and colors.\n\n    Rats can be a nuisance, but also great friends, yes?"
+          "desc:8": "    §aFor as much trouble as our miniscule elders are, they can be quite useful yes? Yes. Very much so! Rats are smart creatures, and quite friendly with the right people!\n\n    Are you the right people?\n\n    Make cheese, is easy. Pour Milk into Cauldron, wait, then take out Cheese! Then craft cheese into smaller slices.\n\n    Now drop these cheese wedges near wild rats. Feed it many cheese wedges! Five. Ten. Fifteen. Sometimes twenty cheeses needed! World is dangerous, trust is hard, yes?\n\n    Watch for hearts. Then Rat is now friend! Right Click to open your pet rat\u0027s inventory! Can give him any kind of hat to wear. or item to carry. You can also train the rat with an  Upgrade, but that for another time!\n\n    For now, want more rats? Can tame more. Want special rats? Then you need Rat Cage!\n\n    Sneak and Right Click your Rat to put it on your shoulder. Or, purchase Rat Sack and Right Click Sack on Rat! You can also craft Rat Sack into a net to capture lots of friendly rats at once!\n\n    Then Sneak and Right Click cage with either empty hand (if rats on shoulders!) or Rat Sack (if Rats inside!) to put into cage! Put male and female in cage with some cheese, and soon, baby rats!\n\n    Can improve health of rats over generations. Get special fur patterns and colors.\n\n    Rats can be a nuisance, but also great friends, yes?"
         }
       },
       "tasks:9": {
@@ -6068,15 +6077,25 @@
       },
       "rewards:9": {
         "0:10": {
-          "rewardID:8": "bq_standard:item",
-          "index:3": 0,
-          "rewards:9": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 1,
+          "choices:9": {
             "0:10": {
               "ForgeCaps:10": {
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "rats:rat_cage",
               "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_sack",
+              "Count:3": 1,
+              "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -6698,8 +6717,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "[I] Selling : Cheese Staff and Rat Flute (+Gift)",
-          "desc:8": "    §aDo you have many rat friends yet, Bandit? Good and helpful, yes?\n\n    But they can be even more helpful! You can command them to move stuff between chests, or harvest crops for you!\n\n    To do this, you need... a Cheese Stick! And a Rat Flute!\n\n    The Cheese Stick lets you tell Rats what chests to use! (Right Click to say \"Put stuff here!\" and Sneak and Right Click to say \"Take stuff from here!\")\n\n    The Rat Flute lets you command many Rats at once!\n\n    Oh, you can have this hat too when you buy these! Rats like chef hats. Put on rat, it look great, yes?"
+          "name:8": "[I] Selling : Cheese Staff and Rat Flute",
+          "desc:8": "    §aDo you have many rat friends yet, Bandit? Good and helpful, yes?\n\n    But they can be even more helpful! You can command them to move stuff between chests, or harvest crops for you!\n\n    To do this, you need... a Cheese Stick! And a Rat Flute!\n\n    The Cheese Stick lets you tell Rats what chests to use! (Right Click to say \"Put stuff here!\" and Sneak and Right Click to say \"Take stuff from here!\")\n\n    The Rat Flute lets you command many Rats at once!"
         }
       },
       "tasks:9": {
@@ -6746,15 +6765,6 @@
               "id:8": "rats:rat_flute",
               "Count:3": 1,
               "tag:10": {},
-              "Damage:2": 0,
-              "OreDict:8": ""
-            },
-            "2:10": {
-              "ForgeCaps:10": {
-                "customnpcs:itemscripteddata:10": {}
-              },
-              "id:8": "rats:chef_toque",
-              "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -6967,8 +6977,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "[II] Selling : Rat Upgrades - Warrior",
-          "desc:8": "    §aIs one upgrade not enough? Do you wish to turn your pet rats into powerful allies? Yes? Of course you do!\n\n    The Warrior Upgrade combines all three stat upgrades, yes! Stronger, Healthier, Hardier!"
+          "name:8": "[II] Selling : Rat Upgrades - Warrior and TNT",
+          "desc:8": "    §aIs one upgrade not enough? Do you wish to turn your pet rats into powerful allies? Yes? Of course you do!\n\n    The Warrior Upgrade combines all three stat upgrades, yes! Stronger, Healthier, Hardier!\n\n    Or you can be dangerous! Give rat TNT upgrade! Attacks with explosive power, but will hurt friendly rats! And you!"
         }
       },
       "tasks:9": {
@@ -6995,14 +7005,23 @@
       },
       "rewards:9": {
         "0:10": {
-          "rewardID:8": "bq_standard:item",
+          "rewardID:8": "bq_standard:choice",
           "index:3": 0,
-          "rewards:9": {
+          "choices:9": {
             "0:10": {
               "ForgeCaps:10": {
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "rats:rat_upgrade_warrior",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_tnt",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -7042,8 +7061,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "[II] Selling : Rat Upgrades - Whitelist and Blacklist",
-          "desc:8": "    §aRats are not picky about what they pick up. Everything is useful in their eyes! Owner wants everything they can find, right?\n\n    If you don\u0027t want that, no no, too much stuff (is that possible?), you can use one of these Upgrades to teach the Rat!\n\n    The Whitelist Upgrade tells the Rat that ONLY these items are good!\n\n    The Blacklist Upgrade tells the Rat to get all items BUT these ones. These ones are no good!"
+          "name:8": "[II] Selling : Rat Upgrades - Whitelist, Blacklist, and Denier",
+          "desc:8": "    §aRats are not picky about what they pick up. Everything is useful in their eyes! Owner wants everything they can find, right?\n\n    If you don\u0027t want that, no no, too much stuff (is that possible?), you can use one of these Upgrades to teach the Rat!\n\n    The Whitelist Upgrade tells the Rat that ONLY these items are good!\n\n    The Blacklist Upgrade tells the Rat to get all items BUT these ones. These ones are no good!\n\n    The Flute Denier upgrade does not deal with items... but with music! Music from dangerous Pied Piper Pipe! Rat with this upgrade will ignore the musical foe!"
         }
       },
       "tasks:9": {
@@ -7092,6 +7111,15 @@
               "tag:10": {},
               "Damage:2": 0,
               "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_no_flute",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
             }
           }
         }
@@ -7127,8 +7155,8 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "repeat_relative:1": 1,
-          "name:8": "[III] Buying : Piper Hat",
-          "desc:8": "    §aPiper hats are quite popular! But only the Pied Piper knows how to make them!\n\n    We will pay you for Piper Hats. How you get them is not our concern. Many Rats fear the Piper, others love, much love for the Piper. \n\n    The Labrats only are interested in how the Hat works..."
+          "name:8": "[III] Buying : Rat Hats",
+          "desc:8": "    §aRats have many hats they can use! Displays their job! Helps them do job!\n\n    We have many many rats who need many hats. Any rat hat is good!"
         }
       },
       "tasks:9": {
@@ -7144,10 +7172,15 @@
               "ForgeCaps:10": {
                 "customnpcs:itemscripteddata:10": {}
               },
-              "id:8": "rats:piper_hat",
+              "id:8": "rats:pirat_hat",
               "Count:3": 1,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Rat Hat"
+                }
+              },
               "Damage:2": 0,
-              "OreDict:8": ""
+              "OreDict:8": "rathats"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -7163,7 +7196,7 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "modcurrency:banknote",
-              "Count:3": 50,
+              "Count:3": 8,
               "Damage:2": 2,
               "OreDict:8": ""
             }
@@ -35416,8 +35449,8 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "repeat_relative:1": 1,
-          "name:8": "[III] Selling : Upgrade - Miner",
-          "desc:8": "    §aRats tiny, but strong! Good at sniffing out things, not just food no no!\n\n    Mining Upgrade teaches rat to sniff out specific materials! Was once good for ores, but no longer exist, sadly! But can sniff out other materials for you!\n\n    Just Right Click upgrade in air to set up! Then give to rat!"
+          "name:8": "[III] Selling : Upgrade - Miner and Block Placer",
+          "desc:8": "    §aRats tiny, but strong! Good at sniffing out things, not just food no no!\n\n    Mining Upgrade teaches rat to sniff out specific materials! Was once good for ores, but no longer exist, sadly! But can sniff out other materials for you!\n\n    Just Right Click upgrade in air to set up! Then give to rat!\n\n    Can pair with Block Placer upgrade on a rat! Can place blocks down, let Miner break them! Good for things that break into smaller parts!"
         }
       },
       "tasks:9": {
@@ -35444,16 +35477,24 @@
       },
       "rewards:9": {
         "0:10": {
-          "rewardID:8": "bq_standard:item",
+          "rewardID:8": "bq_standard:choice",
           "index:3": 0,
-          "rewards:9": {
+          "choices:9": {
             "0:10": {
               "ForgeCaps:10": {
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "rats:rat_upgrade_miner",
               "Count:3": 1,
-              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_placer",
+              "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -35492,7 +35533,7 @@
           "ismain:1": 1,
           "repeat_relative:1": 1,
           "name:8": "[III] Buying : Chunky Cheese Token",
-          "desc:8": "    §aAh, fabled homeland! Though not really homeland, but dreamland! Or is real? Of course is!\n\n    I speak of Ratlantis, yes yes! Ancient home of ancient rats, before all of our times! Spoken of quietly underground yes yes.\n\n    Sometimes, a rat will find the gift of a Cheese Token, yes good! A great boon! They have visited nirvana and returned!\n\n    If you can get one of these, we pay well for it! Or you can use to visit Ratlantis yourself, see the majesty!"
+          "desc:8": "    §aAh, fabled homeland! Though not really homeland, but dreamland! Or is real? Of course is!\n\n    I speak of Ratlantis, yes yes! Ancient home of ancient rats, before all of our times! Spoken of quietly underground yes yes.\n\n    Sometimes, a rat will find the gift of a Cheese Token, yes good! A great boon! They have visited nirvana and returned!\n\n    There are many who seek Ratlantis. Many many yes. Including the dangerous Piper. They attract rats, many rats, and... I leave to imagination! But Piper carries fragments of the Cheese Token!\n\n    Another way? Yes yes, \u0027wealthy\u0027 rat sometimes gives spare coins. Coins very much like the Cheese Token... another avenue to pursue to find the homeland?\n\n    However you obtain, if you choose to seek Ratlantis... be warned. Very dangerous. Bring army!"
         }
       },
       "tasks:9": {
@@ -35527,7 +35568,7 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "modcurrency:banknote",
-              "Count:3": 250,
+              "Count:3": 30,
               "Damage:2": 2,
               "OreDict:8": ""
             }
@@ -48797,14 +48838,14 @@
             },
             "OverlayType:3": 0,
             "Leashed:1": 0,
-            "UUIDLeast:4": -9067158120910694219,
+            "UUIDLeast:4": -8225519361817001329,
             "Health:5": 15.0,
             "LeftHanded:1": 0,
             "Air:2": 300,
             "OnGround:1": 0,
-            "Dimension:3": 0,
+            "Dimension:3": -8,
             "Rotation:9": {
-              "0:5": 0.41267622,
+              "0:5": 5.359909,
               "1:5": 0.0
             },
             "UpdateBlocked:1": 0,
@@ -48818,7 +48859,7 @@
               "2:5": 0.085,
               "3:5": 0.085
             },
-            "UUIDMost:4": -5587165850392572349,
+            "UUIDMost:4": -146202071866522168,
             "Pos:9": {
               "0:6": 0.0,
               "1:6": 0.0,
@@ -49016,7 +49057,7 @@
                 "Name:8": "generic.attackDamage"
               },
               "9:10": {
-                "Base:6": 0.08028412228869518,
+                "Base:6": 0.02228917849172849,
                 "Name:8": "zombie.spawnReinforcements"
               }
             },
@@ -79951,6 +79992,3779 @@
           }
         }
       }
+    },
+    "847:10": {
+      "questID:3": 847,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_tube_white",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Rat Tubes",
+          "desc:8": "    §aDo you have some of our ancient brethren as pets? Yes? Many cages? Yes good!\n\n    You can do much with the cages, including decorating them! But more important, you can connect Rat Cages together with Rat Tubes!\n\n    Rat Tubes fantastic travel paths! Can use them to make safe paths in and out of base! Connect different Cages to increase rat happiness and breeding rate!\n\n    You can easily paint Rat Tubes lots of colors too! Keep colors coordinated! Important to many humans we\u0027ve found. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 32,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_tube_white",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "848:10": {
+      "questID:3": 848,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_tube_white",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Rat Tubes (x8)",
+          "desc:8": "    §aWe are always in need of many more tubes! Used to transfer items and energy! And rats, most important yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_tube_white",
+              "Count:3": 8,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Color Rat Tube"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": "ratTube"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 3,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "849:10": {
+      "questID:3": 849,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:plastic_waste",
+            "Count:3": 3,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Raw Plastic (x5)",
+          "desc:8": "    §aGarbage! World is full of it,  yes yes. Lots of destruction, lots cast aside.\n\n    Some garbage we can use, yes! You can find in village, and sometimes untamed Rats can drop spoiled food! Take spoiled food and combine to make a pile of garbage!\n\n    Strange magic surrounds it, no? Can attract rats to a sealed room! Can also contain strange chemicals, chemicals we can use!\n\n    Many times, these chemicals form into Plastic! We can use this, yes yes. Smelt Waste to remove impurities, then send to us and we pay!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:raw_plastic",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "850:10": {
+      "questID:3": 850,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_aristocrat",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrade - Aristoc-Rat",
+          "desc:8": "    §aAn expensive upgrade, for how little it does, yes no? Rich rat does not get more health, does not hit harder, is only displaying wealth!\n\n    But that wealth is key! Key to ancient homeland. The longer Aristoc-Rat survives, the more it fights, despite being weak, the more Coins it drops!\n\n    Take coins. Put together. Put more together. And more. Beat up Piper, take coins from too!\n\n    Create Chunky Cheese Token, key to Ratlantis!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 600,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_aristocrat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "851:10": {
+      "questID:3": 851,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:auto_curdler",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Curdling Station",
+          "desc:8": "    §aCheese delicious, yes yes. But making cheese is arduous! Must pour milk, wait, wait, then drag cheese out of Cauldron and chop to pieces! Take much time, yes?\n\n    Can fix that! Curdling Station is answer, yes yes. Science is answer!\n\n    Pour lots of milk in, automatically make cheese!\n\n    Even better, teach Rats to pour in milk and take out cheese! Much better!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:auto_curdler",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "852:10": {
+      "questID:3": 852,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_arrow",
+            "Count:3": 1,
+            "tag:10": {
+              "Rat:10": {
+                "CoinCooldown:3": 0,
+                "HurtByTimestamp:3": 0,
+                "Sitting:1": 0,
+                "Attributes:9": {
+                  "0:10": {
+                    "Base:6": 0.0,
+                    "Name:8": "techguns.radiationResistance"
+                  },
+                  "1:10": {
+                    "Base:6": 8.0,
+                    "Name:8": "generic.maxHealth"
+                  },
+                  "2:10": {
+                    "Base:6": 0.0,
+                    "Name:8": "generic.knockbackResistance"
+                  },
+                  "3:10": {
+                    "Base:6": 0.3,
+                    "Name:8": "generic.movementSpeed"
+                  },
+                  "4:10": {
+                    "Base:6": 0.0,
+                    "Name:8": "generic.armor"
+                  },
+                  "5:10": {
+                    "Base:6": 0.0,
+                    "Name:8": "generic.armorToughness"
+                  },
+                  "6:10": {
+                    "Base:6": 1.0,
+                    "Name:8": "forge.swimSpeed"
+                  },
+                  "7:10": {
+                    "Base:6": 128.0,
+                    "Modifiers:9": {
+                      "0:10": {
+                        "UUIDMost:4": 7718401431171645568,
+                        "UUIDLeast:4": -8225570507107551966,
+                        "Amount:6": -0.030096575446219593,
+                        "Operation:3": 1,
+                        "Name:8": "Random spawn bonus"
+                      }
+                    },
+                    "Name:8": "generic.followRange"
+                  },
+                  "8:10": {
+                    "Base:6": 1.0,
+                    "Name:8": "generic.attackDamage"
+                  }
+                },
+                "FallFlying:1": 0,
+                "ForcedAge:3": 0,
+                "AbsorptionAmount:5": 0.0,
+                "CheeseFeedings:3": 0,
+                "Toga:1": 0,
+                "InLove:3": 0,
+                "DeathTime:2": 0,
+                "TransportingRF:3": 0,
+                "EatenItems:3": 0,
+                "HandDropChances:9": {
+                  "0:5": 1.0,
+                  "1:5": 1.0
+                },
+                "DigCooldown:3": 0,
+                "PersistenceRequired:1": 0,
+                "Items:9": {},
+                "VisualFlag:1": 0,
+                "Age:3": 0,
+                "Leashed:1": 0,
+                "HomeDistance:5": -1.0,
+                "Health:5": 8.0,
+                "ColorVariant:3": 5,
+                "LeftHanded:1": 0,
+                "HandItems:9": {
+                  "0:10": {},
+                  "1:10": {}
+                },
+                "ArmorDropChances:9": {
+                  "0:5": 1.0,
+                  "1:5": 1.0,
+                  "2:5": 1.0,
+                  "3:5": 1.0
+                },
+                "OwnerUUID:8": "5bd0a231-15f4-487f-b1fc-dc88153152aa",
+                "Plague:1": 0,
+                "Command:3": 0,
+                "WildTrust:3": 0,
+                "ArmorItems:9": {
+                  "0:10": {},
+                  "1:10": {},
+                  "2:10": {},
+                  "3:10": {}
+                },
+                "HomePosZ:3": 0,
+                "CanPickUpLoot:1": 0,
+                "HomePosY:3": 0,
+                "Dancing:1": 0,
+                "HurtTime:2": 0,
+                "CookingProgress:3": 0,
+                "IsMale:1": 0,
+                "HomePosX:3": 0,
+                "BreedCooldown:3": 0
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Rat on Arrow",
+          "desc:8": "    §aLittle ancestors are always welcome in the lab! They do much for us, and always in need of more as... well yes, lab accidents happen.\n\n    If you can take arrow, and Right Click on one of your tamed Rats, you can then send it to us! We not pay much, Rats mulitply easily, but can make steady income this way!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_arrow",
+              "Count:3": 1,
+              "tag:10": {
+                "Rat:10": {
+                  "CoinCooldown:3": 0,
+                  "HurtByTimestamp:3": 0,
+                  "Sitting:1": 0,
+                  "Attributes:9": {
+                    "0:10": {
+                      "Base:6": 0.0,
+                      "Name:8": "techguns.radiationResistance"
+                    },
+                    "1:10": {
+                      "Base:6": 8.0,
+                      "Name:8": "generic.maxHealth"
+                    },
+                    "2:10": {
+                      "Base:6": 0.0,
+                      "Name:8": "generic.knockbackResistance"
+                    },
+                    "3:10": {
+                      "Base:6": 0.3,
+                      "Name:8": "generic.movementSpeed"
+                    },
+                    "4:10": {
+                      "Base:6": 0.0,
+                      "Name:8": "generic.armor"
+                    },
+                    "5:10": {
+                      "Base:6": 0.0,
+                      "Name:8": "generic.armorToughness"
+                    },
+                    "6:10": {
+                      "Base:6": 1.0,
+                      "Name:8": "forge.swimSpeed"
+                    },
+                    "7:10": {
+                      "Base:6": 128.0,
+                      "Modifiers:9": {
+                        "0:10": {
+                          "UUIDMost:4": 7718401431171645568,
+                          "UUIDLeast:4": -8225570507107551966,
+                          "Amount:6": -0.030096575446219593,
+                          "Operation:3": 1,
+                          "Name:8": "Random spawn bonus"
+                        }
+                      },
+                      "Name:8": "generic.followRange"
+                    },
+                    "8:10": {
+                      "Base:6": 1.0,
+                      "Name:8": "generic.attackDamage"
+                    }
+                  },
+                  "FallFlying:1": 0,
+                  "ForcedAge:3": 0,
+                  "AbsorptionAmount:5": 0.0,
+                  "CheeseFeedings:3": 0,
+                  "Toga:1": 0,
+                  "InLove:3": 0,
+                  "DeathTime:2": 0,
+                  "TransportingRF:3": 0,
+                  "EatenItems:3": 0,
+                  "HandDropChances:9": {
+                    "0:5": 1.0,
+                    "1:5": 1.0
+                  },
+                  "DigCooldown:3": 0,
+                  "PersistenceRequired:1": 0,
+                  "Items:9": {},
+                  "VisualFlag:1": 0,
+                  "Age:3": 0,
+                  "Leashed:1": 0,
+                  "HomeDistance:5": -1.0,
+                  "Health:5": 8.0,
+                  "ColorVariant:3": 5,
+                  "LeftHanded:1": 0,
+                  "HandItems:9": {
+                    "0:10": {},
+                    "1:10": {}
+                  },
+                  "ArmorDropChances:9": {
+                    "0:5": 1.0,
+                    "1:5": 1.0,
+                    "2:5": 1.0,
+                    "3:5": 1.0
+                  },
+                  "OwnerUUID:8": "5bd0a231-15f4-487f-b1fc-dc88153152aa",
+                  "Plague:1": 0,
+                  "Command:3": 0,
+                  "WildTrust:3": 0,
+                  "ArmorItems:9": {
+                    "0:10": {},
+                    "1:10": {},
+                    "2:10": {},
+                    "3:10": {}
+                  },
+                  "HomePosZ:3": 0,
+                  "CanPickUpLoot:1": 0,
+                  "HomePosY:3": 0,
+                  "Dancing:1": 0,
+                  "HurtTime:2": 0,
+                  "CookingProgress:3": 0,
+                  "IsMale:1": 0,
+                  "HomePosX:3": 0,
+                  "BreedCooldown:3": 0
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 3,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "853:10": {
+      "questID:3": 853,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:gem_of_ratlantis",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Buying : Gem of Ratlantis",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    One of them is a special gemstone! Gem of Ratlantis not only holds much power we would like to research, it is an ancient relic from our ancestors!\n\n    We cannot pay much for it, as with properly trained Rat, is easy to find... Rat who is good at museum things..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:gem_of_ratlantis",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 8,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "854:10": {
+      "questID:3": 854,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:ratlantean_flame",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Buying : Ratlantean Spirit Flame",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    Ancient spirits sometime haunt many areas. Kill killing spirit can free their fiery essence! We want to research this flame!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:ratlantean_flame",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 3,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "855:10": {
+      "questID:3": 855,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:compressed_rat",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Buying : Block of Ratglove",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    Ancient plant, Ratglove, widely used by ancient rats! Medicine, cooking, many uses yes yes! Still grows in Ratlantis!\n\n    Can find growing, or can have museum Rat find some for you!\n\n    Combine many Ratglove plants into petals. And then turn petals into block!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:compressed_rat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "856:10": {
+      "questID:3": 856,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:feral_rat_claw",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Buying : Feral Rat Claw (x2)",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    Very ancient ancestors were once really smart, yes yes. Unfortunately, disaster struck. Feral they became! \n\n    Be careful fighting feral ancestors, very deadly! Bring claws from them, or can fashion strong weapon, yes."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:feral_rat_claw",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 7,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "857:10": {
+      "questID:3": 857,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:plague_essence",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Plague Essence (x5)",
+          "desc:8": "    §aLong ago, small brethren spread Plague across lands. Killed many! But was not small rats, not directly! Is story for another time though, yes no. But rats not plagued themselves then!\n\n    Now? Yes, some rats have strange plague! Unnatural plague, we must study it!\n\n    Sometimes, killing plague rat will net Plague Essence. We pay you for them, as we must study how to cure it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:plague_essence",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "858:10": {
+      "questID:3": 858,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:psionic_rat_brain",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Buying : Psionic Rat Brain",
+          "desc:8": "    §aYou seen what ancient brethren become, yes? Feral, dangerous!\n\n    But truth is, more dangerous when at full brain power!\n\n    Look at our shop. There is a potion you can throw on Feral Ratlantean. Turn it back to it\u0027s glory days.\n\n    But be warned, yes yes! Very careful. Ancient rat brethren do not like to be awoken in such a manner. Prepare for fight fight!\n\n    If you defeat, powerful brain will drop! This we pay for well, very many secrets we wish to poke for."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:psionic_rat_brain",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "859:10": {
+      "questID:3": 859,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:plague_doctorate",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Plague Doctorate",
+          "desc:8": "    §aPlague rats everywhere! Some-someone trying to give rats bad names... we need to spread cure for plague!\n\n    Here, we have good idea. Plague Doctorate! Bring back Plague Doctors from the ancient texts!\n\n    If you take this and Right Click it on a Villager, they become Plague Doctor! Good at providing plague cures!\n\n    If you keep trading with them, they get better supplies from us!\n\n    Be careful! Do not let Plague Doctor be hit with lightning... many cures volatile. So many exploding in pockets is not healthy...\n\n    Especially for you!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:plague_doctorate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "860:10": {
+      "questID:3": 860,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:vial_of_sentience",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Vial of Consciousness",
+          "desc:8": "    §aThe Feral Ratlanteans... one time, they were great, intelligent, and powerful.\n\n    Now, one out of three is all they can achive, yes?\n\n    With help from Plague Doctor research, though, we can change that, yes yes!\n\n    This Vial of Consciousness can be thrown at Feral Ratlantean. It will re-evolve them, back to glory days!\n\n    But those glory days not these glory days, no. This is extremely dangerous. Very much so! \n\n    You will turn the Feral Ratlantean... into a Neo Ratlantean! Creature of power... and anger!\n\n    Prepare for big fight! Very big fight. You may not survive!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:vial_of_sentience",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "861:10": {
+      "questID:3": 861,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:idol_of_ratlantis",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Buying : Avatar of Ratlantis",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    The rarest of items is Avatar of Ratlantis! The embodiment of our ancestors! If you can find it for us, we pay well!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:idol_of_ratlantis",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "862:10": {
+      "questID:3": 862,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:ancient_sawblade",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Buying : Ancient Sawblade",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    Some technology hard to find. Ancient Sawblades... seem mundane, but have strange science to them. Or magic. We are not sure.\n\n    Either way, we wish to examine as many as we can!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:ancient_sawblade",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "863:10": {
+      "questID:3": 863,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_basic_ratlantean",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Buying : Rat Upgrade - Ratlantean",
+          "desc:8": "    §aNow that you have visited Ratlantis, may come across one of these! Our upgrade bases based off these, one we found in ruins many years ago!\n\n    We will not pay much for them, as inquisitive museum Rat can find the secrets of a normal one easily!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_basic_ratlantean",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "864:10": {
+      "questID:3": 864,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:upgrade_combiner",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Rat Upgrade Combiner",
+          "desc:8": "    §aAncient Ratlanteans had much power, very much yes. They were able to do amazing things with science. We Labrats can only touch upon the barest parts of their ability.\n\n    With the refinding of Ratlantis, we have gotten closer to their power!\n\n    We have learned how to produce the Upgrade Combiner!\n\n    Combined Upgrade is like powerful um... gauntlet! Can hold many single Upgrades in it like rings on fingers!\n\n    Put Combined Upgrade and upgrade you want to add to it into Combiner. Then put a couple Gems of Ratlantis in! Need two or three each time you add one Upgrade!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1250,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:upgrade_combiner",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_combined",
+              "Count:3": 2,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "865:10": {
+      "questID:3": 865,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:gem_of_ratlantis",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Gem of Ratlantis (x4)",
+          "desc:8": "    §aOn own, these not have much use. Look pretty, much power stored in them, but very little way to get said power!\n\n    You may need these in your trips to Ratlantis, however!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 60,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:gem_of_ratlantis",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "866:10": {
+      "questID:3": 866,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:upgrade_separator",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Rat Upgrade Seperator",
+          "desc:8": "    §aAncient Ratlanteans had much power, very much yes. They were able to do amazing things with science. We Labrats can only touch upon the barest parts of their ability.\n\n    Combining upgrades takes much power, very costly! But sometimes you not want all those upgrades together!\n\n    Upgrade Seperator solves problem! Just set down, then throw Combined Upgrade onto it! Bam, upgrade seperated!\n\n    Be sure to pick up all pieces, yes?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:upgrade_separator",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "867:10": {
+      "questID:3": 867,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:marbled_cheese_rat_head",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Ancient Rat Automaton",
+          "desc:8": "    §aAncient Ratlantians masters of science! Able to make strong defenses called Automotons, to protect Ratlantis!\n\n    We have found out how to reconstruct one from things left for us by our ancestors!\n\n    To make, you need this Automaton head, and this Automaton core! Then need 3 Marble Cheese!\n\n    Then go to empty battlefield. Automaton is immediately hostile to not Ratlantians. You will need to put together the automaton on the field, like this!\n\n  H\nMCM\n M\n\n    M is Marble Cheese Block! Place one down, then place Automaton Core (C!) on top! Then place two more Marble Cheese on left and right! Then last, place Automaton Head! Then back away, and draw weapon!\n\n   Good luck, yes yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 400,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:marbled_cheese_rat_head",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:marbled_cheese_golem_core",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "868:10": {
+      "questID:3": 868,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:arcane_technology",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Buying : Arcane Technology",
+          "desc:8": "    §aGood, found your way into Ratlantis! There are many things there we would like you to find!\n\n    Ancient Ratlantians made powerful automotons! Strong and deadly and useful! If you can find one... bring piece back for us, yes yes! We can research it!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:arcane_technology",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "869:10": {
+      "questID:3": 869,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:plague_scythe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Buying : Black Death Scythe",
+          "desc:8": "    §aAh, did not warn you about Plague Doctors and Lightning? No? Could swear we did...\n\n    No matter. If Plague Doctor hit with lightning, all plague cures explode! They mix and... plague doctor goes insane!\n\n    We call them Black Death. Very dangerous.\n\n    They get dangerous scythe. We are not sure where. Bring us one so we can examine!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:plague_scythe",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "870:10": {
+      "questID:3": 870,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_gemcutter",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrade - Gemcutter, Festive, and Enchant",
+          "desc:8": "    §aMany different, useful things Rats can be trained to do! Very useful things, like...\n\n    Gemcutter upgrade enables Rat to cut gems! Not all gems, no no. Can cut Diamonds into tiny diamonds! And special things! You see!\n\n    Festive rat upgrade lets rat make gifts for you! Or find gifts. We are not sure. Festive magic is strange, yes? Can only give gift once every 20 minutes!\n\n    Enchanter upgrade lets Rat upgrade items it picks up! Have Bookshelves nearby to teach Rat better enchants!\n\n    Disenchanter does opposite. Will remove enchants from picked up items!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_gemcutter",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_christmas",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_enchanter",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_disenchanter",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "871:10": {
+      "questID:3": 871,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:little_black_worm",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Little Black Worm",
+          "desc:8": "    §aOooh, little black worms. Very intriguing little things we occasionally find!\n\n    Seem to absorb old magic! Very strange, very... fun to play with, oddly! Especially for us Labrats!\n\n    But there is a secret to them! Rat good with gemstones can carefully cut and craft them... into a Centipede!\n\n    Another fun toy, but then... gem rat can further work skills on them...\n\n    They then make ultimate food, a kitchen rival to cooking rat!\n\n    Make no sense? Of course not, magic never makes sense. Is why we like science,  yes yes."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:little_black_worm",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "872:10": {
+      "questID:3": 872,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:charged_creeper_chunk",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Buying : Charged Creeper Chunk",
+          "desc:8": "    §aCreepers hit with lightning very scary thing. Glowing, and very explosive!\n\n    If you can kill one, they drop powerful resource, charged like them!\n\n    We pay for any you can get!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:charged_creeper_chunk",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "873:10": {
+      "questID:3": 873,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_igloo_white",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Rat Igloo",
+          "desc:8": "    §aDo you have some of our ancient brethren as pets? Yes? Many cages? Yes good!\n\n    You can do much with the cages, including decorating them! \n\n    Igloo provides little hiding area for pet Rats. You can even color the Igloos!\n\n    Decoration improves mood, and hiding area is good for Rat health."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_igloo_white",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "874:10": {
+      "questID:3": 874,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_water_bottle",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Food, Water, And...",
+          "desc:8": "    §aDo you have some of our ancient brethren as pets? Yes? Many cages? Yes good!\n\n    You can do much with the cages, including decorating them! Cage decorations look nice, and have many functions!\n\n    Water Bottle hydrates pet Rats, and Seed Bowl provides nourishment!\n\n    Breeding Lantern... is obvious, we hope!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_water_bottle",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_seed_bowl",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_breeding_lantern",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "875:10": {
+      "questID:3": 875,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_hammock_white",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Rat Hammock",
+          "desc:8": "    §aDo you have some of our ancient brethren as pets? Yes? Many cages? Yes good!\n\n    You can do much with the cages, including decorating them! \n\n    Hammock provides cozy sleeping area for pet Rats. Good for their health and looks cute, yes yes! Can also dye hammock various colors to look nicer!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_hammock_white",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "876:10": {
+      "questID:3": 876,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:archeologist_hat",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Job Hats",
+          "desc:8": "    §aHats are very important to tamed rats! How do human and beastfolk know what job they do? How important they are?\n\n    Sure, they can wear hat too, is stylish! But tiny hat on tiny rat is much cuter!\n\n    Some of these hats MUST be worn by the rat with the proper upgrade! Or the upgrade doesn\u0027t work right! \n\n    That\u0027s science, yes yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:chef_toque",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:archeologist_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:farmer_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:fisherman_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "877:10": {
+      "questID:3": 877,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:top_hat",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Special Hats",
+          "desc:8": "    §aHats are very important to tamed rats! How do human and beastfolk know what job they do? How important they are?\n\n    Sure, they can wear hat too, is stylish! But tiny hat on tiny rat is much cuter!\n\n    Some of these hats MUST be worn by the rat with the proper upgrade! Or the upgrade doesn\u0027t work right! \n\n    That\u0027s science, yes yes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:top_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:santa_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_fez",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:pirat_hat",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "878:10": {
+      "questID:3": 878,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_diamond",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Buying : Rat Diamond",
+          "desc:8": "    §aSpecial Rat diamonds, only forged by special gem rats! Tiny versions, stamped with Rat seal of quality!\n\n    We pay for any you find, if you come across. Make excellent laser foci in tiny machines for rats!\n\n    What? Of course-course we equip guard rats with lasers. Why not?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_diamond",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "879:10": {
+      "questID:3": 879,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_farmer",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Rat Upgrades - Farmrats",
+          "desc:8": "    §aRats like picking up fresh food. And eating! Unless friendly rat, then they know not to eat it immediately.\n\n    But pet Rats not quite good at replanting, no no. But we can solve that!\n\n    Planter upgrade teaches rat how to plant crops and trees they find!\n\n    Occasionally they also place other things they pick up, as sometimes they grow into things too. We still working on that, yes yes.\n\n    But food they pick up? Can be used to breed animals too! With Animal Breeder upgrade!\n\n    Can tell rat to pick up food from chest, then will feed it to animals to get them to breed!\n\n    Don\u0027t forget, proper food for proper animal is important!\n\n    Have many sheep? Then Shears upgrade lets Rat tend to flock!\n\n    Lots of cows? Milkmaid gives Rat milk bucket, can milk cows and then deposit milk in tank! Good for making cheese!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 200,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_farmer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_breeder",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_shears",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_milker",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "880:10": {
+      "questID:3": 880,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_dragon",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrade - Dragon and TNT Expert",
+          "desc:8": "    §aEven pet Rats have big dreams!\n\n    Dreams of flying!\n\n    Dreams of breathing fire!\n\n    Yes yes, pet rats can dream of being dragons!\n\n    We wish to fulfill dreams, yes yes! Dragon Upgrade does just that!\n\n    Put on Rat, they shall grow wings! And breath fire! And be heartier and stronger too!\n\n    But perhaps, Rat instead has dreams of fighting from start to finish, a climax, yes?\n\n    TNT Expert is for this Rat, yes! Makes rat immune to explosions, and friends immune to its explosions, as is attacks are very explosive! Boom!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 750,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_dragon",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_tnt_survivor",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "881:10": {
+      "questID:3": 881,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_aquatic",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Rat Upgrades - Water Rats",
+          "desc:8": "    §aRats are hardy, but tiny things. Easily lost in currents of life. And rivers!\n\n    But with science, we can fix this! With UPGRADES!\n\n    Extra Breath lets them breathe better! Under water, under sand, yes!\n\n    Aquatic makes them swim like fish. And breath like fish. Fish rats!\n\n    Fisherman gives Rats ability to fish from water. Fish up fish. Fish up junk! Fish up treasure too!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_underwater",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_aquatic",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_fisherman",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "882:10": {
+      "questID:3": 882,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_asbestos",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Upgrade - Resistances",
+          "desc:8": "    §aRats do not live long usually. Very susceptible to ailments and the world itself!\n\n    Science lets us fix some of this! Make them resistant to dangers!\n\n    Asbesto-Rat upgrade makes Rat immune to fire and lava. Very useful when taking trip to Nether!\n\n    Potion Resistance upgrade makes Rat immune to poison and Wither curse! Also to Magic, which... is many different things. Because magic is baloney sometimes!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 400,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_asbestos",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_poison",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "883:10": {
+      "questID:3": 883,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_voodoo",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrades - Protection and Voodoo",
+          "desc:8": "    §aRat friends being resistant to fire is good, yes yes. Or to Wither as well. But why not both?\n\n   Science advances, yes yes! Can combine both, and include breath damage too! Damage Protection upgrade gives benefit of all three upgrades in one package!\n\n   Or perhaps wanting to protect SELF for once? Use Voodoo Upgrade! It boosts Rat health even more, and instead of you taking damage, Rat will absorb damage instead! Become tiny tank and shield!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 850,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_damage_protection",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_voodoo",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "884:10": {
+      "questID:3": 884,
+      "preRequisites:11": [
+        81
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_basic_energy",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Rat Upgrades - Basic Energy and Bucket",
+          "desc:8": "    §aItems not only thing Rats can pick up! With Science, can train Rats to transport other things!\n\n    With right touches, can turn Rat into a tiny battery! Stores Forge Energy! Use Cheese Staff to select source and destination for energy! Cannot move much energy at once, but better than nothing!\n\n    Or can give Rat special bucket! Can move liquids instead! Again, Cheese Staff is useful!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 200,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_basic_energy",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_bucket",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "885:10": {
+      "questID:3": 885,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_nonbeliever",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Rat Upgrade - Psychic and Non-Believer",
+          "desc:8": "    §aThinking Battle God is pinnacle of pet Rat ability? Not with new knowledge from Ratlantis, no no!\n\n    Ratlantians have much science, far beyond what survives today. We can incorporate some of them into highest tier Upgrades!\n\n    Psychic unlocks brain potential of pet Rat! Can psychically open portals to attack from, and launch blocks!\n\n    Non-believer is... full potential of Rat! Twice the Battle God!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 2500,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_psychic",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_nonbeliever",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "886:10": {
+      "questID:3": 886,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_advanced_energy",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Rat Upgrades - Advanced Energy",
+          "desc:8": "    §aItems not only thing Rats can pick up! With Science, can train Rats to transport other things!\n\n    With right touches, can turn Rat into a tiny battery! Stores Forge Energy! Use Cheese Staff to select source and destination for energy! This Advanced Energy Transfer upgrade lets Rat transfer even more energy at once!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 325,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_advanced_energy",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "887:10": {
+      "questID:3": 887,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_elite_energy",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrades - Elite Energy and MegaBucket",
+          "desc:8": "    §aItems not only thing Rats can pick up! With Science, can train Rats to transport other things!\n\n    With right touches, can turn Rat into a tiny battery! Stores Forge Energy! Use Cheese Staff to select source and destination for energy! Elite Transfer lets Rat move lots of energy at once!\n\n    Mega Bucket is advance in tiny bucket technology! Lets Rat move 5 times as much fluid at once!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 450,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_elite_energy",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_big_bucket",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "888:10": {
+      "questID:3": 888,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_extreme_energy",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Rat Upgrades - Extreme Energy",
+          "desc:8": "    §aItems not only thing Rats can pick up! With Science, can train Rats to transport other things!\n\n    With right touches, can turn Rat into a tiny battery! Stores Forge Energy! Use Cheese Staff to select source and destination for energy! This top tier of Energy transfer! Big Rat Battery!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 700,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_extreme_energy",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "889:10": {
+      "questID:3": 889,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_buccaneer",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrade - Feral Bite and Buccaneer",
+          "desc:8": "    §aRatlantian survivors, feral maybe, but strong too. Give us many ideas for Upgrades!\n\n    Feral Bite mimics Feral Ratlantian, very painful!\n\n    Buccaneer is... very dangerous upgrade. Very powerful, but dangerous! Gives pet Rat a Cheese Cannon from the Pirat\u0027s that sail the Ratlantis waters!\n\n    Cheese Cannon shots are very explosive, however! Be warned!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 875,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_feral_bite",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_buccaneer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "890:10": {
+      "questID:3": 890,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_ratinator",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Rat Upgrade - Ratinator",
+          "desc:8": "    §aRatlantian automatons have given us great idea, yes yes.\n\n    What if we turn pet Rat into half rat, half machine? With lasers, yes good!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_ratinator",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "891:10": {
+      "questID:3": 891,
+      "preRequisites:11": [
+        84
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rats:rat_upgrade_archeologist",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[V] Selling : Rat Upgrade - Archeologist",
+          "desc:8": "    §aRats have very long history, very colorful and busy. Some Rats are interested in history, and digging up new things.\n\n    Archeologist upgrade lets Rat explore the past. Especially artifacts from Ratlantis!\n\n   When Rat picks up certain items, it can start researching it! With enough time, and the right item, it will turn into a Ratlantian artifact!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 1000,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rats:rat_upgrade_archeologist",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -80581,28 +84395,28 @@
         "3:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 112,
+          "y:3": 108,
           "id:3": 74,
           "sizeY:3": 24
         },
         "4:10": {
           "sizeX:3": 24,
-          "x:3": 388,
-          "y:3": 112,
+          "x:3": 368,
+          "y:3": 108,
           "id:3": 75,
           "sizeY:3": 24
         },
         "5:10": {
           "sizeX:3": 24,
-          "x:3": 388,
-          "y:3": 140,
+          "x:3": 312,
+          "y:3": 108,
           "id:3": 76,
           "sizeY:3": 24
         },
         "6:10": {
           "sizeX:3": 24,
-          "x:3": 36,
-          "y:3": 112,
+          "x:3": 32,
+          "y:3": 108,
           "id:3": 77,
           "sizeY:3": 24
         },
@@ -80658,372 +84472,687 @@
         "14:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 144,
+          "y:3": 136,
           "id:3": 85,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 388,
-          "y:3": 168,
+          "x:3": 312,
+          "y:3": 136,
           "id:3": 86,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 424,
-          "y:3": 124,
+          "x:3": 368,
+          "y:3": 136,
           "id:3": 87,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 124,
+          "x:3": 396,
+          "y:3": 136,
           "id:3": 88,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 24,
-          "x:3": 424,
-          "y:3": 152,
+          "x:3": 480,
+          "y:3": 136,
           "id:3": 89,
           "sizeY:3": 24
         },
         "19:10": {
           "sizeX:3": 24,
-          "x:3": 452,
-          "y:3": 180,
+          "x:3": 424,
+          "y:3": 164,
           "id:3": 90,
           "sizeY:3": 24
         },
         "20:10": {
           "sizeX:3": 24,
-          "x:3": 36,
-          "y:3": 144,
+          "x:3": 32,
+          "y:3": 164,
           "id:3": 91,
           "sizeY:3": 24
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 388,
-          "y:3": 196,
+          "x:3": 480,
+          "y:3": 108,
           "id:3": 92,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
-          "x:3": 424,
-          "y:3": 180,
+          "x:3": 480,
+          "y:3": 164,
           "id:3": 93,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
-          "x:3": 452,
-          "y:3": 124,
+          "x:3": 396,
+          "y:3": 248,
           "id:3": 94,
           "sizeY:3": 24
         },
         "24:10": {
           "sizeX:3": 24,
-          "x:3": 452,
-          "y:3": 152,
+          "x:3": 480,
+          "y:3": 192,
           "id:3": 95,
           "sizeY:3": 24
         },
         "25:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 152,
+          "x:3": 452,
+          "y:3": 192,
           "id:3": 96,
           "sizeY:3": 24
         },
         "26:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 180,
+          "x:3": 436,
+          "y:3": 276,
           "id:3": 97,
           "sizeY:3": 24
         },
         "27:10": {
           "sizeX:3": 24,
           "x:3": 452,
-          "y:3": 308,
+          "y:3": 312,
           "id:3": 98,
           "sizeY:3": 24
         },
         "28:10": {
           "sizeX:3": 24,
-          "x:3": 188,
-          "y:3": 144,
+          "x:3": 192,
+          "y:3": 256,
           "id:3": 99,
           "sizeY:3": 24
         },
         "29:10": {
           "sizeX:3": 24,
           "x:3": 480,
-          "y:3": 308,
+          "y:3": 312,
           "id:3": 100,
           "sizeY:3": 24
         },
         "30:10": {
           "sizeX:3": 24,
           "x:3": 148,
-          "y:3": 144,
+          "y:3": 256,
           "id:3": 101,
           "sizeY:3": 24
         },
         "31:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 308,
+          "y:3": 312,
           "id:3": 102,
           "sizeY:3": 24
         },
         "32:10": {
           "sizeX:3": 24,
           "x:3": 32,
-          "y:3": 308,
+          "y:3": 312,
           "id:3": 103,
           "sizeY:3": 24
         },
         "33:10": {
           "sizeX:3": 24,
-          "x:3": 264,
-          "y:3": 112,
+          "x:3": 192,
+          "y:3": 136,
           "id:3": 116,
           "sizeY:3": 24
         },
         "34:10": {
           "sizeX:3": 24,
-          "x:3": 292,
-          "y:3": 112,
+          "x:3": 220,
+          "y:3": 136,
           "id:3": 117,
           "sizeY:3": 24
         },
         "35:10": {
           "sizeX:3": 24,
-          "x:3": 264,
-          "y:3": 140,
+          "x:3": 192,
+          "y:3": 164,
           "id:3": 118,
           "sizeY:3": 24
         },
         "36:10": {
           "sizeX:3": 24,
-          "x:3": 292,
-          "y:3": 140,
+          "x:3": 220,
+          "y:3": 164,
           "id:3": 119,
           "sizeY:3": 24
         },
         "37:10": {
           "sizeX:3": 24,
-          "x:3": 264,
-          "y:3": 168,
+          "x:3": 192,
+          "y:3": 192,
           "id:3": 120,
           "sizeY:3": 24
         },
         "38:10": {
           "sizeX:3": 24,
-          "x:3": 292,
-          "y:3": 168,
+          "x:3": 220,
+          "y:3": 192,
           "id:3": 121,
           "sizeY:3": 24
         },
         "39:10": {
           "sizeX:3": 24,
-          "x:3": 232,
-          "y:3": 112,
+          "x:3": 192,
+          "y:3": 108,
           "id:3": 122,
           "sizeY:3": 24
         },
         "40:10": {
           "sizeX:3": 24,
-          "x:3": 348,
-          "y:3": 124,
+          "x:3": 276,
+          "y:3": 148,
           "id:3": 123,
           "sizeY:3": 24
         },
         "41:10": {
           "sizeX:3": 24,
-          "x:3": 320,
-          "y:3": 124,
+          "x:3": 248,
+          "y:3": 148,
           "id:3": 124,
           "sizeY:3": 24
         },
         "42:10": {
           "sizeX:3": 24,
-          "x:3": 320,
-          "y:3": 156,
+          "x:3": 248,
+          "y:3": 180,
           "id:3": 125,
           "sizeY:3": 24
         },
         "43:10": {
           "sizeX:3": 24,
-          "x:3": 348,
-          "y:3": 156,
+          "x:3": 276,
+          "y:3": 180,
           "id:3": 126,
           "sizeY:3": 24
         },
         "44:10": {
           "sizeX:3": 24,
-          "x:3": 84,
-          "y:3": 184,
+          "x:3": 88,
+          "y:3": 228,
           "id:3": 127,
           "sizeY:3": 24
         },
         "45:10": {
           "sizeX:3": 24,
           "x:3": 124,
-          "y:3": 184,
+          "y:3": 228,
           "id:3": 128,
           "sizeY:3": 24
         },
         "46:10": {
           "sizeX:3": 24,
           "x:3": 104,
-          "y:3": 212,
+          "y:3": 256,
           "id:3": 129,
           "sizeY:3": 24
         },
         "47:10": {
           "sizeX:3": 24,
           "x:3": 80,
-          "y:3": 240,
+          "y:3": 284,
           "id:3": 130,
           "sizeY:3": 24
         },
         "48:10": {
           "sizeX:3": 24,
           "x:3": 88,
-          "y:3": 268,
+          "y:3": 312,
           "id:3": 131,
           "sizeY:3": 24
         },
         "49:10": {
           "sizeX:3": 24,
           "x:3": 116,
-          "y:3": 268,
+          "y:3": 312,
           "id:3": 132,
           "sizeY:3": 24
         },
         "50:10": {
           "sizeX:3": 24,
           "x:3": 128,
-          "y:3": 240,
+          "y:3": 284,
           "id:3": 133,
           "sizeY:3": 24
         },
         "51:10": {
           "sizeX:3": 24,
-          "x:3": 232,
-          "y:3": 224,
+          "x:3": 296,
+          "y:3": 280,
           "id:3": 134,
           "sizeY:3": 24
         },
         "52:10": {
           "sizeX:3": 24,
-          "x:3": 196,
-          "y:3": 224,
+          "x:3": 268,
+          "y:3": 292,
           "id:3": 135,
           "sizeY:3": 24
         },
         "53:10": {
           "sizeX:3": 24,
-          "x:3": 232,
-          "y:3": 252,
+          "x:3": 296,
+          "y:3": 308,
           "id:3": 136,
           "sizeY:3": 24
         },
         "54:10": {
           "sizeX:3": 24,
-          "x:3": 260,
-          "y:3": 224,
+          "x:3": 324,
+          "y:3": 280,
           "id:3": 137,
           "sizeY:3": 24
         },
         "55:10": {
           "sizeX:3": 24,
-          "x:3": 260,
-          "y:3": 252,
+          "x:3": 324,
+          "y:3": 308,
           "id:3": 138,
           "sizeY:3": 24
         },
         "56:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 216,
+          "y:3": 252,
           "id:3": 139,
           "sizeY:3": 24
         },
         "57:10": {
           "sizeX:3": 24,
           "x:3": 32,
-          "y:3": 216,
+          "y:3": 252,
           "id:3": 140,
           "sizeY:3": 24
         },
         "58:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 244,
+          "y:3": 280,
           "id:3": 141,
           "sizeY:3": 24
         },
         "59:10": {
           "sizeX:3": 24,
           "x:3": 32,
-          "y:3": 244,
+          "y:3": 280,
           "id:3": 142,
           "sizeY:3": 24
         },
         "60:10": {
           "sizeX:3": 24,
           "x:3": 4,
-          "y:3": 180,
+          "y:3": 224,
           "id:3": 143,
           "sizeY:3": 24
         },
         "61:10": {
           "sizeX:3": 24,
           "x:3": 32,
-          "y:3": 180,
+          "y:3": 224,
           "id:3": 144,
           "sizeY:3": 24
         },
         "62:10": {
           "sizeX:3": 24,
-          "x:3": 424,
-          "y:3": 208,
+          "x:3": 452,
+          "y:3": 136,
           "id:3": 383,
           "sizeY:3": 24
         },
         "63:10": {
           "sizeX:3": 24,
           "x:3": 452,
-          "y:3": 208,
+          "y:3": 164,
           "id:3": 384,
           "sizeY:3": 24
         },
         "64:10": {
-          "sizeX:3": 32,
-          "x:3": 68,
-          "y:3": 124,
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 136,
           "id:3": 385,
-          "sizeY:3": 32
+          "sizeY:3": 24
         },
         "65:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 208,
+          "x:3": 424,
+          "y:3": 220,
           "id:3": 386,
           "sizeY:3": 24
         },
         "66:10": {
           "sizeX:3": 24,
-          "x:3": 216,
-          "y:3": 144,
+          "x:3": 220,
+          "y:3": 256,
           "id:3": 846,
+          "sizeY:3": 24
+        },
+        "67:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 108,
+          "id:3": 847,
+          "sizeY:3": 24
+        },
+        "68:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 108,
+          "id:3": 848,
+          "sizeY:3": 24
+        },
+        "69:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 108,
+          "id:3": 849,
+          "sizeY:3": 24
+        },
+        "70:10": {
+          "sizeX:3": 24,
+          "x:3": 424,
+          "y:3": 192,
+          "id:3": 850,
+          "sizeY:3": 24
+        },
+        "71:10": {
+          "sizeX:3": 24,
+          "x:3": 312,
+          "y:3": 164,
+          "id:3": 851,
+          "sizeY:3": 24
+        },
+        "72:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 108,
+          "id:3": 852,
+          "sizeY:3": 24
+        },
+        "73:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 192,
+          "id:3": 853,
+          "sizeY:3": 24
+        },
+        "74:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 164,
+          "id:3": 854,
+          "sizeY:3": 24
+        },
+        "75:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 164,
+          "id:3": 855,
+          "sizeY:3": 24
+        },
+        "76:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 164,
+          "id:3": 856,
+          "sizeY:3": 24
+        },
+        "77:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 108,
+          "id:3": 857,
+          "sizeY:3": 24
+        },
+        "78:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 192,
+          "id:3": 858,
+          "sizeY:3": 24
+        },
+        "79:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 192,
+          "id:3": 859,
+          "sizeY:3": 24
+        },
+        "80:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 220,
+          "id:3": 860,
+          "sizeY:3": 24
+        },
+        "81:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 192,
+          "id:3": 861,
+          "sizeY:3": 24
+        },
+        "82:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 164,
+          "id:3": 862,
+          "sizeY:3": 24
+        },
+        "83:10": {
+          "sizeX:3": 24,
+          "x:3": 4,
+          "y:3": 192,
+          "id:3": 863,
+          "sizeY:3": 24
+        },
+        "84:10": {
+          "sizeX:3": 24,
+          "x:3": 312,
+          "y:3": 248,
+          "id:3": 864,
+          "sizeY:3": 24
+        },
+        "85:10": {
+          "sizeX:3": 24,
+          "x:3": 312,
+          "y:3": 220,
+          "id:3": 865,
+          "sizeY:3": 24
+        },
+        "86:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 248,
+          "id:3": 866,
+          "sizeY:3": 24
+        },
+        "87:10": {
+          "sizeX:3": 24,
+          "x:3": 312,
+          "y:3": 192,
+          "id:3": 867,
+          "sizeY:3": 24
+        },
+        "88:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 164,
+          "id:3": 868,
+          "sizeY:3": 24
+        },
+        "89:10": {
+          "sizeX:3": 24,
+          "x:3": 32,
+          "y:3": 136,
+          "id:3": 869,
+          "sizeY:3": 24
+        },
+        "90:10": {
+          "sizeX:3": 24,
+          "x:3": 452,
+          "y:3": 220,
+          "id:3": 870,
+          "sizeY:3": 24
+        },
+        "91:10": {
+          "sizeX:3": 24,
+          "x:3": 480,
+          "y:3": 220,
+          "id:3": 871,
+          "sizeY:3": 24
+        },
+        "92:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 136,
+          "id:3": 872,
+          "sizeY:3": 24
+        },
+        "93:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 136,
+          "id:3": 873,
+          "sizeY:3": 24
+        },
+        "94:10": {
+          "sizeX:3": 24,
+          "x:3": 340,
+          "y:3": 164,
+          "id:3": 874,
+          "sizeY:3": 24
+        },
+        "95:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 108,
+          "id:3": 875,
+          "sizeY:3": 24
+        },
+        "96:10": {
+          "sizeX:3": 24,
+          "x:3": 424,
+          "y:3": 108,
+          "id:3": 876,
+          "sizeY:3": 24
+        },
+        "97:10": {
+          "sizeX:3": 24,
+          "x:3": 452,
+          "y:3": 108,
+          "id:3": 877,
+          "sizeY:3": 24
+        },
+        "98:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 136,
+          "id:3": 878,
+          "sizeY:3": 24
+        },
+        "99:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 164,
+          "id:3": 879,
+          "sizeY:3": 24
+        },
+        "100:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 220,
+          "id:3": 880,
+          "sizeY:3": 24
+        },
+        "101:10": {
+          "sizeX:3": 24,
+          "x:3": 424,
+          "y:3": 136,
+          "id:3": 881,
+          "sizeY:3": 24
+        },
+        "102:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 192,
+          "id:3": 882,
+          "sizeY:3": 24
+        },
+        "103:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 248,
+          "id:3": 883,
+          "sizeY:3": 24
+        },
+        "104:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 164,
+          "id:3": 884,
+          "sizeY:3": 24
+        },
+        "105:10": {
+          "sizeX:3": 24,
+          "x:3": 464,
+          "y:3": 276,
+          "id:3": 885,
+          "sizeY:3": 24
+        },
+        "106:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 192,
+          "id:3": 886,
+          "sizeY:3": 24
+        },
+        "107:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 220,
+          "id:3": 887,
+          "sizeY:3": 24
+        },
+        "108:10": {
+          "sizeX:3": 24,
+          "x:3": 368,
+          "y:3": 276,
+          "id:3": 888,
+          "sizeY:3": 24
+        },
+        "109:10": {
+          "sizeX:3": 24,
+          "x:3": 464,
+          "y:3": 248,
+          "id:3": 889,
+          "sizeY:3": 24
+        },
+        "110:10": {
+          "sizeX:3": 24,
+          "x:3": 436,
+          "y:3": 248,
+          "id:3": 890,
+          "sizeY:3": 24
+        },
+        "111:10": {
+          "sizeX:3": 24,
+          "x:3": 396,
+          "y:3": 276,
+          "id:3": 891,
           "sizeY:3": 24
         }
       },
