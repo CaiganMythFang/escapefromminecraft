@@ -1,0 +1,357 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:uncolossal_chest",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:chest_wall",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:colossal_chest",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:interface",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:upgrade_tool",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "colossalchests:upgrade_tool",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
