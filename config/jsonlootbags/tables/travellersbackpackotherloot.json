@@ -1,0 +1,873 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 16
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 21
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 31
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 32
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 36
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 38
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 39
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 40
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 49
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 52
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 55
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 58
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 72
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 74
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 24
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 28
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 29
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 34
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 45
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 53
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 60
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 62
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 73
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 22
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 41
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 47
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 61
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 64
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 65
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 66
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 67
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 69
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 75
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 18
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 20
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 23
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 42
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 43
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 44
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 54
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 26
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 35
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 37
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 48
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 56
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 59
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 63
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 17
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 68
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 70
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 57
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 71
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 51
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 19
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 33
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 50
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 46
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 27
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 76
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:travellers_backpack",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 25
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:hose",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:sleeping_bag_bottom",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:hose_nozzle",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "travellersbackpack:backpack_tank",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}
