@@ -1,0 +1,1378 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_chest",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:copper_iron_shulker_upgrade",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "ironchest:vanilla_copper_shulker_upgrade",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "ironchest:gold_diamond_chest_upgrade",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ironchest:silver_gold_chest_upgrade",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_gold_chest_upgrade",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:copper_silver_chest_upgrade",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "ironchest:copper_iron_chest_upgrade",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ironchest:wood_iron_chest_upgrade",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "ironchest:wood_copper_chest_upgrade",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ironchest:diamond_obsidian_chest_upgrade",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ironchest:diamond_crystal_chest_upgrade",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:copper_silver_shulker_upgrade",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_gold_shulker_upgrade",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "ironchest:silver_gold_shulker_upgrade",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "ironchest:vanilla_iron_shulker_upgrade",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:gold_diamond_shulker_upgrade",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:diamond_crystal_shulker_upgrade",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_white",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_orange",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_magenta",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_light_blue",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_yellow",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_lime",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_pink",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_gray",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_silver",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_cyan",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_purple",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_blue",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_brown",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_green",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_red",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:iron_shulker_box_black",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ironchest:diamond_obsidian_shulker_upgrade",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}
