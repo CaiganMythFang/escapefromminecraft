@@ -19,40 +19,40 @@ val fleamarketcheap = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarket
 
 fleamarketcheap.addItemInput(<ore:fleamarketcheap>);
 
-// 0.1% for a Trade Offer - Loot, once
+// 0.2% for a Trade Offer - Loot, once
 fleamarketcheap.addItemOutput(<jsonlootbags:trade_offer_loot>);
-fleamarketcheap.setChance(0.001);
+fleamarketcheap.setChance(0.002);
 
-// 0.5% for a Trade Offer - Resources, once
+// 1% for a Trade Offer - Resources, once
 fleamarketcheap.addItemOutput(<jsonlootbags:trade_offer_resources>);
-fleamarketcheap.setChance(0.005);
+fleamarketcheap.setChance(0.010);
 fleamarketcheap.build();
 
-// 50% for a penny, 2 times
+// 75% for a penny, 2 times
 fleamarketcheap.addItemOutput(<modcurrency:coin:0>);
-fleamarketcheap.setChance(0.50);
+fleamarketcheap.setChance(0.75);
 fleamarketcheap.addItemOutput(<modcurrency:coin:0>);
-fleamarketcheap.setChance(0.50);
+fleamarketcheap.setChance(0.75);
 
-// 5% for a nickel, twice
+// 10% for a nickel, twice
 fleamarketcheap.addItemOutput(<modcurrency:coin:1>);
-fleamarketcheap.setChance(0.05);
+fleamarketcheap.setChance(0.1);
 fleamarketcheap.addItemOutput(<modcurrency:coin:1>);
-fleamarketcheap.setChance(0.05);
+fleamarketcheap.setChance(0.1);
 
-// 3% for a dime, twice
+// 6% for a dime, twice
 fleamarketcheap.addItemOutput(<modcurrency:coin:2>);
-fleamarketcheap.setChance(0.03);
+fleamarketcheap.setChance(0.06);
 fleamarketcheap.addItemOutput(<modcurrency:coin:2>);
-fleamarketcheap.setChance(0.03);
+fleamarketcheap.setChance(0.06);
 
-// 1% for a quarter, once
+// 2% for a quarter, once
 fleamarketcheap.addItemOutput(<modcurrency:coin:3>);
-fleamarketcheap.setChance(0.01);
+fleamarketcheap.setChance(0.02);
 
-// 0.01% for a dollar, once
+// 0.02% for a dollar, once
 fleamarketcheap.addItemOutput(<modcurrency:coin:4>);
-fleamarketcheap.setChance(0.0001);
+fleamarketcheap.setChance(0.0002);
 
 // Resource Flea Market Return
 
@@ -60,31 +60,31 @@ val fleamarketresource = mods.modularmachinery.RecipeBuilder.newBuilder("fleamar
 
 fleamarketresource.addItemInput(<ore:fleamarketresources>);
 
-// 3% for a Trade Offer - Loot, once
+// 6% for a Trade Offer - Loot, once
 fleamarketresource.addItemOutput(<jsonlootbags:trade_offer_loot>);
-fleamarketresource.setChance(0.03);
+fleamarketresource.setChance(0.06);
 
-// 0.5% for a Trade Offer - Resources, once
+// 1% for a Trade Offer - Resources, once
 fleamarketresource.addItemOutput(<jsonlootbags:trade_offer_resources>);
-fleamarketresource.setChance(0.005);
+fleamarketresource.setChance(0.01);
 
-// 50% for a nickel, three times
+// 75% for a nickel, three times
 fleamarketresource.addItemOutput(<modcurrency:coin:1>);
-fleamarketresource.setChance(0.5);
+fleamarketresource.setChance(0.75);
 fleamarketresource.addItemOutput(<modcurrency:coin:1>);
-fleamarketresource.setChance(0.5);
+fleamarketresource.setChance(0.75);
 fleamarketresource.addItemOutput(<modcurrency:coin:1>);
-fleamarketresource.setChance(0.5);
+fleamarketresource.setChance(0.75);
 
-// 25% for a quarter, two times
+// 50% for a quarter, two times
 fleamarketresource.addItemOutput(<modcurrency:coin:3>);
-fleamarketresource.setChance(0.25);
+fleamarketresource.setChance(0.5);
 fleamarketresource.addItemOutput(<modcurrency:coin:3>);
-fleamarketresource.setChance(0.25);
+fleamarketresource.setChance(0.5);
 
-// 5% for a dollar, once
+// 10% for a dollar, once
 fleamarketresource.addItemOutput(<modcurrency:coin:4>);
-fleamarketresource.setChance(0.05);
+fleamarketresource.setChance(0.1);
 fleamarketresource.build();
 
 // Gear Flea Market Return
@@ -93,31 +93,31 @@ val fleamarketgear = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketg
 
 fleamarketgear.addItemInput(<ore:fleamarketgear>);
 
-// 3% for a Trade Offer - Loot, once
+// 6% for a Trade Offer - Loot, once
 fleamarketgear.addItemOutput(<jsonlootbags:trade_offer_loot>);
-fleamarketgear.setChance(0.03);
+fleamarketgear.setChance(0.06);
 
-// 0.5% for a Trade Offer - Resources, once
+// 1% for a Trade Offer - Resources, once
 fleamarketgear.addItemOutput(<jsonlootbags:trade_offer_resources>);
-fleamarketgear.setChance(0.005);
+fleamarketgear.setChance(0.01);
 
-// 50% for a nickel, three times
+// 75% for a nickel, three times
 fleamarketgear.addItemOutput(<modcurrency:coin:1>);
-fleamarketgear.setChance(0.5);
+fleamarketgear.setChance(0.75);
 fleamarketgear.addItemOutput(<modcurrency:coin:1>);
-fleamarketgear.setChance(0.5);
+fleamarketgear.setChance(0.75);
 fleamarketgear.addItemOutput(<modcurrency:coin:1>);
-fleamarketgear.setChance(0.5);
+fleamarketgear.setChance(0.75);
 
-// 25% for a quarter, two times
+// 50% for a quarter, two times
 fleamarketgear.addItemOutput(<modcurrency:coin:3>);
-fleamarketgear.setChance(0.25);
+fleamarketgear.setChance(0.5);
 fleamarketgear.addItemOutput(<modcurrency:coin:3>);
-fleamarketgear.setChance(0.25);
+fleamarketgear.setChance(0.5);
 
-// 5% for a dollar, once
+// 10% for a dollar, once
 fleamarketgear.addItemOutput(<modcurrency:coin:4>);
-fleamarketgear.setChance(0.05);
+fleamarketgear.setChance(0.1);
 fleamarketgear.build();
 
 
