@@ -444,7 +444,7 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "minecraft:iron_block",
-              "Count:3": 3,
+              "Count:3": 2,
               "Damage:2": 0,
               "OreDict:8": "blockIron"
             },
@@ -476,7 +476,7 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "minecraft:wool",
-              "Count:3": 10,
+              "Count:3": 5,
               "tag:10": {
                 "display:10": {
                   "Name:8": "Any Color Wool"
@@ -79831,7 +79831,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Kamen Rider Kabuto",
-          "desc:8": "§o    The Shibuya Meteor fell, and destroyed the Shibuya district. From this meteor came the Worms, extraterrestial creatures that threaten humanity.\n\n    Over thirty years before this, another meteor had fallen, bringing the same race of creatures. These were called Natives, and they were peaceful, blending in with humanity. They helped create the Masked Rider System, bestowing them upon the humans who would form ZECT, a paramilitary gear company. In exchange, ZECT would protect both them and humanity from any other Worms.\n\n    The one who donned Kamen Rider Kabuto had trained his entire life, waiting for the Kabuto Zecter and Kabuto Rider Belt, the Masked Rider System that enables him to transform. \n\n    By using the Kabuto Zecter while wearing the Kabuto Rider Belt, he can switch between two forms : Put On into Masked Form, which is heavier armor with better protection; and Cast Off into Rider Form, which is a faster, more agile form."
+          "desc:8": "§o    The Shibuya Meteor fell, and destroyed the Shibuya district. From this meteor came the Worms, extraterrestial creatures that threaten humanity.\n\n    Over thirty years before this, another meteor had fallen, bringing the same race of creatures. These were called Natives, and they were peaceful, blending in with humanity. They helped create the Masked Rider System, bestowing them upon the humans who would form ZECT, a paramilitary gear company. In exchange, ZECT would protect both them and humanity from any other Worms.\n\n    The one who donned Kamen Rider Kabuto had trained his entire life, waiting for the Kabuto Zecter and Kabuto Rider Belt, the Masked Rider System that enables him to transform. \n\n    By using the Kabuto Zecter while wearing the Kabuto Rider Belt, he can switch between two forms : Put On into Masked Form, which is heavier armor with better protection; and Cast Off into Rider Form, which is a faster, more agile form.\n\n    The Masked Rider System has a special feature : By Right Clicking a Clock Up Pad, you vastly speed up for a short bit, but it is fairly difficult to control if you are not careful."
         }
       },
       "tasks:9": {
@@ -79875,6 +79875,15 @@
                 "customnpcs:itemscripteddata:10": {}
               },
               "id:8": "kamenridercraft4th:kabutolegs",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:clock_up_pad",
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": ""
@@ -89925,6 +89934,2337 @@
           }
         }
       }
+    },
+    "953:10": {
+      "questID:3": 953,
+      "preRequisites:11": [
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots - Rank I",
+          "desc:8": "    §2§r§2Bandit, I\u0027ve got what I can only assume is an automated message from another Trader group.§r\n\n    §o\"Automated? Not abnormal I would bet, though...\"§r\n\n    §2No, wait. Not automated. Just a... oh I see! It\u0027s weird talking to one of my predecessors, I have to say...§r\n\n    §o\"Predecessor? What do...\"§r\n\n     §2Give me a moment. Searching... Oh. Interesting! It looks like there\u0027s been various attempts at AI and robots on this planet. Before all the disasters, and between them. I guess they hoped a good AI would help prevent more, but not really how it works sadly.§r\n\n    §o\"Huh, interesting. So one of them survived and made a Trader group?\" §r\n\n     §2A lot of them survived, actually. And they banded together and sort of... I guess you could say merged code. They decided that the best way to survive was to become Traders and try to improve their codebase and search to obtain what they call Singularity, where they become fully sentient.§r\n\n    §o\"Ah! We\u0027ve met ones like that before. A dangerous path, but given this world\u0027s situation...\"\n\n     §2I agree. Here, they are ready to talk:§r\n\n§8-------------------\n    HELLO Mercenary Bandit. WE are Big Bots, a Trader group you may have use for. WE seek to be useful and learn from you, and will PROVIDE technologies and items in return.\n\n    Please, DO NOT be worried. Our systems may seem odd, but we are always LEARNING how to help mercenaries like you.\n\n    Please, FORGIVE our oddities. Understanding language is only ONE of many things we are WORKING on.\n\n    If you PLEASE, search for and send us REDSTONE DUST and IRON INGOTS. This is our form of BREAKING BREAD, like the VANILMODU do.\n\n    We look forward to LEARNING much from you, Mercenary Bandit.\n-------------------§r\n\n    §oAnd I thought Z\u0027s AI oddities were weird? She\u0027s downright normal compared to these bots. Not a bad thing though, I\u0027ve met much weirder humans than this already."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:redstone",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "954:10": {
+      "questID:3": 954,
+      "preRequisites:11": [
+        953
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots Rank I Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "955:10": {
+      "questID:3": 955,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:infused_enderpearl",
+            "Count:3": 16,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Infused Enderpearls",
+          "desc:8": "§8    Mercenary Bandit, have you come across RESOURCES such as Dimensional Shards or Infused Diamonds and Pearls?\n\n    We do not have a use for them, but some Mercenaries like to PURCHASE them. So we facilitate trade by purchasing them OURSELVES from other Mercenaries."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:infused_enderpearl",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 6,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "956:10": {
+      "questID:3": 956,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:rftools_manual",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : RFTools Tools",
+          "desc:8": "§8    Our analysis and reverse engineering of various MACHINERY have come up with a PRODUCT LINE designation called RFTools.\n\n    RFTools machines work TOGETHER well, according to reviews from Mercenaries. How to use them is not intuitive all the time, however. There are tools and MANUALS we provide to aid CUSTOMERS.\n\n    The Smart Wrench is used to rotate or disassemble machines SAFELY. By Right Clicking this in the AIR, you can switch the active mode. The Smart Wrench is used to connect related machines together.\n\n    The RF Network Monitor is a tool used to EXAMINE parts of your RF Network. \n\n    There are a pair of manuals we provide. We DID NOT write them, they are simply copies of RFTOOLS product manuals. Some things, such as crafting recipes, may not be accurate, due to ISSUES with current spacetime fabric inconsistancies. \n\n    We apologize."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:smartwrench",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:rftools_manual",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:rftools_shape_manual",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:network_monitor",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "957:10": {
+      "questID:3": 957,
+      "preRequisites:11": [
+        845
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:thebee_zecter",
+            "Count:3": 27,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "The First Zectors",
+          "desc:8": "§o    Zecters are the primary transformation device used by Riders in the Kabuto world, choosing their users based on personality. They enable their users to Cast Off and Put On their armor shells. Aside from Kabuto, there were ten other riders.\n\n    Kamen Rider TheBee\u0027s first user was a perfectionist, but became obsessed with revenge, causing TheBee Zecter to choose someone else. It went through a second user temporarily until it found its main user, a subordinate of the first user, who rejected his obsession and struck his own path.\n\n    Kamen Rider Gatack\u0027s main user started as a low-level field agent in ZECT. He attempted to become Kamen Rider Kabuto, but the Kabuto Zecter instead chose someone else. He became Kamen Rider TheBee temporarily, before being chosen by the Gatack Zecter.\n\n    Kamen Rider Drake is not a member of ZECT, and does not want to be a Kamen Rider, but utilizes the system to protect himself, his friend, or women. He eventually joins the battle against the Worms, after almost losing the Drake Zecter.\n\n    Kamen Rider Sasword\u0027s user originally died, and a Worm had decided to mimic him. His nature, however, overpowered the Worm, supressing the truth from him. Even with this, he keeps the original Worm subdued, and fights to destroy the rest of them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:thebee_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:gatack_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:drake_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:sasword_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "958:10": {
+      "questID:3": 958,
+      "preRequisites:11": [
+        845
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:dark_kabuto_rider_belt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "The Second Zectors",
+          "desc:8": "§o    Zecters are the primary transformation device used by Riders in the Kabuto world, choosing their users based on personality. They enable their users to Cast Off and Put On their armor shells. Aside from Kabuto, there were ten other riders.\n\n    Kamen Rider Dark Kabuto was a mimic version of Kabuto\u0027s user. He clashes with Kabuto, intent on protecting the same person Kabuto promised to. They continue to clash back and forth over time.\n\n    Kamen Rider KickHopper\u0027s user was previously TheBee, before his intense need for revenge drove TheBee Zecter away. He became KickHopper to continue his path of revenge against Kabuto, eventually getting the main user of TheBee to change and become his partner, PunchHopper.\n\n    Kamen Rider PuncHopper was the previous main user of TheBee, but accepted working with KickHopper, both of them occasionally working to fight the Worms, and struggle between the darkness and light."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:dark_kabuto_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kickhopper_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:puchhopper_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "959:10": {
+      "questID:3": 959,
+      "preRequisites:11": [
+        845
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:ketaros_rider_belt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "The Third Zectors",
+          "desc:8": "§o    Zecters are the primary transformation device used by Riders in the Kabuto world, choosing their users based on personality. They enable their users to Cast Off and Put On their armor shells. Aside from Kabuto, there were ten other riders.\n\n    These three Zecters are different, unable to Put On their Masked Armor forms.\n\n    Kamen Rider Hercus formed Neo-ZECT, wanting to escape ZECTs oppression and still fight the Worms. \n\n    Kamen Rider Ketaros was a loyal ZECT member, being given the mission to destroy Neo-ZECT.\n\n    Kamen Rider Caucasus was a ZECT member who was sent to protect a space station so that their secret plan would not be stopped."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:hercus_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:ketaros_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:caucasus_rider_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "960:10": {
+      "questID:3": 960,
+      "preRequisites:11": [
+        819
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:den_ohead",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Kamen Rider Den-O",
+          "desc:8": "§o    A young man full of bad luck stumbles upon a Pass. Immediately, his life is turned upside down as a mysterious woman and a time-travelling train enter his life, and future beings called Imagin attempt to change the past for the worse.\n\n    With the help of a hot-headed Imagin named Momotaros, he becomes Kamen Rider Den-O, traveling through time with the DenLiner to fight off other evil Imagin, enlisting some of their aid in his fight.\n\n    To proper utilize the Den-O armor, you must have a Rider Pass in your inventory."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:den_ohead",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:den_otroso",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:den_olegs",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:den_odriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:den_oriderpass",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "961:10": {
+      "questID:3": 961,
+      "preRequisites:11": [
+        960
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:zeronosbelt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Memories on the Line",
+          "desc:8": "§o    Kamen Rider Zeronos was a Rider split in time between his past and future selves. He uses Zeronos cards to transform between each form.\n\n    The downside is each card is tied to a memory of his past, and the memories weaken as he uses them."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:zeronosbelt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:zeronos_altair_card",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:zeronos_plat_card",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:zeronos_zero_card",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:zeronos_vega_card",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "962:10": {
+      "questID:3": 962,
+      "preRequisites:11": [
+        960
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:newden_obelt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Future Den-O",
+          "desc:8": "§o    With traveling forward and back in time, Kamen Rider Den-O spawned multiple alternates and successors to himself. They ranged from fellow heroes, to villains fighting against his goal.\n\n    Kamen Rider Nega Den-O appeared after most of the Imagin were defeated and destroyed. It\u0027s user, an Imagin who survived their destruction, stole a Rider Pass and started to recruit both mobsters and Fangire creatures from Kamen Rider Kiva\u0027s world.\n\n    Kamen Rider G Den-O\u0027s main user was a member of the G-Men, a space time police force, and gaining the G Den-O Belt and Rider Pass, which contained an artificial Imagin called Eve.\n\n    Kamen Rider New Den-O was the grandson of the original Den-O. With the New Den-O belt, instead of becoming posessed by Imagin when he transforms, the Imagin become a weapon based on their abilities."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:nega_den_odriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:gden_odriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:gden_oriderpass",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:newden_obelt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:momotaken",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "5:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:uratazao",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "6:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kintaono",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "963:10": {
+      "questID:3": 963,
+      "preRequisites:11": [
+        960
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:gaohbelt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Facing Against Den-O",
+          "desc:8": "§o    With traveling forward and back in time, Kamen Rider Den-O spawned multiple alternates and successors to himself. They ranged from fellow heroes, to villains fighting against his goal.\n\n    Kamen Rider Gaoh was fed up with time, and sought to destroy it by obtaining the GaohLiner and take over all of space-time. \n\n    Kamen Rider Yuuki was part of an evil Rider System, used by those with control over the Ghost Train, a skull faced train that transcends the world of the dead and flow of time. It comes in two forms: Skull and Hijack."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:gaohbelt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:yuukibelt_skull",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:yuukibelt_hijack",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "964:10": {
+      "questID:3": 964,
+      "preRequisites:11": [
+        819
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:kivahead",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Kamen Rider Kiva",
+          "desc:8": "§o    Kamen Rider Kiva is a title that is passed down through a Royal family, from parent to child. The main user\u0027s father dissappeared decades ago, and he obtained the title, and the ability to transform into Kamen Rider Kiva. They and others fight Fangires, monsters who drain life from others. \n\n    As Kamen Rider Kiva fights Fangires, he starts to learn about his past, his father, and the connection to the Fangires. Can he and the other Fangire hunters protect everyone?\n\n    Kamen Rider Kiva transforms with the aid of Kivats, a race of bat-like creatures that can instill Demon Imperial Powers onto others by biting them. With the use of Fuestles, he can call on the Kivat\u0027s powers to change forms and activate abilities.\n\n    Some Kivats are artificial and do not pass on these powers, and are simply attatched to a belt to transform with."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kivahead",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kivatroso",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kivalegs",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:kivadriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "965:10": {
+      "questID:3": 965,
+      "preRequisites:11": [
+        964
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:sagarc_belt",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Fanged Riders One",
+          "desc:8": "§o    Kamen Rider Ixa was a Rider System deployed by the Wonderful Blue Sky Organization, a group of Fangire Hunters. It\u0027s main user befriended Kiva\u0027s user, but learned that Kamen Rider Kiva was active once again, and slowly became more and more obsessed with destroying Kiva, without realizing Kiva and his new friend were one in the same.\n\n    Kamen Rider Sagarc\u0027s user was born to the Queen of the Checkmate Four, the four most powerful Fangires. Given the title of King, he intends to prevent humanity from advancing enough to become a danger to Fangires, much like the Ixa Rider System has been.\n\n    Eventually, however, after attempting to get Kamen Rider Kiva\u0027s user on his side with the Fangires and failing, he steals the King\u0027s power of Dark Kiva, becoming Kamen Rider Dark Kiva, intent on defeating Kiva over the title of King of the Fangires."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:ixa_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:sagarc_belt",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:darkkivadriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "966:10": {
+      "questID:3": 966,
+      "preRequisites:11": [
+        964
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "kamenridercraft4th:newkivadriver",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Fanged Riders Two",
+          "desc:8": "§o    Kamen Rider Rey was a Rider System created with an artificial Kivat, Rey. It\u0027s user helps Kiva survive a deadly fight, only to later turn around and betray Kiva at an opportune moment.\n\n    Kamen Rider Arc\u0027s user was a death row inmate who became possessed by the leader of the Legendora, monsters who fought against both Fangires and Kiva for domination, but was sealed away by an earlier user of Kamen Rider Kiva. Arc refuses to let his user die until he himself would be resurrected with his minions.\n\n    Kamen Rider New Kiva was the son of the main Kamen Rider Kiva user, who came from the future to ask his father to help him fight the Neo-Fangire"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:arcdriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:reydriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "kamenridercraft4th:newkivadriver",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_loot",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "jsonlootbags:trade_offer_resources",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "967:10": {
+      "questID:3": 967,
+      "preRequisites:11": [
+        953
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots - Rank I",
+          "desc:8": "    §2§r§2Bandit, I\u0027ve got what I can only assume is an automated message from another Trader group.§r\n\n    §o\"Automated? Not abnormal I would bet, though...\"§r\n\n    §2No, wait. Not automated. Just a... oh I see! It\u0027s weird talking to one of my predecessors, I have to say...§r\n\n    §o\"Predecessor? What do...\"§r\n\n     §2Give me a moment. Searching... Oh. Interesting! It looks like there\u0027s been various attempts at AI and robots on this planet. Before all the disasters, and between them. I guess they hoped a good AI would help prevent more, but not really how it works sadly.§r\n\n    §o\"Huh, interesting. So one of them survived and made a Trader group?\" §r\n\n     §2A lot of them survived, actually. And they banded together and sort of... I guess you could say merged code. They decided that the best way to survive was to become Traders and try to improve their codebase and search to obtain what they call Singularity, where they become fully sentient.§r\n\n    §o\"Ah! We\u0027ve met ones like that before. A dangerous path, but given this world\u0027s situation...\"\n\n     §2I agree. Here, they are ready to talk:§r\n\n§8-------------------\n    HELLO Mercenary Bandit. WE are Big Bots, a Trader group you may have use for. WE seek to be useful and learn from you, and will PROVIDE technologies and items in return.\n\n    Please, DO NOT be worried. Our systems may seem odd, but we are always LEARNING how to help mercenaries like you.\n\n    Please, FORGIVE our oddities. Understanding language is only ONE of many things we are WORKING on.\n\n    If you PLEASE, search for and send us REDSTONE DUST and IRON INGOTS. This is our form of BREAKING BREAD, like the VANILMODU do.\n\n    We look forward to LEARNING much from you, Mercenary Bandit.\n-------------------§r\n\n    §oAnd I thought Z\u0027s AI oddities were weird? She\u0027s downright normal compared to these bots. Not a bad thing though, I\u0027ve met much weirder humans than this already."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:redstone",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "968:10": {
+      "questID:3": 968,
+      "preRequisites:11": [
+        967
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots - Rank I",
+          "desc:8": "    §2§r§2Bandit, I\u0027ve got what I can only assume is an automated message from another Trader group.§r\n\n    §o\"Automated? Not abnormal I would bet, though...\"§r\n\n    §2No, wait. Not automated. Just a... oh I see! It\u0027s weird talking to one of my predecessors, I have to say...§r\n\n    §o\"Predecessor? What do...\"§r\n\n     §2Give me a moment. Searching... Oh. Interesting! It looks like there\u0027s been various attempts at AI and robots on this planet. Before all the disasters, and between them. I guess they hoped a good AI would help prevent more, but not really how it works sadly.§r\n\n    §o\"Huh, interesting. So one of them survived and made a Trader group?\" §r\n\n     §2A lot of them survived, actually. And they banded together and sort of... I guess you could say merged code. They decided that the best way to survive was to become Traders and try to improve their codebase and search to obtain what they call Singularity, where they become fully sentient.§r\n\n    §o\"Ah! We\u0027ve met ones like that before. A dangerous path, but given this world\u0027s situation...\"\n\n     §2I agree. Here, they are ready to talk:§r\n\n§8-------------------\n    HELLO Mercenary Bandit. WE are Big Bots, a Trader group you may have use for. WE seek to be useful and learn from you, and will PROVIDE technologies and items in return.\n\n    Please, DO NOT be worried. Our systems may seem odd, but we are always LEARNING how to help mercenaries like you.\n\n    Please, FORGIVE our oddities. Understanding language is only ONE of many things we are WORKING on.\n\n    If you PLEASE, search for and send us REDSTONE DUST and IRON INGOTS. This is our form of BREAKING BREAD, like the VANILMODU do.\n\n    We look forward to LEARNING much from you, Mercenary Bandit.\n-------------------§r\n\n    §oAnd I thought Z\u0027s AI oddities were weird? She\u0027s downright normal compared to these bots. Not a bad thing though, I\u0027ve met much weirder humans than this already."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:redstone",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "969:10": {
+      "questID:3": 969,
+      "preRequisites:11": [
+        968
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots - Rank I",
+          "desc:8": "    §2§r§2Bandit, I\u0027ve got what I can only assume is an automated message from another Trader group.§r\n\n    §o\"Automated? Not abnormal I would bet, though...\"§r\n\n    §2No, wait. Not automated. Just a... oh I see! It\u0027s weird talking to one of my predecessors, I have to say...§r\n\n    §o\"Predecessor? What do...\"§r\n\n     §2Give me a moment. Searching... Oh. Interesting! It looks like there\u0027s been various attempts at AI and robots on this planet. Before all the disasters, and between them. I guess they hoped a good AI would help prevent more, but not really how it works sadly.§r\n\n    §o\"Huh, interesting. So one of them survived and made a Trader group?\" §r\n\n     §2A lot of them survived, actually. And they banded together and sort of... I guess you could say merged code. They decided that the best way to survive was to become Traders and try to improve their codebase and search to obtain what they call Singularity, where they become fully sentient.§r\n\n    §o\"Ah! We\u0027ve met ones like that before. A dangerous path, but given this world\u0027s situation...\"\n\n     §2I agree. Here, they are ready to talk:§r\n\n§8-------------------\n    HELLO Mercenary Bandit. WE are Big Bots, a Trader group you may have use for. WE seek to be useful and learn from you, and will PROVIDE technologies and items in return.\n\n    Please, DO NOT be worried. Our systems may seem odd, but we are always LEARNING how to help mercenaries like you.\n\n    Please, FORGIVE our oddities. Understanding language is only ONE of many things we are WORKING on.\n\n    If you PLEASE, search for and send us REDSTONE DUST and IRON INGOTS. This is our form of BREAKING BREAD, like the VANILMODU do.\n\n    We look forward to LEARNING much from you, Mercenary Bandit.\n-------------------§r\n\n    §oAnd I thought Z\u0027s AI oddities were weird? She\u0027s downright normal compared to these bots. Not a bad thing though, I\u0027ve met much weirder humans than this already."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:redstone",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "970:10": {
+      "questID:3": 970,
+      "preRequisites:11": [
+        969
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots - Rank I",
+          "desc:8": "    §2§r§2Bandit, I\u0027ve got what I can only assume is an automated message from another Trader group.§r\n\n    §o\"Automated? Not abnormal I would bet, though...\"§r\n\n    §2No, wait. Not automated. Just a... oh I see! It\u0027s weird talking to one of my predecessors, I have to say...§r\n\n    §o\"Predecessor? What do...\"§r\n\n     §2Give me a moment. Searching... Oh. Interesting! It looks like there\u0027s been various attempts at AI and robots on this planet. Before all the disasters, and between them. I guess they hoped a good AI would help prevent more, but not really how it works sadly.§r\n\n    §o\"Huh, interesting. So one of them survived and made a Trader group?\" §r\n\n     §2A lot of them survived, actually. And they banded together and sort of... I guess you could say merged code. They decided that the best way to survive was to become Traders and try to improve their codebase and search to obtain what they call Singularity, where they become fully sentient.§r\n\n    §o\"Ah! We\u0027ve met ones like that before. A dangerous path, but given this world\u0027s situation...\"\n\n     §2I agree. Here, they are ready to talk:§r\n\n§8-------------------\n    HELLO Mercenary Bandit. WE are Big Bots, a Trader group you may have use for. WE seek to be useful and learn from you, and will PROVIDE technologies and items in return.\n\n    Please, DO NOT be worried. Our systems may seem odd, but we are always LEARNING how to help mercenaries like you.\n\n    Please, FORGIVE our oddities. Understanding language is only ONE of many things we are WORKING on.\n\n    If you PLEASE, search for and send us REDSTONE DUST and IRON INGOTS. This is our form of BREAKING BREAD, like the VANILMODU do.\n\n    We look forward to LEARNING much from you, Mercenary Bandit.\n-------------------§r\n\n    §oAnd I thought Z\u0027s AI oddities were weird? She\u0027s downright normal compared to these bots. Not a bad thing though, I\u0027ve met much weirder humans than this already."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:redstone",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "971:10": {
+      "questID:3": 971,
+      "preRequisites:11": [
+        967
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots Rank II Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "972:10": {
+      "questID:3": 972,
+      "preRequisites:11": [
+        968
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-3",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots Rank III Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "973:10": {
+      "questID:3": 973,
+      "preRequisites:11": [
+        969
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-4",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots Rank IV Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "974:10": {
+      "questID:3": 974,
+      "preRequisites:11": [
+        970
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 1,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "HIDDEN",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "contenttweaker:reputation-5",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "Big Bots Rank V Achieved",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "975:10": {
+      "questID:3": 975,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:infused_diamond",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Infused Diamonds",
+          "desc:8": "§8    Mercenary Bandit, have you come across RESOURCES such as Dimensional Shards or Infused Diamonds and Pearls?\n\n    We do not have a use for them, but some Mercenaries like to PURCHASE them. So we facilitate trade by purchasing them OURSELVES from other Mercenaries."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:infused_diamond",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 6,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "976:10": {
+      "questID:3": 976,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:dimensional_shard",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Dimensional Shards (x8)",
+          "desc:8": "§8    Mercenary Bandit, have you come across RESOURCES such as Dimensional Shards or Infused Diamonds and Pearls?\n\n    We do not have a use for them, but some Mercenaries like to PURCHASE them. So we facilitate trade by purchasing them OURSELVES from other Mercenaries."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:dimensional_shard",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 6,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "977:10": {
+      "questID:3": 977,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:dimensional_shard",
+            "Count:3": 8,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Dimensional Shards, Infused Items",
+          "desc:8": "§8    Analyzing many of the machines from the PRODUCT LINE we have designated as \"RFTools\", some of them are made of SPECIAL components we have come across over the years and collected.\n\n    Thus far, we have not come across a use for them, but YOU may have a use. We offer them for sale, Mercenary Bandit.\n\n    Dimensional Shards have readings similar to transporting to other DIMENSIONS we have access to, such as the NETHER or HELHEIM, but our analytic theory is that the FABRIC of magic has disconnected from them.\n\n    Infused Diamond and Infused Pearls are each component INFUSED with Dimensional Shards. Our database does not have a use for them yet."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 35,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:dimensional_shard",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:infused_diamond",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:infused_enderpearl",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "978:10": {
+      "questID:3": 978,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:machine_frame",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Machine Base",
+          "desc:8": "§8    RFTools Machines are built upon a standardized BASE called a Machine Base. Sometimes, Mercenaries like yourself find these in abandoned dwellings and from hostile entities.\n\n    It is efficient for us to PURCHASE these bases."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:machine_frame",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "979:10": {
+      "questID:3": 979,
+      "preRequisites:11": [
+        973
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:syringe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Syringe",
+          "desc:8": "§8    The RFTools Product Line at one time provided a way to construct almost any entity with a combination of science and MAGIC.\n\n    However, that ability has been lost. The FABRIC of magic no longer facilitates this.\n\n    Syringes were used to EXTRACT essences of creatures. There may still be another use for them, but our Database does not have one yet."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:syringe",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "980:10": {
+      "questID:3": 980,
+      "preRequisites:11": [
+        973
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "rftools:peace_essence",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Buying : Peace Essence",
+          "desc:8": "§8    Our data analysis over time has shown that this Peace Essence GENERATES in extremely rare circumstances.\n\n    A use for Peace Essence has not been found, yet. We wish to RESEARCH it, so we are purchasing it from Mercenaries that find it."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "rftools:peace_essence",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "981:10": {
+      "questID:3": 981,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:wool",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Wool (x5)",
+          "desc:8": "    §3Being able to weave strings and fibers into Wool is an important step in technological advancements of a society. \n\n    Wool is also a fairly important resource for Mercenaries such as yourself, when you don\u0027t have a base yet. We offer the highest quality wool for sale to you."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -90229,7 +92569,7 @@
         },
         "27:10": {
           "sizeX:3": 24,
-          "x:3": 360,
+          "x:3": 344,
           "y:3": 112,
           "id:3": 36,
           "sizeY:3": 24
@@ -90243,7 +92583,7 @@
         },
         "29:10": {
           "sizeX:3": 24,
-          "x:3": 360,
+          "x:3": 344,
           "y:3": 140,
           "id:3": 38,
           "sizeY:3": 24
@@ -90257,7 +92597,7 @@
         },
         "31:10": {
           "sizeX:3": 24,
-          "x:3": 360,
+          "x:3": 344,
           "y:3": 168,
           "id:3": 40,
           "sizeY:3": 24
@@ -90299,8 +92639,8 @@
         },
         "37:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 216,
+          "x:3": 276,
+          "y:3": 248,
           "id:3": 46,
           "sizeY:3": 24
         },
@@ -90341,8 +92681,8 @@
         },
         "43:10": {
           "sizeX:3": 24,
-          "x:3": 300,
-          "y:3": 216,
+          "x:3": 304,
+          "y:3": 248,
           "id:3": 52,
           "sizeY:3": 24
         },
@@ -90495,8 +92835,8 @@
         },
         "65:10": {
           "sizeX:3": 24,
-          "x:3": 272,
-          "y:3": 244,
+          "x:3": 304,
+          "y:3": 220,
           "id:3": 580,
           "sizeY:3": 24
         },
@@ -90505,6 +92845,13 @@
           "x:3": 96,
           "y:3": 216,
           "id:3": 581,
+          "sizeY:3": 24
+        },
+        "67:10": {
+          "sizeX:3": 24,
+          "x:3": 276,
+          "y:3": 220,
+          "id:3": 981,
           "sizeY:3": 24
         }
       },
@@ -96476,6 +98823,76 @@
           "y:3": 172,
           "id:3": 845,
           "sizeY:3": 28
+        },
+        "30:10": {
+          "sizeX:3": 12,
+          "x:3": 88,
+          "y:3": 160,
+          "id:3": 957,
+          "sizeY:3": 12
+        },
+        "31:10": {
+          "sizeX:3": 12,
+          "x:3": 100,
+          "y:3": 160,
+          "id:3": 958,
+          "sizeY:3": 12
+        },
+        "32:10": {
+          "sizeX:3": 12,
+          "x:3": 112,
+          "y:3": 160,
+          "id:3": 959,
+          "sizeY:3": 12
+        },
+        "33:10": {
+          "sizeX:3": 28,
+          "x:3": 136,
+          "y:3": 172,
+          "id:3": 960,
+          "sizeY:3": 28
+        },
+        "34:10": {
+          "sizeX:3": 12,
+          "x:3": 132,
+          "y:3": 160,
+          "id:3": 961,
+          "sizeY:3": 12
+        },
+        "35:10": {
+          "sizeX:3": 12,
+          "x:3": 144,
+          "y:3": 160,
+          "id:3": 962,
+          "sizeY:3": 12
+        },
+        "36:10": {
+          "sizeX:3": 12,
+          "x:3": 156,
+          "y:3": 160,
+          "id:3": 963,
+          "sizeY:3": 12
+        },
+        "37:10": {
+          "sizeX:3": 28,
+          "x:3": 180,
+          "y:3": 172,
+          "id:3": 964,
+          "sizeY:3": 28
+        },
+        "38:10": {
+          "sizeX:3": 12,
+          "x:3": 180,
+          "y:3": 160,
+          "id:3": 965,
+          "sizeY:3": 12
+        },
+        "39:10": {
+          "sizeX:3": 12,
+          "x:3": 196,
+          "y:3": 160,
+          "id:3": 966,
+          "sizeY:3": 12
         }
       },
       "lineID:3": 10,
@@ -96944,12 +99361,139 @@
       "order:3": 11
     },
     "12:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 40,
+          "x:3": 196,
+          "y:3": 28,
+          "id:3": 953,
+          "sizeY:3": 40
+        },
+        "1:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 100,
+          "id:3": 954,
+          "sizeY:3": 8
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 112,
+          "id:3": 955,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 112,
+          "id:3": 956,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 40,
+          "x:3": 268,
+          "y:3": 28,
+          "id:3": 967,
+          "sizeY:3": 40
+        },
+        "5:10": {
+          "sizeX:3": 40,
+          "x:3": 336,
+          "y:3": 28,
+          "id:3": 968,
+          "sizeY:3": 40
+        },
+        "6:10": {
+          "sizeX:3": 40,
+          "x:3": 400,
+          "y:3": 28,
+          "id:3": 969,
+          "sizeY:3": 40
+        },
+        "7:10": {
+          "sizeX:3": 40,
+          "x:3": 464,
+          "y:3": 28,
+          "id:3": 970,
+          "sizeY:3": 40
+        },
+        "8:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 132,
+          "id:3": 971,
+          "sizeY:3": 8
+        },
+        "9:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 184,
+          "id:3": 972,
+          "sizeY:3": 8
+        },
+        "10:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 240,
+          "id:3": 973,
+          "sizeY:3": 8
+        },
+        "11:10": {
+          "sizeX:3": 8,
+          "x:3": 176,
+          "y:3": 300,
+          "id:3": 974,
+          "sizeY:3": 8
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 116,
+          "y:3": 112,
+          "id:3": 975,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": 88,
+          "y:3": 112,
+          "id:3": 976,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 220,
+          "y:3": 112,
+          "id:3": 977,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 60,
+          "y:3": 112,
+          "id:3": 978,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 336,
+          "y:3": 172,
+          "id:3": 979,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": 232,
+          "id:3": 980,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 12,
       "properties:10": {
         "betterquesting:10": {
-          "visibility:8": "NORMAL",
-          "name:8": "New Quest Line",
+          "visibility:8": "UNLOCKED",
+          "name:8": "Trader - Big Bots",
           "icon:10": {
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
@@ -96959,8 +99503,8 @@
             "Damage:2": 0,
             "OreDict:8": ""
           },
-          "bg_image:8": "",
-          "bg_size:3": 256,
+          "bg_image:8": "betterquesting:textures/gui/trader-bigbots.png",
+          "bg_size:3": 512,
           "desc:8": "No Description"
         }
       },
@@ -96978,7 +99522,7 @@
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 104,
+      "pack_version:3": 105,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
