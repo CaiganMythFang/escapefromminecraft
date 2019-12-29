@@ -3303,7 +3303,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "repeat_relative:1": 1,
-          "name:8": "[II] Buying : Diamond",
+          "name:8": "[I] Buying : Diamond",
           "desc:8": "    §3Finding diamonds is a bit tough in this world. Used to be you could go deep underground, do a little prospecting, and with enough time and effort, voila, a diamond, no blood shed.\n\n    Unfortunately, those days are long past. You might be able to find a diamond in the rough Compressed Ruins, but you are more likely to find one of the various thieves and monsters to be carrying one."
         }
       },
@@ -3451,7 +3451,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "repeat_relative:1": 1,
-          "name:8": "[II] Buying : Emerald",
+          "name:8": "[I] Buying : Emerald",
           "desc:8": "    §3Going trading in some Villages soon, Bandit? We can always use some more Emeralds, keeping a stockpile is a good idea as Villagers sometimes come across rare items we like to trade for.\n\n    And usually they either trade Emeralds or stacks and stacks of the most mundane items. Not that I\u0027m complaining, getting an Enchanted book for a big pile of feathers is a great trade off to us!"
         }
       },
@@ -8360,7 +8360,7 @@
                 "StoredEnchantments:9": {
                   "0:10": {
                     "lvl:2": 1,
-                    "id:2": 36
+                    "id:2": 38
                   }
                 }
               },
@@ -8450,7 +8450,7 @@
                 "StoredEnchantments:9": {
                   "0:10": {
                     "lvl:2": 2,
-                    "id:2": 36
+                    "id:2": 38
                   }
                 }
               },
@@ -8540,7 +8540,7 @@
                 "StoredEnchantments:9": {
                   "0:10": {
                     "lvl:2": 3,
-                    "id:2": 36
+                    "id:2": 38
                   }
                 }
               },
@@ -8639,7 +8639,7 @@
                 "ench:9": {
                   "0:10": {
                     "lvl:2": 1,
-                    "id:2": 25
+                    "id:2": 26
                   }
                 },
                 "size:11": [
@@ -99788,7 +99788,7 @@
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 107,
+      "pack_version:3": 108,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
