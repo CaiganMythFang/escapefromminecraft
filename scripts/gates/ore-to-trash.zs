@@ -12,7 +12,8 @@ val basicore = [
 <cyclicmagic:end_coal_ore>, <cyclicmagic:end_redstone_ore>, <cyclicmagic:nether_diamond_ore>, <cyclicmagic:nether_emerald_ore>, <cyclicmagic:nether_lapis_ore>, <cyclicmagic:nether_coal_ore>, <cyclicmagic:nether_gold_ore>, <cyclicmagic:nether_iron_ore>, <cyclicmagic:nether_redstone_ore>, <cyclicmagic:end_lapis_ore>, <cyclicmagic:end_emerald_ore>, <cyclicmagic:end_diamond_ore>, <cyclicmagic:end_gold_ore>, <cyclicmagic:end_iron_ore>,
 <quark:biotite_ore>,
 <geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>,
-<tconstruct:ore:1>, <tconstruct:ore>
+<tconstruct:ore:1>, <tconstruct:ore>,
+<rftools:dimensional_shard_ore>, <rftools:dimensional_shard_ore:1>, <rftools:dimensional_shard_ore:2>
 ] as IItemStack[];
 for item in basicore {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
@@ -25,7 +26,7 @@ item.displayName = "Corrupted Ore";
 //Gate Kamen Rider ores to glowing junk
 
 val basicore5 = [
-<kamenridercraft4th:stone_kuuga>, <kamenridercraft4th:hellrock_agito>, <kamenridercraft4th:stone_agito>, <kamenridercraft4th:advent_glass>, <kamenridercraft4th:hell_advent_glass>, <kamenridercraft4th:mission_memory_block>, <kamenridercraft4th:bladecard_block>, <kamenridercraft4th:bladecard_hellrock>, <kamenridercraft4th:oni_ore_hellrock>, <kamenridercraft4th:oni_ore_block>
+<kamenridercraft4th:stone_kuuga>, <kamenridercraft4th:hellrock_agito>, <kamenridercraft4th:stone_agito>, <kamenridercraft4th:advent_glass>, <kamenridercraft4th:hell_advent_glass>, <kamenridercraft4th:mission_memory_block>, <kamenridercraft4th:bladecard_block>, <kamenridercraft4th:bladecard_hellrock>, <kamenridercraft4th:oni_ore_hellrock>, <kamenridercraft4th:oni_ore_block>, <kamenridercraft4th:neozecthellrock>, <kamenridercraft4th:zectblock>, <kamenridercraft4th:hellimaginsandblock>, <kamenridercraft4th:imaginsandblock>, <kamenridercraft4th:fuestlehellrock>, <kamenridercraft4th:fuestleblock>
 ] as IItemStack[];
 for item in basicore5 {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:glowingruins>);
@@ -38,7 +39,7 @@ item.displayName = "Corrupted Item";
 //Gate non ore blocks to prevent gamebreaking crafting loops
 
 val basicore2 = [
-<wearables:wearable_fabricator>, <variedcommodities:carpentry_bench>, <compactstorage:chestbuilder>, <vehicle:workstation>, <harvestcraft:shippingbin>
+<wearables:wearable_fabricator>, <variedcommodities:carpentry_bench>, <compactstorage:chestbuilder>, <vehicle:workstation>, <harvestcraft:shippingbin>, <rftools:matter_beamer>, <rftools:spawner>
 ] as IItemStack[];
 for item in basicore2 {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
