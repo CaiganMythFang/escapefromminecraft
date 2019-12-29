@@ -92265,6 +92265,258 @@
           }
         }
       }
+    },
+    "982:10": {
+      "questID:3": 982,
+      "preRequisites:11": [
+        8
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:spawn_egg",
+            "Count:3": 1,
+            "tag:10": {
+              "EntityTag:10": {
+                "id:8": "minecraft:cow"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Basic Animals",
+          "desc:8": "    §3Wish to start your own farm, Mercenary? You\u0027ll be needing animals. And these days, they can be hard to find amongst the ruins and destruction.\n\n    On top of that, keeping them free from disease and corruption is tough and expensive, both in resources and in time.\n\n    But we can offer you an animal for a price. You\u0027ll need two to multiply them, but keep in mind Scav Raiders take pleasure in slaughtering them for fresh meat.\n\n    Protect your herd, Mercenary."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 125,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:cow"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:pig"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:sheep"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:chicken"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:rabbit"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "983:10": {
+      "questID:3": 983,
+      "preRequisites:11": [
+        11
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:spawn_egg",
+            "Count:3": 1,
+            "tag:10": {
+              "EntityTag:10": {
+                "id:8": "minecraft:wolf"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Special Animals",
+          "desc:8": "    §3What farm is complete without a horse? Or a herding wolf?\n\n    Or even a parrot to sing?\n\n    These animals are even tougher to keep alive in this dangerous time."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 125,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:wolf"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:horse"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:parrot"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -92852,6 +93104,20 @@
           "x:3": 276,
           "y:3": 220,
           "id:3": 981,
+          "sizeY:3": 24
+        },
+        "68:10": {
+          "sizeX:3": 24,
+          "x:3": 380,
+          "y:3": 112,
+          "id:3": 982,
+          "sizeY:3": 24
+        },
+        "69:10": {
+          "sizeX:3": 24,
+          "x:3": 380,
+          "y:3": 168,
+          "id:3": 983,
           "sizeY:3": 24
         }
       },
@@ -99522,7 +99788,7 @@
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
-      "pack_version:3": 106,
+      "pack_version:3": 107,
       "home_offset_x:3": -128,
       "home_offset_y:3": 0
     }
