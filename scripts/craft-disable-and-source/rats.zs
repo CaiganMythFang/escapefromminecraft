@@ -14,7 +14,7 @@ val stackminecraft1 = [
 ] as IItemStack[];
 for item in stackminecraft1 {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -39,7 +39,7 @@ val lootpurchase = [
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -51,7 +51,7 @@ val loottradepurchase = [
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.red("Trade, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -63,7 +63,7 @@ val loottrade = [
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.red("Trade"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -74,7 +74,7 @@ val lootcrafttrade = [
 <rats:cheese>, <rats:block_of_cheese>, <rats:chunky_cheese_token>, <rats:rat_arrow>, <rats:psionic_rat_brain>, <rats:brain_block>, <rats:raw_plastic>, <rats:idol_of_ratlantis>, <rats:rat_diamond>
 ] as IItemStack[];
 for item in lootcrafttrade {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -85,7 +85,7 @@ val lootcraftpurchase = [
 <rats:chef_toque>, <rats:garbage_pile>, <rats:rat_igloo_white>, <rats:rat_hammock_white>
 ] as IItemStack[];
 for item in lootcraftpurchase {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -96,7 +96,7 @@ val lootcrafttradepurchase = [
 <rats:rat_tube_white>
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable, ") + format.red("Tradeable, ") + format.gold("Purchasable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -107,7 +107,7 @@ val lootcraft = [
 <rats:string_cheese>, <rats:confit_byaldi>, <rats:feathery_wing>, <rats:cooked_rat>, <rats:marbled_cheese_raw>, <rats:marbled_cheese>, <rats:marbled_cheese_slab>, <rats:marbled_cheese_stairs>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_tile>, <rats:marbled_cheese_chiseled>, <rats:marbled_cheese_pillar>, <rats:marbled_cheese_brick>, <rats:marbled_cheese_brick_slab>, <rats:marbled_cheese_brick_stairs>, <rats:marbled_cheese_brick_chiseled>, <rats:marbled_cheese_brick_cracked>, <rats:marbled_cheese_brick_mossy>, <rats:marbled_cheese_dirt>, <rats:marbled_cheese_grass>, <rats:token_fragment>, <rats:rat_capture_net>, <rats:compressed_rat>, <rats:ratglove_petals>, <rats:feral_bagh_nakhs>, <rats:rat_burger>, <rats:jack_o_ratern>, <rats:potato_pancake>, <rats:potato_kinishes>, <rats:centipede>, <rats:little_black_squash_balls>, <rats:rat_igloo_orange>, <rats:rat_igloo_magenta>, <rats:rat_igloo_light_blue>, <rats:rat_igloo_yellow>, <rats:rat_igloo_lime>, <rats:rat_igloo_pink>, <rats:rat_igloo_gray>, <rats:rat_igloo_silver>, <rats:rat_igloo_cyan>, <rats:rat_igloo_purple>, <rats:rat_igloo_blue>, <rats:rat_igloo_brown>, <rats:rat_igloo_green>, <rats:rat_igloo_red>, <rats:rat_igloo_black>, <rats:rat_hammock_orange>, <rats:rat_hammock_magenta>, <rats:rat_hammock_light_blue>, <rats:rat_hammock_yellow>, <rats:rat_hammock_lime>, <rats:rat_hammock_pink>, <rats:rat_hammock_gray>, <rats:rat_hammock_silver>, <rats:rat_hammock_cyan>, <rats:rat_hammock_purple>, <rats:rat_hammock_blue>, <rats:rat_hammock_brown>, <rats:rat_hammock_green>, <rats:rat_hammock_red>, <rats:rat_hammock_black>, <rats:token_piece>, <rats:cheese_cannonball>
 ] as IItemStack[];
 for item in lootcraft {
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable, ") + format.lightPurple("Craftable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot, ") + format.lightPurple("Craft"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }
@@ -119,7 +119,7 @@ val loot = [
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
-    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Lootable"));
+    item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.gray("Loot"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Labrats"));
     <ore:fleamarketable>.add(item);
 }

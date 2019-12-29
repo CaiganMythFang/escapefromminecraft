@@ -15,7 +15,7 @@ val stackminecraft1 = [
 for item in stackminecraft1 {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade, ") + format.gold("Purchase"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -27,6 +27,7 @@ val corrupted = [
 
 ] as IItemStack[];
 for item in corrupted {
+    recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
     item.addTooltip(format.bold(format.red("This block will rapidly corrupt when placed. Be careful!")));
     item.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
@@ -35,47 +36,47 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<props:tool>
+<rftools:smartwrench>, <rftools:rftools_manual>, <rftools:rftools_shape_manual>, <rftools:syringe>, <rftools:network_monitor>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.gold("Purchase"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
 //loot, trade, purchase
 
 val loottradepurchase = [
-
+<rftools:dimensional_shard>, <rftools:infused_diamond>, <rftools:infused_enderpearl>
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.red("Trade, ") + format.gold("Purchase"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
 // Loot Trade
 
 val loottrade = [
-
+<rftools:machine_frame>, <rftools:peace_essence>
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.red("Trade"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
 // Loot Craft Trade
 
 val lootcrafttrade = [
-<props:props:*>
+
 ] as IItemStack[];
 for item in lootcrafttrade {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -86,7 +87,7 @@ val lootcraftpurchase = [
 ] as IItemStack[];
 for item in lootcraftpurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.gold("Purchase"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -97,7 +98,7 @@ val lootcrafttradepurchase = [
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade, ") + format.gold("Purchase"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
@@ -108,28 +109,19 @@ val lootcraft = [
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
 }
 
 // Lootable
 
 val loot = [
-<props:clay>, <props:clay:1>, <props:clay:2>
+
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Big Bots"));
     <ore:fleamarketable>.add(item);
-}
-
-//DECOCRAFT REMOVE RECIPE
-
-val decofixer = [
-<props:props:508>
-] as IItemStack[];
-for item in decofixer {
-    recipes.remove(item);
 }
 
