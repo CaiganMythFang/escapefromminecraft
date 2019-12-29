@@ -466,18 +466,6 @@
           },
           {
             "random": 2,
-            "block": "pneumaticcraft:air_compressor"
-          },
-          {
-            "random": 2,
-            "block": "pneumaticcraft:heat_sink"
-          },
-          {
-            "random": 2,
-            "block": "pneumaticcraft:plastic_mixer"
-          },
-          {
-            "random": 2,
             "block": "rftools:coalgenerator"
           },
           {
@@ -1767,18 +1755,6 @@
           {
             "random": 2,
             "block": "cfm:computer"
-          },
-          {
-            "random": 3,
-            "block": "pneumaticcraft:assembly_io_unit"
-          },
-          {
-            "random": 3,
-            "block": "pneumaticcraft:liquid_compressor"
-          },
-          {
-            "random": 3,
-            "block": "pneumaticcraft:refinery"
           },
           {
             "random": 1,
