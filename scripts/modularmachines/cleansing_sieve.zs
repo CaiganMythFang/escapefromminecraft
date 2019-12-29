@@ -15,7 +15,7 @@ for item in fogcraft6food {
 
 // Corrupted Ore processing Return
 
-val corrupted = mods.modularmachinery.RecipeBuilder.newBuilder("corruptedore", "cleansing_sieve", 300, 0);
+val corrupted = mods.modularmachinery.RecipeBuilder.newBuilder("corruptedore", "cleansing_sieve", 100, 50);
 
 corrupted.addItemInput(<ore:corruptedore>);
 
@@ -31,13 +31,13 @@ corrupted.setChance(0.50);
 corrupted.addItemOutput(<minecraft:brick_block>);
 corrupted.setChance(0.50);
 
-// 1% for a skeleton skull, 1 times
+// 5% for a skeleton skull, 1 times
 corrupted.addItemOutput(<minecraft:skull>);
-corrupted.setChance(0.01);
+corrupted.setChance(0.05);
 
-// 10% for a bone, 1 times
+// 15% for a bone, 1 times
 corrupted.addItemOutput(<minecraft:bone>);
-corrupted.setChance(0.10);
+corrupted.setChance(0.15);
 
 // 5% for a quarter, 2 times
 corrupted.addItemOutput(<modcurrency:coin:3>);
@@ -45,9 +45,9 @@ corrupted.setChance(0.05);
 corrupted.addItemOutput(<modcurrency:coin:3>);
 corrupted.setChance(0.05);
 
-// 1% for a dollar, 1 times
+// 2% for a dollar, 1 times
 corrupted.addItemOutput(<modcurrency:coin:4>);
-corrupted.setChance(0.01);
+corrupted.setChance(0.02);
 
 // 1% for a waystone, 1 time
 corrupted.addItemOutput(<waystones:waystone>);
@@ -57,17 +57,17 @@ corrupted.setChance(0.01);
 corrupted.addItemOutput(<jsonlootbags:cleansedresources>);
 corrupted.setChance(0.10);
 
-// 1% for a Cleaned Loot Bag, 1 time
+// 2% for a Cleaned Loot Bag, 1 time
 corrupted.addItemOutput(<jsonlootbags:cleansedloot>);
-corrupted.setChance(0.01);
+corrupted.setChance(0.02);
 
 // 20% for a torch, 1 times
 corrupted.addItemOutput(<minecraft:torch>);
 corrupted.setChance(0.20);
 
-// 10% for a glowing ruins, 1 times
+// 5% for a glowing ruins, 1 times
 corrupted.addItemOutput(<contenttweaker:glowingruins>);
-corrupted.setChance(0.20);
+corrupted.setChance(0.05);
 
 corrupted.build();
 
@@ -75,7 +75,7 @@ corrupted.build();
 
 // Glowing Junk processing Return
 
-val glowing = mods.modularmachinery.RecipeBuilder.newBuilder("glowingruins", "cleansing_sieve", 300, 0);
+val glowing = mods.modularmachinery.RecipeBuilder.newBuilder("glowingruins", "cleansing_sieve", 100, 50);
 
 glowing.addItemInput(<contenttweaker:glowingruins>);
 
@@ -93,8 +93,8 @@ glowing.setChance(0.05);
 glowing.addItemOutput(<jsonlootbags:cleansedresources>);
 glowing.setChance(0.10);
 
-// 1% for a Cleaned Loot Bag, 1 time
+// 2% for a Cleaned Loot Bag, 1 time
 glowing.addItemOutput(<jsonlootbags:cleansedloot>);
-glowing.setChance(0.01);
+glowing.setChance(0.02);
 
 glowing.build();
