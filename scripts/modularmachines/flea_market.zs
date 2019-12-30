@@ -585,7 +585,7 @@ fleamarketgear.build();
 
 // Convert Money Upward - 1000 pennies to 10 dollar
 
-val fleamarketpennytotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytotenner", "flea_market", 50, 11);
+val fleamarketpennytotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytotenner", "flea_market", 3, 11);
 
 fleamarketpennytotenner.addItemInput(<modcurrency:coin:0> * 1000);
 fleamarketpennytotenner.addItemOutput(<modcurrency:banknote:2>);
@@ -594,7 +594,7 @@ fleamarketpennytotenner.build();
 
 // Convert Money Upward - 40 quarters to 10 dollar
 
-val fleamarketquartertotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketquartertotenner", "flea_market", 50, 11);
+val fleamarketquartertotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketquartertotenner", "flea_market", 3, 11);
 
 fleamarketquartertotenner.addItemInput(<modcurrency:coin:3> * 40);
 fleamarketquartertotenner.addItemOutput(<modcurrency:banknote:2>);
@@ -603,7 +603,7 @@ fleamarketquartertotenner.build();
 
 // Convert Money Upward - 100 dimes to 10 dollar
 
-val fleamarketdimetotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimetotenner", "flea_market", 50, 11);
+val fleamarketdimetotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimetotenner", "flea_market", 3, 11);
 
 fleamarketdimetotenner.addItemInput(<modcurrency:coin:2> * 100);
 fleamarketdimetotenner.addItemOutput(<modcurrency:banknote:2>);
@@ -612,7 +612,7 @@ fleamarketdimetotenner.build();
 
 // Convert Money Upward - 200 nickels to 10 dollar
 
-val fleamarketnickeltotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltotenner", "flea_market", 50, 11);
+val fleamarketnickeltotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltotenner", "flea_market", 3, 11);
 
 fleamarketnickeltotenner.addItemInput(<modcurrency:coin:1> * 200);
 fleamarketnickeltotenner.addItemOutput(<modcurrency:banknote:2>);
@@ -621,7 +621,7 @@ fleamarketnickeltotenner.build();
 
 // Convert Money Upward - 10 dollars to 10 dollar
 
-val fleamarketbucktotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketbucktotenner", "flea_market", 50, 11);
+val fleamarketbucktotenner = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketbucktotenner", "flea_market", 3, 11);
 
 fleamarketbucktotenner.addItemInput(<modcurrency:coin:4> * 10);
 fleamarketbucktotenner.addItemOutput(<modcurrency:banknote:2>);
@@ -630,7 +630,7 @@ fleamarketbucktotenner.build();
 
 // Convert Money Upward - 100 pennies to 1 dollar
 
-val fleamarketpennytodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytodollar", "flea_market", 50, 10);
+val fleamarketpennytodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytodollar", "flea_market", 3, 10);
 
 fleamarketpennytodollar.addItemInput(<modcurrency:coin:0> * 100);
 fleamarketpennytodollar.addItemOutput(<modcurrency:coin:4>);
@@ -639,7 +639,7 @@ fleamarketpennytodollar.build();
 
 // Convert Money Upward - 4 quarters to 1 dollar
 
-val fleamarketquartertodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketquartertodollar", "flea_market", 50, 9);
+val fleamarketquartertodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketquartertodollar", "flea_market", 3, 9);
 
 fleamarketquartertodollar.addItemInput(<modcurrency:coin:3> * 4);
 fleamarketquartertodollar.addItemOutput(<modcurrency:coin:4>);
@@ -648,7 +648,7 @@ fleamarketquartertodollar.build();
 
 // Convert Money Upward - 10 dimes to 1 dollar
 
-val fleamarketdimetodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimetodollar", "flea_market", 50, 9);
+val fleamarketdimetodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimetodollar", "flea_market", 3, 9);
 
 fleamarketdimetodollar.addItemInput(<modcurrency:coin:2> * 10);
 fleamarketdimetodollar.addItemOutput(<modcurrency:coin:4>);
@@ -657,7 +657,7 @@ fleamarketdimetodollar.build();
 
 // Convert Money Upward - 20 nickels to 1 dollar
 
-val fleamarketnickeltodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltodollar", "flea_market", 50, 9);
+val fleamarketnickeltodollar = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltodollar", "flea_market", 3, 9);
 
 fleamarketnickeltodollar.addItemInput(<modcurrency:coin:1> * 20);
 fleamarketnickeltodollar.addItemOutput(<modcurrency:coin:4>);
@@ -666,7 +666,7 @@ fleamarketnickeltodollar.build();
 
 // Convert Money Upward - 5 nickels to 1 quarter
 
-val fleamarketnickeltoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltoquarter", "flea_market", 50, 8);
+val fleamarketnickeltoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltoquarter", "flea_market", 3, 8);
 
 fleamarketnickeltoquarter.addItemInput(<modcurrency:coin:1> * 5);
 fleamarketnickeltoquarter.addItemOutput(<modcurrency:coin:3>);
@@ -675,7 +675,7 @@ fleamarketnickeltoquarter.build();
 
 // Convert Money Upward - 2 dime 1 nickel to 1 quarter
 
-val fleamarketdimenickeltoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimenickeltoquarter", "flea_market", 50, 8);
+val fleamarketdimenickeltoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketdimenickeltoquarter", "flea_market", 3, 8);
 
 fleamarketdimenickeltoquarter.addItemInput(<modcurrency:coin:2> * 2);
 fleamarketdimenickeltoquarter.addItemInput(<modcurrency:coin:1>);
@@ -685,7 +685,7 @@ fleamarketdimenickeltoquarter.build();
 
 // Convert Money Upward - 25 pennies to 1 quarter
 
-val fleamarketpennytoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytoquarter", "flea_market", 50, 8);
+val fleamarketpennytoquarter = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytoquarter", "flea_market", 3, 8);
 
 fleamarketpennytoquarter.addItemInput(<modcurrency:coin:0> * 25);
 fleamarketpennytoquarter.addItemOutput(<modcurrency:coin:3>);
@@ -694,7 +694,7 @@ fleamarketpennytoquarter.build();
 
 // Convert Money Upward - 2 nickels to 1 dime
 
-val fleamarketnickeltodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltodime", "flea_market", 50, 7);
+val fleamarketnickeltodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketnickeltodime", "flea_market", 3, 7);
 
 fleamarketnickeltodime.addItemInput(<modcurrency:coin:1> * 2);
 fleamarketnickeltodime.addItemOutput(<modcurrency:coin:2>);
@@ -703,7 +703,7 @@ fleamarketnickeltodime.build();
 
 // Convert Money Upward - 1 nickel 5 pennies to 1 dime
 
-val fleamarketpennynickeltodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennynickeltodime", "flea_market", 50, 7);
+val fleamarketpennynickeltodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennynickeltodime", "flea_market", 3, 7);
 
 fleamarketpennynickeltodime.addItemInput(<modcurrency:coin:1>);
 fleamarketpennynickeltodime.addItemInput(<modcurrency:coin:0> * 5);
@@ -713,7 +713,7 @@ fleamarketpennynickeltodime.build();
 
 // Convert Money Upward - 10 pennies to 1 dime
 
-val fleamarketpennytodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytodime", "flea_market", 50, 7);
+val fleamarketpennytodime = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytodime", "flea_market", 3, 7);
 
 fleamarketpennytodime.addItemInput(<modcurrency:coin:0> * 10);
 fleamarketpennytodime.addItemOutput(<modcurrency:coin:2>);
@@ -722,7 +722,7 @@ fleamarketpennytodime.build();
 
 // Convert Money Upward - 5 pennies to 1 nickel
 
-val fleamarketpennytonickel = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytonickel", "flea_market", 50, 6);
+val fleamarketpennytonickel = mods.modularmachinery.RecipeBuilder.newBuilder("fleamarketpennytonickel", "flea_market", 3, 6);
 
 fleamarketpennytonickel.addItemInput(<modcurrency:coin:0> * 5);
 fleamarketpennytonickel.addItemOutput(<modcurrency:coin:1>);
