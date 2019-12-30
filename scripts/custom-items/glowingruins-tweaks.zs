@@ -7,3 +7,4 @@ import crafttweaker.oredict.IOreDictEntry;
 <contenttweaker:glowingruins>.addTooltip(format.gray("Old, corrupted junk compressed into a block."));
 <contenttweaker:glowingruins>.addTooltip(format.gold("Something strange is glowing in these ruins..."));
 <contenttweaker:glowingruins>.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
+<ore:glowingore>.add(<contenttweaker:glowingruins>);
