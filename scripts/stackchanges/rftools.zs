@@ -57,7 +57,7 @@ for item in stackminecraft2 {
 }
 
 val stackminecraft1 = [
-<rftools:oredict_module>, <rftools:generic_module>, <rftools:text_module>, <rftools:clock_module>, <rftools:elevator_button_module>, <rftools:button_module>, <rftools:regeneration_module>, <rftools:speed_module>, <rftools:haste_module>, <rftools:saturation_module>, <rftools:featherfalling_module>, <rftools:waterbreathing_module>, <rftools:nightvision_module>, <rftools:glowing_module>, <rftools:regenerationplus_module>, <rftools:speedplus_module>, <rftools:hasteplus_module>, <rftools:saturationplus_module>, <rftools:featherfallingplus_module>, <rftools:blindness_module>, <rftools:weakness_module>, <rftools:slowness_module>j, <rftools:flight_module>, <rftools:peaceful_module>, <rftools:poison_module>, <rftools:luck_module>, <rftools:noteleport_module>
+<rftools:oredict_module>, <rftools:generic_module>, <rftools:text_module>, <rftools:clock_module>, <rftools:elevator_button_module>, <rftools:button_module>, <rftools:regeneration_module>, <rftools:speed_module>, <rftools:haste_module>, <rftools:saturation_module>, <rftools:featherfalling_module>, <rftools:waterbreathing_module>, <rftools:nightvision_module>, <rftools:glowing_module>, <rftools:regenerationplus_module>, <rftools:speedplus_module>, <rftools:hasteplus_module>, <rftools:saturationplus_module>, <rftools:featherfallingplus_module>, <rftools:blindness_module>, <rftools:weakness_module>, <rftools:slowness_module>, <rftools:flight_module>, <rftools:peaceful_module>, <rftools:poison_module>, <rftools:luck_module>, <rftools:noteleport_module>
 ] as IItemStack[];
 for item in stackminecraft1 {
     item.maxStackSize = 1;
