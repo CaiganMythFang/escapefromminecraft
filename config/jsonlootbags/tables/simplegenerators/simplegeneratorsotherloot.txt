@@ -1,0 +1,18 @@
+#rolls: {"min": 1, "max": 2}
+simplegenerators:combustion_simple:0:1:50
+simplegenerators:culinary_simple:0:1:50
+simplegenerators:fluid_combustion_simple:0:1:50
+simplegenerators:combustion_upgradable:0:1:45
+simplegenerators:culinary_upgradable:0:1:45
+simplegenerators:fluid_combustion_upgradable:0:1:45
+simplegenerators:geothermal_simple:0:1:40
+simplegenerators:soul_simple:0:1:40
+simplegenerators:geothermal_upgradable:0:1:35
+simplegenerators:soul_upgradable:0:1:35
+simplegenerators:ender_simple:0:1:30
+simplegenerators:ender_upgradable:0:1:25
+simplegenerators:nether_simple:0:1:20
+simplegenerators:turbine_simple:0:1:20
+simplegenerators:nether_upgradable:0:1:15
+simplegenerators:turbine_upgradable:0:1:15
+valkyrielib:modifier_speed:0:1:30

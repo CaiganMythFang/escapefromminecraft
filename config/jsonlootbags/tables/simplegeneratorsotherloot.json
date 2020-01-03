@@ -1,0 +1,97 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "simplegenerators:combustion_simple",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:culinary_simple",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:fluid_combustion_simple",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:combustion_upgradable",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:culinary_upgradable",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:fluid_combustion_upgradable",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:geothermal_simple",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:soul_simple",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:geothermal_upgradable",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:soul_upgradable",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:ender_simple",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:ender_upgradable",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:nether_simple",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:turbine_simple",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:nether_upgradable",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "simplegenerators:turbine_upgradable",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "valkyrielib:modifier_speed",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}
