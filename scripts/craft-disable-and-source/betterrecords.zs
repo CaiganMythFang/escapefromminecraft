@@ -36,7 +36,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<betterrecords:wire>, <betterrecords:wirecutters>
+<betterrecords:wire>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
@@ -48,7 +48,7 @@ for item in lootpurchase {
 //loot, trade, purchase
 
 val loottradepurchase = [
-<betterrecords:recordetcher>, <betterrecords:frequencytuner>, <betterrecords:recordplayer>, <betterrecords:radio>, <betterrecords:speaker>, <betterrecords:strobelight>, <betterrecords:laser>, <betterrecords:lasercluster>, <betterrecords:speaker:1>, <betterrecords:speaker:2>, <betterrecords:frequencycrystal>, <betterrecords:record>
+<betterrecords:recordetcher>, <betterrecords:frequencytuner>, <betterrecords:recordplayer>, <betterrecords:radio>, <betterrecords:speaker>, <betterrecords:strobelight>, <betterrecords:laser>, <betterrecords:lasercluster>, <betterrecords:speaker:1>, <betterrecords:speaker:2>, <betterrecords:frequencycrystal>, <betterrecords:record>, <betterrecords:wirecutters>
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
