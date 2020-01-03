@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "rftools:smartwrench",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:network_monitor",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:charged_porter",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:advanced_charged_porter",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

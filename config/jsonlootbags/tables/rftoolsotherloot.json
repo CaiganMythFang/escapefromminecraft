@@ -1,0 +1,788 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "rftools:syringe",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:rftools_shape_manual",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:rftools_manual",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:scanner",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:composer",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:coalgenerator",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:builder",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_scanner",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:remote_scanner",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:projector",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:locator",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shape_card",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:modular_storage",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:crafter3",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:crafter2",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:item_filter",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:crafter1",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:generic_module",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:filter_module",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_module",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_module",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_module_tablet",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_module",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:remote_storage",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:powercell_simple",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:powercell",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:relay",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:powercell_advanced",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:matter_receiver",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:matter_transmitter",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:dialing_device",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:destination_analyzer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:matter_booster",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:screen_controller",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:text_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:clock_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:elevator_button_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:button_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:powercell_card",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:screen",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:counter_module",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:inventory_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:energy_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:fluid_module",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:counterplus_module",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:machineinformation_module",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:redstone_module",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_control_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:inventoryplus_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:energyplus_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:fluidplus_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:counter_block",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:digit_block",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:wire_block",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:timer_block",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:redstone_transmitter_block",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:redstone_receiver_block",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:sequencer_block",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:logic_block",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:sensor_block",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:simple_dialer",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:analog_block",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:ender_monitor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:storage_terminal",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:level_emitter",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:invchecker_block",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:space_chamber_controller",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:machine_infuser",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:space_chamber",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:space_chamber_card",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:liquid_monitor",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:rf_monitor",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rftools:security_manager",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:elevator",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:block_protector",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:booster",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:endergenic",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:pearl_injector",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:environmental_controller",
+          "weight": 6
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_block1",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_template_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_template_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_template_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_template_block",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_block2",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_block3",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:shield_block4",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:orphaning_card",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:security_card",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rftools:regeneration_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:speed_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:haste_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:saturation_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:featherfalling_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:waterbreathing_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:nightvision_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:glowing_module",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rftools:regenerationplus_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:speedplus_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:hasteplus_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:saturationplus_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:featherfallingplus_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:blindness_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:weakness_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:slowness_module",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rftools:flight_module",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rftools:peaceful_module",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rftools:poison_module",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rftools:luck_module",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rftools:noteleport_module",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}
