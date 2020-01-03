@@ -97385,6 +97385,2307 @@
           }
         }
       }
+    },
+    "1042:10": {
+      "questID:3": 1042,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:record",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Better Records",
+          "desc:8": "§8    Would you like to ETCH your own RECORDS? Have you found a file on the INTERNET that isn\u0027t broken, that has music you LIKE?\n\n    Then use the Record Etcher and a blank Record to ETCH it!\n\n    Afterwards, you can place the Record into a Record Player (sold separately!) to listen to it any time!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:recordetcher",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:record",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1043:10": {
+      "questID:3": 1043,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:recordplayer",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Better Record Player and Radio",
+          "desc:8": "§8    Want to listen to your own MUSIC?\n\n    The Record Player can play custom etched Records (sold separately)! Sneak + Right Click to open the lid, then Right Click a Record into it to start PLAYING!\n\n    The Radio accepts tuned Frequency Crystals (sold separately!) to Internet RADIO stations!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 75,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:recordplayer",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:radio",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1044:10": {
+      "questID:3": 1044,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:frequencycrystal",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Better Radios",
+          "desc:8": "§8    Have you found a surviving RADIO STATION you want to listen to more?\n\n    Use the Frequency Tuner to tune a Frequency Crystal to it! You can then put it into a Radio (sold separately!) to listen in!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:frequencytuner",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:frequencycrystal",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1045:10": {
+      "questID:3": 1045,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:wirecutters",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Better Speaker Tools",
+          "desc:8": "§8    Want to add some nice SPEAKERS or some LIGHTS and LASERS? (all sold separately)\n\n    Speaker Wire can be used to connect your various sound ACCESSORIES to your Radio or Record Player (both sold separately!).\n\n    The Wire Cutters are used to CUT down the Speaker Wire when you want to remove or REARRANGE."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 25,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:wirecutters",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:wire",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1046:10": {
+      "questID:3": 1046,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:strobelight",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Starter Radio Accessories",
+          "desc:8": "§8    All of these accessories must be connected via Speaker Wire!\n\n    Speakers can be added to BOOST your music range!\n\n    Strobe Lights add strobing LIGHT shows!\n\n    Lasers add LASERS!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 50,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:strobelight",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:laser",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1047:10": {
+      "questID:3": 1047,
+      "preRequisites:11": [
+        971
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:lasercluster",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Intermediate Radio Accessories",
+          "desc:8": "§8    All of these accessories must be connected via Speaker Wire!\n\n    Speakers can be added to BOOST your music range!\n\n    Laser Cluster adds even more LASERS!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 75,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 1,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:lasercluster",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1048:10": {
+      "questID:3": 1048,
+      "preRequisites:11": [
+        972
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:speaker",
+            "Count:3": 64,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Advanced Radio Accessories",
+          "desc:8": "§8    All of these accessories must be connected via Speaker Wire!\n\n    Speakers can be added to BOOST your music range!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1049:10": {
+      "questID:3": 1049,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:recordplayer",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Record Player",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:recordetcher",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1050:10": {
+      "questID:3": 1050,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:radio",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Radio",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:radio",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1051:10": {
+      "questID:3": 1051,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:recordetcher",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Record Etcher",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:recordetcher",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1052:10": {
+      "questID:3": 1052,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:record",
+            "Count:3": 1,
+            "tag:10": {
+              "display:10": {
+                "Name:8": "Any Better Record"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Better Records",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:record",
+              "Count:3": 1,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Better Record"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1053:10": {
+      "questID:3": 1053,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:frequencytuner",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Frequency Tuner",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:frequencytuner",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1054:10": {
+      "questID:3": 1054,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:frequencycrystal",
+            "Count:3": 1,
+            "tag:10": {
+              "display:10": {
+                "Name:8": "Any Better Crystal"
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Frequency Crystal",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:frequencycrystal",
+              "Count:3": 1,
+              "tag:10": {
+                "display:10": {
+                  "Name:8": "Any Better Crystal"
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1055:10": {
+      "questID:3": 1055,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:wirecutters",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Wire Cutters",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:wirecutters",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 5,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1056:10": {
+      "questID:3": 1056,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:speaker",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Small Speaker",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1057:10": {
+      "questID:3": 1057,
+      "preRequisites:11": [
+        971
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:speaker",
+            "Count:3": 64,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Buying : Medium Speaker",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1058:10": {
+      "questID:3": 1058,
+      "preRequisites:11": [
+        972
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:speaker",
+            "Count:3": 64,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Buying : Large Speaker",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:speaker",
+              "Count:3": 1,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 20,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1059:10": {
+      "questID:3": 1059,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:strobelight",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Strobe Light",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:strobelight",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1060:10": {
+      "questID:3": 1060,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:laser",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Buying : Laser",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:laser",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1061:10": {
+      "questID:3": 1061,
+      "preRequisites:11": [
+        971
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "betterrecords:lasercluster",
+            "Count:3": 64,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 1,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Buying : Laser Cluster",
+          "desc:8": "§8    Keeping entertained in this reportedly BLEAK  day to day is difficult.\n\n    A very common and popular way is to use MUSIC.\n\n    We are PURCHASING all Radio and Record related gear from the PRODUCT LINE Better Records."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "betterrecords:lasercluster",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 15,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1062:10": {
+      "questID:3": 1062,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:combustion_simple",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Simple Generators - Tier 1",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Combustion Generators burn SOLID FUEL!\n\n    Culinary Generators burn ANY FOOD!\n\n    Fluid Generators burn LIQUID FUEL!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 75,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:combustion_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:culinary_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:fluid_combustion_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1063:10": {
+      "questID:3": 1063,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "valkyrielib:modifier_speed",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Simple Generators - Speed Modifier",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Speed Modifiers boost the SPEED at which Upgradeable Generators work! "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "valkyrielib:modifier_speed",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1064:10": {
+      "questID:3": 1064,
+      "preRequisites:11": [
+        971
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:geothermal_simple",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Simple Generators - Tier 2",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Geothermal Generators burns LAVA!\n\n    Soul Generators burn SOUL MATERIAL, such as Heads and Skulls!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 100,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:geothermal_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:soul_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1065:10": {
+      "questID:3": 1065,
+      "preRequisites:11": [
+        954
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:combustion_upgradable",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[I] Selling : Upgradeable Generators - Tier 1",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Combustion Generators burn SOLID FUEL!\n\n    Culinary Generators burn ANY FOOD!\n\n    Fluid Generators burn LIQUID FUEL!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:combustion_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:culinary_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:fluid_combustion_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1066:10": {
+      "questID:3": 1066,
+      "preRequisites:11": [
+        971
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:geothermal_upgradable",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[II] Selling : Upgradeable Generators - Tier 2",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Geothermal Generators burns LAVA!\n\n    Soul Generators burn SOUL MATERIAL, such as Heads and Skulls!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 200,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:geothermal_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:soul_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1067:10": {
+      "questID:3": 1067,
+      "preRequisites:11": [
+        972
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:ender_simple",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Simple Generators - Tier 3",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Ender Generators burn ENDER PEARLS and EYES!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 150,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:ender_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1068:10": {
+      "questID:3": 1068,
+      "preRequisites:11": [
+        972
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:ender_upgradable",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[III] Selling : Upgradeable Generators - Tier 3",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Ender Generators burn ENDER PEARLS and EYES!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 300,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:ender_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1069:10": {
+      "questID:3": 1069,
+      "preRequisites:11": [
+        973
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:nether_simple",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Simple Generators - Tier 4",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Nether Generators burn NETHER STARS!\n\n    Steam Turbine Generators burn STEAM, if you can find it."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 250,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:nether_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:turbine_simple",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "1070:10": {
+      "questID:3": 1070,
+      "preRequisites:11": [
+        973
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "simplegenerators:nether_upgradable",
+            "Count:3": 2,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 1,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "repeat_relative:1": 1,
+          "name:8": "[IV] Selling : Upgradeable Generators - Tier 4",
+          "desc:8": "§8    Simple Generators are a PRODUCT LINE that is as it says, SIMPLE. Each Generator works with one kind of FUEL, and there are two versions : Simple and Upgradeable.\n\n    Simple Generators are cheaper.\n\n    Upgradeable Generators are more expensive, but can be sped up with Speed Modifiers.\n\n    Nether Generators burn NETHER STARS!\n\n    Steam Turbine Generators burn STEAM, if you can find it."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "modcurrency:banknote",
+              "Count:3": 500,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:nether_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "simplegenerators:turbine_upgradable",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -104512,14 +106813,14 @@
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": 144,
+          "x:3": 140,
           "y:3": 108,
           "id:3": 955,
           "sizeY:3": 24
         },
         "3:10": {
           "sizeX:3": 24,
-          "x:3": 192,
+          "x:3": 184,
           "y:3": 108,
           "id:3": 956,
           "sizeY:3": 24
@@ -104582,43 +106883,43 @@
         },
         "12:10": {
           "sizeX:3": 24,
-          "x:3": 116,
+          "x:3": 108,
           "y:3": 108,
           "id:3": 975,
           "sizeY:3": 24
         },
         "13:10": {
           "sizeX:3": 24,
-          "x:3": 88,
+          "x:3": 76,
           "y:3": 108,
           "id:3": 976,
           "sizeY:3": 24
         },
         "14:10": {
           "sizeX:3": 24,
-          "x:3": 220,
+          "x:3": 212,
           "y:3": 108,
           "id:3": 977,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 60,
+          "x:3": 44,
           "y:3": 108,
           "id:3": 978,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 248,
+          "x:3": 240,
           "y:3": 108,
           "id:3": 979,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
-          "x:3": 144,
-          "y:3": 232,
+          "x:3": 76,
+          "y:3": 140,
           "id:3": 980,
           "sizeY:3": 24
         },
@@ -104631,155 +106932,155 @@
         },
         "19:10": {
           "sizeX:3": 24,
-          "x:3": 348,
-          "y:3": 100,
+          "x:3": 340,
+          "y:3": 92,
           "id:3": 985,
           "sizeY:3": 24
         },
         "20:10": {
           "sizeX:3": 24,
-          "x:3": 468,
-          "y:3": 100,
+          "x:3": 456,
+          "y:3": 92,
           "id:3": 986,
           "sizeY:3": 24
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 376,
-          "y:3": 100,
+          "x:3": 368,
+          "y:3": 92,
           "id:3": 987,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
-          "x:3": 404,
-          "y:3": 100,
+          "x:3": 396,
+          "y:3": 92,
           "id:3": 988,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
-          "x:3": 392,
-          "y:3": 128,
+          "x:3": 384,
+          "y:3": 120,
           "id:3": 989,
           "sizeY:3": 24
         },
         "24:10": {
           "sizeX:3": 24,
-          "x:3": 364,
-          "y:3": 128,
+          "x:3": 356,
+          "y:3": 120,
           "id:3": 990,
           "sizeY:3": 24
         },
         "25:10": {
           "sizeX:3": 24,
-          "x:3": 440,
-          "y:3": 100,
+          "x:3": 428,
+          "y:3": 92,
           "id:3": 991,
           "sizeY:3": 24
         },
         "26:10": {
           "sizeX:3": 24,
-          "x:3": 440,
-          "y:3": 128,
+          "x:3": 484,
+          "y:3": 92,
           "id:3": 992,
           "sizeY:3": 24
         },
         "27:10": {
           "sizeX:3": 24,
-          "x:3": 468,
-          "y:3": 128,
+          "x:3": 428,
+          "y:3": 120,
           "id:3": 993,
           "sizeY:3": 24
         },
         "28:10": {
           "sizeX:3": 24,
-          "x:3": 440,
-          "y:3": 156,
+          "x:3": 456,
+          "y:3": 120,
           "id:3": 994,
           "sizeY:3": 24
         },
         "29:10": {
           "sizeX:3": 24,
-          "x:3": 468,
-          "y:3": 156,
+          "x:3": 484,
+          "y:3": 120,
           "id:3": 995,
           "sizeY:3": 24
         },
         "30:10": {
           "sizeX:3": 24,
-          "x:3": 32,
+          "x:3": 12,
           "y:3": 108,
           "id:3": 996,
           "sizeY:3": 24
         },
         "31:10": {
           "sizeX:3": 24,
-          "x:3": 284,
-          "y:3": 100,
+          "x:3": 276,
+          "y:3": 92,
           "id:3": 997,
           "sizeY:3": 24
         },
         "32:10": {
           "sizeX:3": 24,
-          "x:3": 312,
-          "y:3": 100,
+          "x:3": 304,
+          "y:3": 92,
           "id:3": 998,
           "sizeY:3": 24
         },
         "33:10": {
           "sizeX:3": 24,
-          "x:3": 284,
-          "y:3": 128,
+          "x:3": 276,
+          "y:3": 120,
           "id:3": 999,
           "sizeY:3": 24
         },
         "34:10": {
           "sizeX:3": 24,
-          "x:3": 312,
-          "y:3": 128,
+          "x:3": 304,
+          "y:3": 120,
           "id:3": 1000,
           "sizeY:3": 24
         },
         "35:10": {
           "sizeX:3": 24,
-          "x:3": 304,
-          "y:3": 164,
+          "x:3": 324,
+          "y:3": 192,
           "id:3": 1001,
           "sizeY:3": 24
         },
         "36:10": {
           "sizeX:3": 24,
-          "x:3": 332,
-          "y:3": 164,
+          "x:3": 352,
+          "y:3": 192,
           "id:3": 1002,
           "sizeY:3": 24
         },
         "37:10": {
           "sizeX:3": 24,
-          "x:3": 332,
+          "x:3": 436,
           "y:3": 192,
           "id:3": 1003,
           "sizeY:3": 24
         },
         "38:10": {
           "sizeX:3": 24,
-          "x:3": 360,
-          "y:3": 164,
+          "x:3": 380,
+          "y:3": 192,
           "id:3": 1004,
           "sizeY:3": 24
         },
         "39:10": {
           "sizeX:3": 24,
-          "x:3": 360,
+          "x:3": 464,
           "y:3": 192,
           "id:3": 1005,
           "sizeY:3": 24
         },
         "40:10": {
           "sizeX:3": 24,
-          "x:3": 388,
-          "y:3": 164,
+          "x:3": 408,
+          "y:3": 192,
           "id:3": 1006,
           "sizeY:3": 24
         },
@@ -104848,36 +107149,36 @@
         },
         "50:10": {
           "sizeX:3": 24,
-          "x:3": 424,
-          "y:3": 192,
+          "x:3": 324,
+          "y:3": 224,
           "id:3": 1016,
           "sizeY:3": 24
         },
         "51:10": {
           "sizeX:3": 24,
-          "x:3": 452,
-          "y:3": 192,
+          "x:3": 352,
+          "y:3": 224,
           "id:3": 1017,
           "sizeY:3": 24
         },
         "52:10": {
           "sizeX:3": 24,
-          "x:3": 480,
-          "y:3": 192,
+          "x:3": 380,
+          "y:3": 224,
           "id:3": 1018,
           "sizeY:3": 24
         },
         "53:10": {
           "sizeX:3": 24,
-          "x:3": 436,
-          "y:3": 220,
+          "x:3": 408,
+          "y:3": 224,
           "id:3": 1019,
           "sizeY:3": 24
         },
         "54:10": {
           "sizeX:3": 24,
-          "x:3": 464,
-          "y:3": 220,
+          "x:3": 436,
+          "y:3": 224,
           "id:3": 1020,
           "sizeY:3": 24
         },
@@ -104974,36 +107275,36 @@
         },
         "68:10": {
           "sizeX:3": 24,
-          "x:3": 352,
-          "y:3": 228,
+          "x:3": 292,
+          "y:3": 276,
           "id:3": 1034,
           "sizeY:3": 24
         },
         "69:10": {
           "sizeX:3": 24,
-          "x:3": 324,
-          "y:3": 228,
+          "x:3": 264,
+          "y:3": 276,
           "id:3": 1035,
           "sizeY:3": 24
         },
         "70:10": {
           "sizeX:3": 24,
-          "x:3": 380,
-          "y:3": 228,
+          "x:3": 320,
+          "y:3": 276,
           "id:3": 1036,
           "sizeY:3": 24
         },
         "71:10": {
           "sizeX:3": 24,
-          "x:3": 340,
-          "y:3": 256,
+          "x:3": 348,
+          "y:3": 276,
           "id:3": 1037,
           "sizeY:3": 24
         },
         "72:10": {
           "sizeX:3": 24,
-          "x:3": 368,
-          "y:3": 256,
+          "x:3": 376,
+          "y:3": 276,
           "id:3": 1038,
           "sizeY:3": 24
         },
@@ -105026,6 +107327,209 @@
           "x:3": 480,
           "y:3": 312,
           "id:3": 1041,
+          "sizeY:3": 24
+        },
+        "76:10": {
+          "sizeX:3": 24,
+          "x:3": 220,
+          "y:3": 312,
+          "id:3": 1042,
+          "sizeY:3": 24
+        },
+        "77:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": 312,
+          "id:3": 1043,
+          "sizeY:3": 24
+        },
+        "78:10": {
+          "sizeX:3": 24,
+          "x:3": 248,
+          "y:3": 312,
+          "id:3": 1044,
+          "sizeY:3": 24
+        },
+        "79:10": {
+          "sizeX:3": 24,
+          "x:3": 276,
+          "y:3": 312,
+          "id:3": 1045,
+          "sizeY:3": 24
+        },
+        "80:10": {
+          "sizeX:3": 24,
+          "x:3": 304,
+          "y:3": 312,
+          "id:3": 1046,
+          "sizeY:3": 24
+        },
+        "81:10": {
+          "sizeX:3": 24,
+          "x:3": 332,
+          "y:3": 312,
+          "id:3": 1047,
+          "sizeY:3": 24
+        },
+        "82:10": {
+          "sizeX:3": 24,
+          "x:3": 360,
+          "y:3": 312,
+          "id:3": 1048,
+          "sizeY:3": 24
+        },
+        "83:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": 212,
+          "id:3": 1049,
+          "sizeY:3": 24
+        },
+        "84:10": {
+          "sizeX:3": 24,
+          "x:3": 44,
+          "y:3": 212,
+          "id:3": 1050,
+          "sizeY:3": 24
+        },
+        "85:10": {
+          "sizeX:3": 24,
+          "x:3": 108,
+          "y:3": 212,
+          "id:3": 1051,
+          "sizeY:3": 24
+        },
+        "86:10": {
+          "sizeX:3": 24,
+          "x:3": 108,
+          "y:3": 244,
+          "id:3": 1052,
+          "sizeY:3": 24
+        },
+        "87:10": {
+          "sizeX:3": 24,
+          "x:3": 140,
+          "y:3": 212,
+          "id:3": 1053,
+          "sizeY:3": 24
+        },
+        "88:10": {
+          "sizeX:3": 24,
+          "x:3": 140,
+          "y:3": 244,
+          "id:3": 1054,
+          "sizeY:3": 24
+        },
+        "89:10": {
+          "sizeX:3": 24,
+          "x:3": 76,
+          "y:3": 212,
+          "id:3": 1055,
+          "sizeY:3": 24
+        },
+        "90:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": 244,
+          "id:3": 1056,
+          "sizeY:3": 24
+        },
+        "91:10": {
+          "sizeX:3": 24,
+          "x:3": 44,
+          "y:3": 244,
+          "id:3": 1057,
+          "sizeY:3": 24
+        },
+        "92:10": {
+          "sizeX:3": 24,
+          "x:3": 76,
+          "y:3": 244,
+          "id:3": 1058,
+          "sizeY:3": 24
+        },
+        "93:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": 276,
+          "id:3": 1059,
+          "sizeY:3": 24
+        },
+        "94:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": 308,
+          "id:3": 1060,
+          "sizeY:3": 24
+        },
+        "95:10": {
+          "sizeX:3": 24,
+          "x:3": 44,
+          "y:3": 276,
+          "id:3": 1061,
+          "sizeY:3": 24
+        },
+        "96:10": {
+          "sizeX:3": 24,
+          "x:3": 284,
+          "y:3": 156,
+          "id:3": 1062,
+          "sizeY:3": 24
+        },
+        "97:10": {
+          "sizeX:3": 24,
+          "x:3": 284,
+          "y:3": 180,
+          "id:3": 1063,
+          "sizeY:3": 24
+        },
+        "98:10": {
+          "sizeX:3": 24,
+          "x:3": 336,
+          "y:3": 156,
+          "id:3": 1064,
+          "sizeY:3": 24
+        },
+        "99:10": {
+          "sizeX:3": 24,
+          "x:3": 308,
+          "y:3": 156,
+          "id:3": 1065,
+          "sizeY:3": 24
+        },
+        "100:10": {
+          "sizeX:3": 24,
+          "x:3": 360,
+          "y:3": 156,
+          "id:3": 1066,
+          "sizeY:3": 24
+        },
+        "101:10": {
+          "sizeX:3": 24,
+          "x:3": 388,
+          "y:3": 156,
+          "id:3": 1067,
+          "sizeY:3": 24
+        },
+        "102:10": {
+          "sizeX:3": 24,
+          "x:3": 412,
+          "y:3": 156,
+          "id:3": 1068,
+          "sizeY:3": 24
+        },
+        "103:10": {
+          "sizeX:3": 24,
+          "x:3": 440,
+          "y:3": 156,
+          "id:3": 1069,
+          "sizeY:3": 24
+        },
+        "104:10": {
+          "sizeX:3": 24,
+          "x:3": 464,
+          "y:3": 156,
+          "id:3": 1070,
           "sizeY:3": 24
         }
       },
