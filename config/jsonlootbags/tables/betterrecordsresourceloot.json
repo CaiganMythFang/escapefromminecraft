@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "betterrecords:wire",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "betterrecords:frequencycrystal",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "betterrecords:record",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{color: 16777215, songs: [{size: 0, author: \"caigan\", name: \"TechnoAXE - Glass Canopy (theme)\", url: \"http://www.teknoaxe.com/Music/mobile_direct_download.php?file=Glass_Canopy.mp3\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
