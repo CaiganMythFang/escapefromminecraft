@@ -630,3 +630,27 @@ val rathats = [
 for item in rathats {
     <ore:rathats>.add(item);
 }
+
+val emergingbeef = [
+<emergingtechnology:syntheticbeefraw>
+] as IItemStack[];
+for item in emergingbeef {
+    <ore:listAllmeatraw>.add(item);
+    <ore:listAllbeefraw>.add(item);
+}
+
+val emergingchicken = [
+<emergingtechnology:syntheticchickenraw>
+] as IItemStack[];
+for item in emergingchicken {
+    <ore:listAllmeatraw>.add(item);
+    <ore:listAllchickenraw>.add(item);
+}
+
+val emergingpork = [
+<emergingtechnology:syntheticporkchopraw>
+] as IItemStack[];
+for item in emergingpork {
+    <ore:listAllmeatraw>.add(item);
+    <ore:listAllporkraw>.add(item);
+}
