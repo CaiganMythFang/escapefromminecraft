@@ -411,6 +411,34 @@
     {
       "item": "harvestcraft:freshmilkitem|0",
       "emc": 1000
+    },
+    {
+      "item": "rftools:machine_frame|0",
+      "emc": 5076
+    },
+    {
+      "item": "rftools:dimensional_shard|0",
+      "emc": 440
+    },
+    {
+      "item": "rftools:infused_diamond|0",
+      "emc": 11712
+    },
+    {
+      "item": "rftools:infused_enderpearl|0",
+      "emc": 4544
+    },
+    {
+      "item": "minecraft:diamond_pickaxe|0",
+      "emc": 24576
+    },
+    {
+      "item": "minecraft:diamond_shovel|0",
+      "emc": 8192
+    },
+    {
+      "item": "rftools:syringe|0",
+      "emc": 250
     }
   ]
 }
