@@ -13,7 +13,8 @@ val basicore = [
 <quark:biotite_ore>,
 <geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>,
 <tconstruct:ore:1>, <tconstruct:ore>,
-<rftools:dimensional_shard_ore>, <rftools:dimensional_shard_ore:1>, <rftools:dimensional_shard_ore:2>
+<rftools:dimensional_shard_ore>, <rftools:dimensional_shard_ore:1>, <rftools:dimensional_shard_ore:2>,
+<ebwizardry:crystal_ore>
 ] as IItemStack[];
 for item in basicore {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
@@ -43,6 +44,20 @@ val basicore2 = [
 ] as IItemStack[];
 for item in basicore2 {
 mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:compressedruins>);
+mods.ItemStages.setUnfamiliarName("Corrupted Item", item);
+mods.ItemStages.addItemStage("corrupted_ore", item);
+item.displayName = "Corrupted Item";
+<ore:corruptedore>.add(item);
+}
+
+/////////////////TEMPORARY GATE
+//Gate Kamen Rider ores to glowing junk
+
+val basicore33 = [
+<kamenridercraft4th:gaiamemoryblock>, <kamenridercraft4th:gaiamemoryhellrock>, <kamenridercraft4th:cellmedalblock>, <kamenridercraft4th:ooo_hellrock>, <kamenridercraft4th:astroswitchblock>, <kamenridercraft4th:swichhellrock>, <kamenridercraft4th:wizardgemblock>, <kamenridercraft4th:hellwizardgemblock>, <kamenridercraft4th:himawari_lockseedblock>, <kamenridercraft4th:hellrock_lockseedblock>, <kamenridercraft4th:drive_stone>, <kamenridercraft4th:hellrock_drive>, <kamenridercraft4th:ghost_iconsblock>, <kamenridercraft4th:ghost_icons_hellrock>, <kamenridercraft4th:bugsters_stone>, <kamenridercraft4th:gemdeus_stone>, <kamenridercraft4th:pandora_box>, <kamenridercraft4th:pandora_box_hellrock>, <kamenridercraft4th:pandora_box_hellrock_2>, <kamenridercraft4th:watch_stone>, <kamenridercraft4th:watch_hellrock>, <kamenridercraft4th:amazon_cell_block>
+] as IItemStack[];
+for item in basicore33 {
+mods.orestages.OreStages.addReplacement("corrupted_ore", item, <contenttweaker:glowingruins>);
 mods.ItemStages.setUnfamiliarName("Corrupted Item", item);
 mods.ItemStages.addItemStage("corrupted_ore", item);
 item.displayName = "Corrupted Item";
