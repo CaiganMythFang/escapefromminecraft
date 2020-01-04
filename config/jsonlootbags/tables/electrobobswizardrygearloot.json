@@ -1,0 +1,1962 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_handbook",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_healing_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:magic_wand",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_fire_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_ice_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_lightning_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_necromancy_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_earth_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:novice_sorcery_wand",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_fire_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_ice_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_lightning_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_necromancy_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_earth_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_sorcery_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:apprentice_healing_wand",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_fire_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_ice_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_lightning_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_necromancy_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_earth_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_sorcery_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:advanced_healing_wand",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_fire_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_ice_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_lightning_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_necromancy_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_earth_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_sorcery_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:master_healing_wand",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:small_mana_flask",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:medium_mana_flask",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:large_mana_flask",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:identification_scroll",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:purifying_elixir",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:firebomb",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:poison_bomb",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:smoke_bomb",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spark_bomb",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_fire",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_fire",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_fire",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_fire",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_ice",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_ice",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_ice",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_ice",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_lightning",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_lightning",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_lightning",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_lightning",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_necromancy",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_necromancy",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_necromancy",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_necromancy",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_earth",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_earth",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_earth",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_earth",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_sorcery",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_sorcery",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_sorcery",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_sorcery",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_hat_healing",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_robe_healing",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_leggings_healing",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:wizard_boots_healing",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_condensing",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_siphoning",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_recovery",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_arcane_defence",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_minion_health",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_haggler",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_feeding",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_transportation",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_auto_smelt",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_experience_tome",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_wither_immunity",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_anchoring",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_auto_shield",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_banishing",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_transience",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_resurrection",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_wisdom",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_lich",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_battlemage",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_warding",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_combustion",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_fire_melee",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_fire_biome",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_disintegration",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_fire_cloaking",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_fire_protection",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_ice_melee",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_ice_biome",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_arcane_frost",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_shattering",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_ice_protection",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_ice_immunity",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_lava_walking",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_lightning_melee",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_storm",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_seeking",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_hammer",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_potential",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_storm",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_channeling",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_extraction",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_mana_return",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_blockwrangler",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_stop_time",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_light",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_poison",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_earth_melee",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_earth_biome",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_full_moon",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:amulet_glide",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_silk_touch",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_abseiling",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_flight",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_growth",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_interdiction",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_paladin",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_defender",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_conjurer",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_soulbinding",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_leeching",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_necromancy_melee",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:ring_mind_control",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:charm_minion_variants",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:arcane_tome",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:arcane_tome",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:arcane_tome",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 142
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 145
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 143
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 111
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 112
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 113
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 141
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 144
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 118
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 151
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 20
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 21
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 150
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 122
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 19
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 23
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 40
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 33
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 43
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 115
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 30
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 120
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 27
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 38
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 28
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 18
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 25
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 32
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 123
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 17
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 26
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 47
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 39
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 116
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 42
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 121
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 41
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 149
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 16
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 114
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 35
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 119
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 24
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 147
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 46
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 44
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 29
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 117
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 45
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 148
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 34
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 36
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 37
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 146
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 22
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 31
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 74
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 65
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 162
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 156
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 126
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 48
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 166
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 83
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 133
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 70
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 129
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 153
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 56
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 90
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 75
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 80
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 158
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 164
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 134
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 59
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 127
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 88
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 50
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 159
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 165
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 49
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 152
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 68
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 130
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 51
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 157
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 53
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 124
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 72
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 64
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 84
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 76
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:spell_book",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 58
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
