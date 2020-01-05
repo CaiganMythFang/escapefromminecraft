@@ -1,0 +1,1227 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "psi:programmer",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_assembler",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_core",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_socket",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_battery",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_core",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_socket",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_battery",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:shielded_battery",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 17
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:virtual_thread_cad_core",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_socket",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:wide_socket",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_battery",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_colorizer_",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 16
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_core",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_core",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_socket",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:unstable_battery",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:twinflow_battery",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:hyperthreaded_cad_core",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:optimized_cad_core",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_socket",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:spell_drive",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:liquid_colorizer",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:empty_colorizer",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_assembly",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_assembly",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_assembly",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:cad_assembly",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:overclocked_cad_assembly",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:underclocked_cad_assembly",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:undervolted_cad_assembly",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:overvolted_cad_assembly",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "psi:psi_decorative",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:psi_decorative",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:psi_decorative",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:psi_decorative",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:bright_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 8
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 9
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 10
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 11
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 13
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 14
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:dark_plate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:exosuit_sensor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "psi:exosuit_sensor",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:exosuit_sensor",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "psi:exosuit_sensor",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:trigger_sensor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:biotic_sensor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_black",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_red",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_green",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_brown",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_blue",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_purple",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_cyan",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_silver",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_gray",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_pink",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_lime",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_yellow",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_light_blue",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_magenta",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_orange",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rpsideas:cad_case_white",
+          "weight": 30
+        }
+      ]
+    }
+  ]
+}
