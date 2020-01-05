@@ -36,7 +36,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<arcademod:coin>
+<modcurrency:blockvending>, <modcurrency:blockexchanger>, <modcurrency:guidebook>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
@@ -60,7 +60,7 @@ for item in loottradepurchase {
 // Loot Trade
 
 val loottrade = [
-<arcademod:arcade_machine>, <arcademod:prize_box>
+
 ] as IItemStack[];
 for item in loottrade {
     recipes.remove(item);
@@ -72,7 +72,7 @@ for item in loottrade {
 // Loot Craft Trade
 
 val lootcrafttrade = [
-
+<modcurrency:banknote:1>, <modcurrency:banknote:2>, <modcurrency:banknote:3>, <modcurrency:banknote:4>, <modcurrency:banknote:5>, <modcurrency:banknote>, <modcurrency:coin>, <modcurrency:coin:1>, <modcurrency:coin:2>, <modcurrency:coin:3>, <modcurrency:coin:4>, <modcurrency:coin:5>
 ] as IItemStack[];
 for item in lootcrafttrade {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade"));

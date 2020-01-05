@@ -43,7 +43,7 @@ for item in stackminecraft5 {
 }
 
 val stackminecraft2 = [
-
+<modcurrency:blockvending>, <modcurrency:blockexchanger>
 ] as IItemStack[];
 for item in stackminecraft2 {
     item.maxStackSize = 2;
@@ -55,3 +55,4 @@ val stackminecraft1 = [
 for item in stackminecraft1 {
     item.maxStackSize = 1;
 }
+
