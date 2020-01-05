@@ -1,0 +1,8 @@
+#rolls: {"min": 1, "max": 2}
+arcademod:arcade_machine:0:1:50:{Game: 0}
+arcademod:arcade_machine:0:1:50:{Game: 1}
+arcademod:arcade_machine:0:1:50:{Game: 2}
+arcademod:arcade_machine:0:1:50:{Game: 3}
+arcademod:plushie:0:1:50:{Mob: 1}
+arcademod:plushie:0:1:50:{Mob: 0}
+arcademod:prize_box:0:1:30
