@@ -1,0 +1,10 @@
+#rolls: {"min": 1, "max": 2}
+modcurrency:upgrade:1:1:50
+modcurrency:upgrade:2:1:40
+modcurrency:upgrade:3:1:30
+modcurrency:upgrade:4:1:20
+modcurrency:upgrade:5:1:10
+modcurrency:wallet:0:1:50
+modcurrency:blockvending:0:1:40
+modcurrency:blockexchanger:0:1:4
+modcurrency:guidebook:0:1:50

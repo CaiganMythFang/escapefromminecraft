@@ -1,0 +1,87 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "modcurrency:upgrade",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:upgrade",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:upgrade",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:upgrade",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:upgrade",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:wallet",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:blockvending",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:blockexchanger",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:guidebook",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}

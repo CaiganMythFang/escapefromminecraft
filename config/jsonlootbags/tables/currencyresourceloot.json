@@ -1,0 +1,220 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:banknote",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 3
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "modcurrency:coin",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 5
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
