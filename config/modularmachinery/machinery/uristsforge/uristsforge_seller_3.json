@@ -1,0 +1,32 @@
+{
+    "registryname": "uristsforge_seller_3",
+    "localizedname": "Urist's Forge Rank III Dropbox",
+    "requires-blueprint": false,
+    "color": "c2c2c2",
+    "parts": [
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"TrophyName":"Urist's Forge Rank III"},
+            "elements": [
+                "simple_trophies:trophy@0"
+            ]
+        }
+    ]}

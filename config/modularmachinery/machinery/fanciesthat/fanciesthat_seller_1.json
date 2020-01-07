@@ -1,0 +1,32 @@
+{
+    "registryname": "fanciesthat_seller_1",
+    "localizedname": "Fanciest Hat Rank I Dropbox",
+    "requires-blueprint": false,
+    "color": "2ee2b1",
+    "parts": [
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"TrophyName":"Fanciest Hat Rank I"},
+            "elements": [
+                "simple_trophies:trophy@0"
+            ]
+        }
+    ]}

@@ -1,0 +1,32 @@
+{
+    "registryname": "theyap_seller_4",
+    "localizedname": "The YAP Rank IV Dropbox",
+    "requires-blueprint": false,
+    "color": "00c0ff",
+    "parts": [
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"TrophyName":"The YAP Rank IV"},
+            "elements": [
+                "simple_trophies:trophy@0"
+            ]
+        }
+    ]}
