@@ -28,7 +28,7 @@ val corrupted = [
 ] as IItemStack[];
 for item in corrupted {
     mods.ItemStages.setUnfamiliarName("Corrupted Item", item);
-    mods.ItemStages.addItemStage("corrupted_ore", item);
+    mods.ItemStages.addItemStage("corrupted_admin", item);
     item.displayName = "Corrupted Item";
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
     item.addTooltip(format.bold(format.red("This block will rapidly corrupt when placed. Be careful!")));
