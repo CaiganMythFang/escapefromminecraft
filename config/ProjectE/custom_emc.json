@@ -439,6 +439,38 @@
     {
       "item": "rftools:syringe|0",
       "emc": 250
+    },
+    {
+      "item": "ebwizardry:magic_crystal|0",
+      "emc": 512
+    },
+    {
+      "item": "psi:material|0",
+      "emc": 64
+    },
+    {
+      "item": "psi:material|1",
+      "emc": 2048
+    },
+    {
+      "item": "psi:material|2",
+      "emc": 8192
+    },
+    {
+      "item": "psi:material|5",
+      "emc": 128
+    },
+    {
+      "item": "psi:material|6",
+      "emc": 256
+    },
+    {
+      "item": "psi:material|3",
+      "emc": 3072
+    },
+    {
+      "item": "psi:material|4",
+      "emc": 4096
     }
   ]
 }
