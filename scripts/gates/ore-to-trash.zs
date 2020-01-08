@@ -11,7 +11,7 @@ val basicore = [
 <armorplus:ore_lava_crystal>, 
 <cyclicmagic:end_coal_ore>, <cyclicmagic:end_redstone_ore>, <cyclicmagic:nether_diamond_ore>, <cyclicmagic:nether_emerald_ore>, <cyclicmagic:nether_lapis_ore>, <cyclicmagic:nether_coal_ore>, <cyclicmagic:nether_gold_ore>, <cyclicmagic:nether_iron_ore>, <cyclicmagic:nether_redstone_ore>, <cyclicmagic:end_lapis_ore>, <cyclicmagic:end_emerald_ore>, <cyclicmagic:end_diamond_ore>, <cyclicmagic:end_gold_ore>, <cyclicmagic:end_iron_ore>,
 <quark:biotite_ore>,
-<geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>,
+<geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>, <geolosys:ore_vanilla:6>, <geolosys:ore_vanilla:5>, <geolosys:ore_vanilla:4>, <geolosys:ore_vanilla:3>, <geolosys:ore_vanilla:2>, <geolosys:ore_vanilla:1>, <geolosys:ore_vanilla>
 <tconstruct:ore:1>, <tconstruct:ore>,
 <rftools:dimensional_shard_ore>, <rftools:dimensional_shard_ore:1>, <rftools:dimensional_shard_ore:2>,
 <ebwizardry:crystal_ore>
