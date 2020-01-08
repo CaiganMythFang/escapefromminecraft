@@ -24,7 +24,7 @@ for item in stackminecraft1 {
 // Corrupted
 
 val corrupted = [
-<geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>
+<geolosys:ore>, <geolosys:ore:1>, <geolosys:ore:2>, <geolosys:ore:3>, <geolosys:ore:4>, <geolosys:ore:5>, <geolosys:ore:6>, <geolosys:ore:7>, <geolosys:ore:10>, <geolosys:ore:9>, <geolosys:ore:8>, <geolosys:ore_vanilla:6>, <geolosys:ore_vanilla:5>, <geolosys:ore_vanilla:4>, <geolosys:ore_vanilla:3>, <geolosys:ore_vanilla:2>, <geolosys:ore_vanilla:1>, <geolosys:ore_vanilla>
 ] as IItemStack[];
 for item in corrupted {
     recipes.remove(item);
