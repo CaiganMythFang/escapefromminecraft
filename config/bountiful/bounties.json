@@ -1,210 +1,344 @@
 [
   {
-    "content": "minecraft:dirt",
-    "amount": {
-      "min": 16,
-      "max": 128
-    },
-    "unitWorth": 5,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:stone",
-    "amount": {
-      "min": 16,
-      "max": 128
-    },
-    "unitWorth": 10,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:cobblestone",
-    "amount": {
-      "min": 16,
-      "max": 128
-    },
-    "unitWorth": 7,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:fish",
-    "amount": {
-      "min": 2,
-      "max": 32
-    },
-    "unitWorth": 80,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:apple",
-    "amount": {
-      "min": 2,
-      "max": 32
-    },
-    "unitWorth": 70,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:book",
-    "amount": {
-      "min": 2,
-      "max": 16
-    },
-    "unitWorth": 80,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:cactus",
-    "amount": {
-      "min": 2,
-      "max": 32
-    },
-    "unitWorth": 80,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:diamond",
+    "content": "raiders:brute_serum",
     "amount": {
       "min": 1,
-      "max": 8
+      "max": 3
     },
-    "unitWorth": 1600,
+    "unitWorth": 180,
     "weight": 100
   },
   {
-    "content": "minecraft:dispenser",
+    "content": "raiders:sat_transmitter_part",
     "amount": {
       "min": 1,
-      "max": 6
+      "max": 3
     },
-    "unitWorth": 200,
+    "unitWorth": 180,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:iron_bars",
+    "amount": {
+      "min": 1,
+      "max": 25
+    },
+    "unitWorth": 4,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:iron_door",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 20,
     "weight": 100
   },
   {
     "content": "minecraft:iron_ingot",
     "amount": {
       "min": 1,
-      "max": 32
+      "max": 10
     },
-    "unitWorth": 200,
+    "unitWorth": 10,
     "weight": 100
   },
   {
-    "content": "minecraft:bread",
+    "content": "geolosys:ingot:0",
     "amount": {
       "min": 1,
-      "max": 12
+      "max": 10
     },
-    "unitWorth": 60,
+    "unitWorth": 5,
     "weight": 100
   },
   {
-    "content": "minecraft:rotten_flesh",
+    "content": "geolosys:ingot:1",
     "amount": {
       "min": 1,
-      "max": 24
+      "max": 10
     },
-    "unitWorth": 55,
+    "unitWorth": 5,
     "weight": 100
   },
   {
-    "content": "minecraft:sign",
+    "content": "geolosys:ingot:4",
     "amount": {
       "min": 1,
-      "max": 16
+      "max": 10
     },
-    "unitWorth": 65,
+    "unitWorth": 50,
     "weight": 100
   },
   {
-    "content": "minecraft:slime_ball",
+    "content": "geolosys:ingot:2",
     "amount": {
       "min": 1,
-      "max": 32
+      "max": 10
     },
-    "unitWorth": 60,
+    "unitWorth": 50,
     "weight": 100
   },
   {
-    "content": "minecraft:spider_eye",
+    "content": "techguns:itemshared:9",
     "amount": {
       "min": 1,
-      "max": 16
+      "max": 5
     },
-    "unitWorth": 75,
+    "unitWorth": 30,
     "weight": 100
   },
   {
-    "content": "minecraft:string",
+    "content": "minecraft:book",
     "amount": {
-      "min": 1,
-      "max": 24
+      "min": 5,
+      "max": 25
     },
-    "unitWorth": 35,
+    "unitWorth": 5,
     "weight": 100
   },
   {
-    "content": "minecraft:sugar",
+    "content": "cyclicmagic:plate_push_slow_corner",
     "amount": {
       "min": 1,
-      "max": 64
+      "max": 5
     },
-    "unitWorth": 55,
+    "unitWorth": 32,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_push_slow",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 32,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_push",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 16,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_push_corner",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 16,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_push_fast",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 56,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_push_fast_corner",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 56,
+    "weight": 25
+  },
+  {
+    "content": "minecraft:anvil",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 250,
     "weight": 100
   },
   {
-    "content": "minecraft:tripwire_hook",
+    "content": "minecraft:gunpowder",
     "amount": {
-      "min": 1,
-      "max": 8
+      "min": 2,
+      "max": 10
     },
-    "unitWorth": 70,
+    "unitWorth": 9,
     "weight": 100
   },
   {
-    "content": "minecraft:wheat",
+    "content": "cyclicmagic:plate_launch_small",
     "amount": {
       "min": 1,
-      "max": 48
+      "max": 5
+    },
+    "unitWorth": 25,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_launch_med",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 25,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_launch_large",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 25,
+    "weight": 25
+  },
+  {
+    "content": "cyclicmagic:plate_launch_extra",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 25,
+    "weight": 25
+  },
+  {
+    "content": "minecraft:enchanting_table",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 400,
+    "weight": 25
+  },
+  {
+    "content": "techguns:itemshared:11",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 38,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:glowstone_dust",
+    "amount": {
+      "min": 1,
+      "max": 5
     },
     "unitWorth": 20,
     "weight": 100
   },
   {
-    "content": "minecraft:leather",
+    "content": "minecraft:bone",
     "amount": {
       "min": 1,
-      "max": 12
+      "max": 15
     },
-    "unitWorth": 90,
+    "unitWorth": 10,
     "weight": 100
   },
   {
-    "content": "entity:minecraft:zombie",
+    "content": "minecraft:quartz",
     "amount": {
       "min": 1,
-      "max": 8
+      "max": 5
     },
-    "unitWorth": 120,
-    "weight": 300
+    "unitWorth": 20,
+    "weight": 100
   },
   {
-    "content": "entity:minecraft:skeleton",
-    "amount": {
-      "min": 1,
-      "max": 6
-    },
-    "unitWorth": 140,
-    "weight": 250
-  },
-  {
-    "content": "minecraft:potion",
+    "content": "cfm:door_mat",
     "amount": {
       "min": 1,
       "max": 3
     },
-    "unitWorth": 300,
-    "weight": 100,
-    "nbt_data": "{Potion: \"minecraft:healing\"}"
+    "unitWorth": 32,
+    "weight": 25
+  },
+  {
+    "content": "bhc:red_heart",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 250,
+    "weight": 25
+  },
+  {
+    "content": "cfm:couch",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 32,
+    "weight": 25
+  },
+  {
+    "content": "conarm:armorforge",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 800,
+    "weight": 25
+  },
+  {
+    "content": "cfm:digital_clock:14",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 32,
+    "weight": 25
+  },
+  {
+    "content": "minecraft:diamond",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 250,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:redstone",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:dye:4",
+    "amount": {
+      "min": 1,
+      "max": 10
+    },
+    "unitWorth": 28,
+    "weight": 100
+  },
+  {
+    "content": "entity:raiders:brute",
+    "amount": {
+      "min": 1,
+      "max": 2
+    },
+    "unitWorth": 250,
+    "weight": 100
+  },
+  {
+    "content": "entity:raiders:raider",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 200,
+    "weight": 100
   }
 ]
