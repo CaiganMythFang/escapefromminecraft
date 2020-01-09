@@ -205,7 +205,7 @@ for item in kamenriderzxweapon {
 }
 
 val kamenriderzxcomp = [
-<kamenridercraft4th:king_stone_core>, <kamenridercraft4th:zx_belt_core>, <kamenridercraft4th:bio_rider>
+<kamenridercraft4th:king_stone_core>, <kamenridercraft4th:zx_belt_core>
 ] as IItemStack[];
 for item in kamenriderzxcomp {
     item.addTooltip(format.gold(format.bold("-- RIDER COMPONENT --")));
