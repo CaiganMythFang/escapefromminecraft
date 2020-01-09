@@ -29,7 +29,7 @@ for item in stackminecraft16 {
 }
 
 val stackminecraft10 = [
-<contenttweaker:compressedruins>
+<contenttweaker:compressedruins>, <contenttweaker:glowingruins>
 ] as IItemStack[];
 for item in stackminecraft10 {
     item.maxStackSize = 10;
