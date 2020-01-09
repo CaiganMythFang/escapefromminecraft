@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 //Flea Market Catagories
 
 val fleamarketcheap = [
-<props:props:*>
+<props:props:*>, <props:clay>, <props:clay:1>, <props:clay:2>
 ] as IItemStack[];
 for item in fleamarketcheap {
     <ore:fleamarketcheap>.add(item);
