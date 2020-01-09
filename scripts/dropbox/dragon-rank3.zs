@@ -7,7 +7,7 @@ import mods.modularmachinery.RecipePrimer;
 
 // tank Turn In (Dragon's Hoard 1)
 
-val dragontank1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragontank1", "dragonshoard_seller_3", 100, 0);
+val dragontank1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragrank3dragontank1", "dragonshoard_seller_3", 100, 0);
 
 dragontank1.addItemInput(<travellersbackpack:backpack_tank>);
 dragontank1.addItemOutput(<modcurrency:banknote:2> * 15);
@@ -17,7 +17,7 @@ dragontank1.build();
 
 // sleepingbag Turn In (Dragon's Hoard 1)
 
-val dragonsleepbag1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragonsleepbag1", "dragonshoard_seller_3", 100, 0);
+val dragonsleepbag1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragrank3dragonsleepbag1", "dragonshoard_seller_3", 100, 0);
 
 dragonsleepbag1.addItemInput(<travellersbackpack:sleeping_bag_bottom>);
 dragonsleepbag1.addItemOutput(<modcurrency:banknote:2> * 15);
@@ -27,7 +27,7 @@ dragonsleepbag1.build();
 
 // hose Turn In (Dragon's Hoard 1)
 
-val dragonhose1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragonhose1", "dragonshoard_seller_3", 100, 0);
+val dragonhose1 = mods.modularmachinery.RecipeBuilder.newBuilder("dragrank3dragonhose1", "dragonshoard_seller_3", 100, 0);
 
 dragonhose1.addItemInput(<travellersbackpack:hose_nozzle>);
 dragonhose1.addItemOutput(<modcurrency:banknote:2> * 15);
