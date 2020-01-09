@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<malisisdoors:sliding_trapdoor>, <malisisdoors:saloon>, <malisisdoors:verticalhatch>, <malisisdoors:garage_door>, <malisisdoors:carriage_door>, <malisisdoors:medieval_door>, <malisisdoors:rustyhatch>, <malisisdoors:hitechdoor>
+<malisisdoors:sliding_trapdoor>, <malisisdoors:saloon>, <malisisdoors:verticalhatch>, <malisisdoors:garage_door>, <malisisdoors:carriage_door>, <malisisdoors:medieval_door>, <malisisdoors:rustyhatch>, <malisisdoors:hitechdoor>, <malisisdoors:forcefielditem>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);
