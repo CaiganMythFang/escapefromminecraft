@@ -49,12 +49,375 @@
         },
         {
           "type": "item",
+          "name": "contenttweaker:dogtags-blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Frozen's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-red",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"VADIM's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-rainbow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Boris's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Gopnik's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Furryious' Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-rainbow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Daddy Prappy's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Skeeyore's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-yellow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Buttered Toast's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-black",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Loceteus of Borb's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"RootyTootyPointNShooty's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-black",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"xXxD3THL0RDxXx's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"IOfDSpidr's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-rainbow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Dr Shiba-In-U's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-orange",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Sir Curls-a-lot's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-rainbow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"AAAAAAaaAAaaAAaAaaAAAAAAHHHHHH!!!!'s Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
           "name": "contenttweaker:dogtags-white",
           "weight": 50,
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"Unruly Ferret's Dog Tags\"}}"
+              "tag": "{display:{Name:\"Anatoli Anatolivich's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-yellow",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Boris Boriski's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-purple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Wahrio's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-purple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Donutlover86's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-white",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Jack Mickelson's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-green",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Hans Holzmann's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Warren Peace's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Barry D.Hatchett's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-red",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Justin Thyme's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-orange",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Bea O'Problem's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Ashy Kattbjorn's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"AmbientGryph's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-orange",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Sekh's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Marosek's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Killerbunnys' Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-blue",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"KITE's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-purple",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"Ailure's Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-orange",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"_Autumn__'s Dog Tags\"}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:dogtags-black",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"LynxieVice's Dog Tags\"}}"
             }
           ]
         }
