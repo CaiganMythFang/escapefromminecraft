@@ -270,22 +270,22 @@ val glowingx5 = mods.modularmachinery.RecipeBuilder.newBuilder("glowingruinsx5",
 glowingx5.addItemInput(<ore:glowingore>, 5);
 
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 // 25% for a Rider Case, 1 times
-glowingx5.addItemOutput(<contenttweaker:rider-case>);
+glowingx5.addItemOutput(<jsonlootbags:rider_case>);
 glowingx5.setChance(0.25);
 
 // 5% for a quarter, 2 times
@@ -428,7 +428,7 @@ val glowing = mods.modularmachinery.RecipeBuilder.newBuilder("glowingruins", "cl
 glowing.addItemInput(<contenttweaker:glowingruins>);
 
 // 25% for a Rider Case, 1 times
-glowing.addItemOutput(<contenttweaker:rider-case>);
+glowing.addItemOutput(<jsonlootbags:rider_case>);
 glowing.setChance(0.25);
 
 // 5% for a quarter, 2 times
