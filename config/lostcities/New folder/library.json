@@ -266,17 +266,10 @@
             "block": "cfm:cabinet_kitchen@10"
           },
           {
-            "random": 10000,
+            "random": 1000,
             "block": "cfm:counter@11"
           }
-        ],
-        "facing": {
-          "north": 4,
-          "south": 3,
-          "west": 2,
-          "east": 1,
-          "up": 5
-        }
+        ]
       },
       {
         "char": "3",
