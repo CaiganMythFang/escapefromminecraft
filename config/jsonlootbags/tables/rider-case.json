@@ -1,0 +1,3166 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_circuit",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:base_sword",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:riderman_belt_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ridol_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:condorer_wheel",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:electrer_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:charge_up",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:tornado_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:cyclode_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zx_belt_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:king_stone_split",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:king_stone_core",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:j_spirit",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:grasshopper_dna",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zo_core",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:robo_rider",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bio_rider",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_growing",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_mighty",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_pegasus",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_dragon",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_titan",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_rising_ultimate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_ultimate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_amazing_mighty",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_rising_mighty",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_rising_dragon",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_rising_pegasus",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_rising_titan",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuuga_super_rising_ultimate",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_of_seed",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3core",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_flame",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_storm",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_shining",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_ground",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g1",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gills",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:exceed_gills",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:another_agito_burning_form",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_trinity",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_burning",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g4",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3mild",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g4x",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agito_miracle",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:another_agito",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3x",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:contract_advent",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dragreder_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dragblacker_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:evildiver_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:magnugiga_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:venosnaker_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:darkwing_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:blancwing_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:goldphoenix_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:biogreeza_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:psycorogue_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:destwilder_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gigazelle_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abysslasher_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:metalgelas_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:volcancer_advent",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gold_sabers_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:veno_saber_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:metal_horn_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:survive_mugen_advent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:survive_shippu_advent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:giga_armor_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alternative_sword_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:survive_advent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gold_shield_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dest_claws_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_shield_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_slasher_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abyssmash_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abyss_saber_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shell_defense_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:scissors_pincer_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_blade_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_shield_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_saber_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_claw_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_visor_zwei_sword_mode_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:blank_sword_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryuga_drag_claw_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryuga_drag_saber_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryuga_drag_shield_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_lancer_vent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:blank_mission_memory",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:orga_mission_memory",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiz_mission_memory",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiz_axel_mission_memory",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiz_blaster_mission_memory",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:psyga_mission_memory",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:delta_mission_memory",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kaixa_mission_memory",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bladecard",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:changekerberoslarc",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:absorb_tiger",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:absorb_serpent",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:evolution_giraffa",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fusion_peacock",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:absorb_capricorn",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fusion_eagle",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fusion_elephant",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:evolution_paradoxa",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:changekerberoslance",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:evolution_caucasus",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:change_stag",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:change_spider",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:change_mantis",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:changekerberosglaive",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:changebeetle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:oni_ore",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:oni_orehell",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_nishiki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_kigen_sabaki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_kigen_banki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_kigen_shuki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_kigen_zanki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_gouki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_touki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_eiki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_danki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_kirameki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_kyoki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onibue_shouki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onibue_amaki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_habataki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:unfinished_armed_saber",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_kurenai",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onibue_toki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onibue_fubuki",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa_kabuki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onibue_ibuki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_kigen_todoroki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:henshin_onsa",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:mini_zecter",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:unfinished_kabutick_zecter",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ketaros_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hercus_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:punchhopper_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kickhopper_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_kabuto_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:thebee_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:perfectsasword_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:perfectdrake_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:perfectthebee_zecter",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drake_zecter",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sasword_zecter",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:caucasus_zecter",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:imaginsand",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zeronos_vega_card",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zeronos_zero_card",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zeronos_plat_card",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_strike",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_nega",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zeronos_altair_card",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_gun",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_gaoh",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_yuuki",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_wing",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_ax",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_g",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_rod",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rider_ticket_sword",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fuestlefake",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fuestle",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 32
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:newwakeupfuestle",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:darkwakeupfuestle",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:risingfuestle",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:garulufuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:basshaafuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:tatsulot",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:doggafuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sagafuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:knucklefuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:keyfuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wakeupfuestle",
+          "weight": 25,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ichigohead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ichigotroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ichigolegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuugahead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuugatroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kuugalegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agitolegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agitotroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:agitohead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryukihead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryukitroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryukilegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiztroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faizhead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faizlegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bladelegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bladetroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bladehead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hibikilegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hibikitroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hibikihead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabutohead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabutotroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabutolegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_ohead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_otroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_olegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kivalegs",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kivatroso",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kivahead",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_nigo",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:double_typhoon",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_ichigo",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:new_typhoon",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_akarider",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alter_ring",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:arcle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_momorider",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_aorider",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_kirider",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_yongo",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:electrer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:condorer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ridol",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:riderman_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_midorider",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_sango",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:vortech_shooter",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:revolcane",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ridol_stick",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:tornado",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:cyclode",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zx_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:king_stone_shadow_moon",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:king_stone",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sunriser",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bio_blade",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shadow_saber_short",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:amaterasu_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:tsukuyomi_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:moonriser",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:king_stone_red_shadow_moon",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:susanoo_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dragon_rod",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3_x_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3_mild_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g4_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g4_x_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g3_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:g1_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:titan_sword",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:pegasus_bowgun",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ank_point",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alter_ring_miracle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:flame_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:storm_halberd",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shining_caliber_summoned",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shining_caliber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ank_point_burning",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:meta_factor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_10",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_3",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_4",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_5",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_6",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_1",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_8",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_7",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_12",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_11",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_2",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:typhoon_shocker_rider_9",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_ryuki",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ride_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_visor_zwei",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_claw",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_shield",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:incisor_guard",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:scissors_pincer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:torque_guard",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:magna_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_ryuga",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_knight",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryuga_drag_shield",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_drag_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:scissors_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_blade",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_lancer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ryuga_drag_claw",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drag_saber_ryuga",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_scissors",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_zolda",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:evil_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_gai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_raia",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gold_shield",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gold_sabers",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gold_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:veno_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:veno_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hetal_horn",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:metal_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_ouja",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_odin",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dest_claws",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dest_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gazelle_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bio_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_slasher",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wing_shield",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:blanc_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alternative_sword",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_abyss",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faizdriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alternativebelt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:alternativezerobelt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_femme",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_imperer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_verde",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:orgadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:psygadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:deltadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kaixadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:v_buckle_tiger",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abyssmash",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abyss_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:abyss_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:slash_visor",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bladedriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiz_edge",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:axel_ray_gun",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:faiz_blaster",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:orga_stlanzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kaixa_blaygun",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:deltablaster",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:psyga_tonfa_edge",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:smartbulke",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:chalice_arrow",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wild_slasher",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:lance_buckle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:larc_buckle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:glaive_buckle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:chalicerouzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:leangle_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:garrendriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:wild_chalice_arrow",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:goukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:garren_absorber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:eikidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:rouze_absorber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:blayrouzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kingrouzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:garrenrouzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:leanglerouzer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:nishikidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hibikidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_gouriki",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_ressui",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_rokushou",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_nachiguro",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekigen_retsurai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongeki_shincho_retsuban",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekigen_enma",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekigen_togenkyo",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:amakidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:todorokidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:tokidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:habatakidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kiramekidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ibukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dankidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kyosukedriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:toukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zankidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:bankidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sabakidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:shoukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:fubukidriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_rekka",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:armed_saber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekisankaku_ressetsu",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekikanabo_retto",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:echo_sword_onsaken",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_rakurai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongeki_shingen_retsuzan",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_shakubyoushi",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekibo_yamase",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hyper_zecter",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabuto_zecter",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gatack_zecter",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gatack_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabuto_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gatack_double_calibur_twin",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gatack_double_calibur_minus",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gatack_double_calibur",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ongekikan_reppuu",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:thebee_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drake_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sasword_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dark_kabuto_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kickhopper_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:puchhopper_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:hercus_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ketaros_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:caucasus_rider_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zect_mizer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:perfect_zecter",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:clock_up_pad",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_odriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zeronosbelt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:newden_obelt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zect_kunai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:drake_grip",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sasword_yaiver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:uratazao",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:momotaken",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gden_oriderpass",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:nega_den_odriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gden_odriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabuto_kunai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zect_kunai_kunai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kabuto_kunai_kunai",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kintaono",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ktaros",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_o_master_pass",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gaohbelt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:yuukibelt_skull",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:yuukibelt_hijack",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_dengu",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denboomerang",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:denkamen_sword",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gaoh_gasher",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:macheteddy",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:nega_den_gasher",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gden_denjutte",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:gden_dengu",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denhijack",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denro",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denaxe",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denhandaxe",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_denso",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:den_gasher_vega",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zerogasher",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:kivadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:darkkivadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:sagarc_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ixa_belt",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:reydriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:arcdriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:basshaamagnum",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:dogga_hammer",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ixa_caliber",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:ixariser",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:jacorder",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zanbatsword",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:zanbatsword_core",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:newkivadriver",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "kamenridercraft4th:garulu_saber",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}
