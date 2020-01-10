@@ -131,7 +131,7 @@ vanilmodudiamondhorse1.build();
 
 val vanilmodugold2 = mods.modularmachinery.RecipeBuilder.newBuilder("vanrank3vanilmodugold2", "vanilmodu_seller_3", 100, 0);
 
-vanilmodugold2.addItemInput(<minecraft:gold_ingot> * 2);
+vanilmodugold2.addItemInput(<ore:ingotGold>, 2);
 vanilmodugold2.addItemOutput(<modcurrency:banknote:2> * 10);
 vanilmodugold2.setChance(1.0);
 
