@@ -64,7 +64,7 @@ val loottrade = [
 for item in loottrade {
     recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.red("Trade"));
-    item.addTooltip(format.darkGreen("Trader : ") + format.green("Z's Workshop"));
+    item.addTooltip(format.darkGreen("Trader : ") + format.green("Emporium"));
     <ore:fleamarketable>.add(item);
 }
 
