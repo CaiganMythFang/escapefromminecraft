@@ -2466,7 +2466,7 @@ zcopper1.addItemInput(<ore:ingotCopper>, 8);
 zcopper1.addItemOutput(<modcurrency:banknote:2> * 3);
 zcopper1.setChance(1.0);
 
-zaluminum1.build();
+zcopper1.build();
 
 // tin Turn In (Zworkshop)
 
