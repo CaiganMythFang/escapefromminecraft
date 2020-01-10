@@ -47,7 +47,7 @@ for item in lootpurchase {
 //loot, trade, purchase
 
 val loottradepurchase = [
-<littlelooter:baseball_bat>, <littlelooter:golf_club>, <littlelooter:crowbar:*>, <littlelooter:wrench:*>, <littlelooter:spanner:*>, <littlelooter:hammer:*>, <littlelooter:switch_blade:*>, <littlelooter:rusty_pipe:*>, <littlelooter:night_stick:*>, <littlelooter:screwdriver:*>, <littlelooter:wire_cutter:*>, <littlelooter:soldering_iron:*>, <littlelooter:can_opener:*>, <littlelooter:shiv:*>, <littlelooter:metal_bat:*>, <littlelooter:kitchen_knife:*>, <littlelooter:hunting_knife:*>, <littlelooter:machete:*>, <littlelooter:fire_axe:*>, <littlelooter:nailed_bat:*>, <littlelooter:katana:*>, <littlelooter:sledge_hammer:*>
+<littlelooter:baseball_bat:*>, <littlelooter:golf_club:*>, <littlelooter:crowbar:*>, <littlelooter:wrench:*>, <littlelooter:spanner:*>, <littlelooter:hammer:*>, <littlelooter:switch_blade:*>, <littlelooter:rusty_pipe:*>, <littlelooter:night_stick:*>, <littlelooter:screwdriver:*>, <littlelooter:wire_cutter:*>, <littlelooter:soldering_iron:*>, <littlelooter:can_opener:*>, <littlelooter:shiv:*>, <littlelooter:metal_bat:*>, <littlelooter:kitchen_knife:*>, <littlelooter:hunting_knife:*>, <littlelooter:machete:*>, <littlelooter:fire_axe:*>, <littlelooter:nailed_bat:*>, <littlelooter:katana:*>, <littlelooter:sledge_hammer:*>
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
