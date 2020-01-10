@@ -13,5 +13,10 @@
     "content": "jsonlootbags:trade_offer_resources",
     "unitWorth": 150,
     "weight": 25
+  },
+  {
+    "content": "firstaid:bandage",
+    "unitWorth": 5,
+    "weight": 5
   }
 ]
