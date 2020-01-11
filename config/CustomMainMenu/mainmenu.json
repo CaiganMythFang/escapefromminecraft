@@ -133,15 +133,23 @@
     
     "labels":
     {
+        "packversion":
+        {
+            "text" : "MODPACK VERSION - 1.0.0",
+            "posX" : -122,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
         "menumusic":
         {
-            "text" : "Menu Music : Glass Canopy by TeknoAXE. Click!",
+            "text" : "Menu Music : Glass Canopy by TeknoAXE. CLICK HERE!",
             "action" :
             {
                 "type" : "openLink",
                 "link" : "http://teknoaxe.com/Link_Code_3.php?q=865"
             },
-            "posX" : -229,
+            "posX" : -262,
             "posY" : -20,
             "color" : -1,
             "alignment" : "bottom_right"
