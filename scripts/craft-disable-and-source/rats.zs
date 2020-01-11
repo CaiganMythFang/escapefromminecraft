@@ -24,9 +24,10 @@ for item in stackminecraft1 {
 // Corrupted
 
 val corrupted = [
-
+<rats:rat_upgrade_ore_doubling>
 ] as IItemStack[];
 for item in corrupted {
+    recipes.remove(item);
     item.addTooltip(format.darkPurple(format.bold("NOTES : ")) + format.obfuscated("NOPE") + format.darkRed(" CORRUPTED ") + format.obfuscated("NOPE"));
     item.addTooltip(format.bold(format.red("This block will rapidly corrupt when placed. Be careful!")));
     item.addTooltip(format.gray("Process in a Cleansing Sieve for useful items."));
