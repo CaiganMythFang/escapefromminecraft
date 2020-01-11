@@ -317,6 +317,21 @@
           "type": "item",
           "name": "jsonlootbags:oreexcavation_gear_loot",
           "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:buildinggadgets_gear_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:buildinggadgets_other_loot",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "jsonlootbags:buildinggadgets_resource_loot",
+          "weight": 50
         }
       ]
     }

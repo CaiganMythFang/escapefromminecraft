@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "buildinggadgets:buildingtool",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "buildinggadgets:exchangertool",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "buildinggadgets:copypastetool",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "buildinggadgets:destructiontool",
+          "weight": 15
+        }
+      ]
+    }
+  ]
+}
