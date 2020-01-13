@@ -129,7 +129,7 @@ zzinc1.build();
 
 val zlead1 = mods.modularmachinery.RecipeBuilder.newBuilder("zlead1", "zworkshop_seller_1", 100, 0);
 
-zlead1.addItemInput(<ore:ingotZinc>, 2);
+zlead1.addItemInput(<ore:ingotLead>, 2);
 zlead1.addItemOutput(<modcurrency:banknote:2> * 3);
 zlead1.setChance(1.0);
 
