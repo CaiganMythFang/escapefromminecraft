@@ -137,11 +137,11 @@
         {
             "text" : "MODPACK VERSION - 1.0.0",
             "posX" : -122,
-            "posY" : -30,
+            "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_right"
         },
-        "menumusic":
+        "menumosher":
         {
             "text" : "Menu Music : Glass Canopy by TeknoAXE. CLICK HERE!",
             "action" :
@@ -150,6 +150,19 @@
                 "link" : "http://teknoaxe.com/Link_Code_3.php?q=865"
             },
             "posX" : -262,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "menumusic":
+        {
+            "text" : "Mosher Music : Russian Hard Bass 'Slav' by Prod Leo. CLICK HERE!",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/channel/UCfRs8nPtB_pcAvtWZqlqeKw"
+            },
+            "posX" : -331,
             "posY" : -20,
             "color" : -1,
             "alignment" : "bottom_right"
