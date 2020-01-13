@@ -192,7 +192,7 @@ labratsapammo2.build();
 
 val labratsrecdrugs2 = mods.modularmachinery.RecipeBuilder.newBuilder("labrank5labratsrecdrugs2", "labrats_seller_5", 100, 0);
 
-labratsrecdrugs2.addItemInput(<ore:recdrug>, 5);
+labratsrecdrugs2.addItemInput(<ore:recdrugs>, 5);
 labratsrecdrugs2.addItemOutput(<modcurrency:banknote:2> * 10);
 labratsrecdrugs2.setChance(1.0);
 
