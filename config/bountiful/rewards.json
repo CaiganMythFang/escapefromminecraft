@@ -2,7 +2,7 @@
   {
     "content": "modcurrency:banknote:2",
     "unitWorth": 10,
-    "weight": 100
+    "weight": 1000
   },
   {
     "content": "jsonlootbags:trade_offer_loot",
@@ -17,6 +17,6 @@
   {
     "content": "firstaid:bandage",
     "unitWorth": 5,
-    "weight": 10
+    "weight": 20
   }
 ]
