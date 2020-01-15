@@ -2806,7 +2806,7 @@ zplatnium1.build();
 
 // stereo Turn In (Zworkshop)
 
-val zstereo1 = mods.modularmachinery.RecipeBuilder.newBuilder("zstereo1", "ultimaterank_seller_5", 100, 0);
+val zstereo1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zstereo1", "ultimaterank_seller_5", 100, 0);
 
 zstereo1.addItemInput(<cfm:stereo>);
 zstereo1.addItemOutput(<modcurrency:banknote:2> * 6);
