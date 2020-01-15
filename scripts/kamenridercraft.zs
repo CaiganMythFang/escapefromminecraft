@@ -15,7 +15,7 @@ for item in kamenriderbasesword {
 }
 
 val kamenridershockerbelts = [
-<kamenridercraft4th:typhoon_shocker_rider_1>, <kamenridercraft4th:typhoon_shocker_rider_2>, <kamenridercraft4th:typhoon_shocker_rider_3>, <kamenridercraft4th:typhoon_shocker_rider_4>, <kamenridercraft4th:typhoon_shocker_rider_5>, <kamenridercraft4th:typhoon_shocker_rider_6>, <kamenridercraft4th:typhoon_shocker_rider_7>, <kamenridercraft4th:typhoon_shocker_rider_8>, <kamenridercraft4th:typhoon_shocker_rider_9>, <kamenridercraft4th:typhoon_shocker_rider_10>, <kamenridercraft4th:typhoon_shocker_rider_11>, <kamenridercraft4th:typhoon_shocker_rider_12>
+<kamenridercraft4th:typhoon_shocker_rider_1:*>, <kamenridercraft4th:typhoon_shocker_rider_2:*>, <kamenridercraft4th:typhoon_shocker_rider_3:*>, <kamenridercraft4th:typhoon_shocker_rider_4:*>, <kamenridercraft4th:typhoon_shocker_rider_5:*>, <kamenridercraft4th:typhoon_shocker_rider_6:*>, <kamenridercraft4th:typhoon_shocker_rider_7:*>, <kamenridercraft4th:typhoon_shocker_rider_8:*>, <kamenridercraft4th:typhoon_shocker_rider_9:*>, <kamenridercraft4th:typhoon_shocker_rider_10:*>, <kamenridercraft4th:typhoon_shocker_rider_11:*>, <kamenridercraft4th:typhoon_shocker_rider_12:*>
 ] as IItemStack[];
 for item in kamenridershockerbelts {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -24,7 +24,7 @@ for item in kamenridershockerbelts {
 }
 
 val kamenriderichigoarmor = [
-<kamenridercraft4th:ichigohead>, <kamenridercraft4th:ichigotroso>, <kamenridercraft4th:ichigolegs>
+<kamenridercraft4th:ichigohead:*>, <kamenridercraft4th:ichigotroso:*>, <kamenridercraft4th:ichigolegs:*>
 ] as IItemStack[];
 for item in kamenriderichigoarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -33,7 +33,7 @@ for item in kamenriderichigoarmor {
 }
 
 val kamenriderichigobelts = [
-<kamenridercraft4th:typhoon_ichigo>, <kamenridercraft4th:typhoon_nigo>, <kamenridercraft4th:new_typhoon>, <kamenridercraft4th:typhoon_sango>, <kamenridercraft4th:typhoon_yongo>
+<kamenridercraft4th:typhoon_ichigo:*>, <kamenridercraft4th:typhoon_nigo:*>, <kamenridercraft4th:new_typhoon:*>, <kamenridercraft4th:typhoon_sango:*>, <kamenridercraft4th:typhoon_yongo:*>
 ] as IItemStack[];
 for item in kamenriderichigobelts {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -51,7 +51,7 @@ for item in kamenriderichigocomps {
 }
 
 val kamenridergorider = [
-<kamenridercraft4th:typhoon_akarider>, <kamenridercraft4th:typhoon_kirider>, <kamenridercraft4th:typhoon_aorider>, <kamenridercraft4th:typhoon_momorider>, <kamenridercraft4th:typhoon_midorider>
+<kamenridercraft4th:typhoon_akarider:*>, <kamenridercraft4th:typhoon_kirider:*>, <kamenridercraft4th:typhoon_aorider:*>, <kamenridercraft4th:typhoon_momorider:*>, <kamenridercraft4th:typhoon_midorider:*>
 ] as IItemStack[];
 for item in kamenridergorider {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -60,7 +60,7 @@ for item in kamenridergorider {
 }
 
 val kamenriderv3 = [
-<kamenridercraft4th:riderman_belt>, <kamenridercraft4th:double_typhoon>
+<kamenridercraft4th:riderman_belt:*>, <kamenridercraft4th:double_typhoon:*>
 ] as IItemStack[];
 for item in kamenriderv3 {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -78,7 +78,7 @@ for item in kamenriderv3comp {
 }
 
 val kamenriderx = [
-<kamenridercraft4th:ridol>
+<kamenridercraft4th:ridol:*>
 ] as IItemStack[];
 for item in kamenriderx {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -87,7 +87,7 @@ for item in kamenriderx {
 }
 
 val kamenriderxweapon = [
-<kamenridercraft4th:ridol_stick>
+<kamenridercraft4th:ridol_stick:*>
 ] as IItemStack[];
 for item in kamenriderxweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -105,7 +105,7 @@ for item in kamenriderxcomp {
 }
 
 val kamenrideramazon = [
-<kamenridercraft4th:condorer>
+<kamenridercraft4th:condorer:*>
 ] as IItemStack[];
 for item in kamenrideramazon {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -123,7 +123,7 @@ for item in kamenrideramazoncomp {
 }
 
 val kamenriderstronger = [
-<kamenridercraft4th:electrer>
+<kamenridercraft4th:electrer:*>
 ] as IItemStack[];
 for item in kamenriderstronger {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -141,7 +141,7 @@ for item in kamenriderstrongercomp {
 }
 
 val kamenriderstrongerdevice = [
-<kamenridercraft4th:charge_up>
+<kamenridercraft4th:charge_up:*>
 ] as IItemStack[];
 for item in kamenriderstrongerdevice {
     item.addTooltip(format.gold(format.bold("-- RIDER DEVICE --")));
@@ -151,7 +151,7 @@ for item in kamenriderstrongerdevice {
 }
 
 val kamenriderskyrider = [
-<kamenridercraft4th:tornado>
+<kamenridercraft4th:tornado:*>
 ] as IItemStack[];
 for item in kamenriderskyrider {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -169,7 +169,7 @@ for item in kamenriderskyridercomp {
 }
 
 val kamenridersuperone = [
-<kamenridercraft4th:cyclode>
+<kamenridercraft4th:cyclode:*>
 ] as IItemStack[];
 for item in kamenridersuperone {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -187,7 +187,7 @@ for item in kamenridersuperonecomp {
 }
 
 val kamenriderzx = [
-<kamenridercraft4th:zx_belt>, <kamenridercraft4th:king_stone>, <kamenridercraft4th:king_stone_shadow_moon>, <kamenridercraft4th:robo_rider>, <kamenridercraft4th:sunriser>, <kamenridercraft4th:moonriser>, <kamenridercraft4th:king_stone_red_shadow_moon>, <kamenridercraft4th:susanoo_belt>, <kamenridercraft4th:tsukuyomi_belt>, <kamenridercraft4th:amaterasu_belt>, <kamenridercraft4th:g_belt>
+<kamenridercraft4th:zx_belt:*>, <kamenridercraft4th:king_stone:*>, <kamenridercraft4th:king_stone_shadow_moon:*>, <kamenridercraft4th:robo_rider:*>, <kamenridercraft4th:sunriser:*>, <kamenridercraft4th:moonriser:*>, <kamenridercraft4th:king_stone_red_shadow_moon:*>, <kamenridercraft4th:susanoo_belt:*>, <kamenridercraft4th:tsukuyomi_belt:*>, <kamenridercraft4th:amaterasu_belt:*>, <kamenridercraft4th:g_belt:*>
 ] as IItemStack[];
 for item in kamenriderzx {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -196,7 +196,7 @@ for item in kamenriderzx {
 }
 
 val kamenriderzxweapon = [
-<kamenridercraft4th:revolcane>, <kamenridercraft4th:vortech_shooter>, <kamenridercraft4th:bio_blade>, <kamenridercraft4th:shadow_saber_short>
+<kamenridercraft4th:revolcane:*>, <kamenridercraft4th:vortech_shooter:*>, <kamenridercraft4th:bio_blade:*>, <kamenridercraft4th:shadow_saber_short:*>
 ] as IItemStack[];
 for item in kamenriderzxweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -214,7 +214,7 @@ for item in kamenriderzxcomp {
 }
 
 val kamenriderzxdevice = [
-<kamenridercraft4th:bio_rider>, <kamenridercraft4th:j_spirit>, <kamenridercraft4th:grasshopper_dna>, <kamenridercraft4th:zo_core>
+<kamenridercraft4th:bio_rider:*>, <kamenridercraft4th:j_spirit:*>, <kamenridercraft4th:grasshopper_dna:*>, <kamenridercraft4th:zo_core:*>
 ] as IItemStack[];
 for item in kamenriderzxcomp {
     item.addTooltip(format.gold(format.bold("-- RIDER DEVICE --")));
@@ -242,7 +242,7 @@ for item in kamenriderkuugaarmor {
 }
 
 val kamenriderkuugabelt = [
-<kamenridercraft4th:arcle>
+<kamenridercraft4th:arcle:*>
 ] as IItemStack[];
 for item in kamenriderkuugabelt {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -251,7 +251,7 @@ for item in kamenriderkuugabelt {
 }
 
 val kamenriderkuugaweapon = [
-<kamenridercraft4th:pegasus_bowgun>, <kamenridercraft4th:titan_sword>, <kamenridercraft4th:dragon_rod>
+<kamenridercraft4th:pegasus_bowgun:*>, <kamenridercraft4th:titan_sword:*>, <kamenridercraft4th:dragon_rod:*>
 ] as IItemStack[];
 for item in kamenriderkuugaweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -269,7 +269,7 @@ for item in kamenrideragitocomp {
 }
 
 val kamenrideragitoarmor = [
-<kamenridercraft4th:agitohead>, <kamenridercraft4th:agitotroso>, <kamenridercraft4th:agitolegs>
+<kamenridercraft4th:agitohead:*>, <kamenridercraft4th:agitotroso:*>, <kamenridercraft4th:agitolegs:*>
 ] as IItemStack[];
 for item in kamenrideragitoarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -278,7 +278,7 @@ for item in kamenrideragitoarmor {
 }
 
 val kamenrideragitobelt = [
-<kamenridercraft4th:alter_ring>, <kamenridercraft4th:g1_belt>, <kamenridercraft4th:g3_belt>, <kamenridercraft4th:meta_factor>, <kamenridercraft4th:ank_point_burning>, <kamenridercraft4th:alter_ring_miracle>, <kamenridercraft4th:ank_point>, <kamenridercraft4th:g3_x_belt>, <kamenridercraft4th:g3_mild_belt>, <kamenridercraft4th:g4_belt>, <kamenridercraft4th:g4_x_belt>
+<kamenridercraft4th:alter_ring:*>, <kamenridercraft4th:g1_belt:*>, <kamenridercraft4th:g3_belt:*>, <kamenridercraft4th:meta_factor:*>, <kamenridercraft4th:ank_point_burning:*>, <kamenridercraft4th:alter_ring_miracle:*>, <kamenridercraft4th:ank_point:*>, <kamenridercraft4th:g3_x_belt:*>, <kamenridercraft4th:g3_mild_belt:*>, <kamenridercraft4th:g4_belt:*>, <kamenridercraft4th:g4_x_belt:*>
 ] as IItemStack[];
 for item in kamenrideragitobelt {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -307,7 +307,7 @@ for item in kamenrideragitogillsdevice {
 }
 
 val kamenrideragitoweapon = [
-<kamenridercraft4th:shining_caliber>, <kamenridercraft4th:shining_caliber_summoned>, <kamenridercraft4th:storm_halberd>, <kamenridercraft4th:flame_saber>
+<kamenridercraft4th:shining_caliber:*>, <kamenridercraft4th:shining_caliber_summoned:*>, <kamenridercraft4th:storm_halberd:*>, <kamenridercraft4th:flame_saber:*>
 ] as IItemStack[];
 for item in kamenrideragitoweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -316,7 +316,7 @@ for item in kamenrideragitoweapon {
 }
 
 val kamenriderryukiarmor = [
-<kamenridercraft4th:ryukihead>, <kamenridercraft4th:ryukitroso>, <kamenridercraft4th:ryukilegs>
+<kamenridercraft4th:ryukihead:*>, <kamenridercraft4th:ryukitroso:*>, <kamenridercraft4th:ryukilegs:*>
 ] as IItemStack[];
 for item in kamenriderryukiarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -325,7 +325,7 @@ for item in kamenriderryukiarmor {
 }
 
 val kamenriderryukibelt = [
-<kamenridercraft4th:v_buckle_ryuki>, <kamenridercraft4th:v_buckle_ryuga>, <kamenridercraft4th:v_buckle_knight>, <kamenridercraft4th:v_buckle_scissors>, <kamenridercraft4th:v_buckle_zolda>, <kamenridercraft4th:v_buckle_raia>, <kamenridercraft4th:v_buckle_gai>, <kamenridercraft4th:v_buckle_ouja>, <kamenridercraft4th:v_buckle_odin>, <kamenridercraft4th:v_buckle_tiger>, <kamenridercraft4th:v_buckle_imperer>, <kamenridercraft4th:v_buckle_verde>, <kamenridercraft4th:v_buckle_femme>, <kamenridercraft4th:v_buckle_abyss>, <kamenridercraft4th:alternativebelt>, <kamenridercraft4th:alternativezerobelt>
+<kamenridercraft4th:v_buckle_ryuki:*>, <kamenridercraft4th:v_buckle_ryuga:*>, <kamenridercraft4th:v_buckle_knight:*>, <kamenridercraft4th:v_buckle_scissors:*>, <kamenridercraft4th:v_buckle_zolda:*>, <kamenridercraft4th:v_buckle_raia:*>, <kamenridercraft4th:v_buckle_gai:*>, <kamenridercraft4th:v_buckle_ouja:*>, <kamenridercraft4th:v_buckle_odin:*>, <kamenridercraft4th:v_buckle_tiger:*>, <kamenridercraft4th:v_buckle_imperer:*>, <kamenridercraft4th:v_buckle_verde:*>, <kamenridercraft4th:v_buckle_femme:*>, <kamenridercraft4th:v_buckle_abyss:*>, <kamenridercraft4th:alternativebelt:*>, <kamenridercraft4th:alternativezerobelt:*>
 ] as IItemStack[];
 for item in kamenriderryukibelt {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -343,7 +343,7 @@ for item in kamenriderryukicomp {
 }
 
 val kamenriderryukiryukidev = [
-<kamenridercraft4th:drag_visor>
+<kamenridercraft4th:drag_visor:*>
 ] as IItemStack[];
 for item in kamenriderryukiryukidev {
     item.addTooltip(format.gold(format.bold("-- RIDER DEVICE --")));
@@ -363,7 +363,7 @@ for item in kamenriderryukiryukidevcard {
 }
 
 val kamenriderryukishield = [
-<kamenridercraft4th:drag_shield>, <kamenridercraft4th:ryuga_drag_shield>, <kamenridercraft4th:incisor_guard>, <kamenridercraft4th:torque_guard>, <kamenridercraft4th:gold_shield>, <kamenridercraft4th:wing_shield>
+<kamenridercraft4th:drag_shield:*>, <kamenridercraft4th:ryuga_drag_shield:*>, <kamenridercraft4th:incisor_guard:*>, <kamenridercraft4th:torque_guard:*>, <kamenridercraft4th:gold_shield:*>, <kamenridercraft4th:wing_shield:*>
 ] as IItemStack[];
 for item in kamenriderryukishield {
     item.addTooltip(format.gold(format.bold("-- RIDER SHIELD --")));
@@ -372,7 +372,7 @@ for item in kamenriderryukishield {
 }
 
 val kamenriderryukiweapon = [
-<kamenridercraft4th:ride_saber>, <kamenridercraft4th:drag_visor_zwei>, <kamenridercraft4th:drag_claw>, <kamenridercraft4th:drag_saber>, <kamenridercraft4th:drag_saber_ryuga>, <kamenridercraft4th:ryuga_drag_claw>, <kamenridercraft4th:dark_visor>, <kamenridercraft4th:dark_blade>, <kamenridercraft4th:wing_lancer>, <kamenridercraft4th:scissors_pincer>, <kamenridercraft4th:magna_visor>, <kamenridercraft4th:metal_visor>, <kamenridercraft4th:hetal_horn>, <kamenridercraft4th:veno_visor>, <kamenridercraft4th:veno_saber>, <kamenridercraft4th:gold_visor>, <kamenridercraft4th:gold_sabers>, <kamenridercraft4th:dest_visor>, <kamenridercraft4th:dest_claws>, <kamenridercraft4th:blanc_visor>, <kamenridercraft4th:wing_slasher>, <kamenridercraft4th:abyss_saber>, <kamenridercraft4th:abyssmash>, <kamenridercraft4th:alternative_sword>
+<kamenridercraft4th:ride_saber:*>, <kamenridercraft4th:drag_visor_zwei:*>, <kamenridercraft4th:drag_claw:*>, <kamenridercraft4th:drag_saber:*>, <kamenridercraft4th:drag_saber_ryuga:*>, <kamenridercraft4th:ryuga_drag_claw:*>, <kamenridercraft4th:dark_visor:*>, <kamenridercraft4th:dark_blade:*>, <kamenridercraft4th:wing_lancer:*>, <kamenridercraft4th:scissors_pincer:*>, <kamenridercraft4th:magna_visor:*>, <kamenridercraft4th:metal_visor:*>, <kamenridercraft4th:hetal_horn:*>, <kamenridercraft4th:veno_visor:*>, <kamenridercraft4th:veno_saber:*>, <kamenridercraft4th:gold_visor:*>, <kamenridercraft4th:gold_sabers:*>, <kamenridercraft4th:dest_visor:*>, <kamenridercraft4th:dest_claws:*>, <kamenridercraft4th:blanc_visor:*>, <kamenridercraft4th:wing_slasher:*>, <kamenridercraft4th:abyss_saber:*>, <kamenridercraft4th:abyssmash:*>, <kamenridercraft4th:alternative_sword:*>
 ] as IItemStack[];
 for item in kamenriderryukiweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -570,7 +570,7 @@ for item in kamenrider555comp {
 }
 
 val kamenrider555armor = [
-<kamenridercraft4th:faiztroso>, <kamenridercraft4th:faizhead>, <kamenridercraft4th:faizlegs>
+<kamenridercraft4th:faiztroso:*>, <kamenridercraft4th:faizhead:*>, <kamenridercraft4th:faizlegs:*>
 ] as IItemStack[];
 for item in kamenrider555armor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -579,7 +579,7 @@ for item in kamenrider555armor {
 }
 
 val kamenrider555driver = [
-<kamenridercraft4th:faizdriver>, <kamenridercraft4th:kaixadriver>, <kamenridercraft4th:deltadriver>, <kamenridercraft4th:psygadriver>, <kamenridercraft4th:orgadriver>, <kamenridercraft4th:smartbulke>
+<kamenridercraft4th:faizdriver:*>, <kamenridercraft4th:kaixadriver:*>, <kamenridercraft4th:deltadriver:*>, <kamenridercraft4th:psygadriver:*>, <kamenridercraft4th:orgadriver:*>, <kamenridercraft4th:smartbulke:*>
 ] as IItemStack[];
 for item in kamenrider555driver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -598,7 +598,7 @@ for item in kamenriderfaizdev {
 }
 
 val kamenriderfaizweapon = [
-<kamenridercraft4th:faiz_blaster>, <kamenridercraft4th:axel_ray_gun>, <kamenridercraft4th:faiz_edge>, <kamenridercraft4th:orga_stlanzer>, <kamenridercraft4th:psyga_tonfa_edge>, <kamenridercraft4th:deltablaster>, <kamenridercraft4th:kaixa_blaygun>
+<kamenridercraft4th:faiz_blaster:*>, <kamenridercraft4th:axel_ray_gun:*>, <kamenridercraft4th:faiz_edge:*>, <kamenridercraft4th:orga_stlanzer:*>, <kamenridercraft4th:psyga_tonfa_edge:*>, <kamenridercraft4th:deltablaster:*>, <kamenridercraft4th:kaixa_blaygun:*>
 ] as IItemStack[];
 for item in kamenriderfaizweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -616,7 +616,7 @@ for item in kamenriderbladecomp {
 }
 
 val kamenriderbladearmor = [
-<kamenridercraft4th:bladehead>, <kamenridercraft4th:bladetroso>, <kamenridercraft4th:bladelegs>
+<kamenridercraft4th:bladehead:*>, <kamenridercraft4th:bladetroso:*>, <kamenridercraft4th:bladelegs:*>
 ] as IItemStack[];
 for item in kamenriderbladearmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -625,7 +625,7 @@ for item in kamenriderbladearmor {
 }
 
 val kamenriderbladebelt = [
-<kamenridercraft4th:bladedriver>, <kamenridercraft4th:garrendriver>, <kamenridercraft4th:leangle_belt>, <kamenridercraft4th:chalicerouzer>, <kamenridercraft4th:glaive_buckle>, <kamenridercraft4th:larc_buckle>, <kamenridercraft4th:lance_buckle>
+<kamenridercraft4th:bladedriver:*>, <kamenridercraft4th:garrendriver:*>, <kamenridercraft4th:leangle_belt:*>, <kamenridercraft4th:chalicerouzer:*>, <kamenridercraft4th:glaive_buckle:*>, <kamenridercraft4th:larc_buckle:*>, <kamenridercraft4th:lance_buckle:*>
 ] as IItemStack[];
 for item in kamenriderbladebelt {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -644,7 +644,7 @@ for item in kamenriderbladedev {
 }
 
 val kamenriderbladeweapon = [
-<kamenridercraft4th:blayrouzer>, <kamenridercraft4th:kingrouzer>, <kamenridercraft4th:garrenrouzer>, <kamenridercraft4th:leanglerouzer>, <kamenridercraft4th:chalice_arrow>, <kamenridercraft4th:wild_slasher>, <kamenridercraft4th:wild_chalice_arrow>
+<kamenridercraft4th:blayrouzer:*>, <kamenridercraft4th:kingrouzer:*>, <kamenridercraft4th:garrenrouzer:*>, <kamenridercraft4th:leanglerouzer:*>, <kamenridercraft4th:chalice_arrow:*>, <kamenridercraft4th:wild_slasher:*>, <kamenridercraft4th:wild_chalice_arrow:*>
 ] as IItemStack[];
 for item in kamenriderbladeweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -703,7 +703,7 @@ for item in kamenriderbladechalice {
 }
 
 val kamenriderhibikiarmor = [
-<kamenridercraft4th:hibikihead>, <kamenridercraft4th:hibikitroso>, <kamenridercraft4th:hibikilegs>
+<kamenridercraft4th:hibikihead:*>, <kamenridercraft4th:hibikitroso:*>, <kamenridercraft4th:hibikilegs:*>
 ] as IItemStack[];
 for item in kamenriderhibikiarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -721,7 +721,7 @@ for item in kamenriderhibikicomp {
 }
 
 val kamenriderhibikidriver = [
-<kamenridercraft4th:hibikidriver>, <kamenridercraft4th:eikidriver>, <kamenridercraft4th:goukidriver>, <kamenridercraft4th:toukidriver>, <kamenridercraft4th:nishikidriver>, <kamenridercraft4th:kyosukedriver>, <kamenridercraft4th:dankidriver>, <kamenridercraft4th:kabukidriver>, <kamenridercraft4th:ibukidriver>, <kamenridercraft4th:kiramekidriver>, <kamenridercraft4th:habatakidriver>, <kamenridercraft4th:tokidriver>, <kamenridercraft4th:todorokidriver>, <kamenridercraft4th:zankidriver>, <kamenridercraft4th:shukidriver>, <kamenridercraft4th:bankidriver>, <kamenridercraft4th:sabakidriver>, <kamenridercraft4th:shoukidriver>, <kamenridercraft4th:amakidriver>, <kamenridercraft4th:fubukidriver>
+<kamenridercraft4th:hibikidriver:*>, <kamenridercraft4th:eikidriver:*>, <kamenridercraft4th:goukidriver:*>, <kamenridercraft4th:toukidriver:*>, <kamenridercraft4th:nishikidriver:*>, <kamenridercraft4th:kyosukedriver:*>, <kamenridercraft4th:dankidriver:*>, <kamenridercraft4th:kabukidriver:*>, <kamenridercraft4th:ibukidriver:*>, <kamenridercraft4th:kiramekidriver:*>, <kamenridercraft4th:habatakidriver:*>, <kamenridercraft4th:tokidriver:*>, <kamenridercraft4th:todorokidriver:*>, <kamenridercraft4th:zankidriver:*>, <kamenridercraft4th:shukidriver:*>, <kamenridercraft4th:bankidriver:*>, <kamenridercraft4th:sabakidriver:*>, <kamenridercraft4th:shoukidriver:*>, <kamenridercraft4th:amakidriver:*>, <kamenridercraft4th:fubukidriver:*>
 ] as IItemStack[];
 for item in kamenriderhibikidriver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -730,7 +730,7 @@ for item in kamenriderhibikidriver {
 }
 
 val kamenriderhibikiweapon = [
-<kamenridercraft4th:ongekibo_gouriki>, <kamenridercraft4th:ongekibo_ressui>, <kamenridercraft4th:ongekibo_rokushou>, <kamenridercraft4th:ongekibo_nachiguro>, <kamenridercraft4th:ongekibo_yamase>, <kamenridercraft4th:ongekibo_rekka>, <kamenridercraft4th:ongekisankaku_ressetsu>, <kamenridercraft4th:ongekikanabo_retto>, <kamenridercraft4th:ongekikan_reppuu>, <kamenridercraft4th:echo_sword_onsaken>, <kamenridercraft4th:ongekibo_rakurai>, <kamenridercraft4th:ongeki_shingen_retsuzan>, <kamenridercraft4th:ongekibo_shakubyoushi>, <kamenridercraft4th:ongekigen_togenkyo>, <kamenridercraft4th:ongekigen_enma>, <kamenridercraft4th:ongeki_shincho_retsuban>, <kamenridercraft4th:ongekigen_retsurai>, <kamenridercraft4th:armed_saber>
+<kamenridercraft4th:ongekibo_gouriki:*>, <kamenridercraft4th:ongekibo_ressui:*>, <kamenridercraft4th:ongekibo_rokushou:*>, <kamenridercraft4th:ongekibo_nachiguro:*>, <kamenridercraft4th:ongekibo_yamase:*>, <kamenridercraft4th:ongekibo_rekka:*>, <kamenridercraft4th:ongekisankaku_ressetsu:*>, <kamenridercraft4th:ongekikanabo_retto:*>, <kamenridercraft4th:ongekikan_reppuu:*>, <kamenridercraft4th:echo_sword_onsaken:*>, <kamenridercraft4th:ongekibo_rakurai:*>, <kamenridercraft4th:ongeki_shingen_retsuzan:*>, <kamenridercraft4th:ongekibo_shakubyoushi:*>, <kamenridercraft4th:ongekigen_togenkyo:*>, <kamenridercraft4th:ongekigen_enma:*>, <kamenridercraft4th:ongeki_shincho_retsuban:*>, <kamenridercraft4th:ongekigen_retsurai:*>, <kamenridercraft4th:armed_saber:*>
 ] as IItemStack[];
 for item in kamenriderhibikiweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -739,7 +739,7 @@ for item in kamenriderhibikiweapon {
 }
 
 val kamenriderkabutoarmor = [
-<kamenridercraft4th:kabutohead>, <kamenridercraft4th:kabutotroso>, <kamenridercraft4th:kabutolegs>
+<kamenridercraft4th:kabutohead:*>, <kamenridercraft4th:kabutotroso:*>, <kamenridercraft4th:kabutolegs:*>
 ] as IItemStack[];
 for item in kamenriderkabutoarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -748,7 +748,7 @@ for item in kamenriderkabutoarmor {
 }
 
 val kamenriderkabutodriver = [
-<kamenridercraft4th:kabuto_rider_belt>, <kamenridercraft4th:gatack_rider_belt>, <kamenridercraft4th:thebee_rider_belt>, <kamenridercraft4th:drake_rider_belt>, <kamenridercraft4th:sasword_rider_belt>, <kamenridercraft4th:dark_kabuto_rider_belt>, <kamenridercraft4th:kickhopper_rider_belt>, <kamenridercraft4th:puchhopper_rider_belt>, <kamenridercraft4th:hercus_rider_belt>, <kamenridercraft4th:ketaros_rider_belt>, <kamenridercraft4th:caucasus_rider_belt>
+<kamenridercraft4th:kabuto_rider_belt:*>, <kamenridercraft4th:gatack_rider_belt:*>, <kamenridercraft4th:thebee_rider_belt:*>, <kamenridercraft4th:drake_rider_belt:*>, <kamenridercraft4th:sasword_rider_belt:*>, <kamenridercraft4th:dark_kabuto_rider_belt:*>, <kamenridercraft4th:kickhopper_rider_belt:*>, <kamenridercraft4th:puchhopper_rider_belt:*>, <kamenridercraft4th:hercus_rider_belt:*>, <kamenridercraft4th:ketaros_rider_belt:*>, <kamenridercraft4th:caucasus_rider_belt:*>
 ] as IItemStack[];
 for item in kamenriderkabutodriver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -757,7 +757,7 @@ for item in kamenriderkabutodriver {
 }
 
 val kamenriderkabutoweapon = [
-<kamenridercraft4th:gatack_double_calibur>, <kamenridercraft4th:gatack_double_calibur_minus>, <kamenridercraft4th:gatack_double_calibur_twin>, <kamenridercraft4th:perfect_zecter>, <kamenridercraft4th:zect_mizer>, <kamenridercraft4th:kabuto_kunai_kunai>, <kamenridercraft4th:zect_kunai_kunai>, <kamenridercraft4th:kabuto_kunai>, <kamenridercraft4th:zect_kunai>, <kamenridercraft4th:drake_grip>, <kamenridercraft4th:sasword_yaiver>
+<kamenridercraft4th:gatack_double_calibur:*>, <kamenridercraft4th:gatack_double_calibur_minus:*>, <kamenridercraft4th:gatack_double_calibur_twin:*>, <kamenridercraft4th:perfect_zecter:*>, <kamenridercraft4th:zect_mizer:*>, <kamenridercraft4th:kabuto_kunai_kunai:*>, <kamenridercraft4th:zect_kunai_kunai:*>, <kamenridercraft4th:kabuto_kunai:*>, <kamenridercraft4th:zect_kunai:*>, <kamenridercraft4th:drake_grip:*>, <kamenridercraft4th:sasword_yaiver:*>
 ] as IItemStack[];
 for item in kamenriderkabutoweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -894,7 +894,7 @@ for item in kamenriderkabutoclockup {
 }
 
 val kamenriderdenoarmor = [
-<kamenridercraft4th:den_olegs>, <kamenridercraft4th:den_otroso>, <kamenridercraft4th:den_ohead>
+<kamenridercraft4th:den_olegs:*>, <kamenridercraft4th:den_otroso:*>, <kamenridercraft4th:den_ohead:*>
 ] as IItemStack[];
 for item in kamenriderdenoarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -903,7 +903,7 @@ for item in kamenriderdenoarmor {
 }
 
 val kamenriderdenodriver = [
-<kamenridercraft4th:den_odriver>, <kamenridercraft4th:zeronosbelt>, <kamenridercraft4th:nega_den_odriver>, <kamenridercraft4th:gden_odriver>, <kamenridercraft4th:newden_obelt>, <kamenridercraft4th:gaohbelt>, <kamenridercraft4th:yuukibelt_skull>, <kamenridercraft4th:yuukibelt_hijack>
+<kamenridercraft4th:den_odriver:*>, <kamenridercraft4th:zeronosbelt:*>, <kamenridercraft4th:nega_den_odriver:*>, <kamenridercraft4th:gden_odriver:*>, <kamenridercraft4th:newden_obelt:*>, <kamenridercraft4th:gaohbelt:*>, <kamenridercraft4th:yuukibelt_skull:*>, <kamenridercraft4th:yuukibelt_hijack:*>
 ] as IItemStack[];
 for item in kamenriderdenodriver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -932,7 +932,7 @@ for item in kamenriderdenogdeno {
 }
 
 val kamenriderdenonewdenweapon = [
-<kamenridercraft4th:momotaken>, <kamenridercraft4th:uratazao>, <kamenridercraft4th:kintaono>
+<kamenridercraft4th:momotaken:*>, <kamenridercraft4th:uratazao:*>, <kamenridercraft4th:kintaono:*>
 ] as IItemStack[];
 for item in kamenriderdenonewdenweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -982,7 +982,7 @@ for item in kamenriderdenoridergoldpass {
 }
 
 val kamenriderdenoweapon = [
-<kamenridercraft4th:den_denso>, <kamenridercraft4th:den_dengu>, <kamenridercraft4th:den_denro>, <kamenridercraft4th:den_denaxe>, <kamenridercraft4th:den_denhandaxe>, <kamenridercraft4th:denkamen_sword>, <kamenridercraft4th:den_denboomerang>, <kamenridercraft4th:den_gasher_vega>, <kamenridercraft4th:zerogasher>, <kamenridercraft4th:gaoh_gasher>, <kamenridercraft4th:macheteddy>, <kamenridercraft4th:nega_den_gasher>, <kamenridercraft4th:gden_denjutte>, <kamenridercraft4th:gden_dengu>, <kamenridercraft4th:den_denhijack>
+<kamenridercraft4th:den_denso:*>, <kamenridercraft4th:den_dengu:*>, <kamenridercraft4th:den_denro:*>, <kamenridercraft4th:den_denaxe:*>, <kamenridercraft4th:den_denhandaxe:*>, <kamenridercraft4th:denkamen_sword:*>, <kamenridercraft4th:den_denboomerang:*>, <kamenridercraft4th:den_gasher_vega:*>, <kamenridercraft4th:zerogasher:*>, <kamenridercraft4th:gaoh_gasher:*>, <kamenridercraft4th:macheteddy:*>, <kamenridercraft4th:nega_den_gasher:*>, <kamenridercraft4th:gden_denjutte:*>, <kamenridercraft4th:gden_dengu:*>, <kamenridercraft4th:den_denhijack:*>
 ] as IItemStack[];
 for item in kamenriderdenoweapon {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -991,7 +991,7 @@ for item in kamenriderdenoweapon {
 }
 
 val kamenriderkivaarmor = [
-<kamenridercraft4th:kivahead>, <kamenridercraft4th:kivatroso>, <kamenridercraft4th:kivalegs>
+<kamenridercraft4th:kivahead:*>, <kamenridercraft4th:kivatroso:*>, <kamenridercraft4th:kivalegs:*>
 ] as IItemStack[];
 for item in kamenriderkivaarmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -1000,7 +1000,7 @@ for item in kamenriderkivaarmor {
 }
 
 val kamenriderkivadriver = [
-<kamenridercraft4th:kivadriver>, <kamenridercraft4th:kivaladriver>, <kamenridercraft4th:darkkivadriver>, <kamenridercraft4th:sagarc_belt>, <kamenridercraft4th:ixa_belt>, <kamenridercraft4th:reydriver>, <kamenridercraft4th:arcdriver>, <kamenridercraft4th:newkivadriver>
+<kamenridercraft4th:kivadriver:*>, <kamenridercraft4th:kivaladriver:*>, <kamenridercraft4th:darkkivadriver:*>, <kamenridercraft4th:sagarc_belt:*>, <kamenridercraft4th:ixa_belt:*>, <kamenridercraft4th:reydriver:*>, <kamenridercraft4th:arcdriver:*>, <kamenridercraft4th:newkivadriver:*>
 ] as IItemStack[];
 for item in kamenriderkivadriver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
@@ -1069,7 +1069,7 @@ for item in kamenriderkivanewkivafuestles {
 }
 
 val kamenriderkivaweapons = [
-<kamenridercraft4th:garulu_saber>, <kamenridercraft4th:basshaamagnum>, <kamenridercraft4th:dogga_hammer>, <kamenridercraft4th:ixa_caliber>, <kamenridercraft4th:ixariser>, <kamenridercraft4th:jacorder>, <kamenridercraft4th:zanbatsword>, <kamenridercraft4th:zanbatsword_core>
+<kamenridercraft4th:garulu_saber:*>, <kamenridercraft4th:basshaamagnum:*>, <kamenridercraft4th:dogga_hammer:*>, <kamenridercraft4th:ixa_caliber:*>, <kamenridercraft4th:ixariser:*>, <kamenridercraft4th:jacorder:*>, <kamenridercraft4th:zanbatsword:*>, <kamenridercraft4th:zanbatsword_core:*>
 ] as IItemStack[];
 for item in kamenriderkivaweapons {
     item.addTooltip(format.gold(format.bold("-- RIDER WEAPON --")));
@@ -1087,7 +1087,7 @@ for item in kamenriderkivacomps {
 }
 
 val kamenriderdecadearmor = [
-<kamenridercraft4th:decadehead>, <kamenridercraft4th:decadetroso>, <kamenridercraft4th:decadelegs>
+<kamenridercraft4th:decadehead:*>, <kamenridercraft4th:decadetroso:*>, <kamenridercraft4th:decadelegs:*>
 ] as IItemStack[];
 for item in kamenriderdecadearmor {
     item.addTooltip(format.gold(format.bold("-- RIDER ARMOR --")));
@@ -1096,7 +1096,7 @@ for item in kamenriderdecadearmor {
 }
 
 val kamenriderdecadedriver = [
-<kamenridercraft4th:decadedriver>
+<kamenridercraft4th:decadedriver:*>
 ] as IItemStack[];
 for item in kamenriderdecadedriver {
     item.addTooltip(format.gold(format.bold("-- RIDER BELT --")));
