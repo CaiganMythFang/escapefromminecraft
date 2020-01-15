@@ -77,7 +77,6 @@ val lootcrafttrade = [
 for item in lootcrafttrade {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Z's Workshop"));
-    <ore:fleamarketable>.add(item);
 }
 
 // Loot, Craft, Purchase
