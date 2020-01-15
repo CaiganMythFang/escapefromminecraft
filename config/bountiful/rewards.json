@@ -5,6 +5,11 @@
     "weight": 1000
   },
   {
+    "content": "modcurrency:banknote:4",
+    "unitWorth": 50,
+    "weight": 100
+  },
+  {
     "content": "jsonlootbags:trade_offer_loot",
     "unitWorth": 150,
     "weight": 5
