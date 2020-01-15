@@ -2726,7 +2726,7 @@ zprize1.build();
 
 // copper Turn In (Zworkshop)
 
-val zcopper1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zcopper1", "zworkshop_seller_1", 100, 0);
+val zcopper1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zcopper1", "ultimaterank_seller_5", 100, 0);
 
 zcopper1.addItemInput(<ore:ingotCopper>, 8);
 zcopper1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2736,7 +2736,7 @@ zcopper1.build();
 
 // tin Turn In (Zworkshop)
 
-val ztin1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5ztin1", "zworkshop_seller_1", 100, 0);
+val ztin1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5ztin1", "ultimaterank_seller_5", 100, 0);
 
 ztin1.addItemInput(<ore:ingotTin>, 8);
 ztin1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2746,7 +2746,7 @@ ztin1.build();
 
 // aluminum Turn In (Zworkshop)
 
-val zalumium1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zalumium1", "zworkshop_seller_1", 100, 0);
+val zalumium1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zalumium1", "ultimaterank_seller_5", 100, 0);
 
 zalumium1.addItemInput(<ore:ingotAluminum>, 4);
 zalumium1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2756,7 +2756,7 @@ zalumium1.build();
 
 // zinc Turn In (Zworkshop)
 
-val zzinc1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zzinc1", "zworkshop_seller_1", 100, 0);
+val zzinc1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zzinc1", "ultimaterank_seller_5", 100, 0);
 
 zzinc1.addItemInput(<ore:ingotZinc>, 4);
 zzinc1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2766,7 +2766,7 @@ zzinc1.build();
 
 // lead Turn In (Zworkshop)
 
-val zlead1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zlead1", "zworkshop_seller_1", 100, 0);
+val zlead1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zlead1", "ultimaterank_seller_5", 100, 0);
 
 zlead1.addItemInput(<ore:ingotZinc>, 2);
 zlead1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2776,7 +2776,7 @@ zlead1.build();
 
 // silver Turn In (Zworkshop)
 
-val zsilver1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zsilver1", "zworkshop_seller_1", 100, 0);
+val zsilver1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zsilver1", "ultimaterank_seller_5", 100, 0);
 
 zsilver1.addItemInput(<ore:ingotSilver>, 2);
 zsilver1.addItemOutput(<modcurrency:banknote:2> * 3);
@@ -2786,7 +2786,7 @@ zsilver1.build();
 
 // nickel Turn In (Zworkshop)
 
-val znickel1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5znickel1", "zworkshop_seller_1", 100, 0);
+val znickel1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5znickel1", "ultimaterank_seller_5", 100, 0);
 
 znickel1.addItemInput(<ore:ingotNickel>, 2);
 znickel1.addItemOutput(<modcurrency:banknote:2> * 5);
@@ -2796,10 +2796,20 @@ znickel1.build();
 
 // platnium Turn In (Zworkshop)
 
-val zplatnium1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zplatnium1", "zworkshop_seller_1", 100, 0);
+val zplatnium1 = mods.modularmachinery.RecipeBuilder.newBuilder("ult5zplatnium1", "ultimaterank_seller_5", 100, 0);
 
 zplatnium1.addItemInput(<ore:ingotPlatinum>, 2);
 zplatnium1.addItemOutput(<modcurrency:banknote:2> * 5);
 zplatnium1.setChance(1.0);
 
 zplatnium1.build();
+
+// stereo Turn In (Zworkshop)
+
+val zstereo1 = mods.modularmachinery.RecipeBuilder.newBuilder("zstereo1", "ultimaterank_seller_5", 100, 0);
+
+zstereo1.addItemInput(<cfm:stereo>);
+zstereo1.addItemOutput(<modcurrency:banknote:2> * 6);
+zstereo1.setChance(1.0);
+
+zstereo1.build();
