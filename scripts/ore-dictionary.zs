@@ -140,7 +140,7 @@ for item in playerheads {
 }
 
 val creatureheads = [
-<headcrumbs:skull>, <minecraft:skull:1>, <minecraft:skull:2>, <minecraft:skull:4>, <minecraft:skull:5>
+<headcrumbs:skull>, <minecraft:skull:1>, <minecraft:skull:2>, <minecraft:skull:4>, <minecraft:skull:5>, <minecraft:skull:0>
 ] as IItemStack[];
 for item in creatureheads {
 <ore:creatureheads>.add(item);
