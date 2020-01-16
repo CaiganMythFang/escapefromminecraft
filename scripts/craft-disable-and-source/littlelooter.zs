@@ -51,9 +51,9 @@ val loottradepurchase = [
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
+    item.addTooltip(format.red("CANNOT BE FLEA MARKETED!"));
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.red("Trade, ") + format.gold("Purchase"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("The YAP"));
-    <ore:fleamarketable>.add(item);
 }
 
 // Loot Trade
