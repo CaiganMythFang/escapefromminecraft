@@ -11,3 +11,6 @@ recipes.removeShapeless(<modcurrency:banknote:1> * 10, [<modcurrency:banknote:4>
 recipes.addShapeless(<modcurrency:banknote:2> * 10, [<modcurrency:banknote:5>]);
 recipes.addShapeless(<modcurrency:banknote:2> * 2, [<modcurrency:banknote:3>]);
 recipes.addShapeless(<modcurrency:banknote:2> * 5, [<modcurrency:banknote:4>]);
+
+//Change dollar notes to coins
+recipes.addShapeless(<modcurrency:coin:4>, [<modcurrency:banknote>]);
