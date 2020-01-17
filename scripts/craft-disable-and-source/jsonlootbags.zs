@@ -120,6 +120,7 @@ val loot = [
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
+    item.addTooltip(format.lightPurple("Hold and Right Click to examine this. Searched items drop to ground."));
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot"));
     item.addTooltip(format.darkGreen("Trader : ") + format.green("Bandit's Journal"));
     <ore:fleamarketable>.add(item);
