@@ -160,7 +160,7 @@ vanilmoduredstone1.build();
 val vanilmodugunpowder1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank1vanilmodugunpowder1", "ultimaterank_seller_1", 100, 0);
 
 vanilmodugunpowder1.addItemInput(<minecraft:gunpowder> * 3);
-vanilmodugunpowder1.addItemOutput(<modcurrency:banknote:2> * 2);
+vanilmodugunpowder1.addItemOutput(<modcurrency:banknote:2> * 5);
 vanilmodugunpowder1.setChance(1.0);
 
 vanilmodugunpowder1.build();
