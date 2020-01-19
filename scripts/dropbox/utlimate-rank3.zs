@@ -767,7 +767,7 @@ theflocktitanium1.build();
 
 val theflockpistolammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockpistolammo1", "ultimaterank_seller_3", 100, 0);
 
-theflockpistolammo1.addItemInput(<techguns:itemshared:1> * 30);
+theflockpistolammo1.addItemInput(<techguns:itemshared:1> * 15);
 theflockpistolammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockpistolammo1.setChance(1.0);
 
@@ -777,7 +777,7 @@ theflockpistolammo1.build();
 
 val theflockadvammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockadvammo1", "ultimaterank_seller_3", 100, 0);
 
-theflockadvammo1.addItemInput(<techguns:itemshared:6> * 32);
+theflockadvammo1.addItemInput(<techguns:itemshared:6> * 16);
 theflockadvammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockadvammo1.setChance(1.0);
 
@@ -787,7 +787,7 @@ theflockadvammo1.build();
 
 val theflockshotammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockshotammo1", "ultimaterank_seller_3", 100, 0);
 
-theflockshotammo1.addItemInput(<techguns:itemshared:2> * 30);
+theflockshotammo1.addItemInput(<techguns:itemshared:2> * 15);
 theflockshotammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockshotammo1.setChance(1.0);
 
@@ -797,7 +797,7 @@ theflockshotammo1.build();
 
 val theflockrifleammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockrifleammo1", "ultimaterank_seller_3", 100, 0);
 
-theflockrifleammo1.addItemInput(<techguns:itemshared:3> * 24);
+theflockrifleammo1.addItemInput(<techguns:itemshared:3> * 12);
 theflockrifleammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockrifleammo1.setChance(1.0);
 
@@ -807,7 +807,7 @@ theflockrifleammo1.build();
 
 val theflocksniperammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflocksniperammo1", "ultimaterank_seller_3", 100, 0);
 
-theflocksniperammo1.addItemInput(<techguns:itemshared:4> * 12);
+theflocksniperammo1.addItemInput(<techguns:itemshared:4> * 6);
 theflocksniperammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflocksniperammo1.setChance(1.0);
 
@@ -817,7 +817,7 @@ theflocksniperammo1.build();
 
 val theflockstoneammo1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockstoneammo1", "ultimaterank_seller_3", 100, 0);
 
-theflockstoneammo1.addItemInput(<techguns:itemshared:0> * 250);
+theflockstoneammo1.addItemInput(<techguns:itemshared:0> * 125);
 theflockstoneammo1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockstoneammo1.setChance(1.0);
 
@@ -827,7 +827,7 @@ theflockstoneammo1.build();
 
 val theflockpistolmag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockpistolmag1", "ultimaterank_seller_3", 100, 0);
 
-theflockpistolmag1.addItemInput(<techguns:itemshared:11> * 6);
+theflockpistolmag1.addItemInput(<techguns:itemshared:11> * 3);
 theflockpistolmag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockpistolmag1.setChance(1.0);
 
@@ -837,7 +837,7 @@ theflockpistolmag1.build();
 
 val theflocksmgmag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflocksmgmag1", "ultimaterank_seller_3", 100, 0);
 
-theflocksmgmag1.addItemInput(<techguns:itemshared:9> * 9);
+theflocksmgmag1.addItemInput(<techguns:itemshared:9> * 4);
 theflocksmgmag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflocksmgmag1.setChance(1.0);
 
@@ -847,7 +847,7 @@ theflocksmgmag1.build();
 
 val theflockassmag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockassmag1", "ultimaterank_seller_3", 100, 0);
 
-theflockassmag1.addItemInput(<techguns:itemshared:14> * 3);
+theflockassmag1.addItemInput(<techguns:itemshared:13> * 2);
 theflockassmag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockassmag1.setChance(1.0);
 
@@ -857,7 +857,7 @@ theflockassmag1.build();
 
 val theflockadvmag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockadvmag1", "ultimaterank_seller_3", 100, 0);
 
-theflockadvmag1.addItemInput(<techguns:itemshared:21> * 3);
+theflockadvmag1.addItemInput(<techguns:itemshared:21>);
 theflockadvmag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockadvmag1.setChance(1.0);
 
@@ -867,7 +867,7 @@ theflockadvmag1.build();
 
 val theflocka550mag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflocka550mag1", "ultimaterank_seller_3", 100, 0);
 
-theflocka550mag1.addItemInput(<techguns:itemshared:19> * 3);
+theflocka550mag1.addItemInput(<techguns:itemshared:19>);
 theflocka550mag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflocka550mag1.setChance(1.0);
 
@@ -877,7 +877,7 @@ theflocka550mag1.build();
 
 val theflocklmgmag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflocklmgmag1", "ultimaterank_seller_3", 100, 0);
 
-theflocklmgmag1.addItemInput(<techguns:itemshared:15> * 2);
+theflocklmgmag1.addItemInput(<techguns:itemshared:15>);
 theflocklmgmag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflocklmgmag1.setChance(1.0);
 
@@ -907,7 +907,7 @@ theflockenergycell1.build();
 
 val theflocknethercharge1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflocknethercharge1", "ultimaterank_seller_3", 100, 0);
 
-theflocknethercharge1.addItemInput(<techguns:itemshared:76> * 14);
+theflocknethercharge1.addItemInput(<techguns:itemshared:76> * 7);
 theflocknethercharge1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflocknethercharge1.setChance(1.0);
 
@@ -917,7 +917,7 @@ theflocknethercharge1.build();
 
 val theflockbiotank1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockbiotank1", "ultimaterank_seller_3", 100, 0);
 
-theflockbiotank1.addItemInput(<techguns:itemshared:25> * 15);
+theflockbiotank1.addItemInput(<techguns:itemshared:25> * 7);
 theflockbiotank1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockbiotank1.setChance(1.0);
 
@@ -927,7 +927,7 @@ theflockbiotank1.build();
 
 val theflockfueltank1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockfueltank1", "ultimaterank_seller_3", 100, 0);
 
-theflockfueltank1.addItemInput(<techguns:itemshared:27> * 6);
+theflockfueltank1.addItemInput(<techguns:itemshared:27> * 3);
 theflockfueltank1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockfueltank1.setChance(1.0);
 
@@ -937,7 +937,7 @@ theflockfueltank1.build();
 
 val theflockcompair1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockcompair1", "ultimaterank_seller_3", 100, 0);
 
-theflockcompair1.addItemInput(<techguns:itemshared:23> * 7);
+theflockcompair1.addItemInput(<techguns:itemshared:23> * 3);
 theflockcompair1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockcompair1.setChance(1.0);
 
@@ -947,7 +947,7 @@ theflockcompair1.build();
 
 val theflock40mmgrenade1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflock40mmgrenade1", "ultimaterank_seller_3", 100, 0);
 
-theflock40mmgrenade1.addItemInput(<techguns:itemshared:5> * 32);
+theflock40mmgrenade1.addItemInput(<techguns:itemshared:5> * 16);
 theflock40mmgrenade1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflock40mmgrenade1.setChance(1.0);
 
@@ -967,7 +967,7 @@ theflockrocket1.build();
 
 val theflockgaussslug1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockgaussslug1", "ultimaterank_seller_3", 100, 0);
 
-theflockgaussslug1.addItemInput(<techguns:itemshared:127> * 14);
+theflockgaussslug1.addItemInput(<techguns:itemshared:127> * 7);
 theflockgaussslug1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockgaussslug1.setChance(1.0);
 
@@ -987,7 +987,7 @@ theflocknuclearcell1.build();
 
 val theflockfrag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockfrag1", "ultimaterank_seller_3", 100, 0);
 
-theflockfrag1.addItemInput(<techguns:fraggrenade> * 16);
+theflockfrag1.addItemInput(<techguns:fraggrenade> * 8);
 theflockfrag1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockfrag1.setChance(1.0);
 
@@ -997,7 +997,7 @@ theflockfrag1.build();
 
 val theflockstiel1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank3theflockstiel1", "ultimaterank_seller_3", 100, 0);
 
-theflockstiel1.addItemInput(<techguns:stielgranate> * 16);
+theflockstiel1.addItemInput(<techguns:stielgranate> * 8);
 theflockstiel1.addItemOutput(<modcurrency:banknote:2> * 20);
 theflockstiel1.setChance(1.0);
 
