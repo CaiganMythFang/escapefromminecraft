@@ -140,3 +140,5 @@ for item in loot {
     <ore:fleamarketable>.add(item);
 }
 
+// Fix Electrical Ingot recipe
+recipes.addShapeless(<armorplus:electrical_ingot>, [<ore:ingotSteel>, <ore:dustRedstone>, <ore:dustGlowstone>]);
