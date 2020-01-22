@@ -1,0 +1,981 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+    ],
+    "BossColor": 0,
+    "PotionEffect": 0,
+    "Size": 3,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 1.0f,
+        "Melee": 1.0f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 20,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 5,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs:customnpc",
+    "IsStatue": 0b,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "HitSound": "minecraft:entity.arrow.hit",
+    "FindShelter": 2,
+    "GuardTargets": [
+        {
+            "Line": "entity.AnotherBuildMob.name"
+        },
+        {
+            "Line": "entity.BikaiserMob.name"
+        },
+        {
+            "Line": "entity.black_death.name"
+        },
+        {
+            "Line": "entity.Blaze.name"
+        },
+        {
+            "Line": "entity.BloodStalkMob.name"
+        },
+        {
+            "Line": "entity.brute.name"
+        },
+        {
+            "Line": "entity.BugsterVirusMob.name"
+        },
+        {
+            "Line": "entity.BuildMob.name"
+        },
+        {
+            "Line": "entity.byakkoInvesMob.name"
+        },
+        {
+            "Line": "entity.CaveSpider.name"
+        },
+        {
+            "Line": "entity.ChronosMob.name"
+        },
+        {
+            "Line": "entity.ClayDollDopantMob.name"
+        },
+        {
+            "Line": "entity.demonic_dragon.name"
+        },
+        {
+            "Line": "entity.demushuMob.name"
+        },
+        {
+            "Line": "entity.dire_wolf.name"
+        },
+        {
+            "Line": "entity.drones.drone.name"
+        },
+        {
+            "Line": "entity.DukeMob.name"
+        },
+        {
+            "Line": "entity.ebwizardry:blaze_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:evil_wizard.name"
+        },
+        {
+            "Line": "entity.ebwizardry:husk_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:ice_wraith.name"
+        },
+        {
+            "Line": "entity.ebwizardry:lightning_wraith.name"
+        },
+        {
+            "Line": "entity.ebwizardry:silverfish_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:skeleton_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:spider_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:stray_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:vex_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:wither_skeleton_minion.name"
+        },
+        {
+            "Line": "entity.ebwizardry:zombie_minion.name"
+        },
+        {
+            "Line": "entity.ElderGuardian.name"
+        },
+        {
+            "Line": "entity.ElementaryInvesBlueMob.name"
+        },
+        {
+            "Line": "entity.ElementaryInvesGreenMob.name"
+        },
+        {
+            "Line": "entity.ElementaryInvesRedMob.name"
+        },
+        {
+            "Line": "entity.ender_dragon_zombie.name"
+        },
+        {
+            "Line": "entity.Enderman.name"
+        },
+        {
+            "Line": "entity.enderminy.name"
+        },
+        {
+            "Line": "entity.Endermite.name"
+        },
+        {
+            "Line": "entity.EngineBrosMob.name"
+        },
+        {
+            "Line": "entity.EvocationIllager.name"
+        },
+        {
+            "Line": "entity.EvoltMob.name"
+        },
+        {
+            "Line": "entity.EvoltMob2.name"
+        },
+        {
+            "Line": "entity.EvoltMob3.name"
+        },
+        {
+            "Line": "entity.feral_ratlantean.name"
+        },
+        {
+            "Line": "entity.GammaCommandoMob.name"
+        },
+        {
+            "Line": "entity.genmMob.name"
+        },
+        {
+            "Line": "entity.Giant.name"
+        },
+        {
+            "Line": "entity.greaseMob.name"
+        },
+        {
+            "Line": "entity.Guardian.name"
+        },
+        {
+            "Line": "entity.GuardianMob.name"
+        },
+        {
+            "Line": "entity.HardGuardianMob.name"
+        },
+        {
+            "Line": "entity.hekijaInvesMob.name"
+        },
+        {
+            "Line": "entity.HellBrosMob.name"
+        },
+        {
+            "Line": "entity.hero.name"
+        },
+        {
+            "Line": "entity.HokutoGuardianMob.name"
+        },
+        {
+            "Line": "entity.Human.name"
+        },
+        {
+            "Line": "entity.Husk.name"
+        },
+        {
+            "Line": "entity.illager_piper.name"
+        },
+        {
+            "Line": "entity.IllusionIllager.name"
+        },
+        {
+            "Line": "entity.KaiserMob.name"
+        },
+        {
+            "Line": "entity.KaiserReverseMob.name"
+        },
+        {
+            "Line": "entity.knight_fallen.name"
+        },
+        {
+            "Line": "entity.KurokageTroopersMob.name"
+        },
+        {
+            "Line": "entity.lord_baronMob.name"
+        },
+        {
+            "Line": "entity.marbled_cheese_golem.name"
+        },
+        {
+            "Line": "entity.MarikaMob.name"
+        },
+        {
+            "Line": "entity.MasqueradeMob.name"
+        },
+        {
+            "Line": "entity.NazcaDopantMob.name"
+        },
+        {
+            "Line": "entity.nebula_BugsterVirusMob.name"
+        },
+        {
+            "Line": "entity.NeedleSmashMob.name"
+        },
+        {
+            "Line": "entity.neo_ratlantean.name"
+        },
+        {
+            "Line": "entity.NightRogueMob.name"
+        },
+        {
+            "Line": "entity.overlord_of_the_guardians.name"
+        },
+        {
+            "Line": "entity.Para_dxMob.name"
+        },
+        {
+            "Line": "entity.PigZombie.name"
+        },
+        {
+            "Line": "entity.pirat_boat.name"
+        },
+        {
+            "Line": "entity.plague_beast.name"
+        },
+        {
+            "Line": "entity.plague_cloud.name"
+        },
+        {
+            "Line": "entity.pyromaniac.name"
+        },
+        {
+            "Line": "entity.quark:ashen.name"
+        },
+        {
+            "Line": "entity.quark:dweller.name"
+        },
+        {
+            "Line": "entity.quark:pirate.name"
+        },
+        {
+            "Line": "entity.quark:wraith.name"
+        },
+        {
+            "Line": "entity.raider.name"
+        },
+        {
+            "Line": "entity.rainbow_golem.name"
+        },
+        {
+            "Line": "entity.ranger.name"
+        },
+        {
+            "Line": "entity.ratlantean_spirit.name"
+        },
+        {
+            "Line": "entity.Red_PoppyMob.name"
+        },
+        {
+            "Line": "entity.RedNazcaDopantMob.name"
+        },
+        {
+            "Line": "entity.redyueMob.name"
+        },
+        {
+            "Line": "entity.RemoconBrosMob.name"
+        },
+        {
+            "Line": "entity.RidePlayerMob.name"
+        },
+        {
+            "Line": "entity.roshuoMob.name"
+        },
+        {
+            "Line": "entity.SeitoGuardianMob.name"
+        },
+        {
+            "Line": "entity.ShockerCombatmanMob.name"
+        },
+        {
+            "Line": "entity.SigurdMob.name"
+        },
+        {
+            "Line": "entity.Silverfish.name"
+        },
+        {
+            "Line": "entity.skeletal_king.name"
+        },
+        {
+            "Line": "entity.Skeleton.name"
+        },
+        {
+            "Line": "entity.skeleton_frozen.name"
+        },
+        {
+            "Line": "entity.Spider.name"
+        },
+        {
+            "Line": "entity.Stray.name"
+        },
+        {
+            "Line": "entity.TabooDopantMob.name"
+        },
+        {
+            "Line": "entity.techguns.AlienBug.name"
+        },
+        {
+            "Line": "entity.techguns.ArmySoldier.name"
+        },
+        {
+            "Line": "entity.techguns.Bandit.name"
+        },
+        {
+            "Line": "entity.techguns.Commando.name"
+        },
+        {
+            "Line": "entity.techguns.CyberDemon.name"
+        },
+        {
+            "Line": "entity.techguns.DictatorDave.name"
+        },
+        {
+            "Line": "entity.techguns.DummySpawn.name"
+        },
+        {
+            "Line": "entity.techguns.Outcast.name"
+        },
+        {
+            "Line": "entity.techguns.PsychoSteve.name"
+        },
+        {
+            "Line": "entity.techguns.SkeletonSoldier.name"
+        },
+        {
+            "Line": "entity.techguns.StormTrooper.name"
+        },
+        {
+            "Line": "entity.techguns.SuperMutantBasic.name"
+        },
+        {
+            "Line": "entity.techguns.SuperMutantElite.name"
+        },
+        {
+            "Line": "entity.techguns.SuperMutantHeavy.name"
+        },
+        {
+            "Line": "entity.techguns.ZombieFarmer.name"
+        },
+        {
+            "Line": "entity.techguns.ZombieMiner.name"
+        },
+        {
+            "Line": "entity.techguns.ZombiePigmanSoldier.name"
+        },
+        {
+            "Line": "entity.techguns.ZombieSoldier.name"
+        },
+        {
+            "Line": "entity.timberwolf.name"
+        },
+        {
+            "Line": "entity.trumpetskeleton.TrumpetSkeleton.name"
+        },
+        {
+            "Line": "entity.tweaker.name"
+        },
+        {
+            "Line": "entity.Vex.name"
+        },
+        {
+            "Line": "entity.VindicationIllager.name"
+        },
+        {
+            "Line": "entity.Witch.name"
+        },
+        {
+            "Line": "entity.witch.name"
+        },
+        {
+            "Line": "entity.WitherBoss.name"
+        },
+        {
+            "Line": "entity.withercat.name"
+        },
+        {
+            "Line": "entity.witherling.name"
+        },
+        {
+            "Line": "entity.WitherSkeleton.name"
+        },
+        {
+            "Line": "entity.witherwitch.name"
+        },
+        {
+            "Line": "entity.ZangetsuShinMob.name"
+        },
+        {
+            "Line": "entity.Zombie.name"
+        },
+        {
+            "Line": "entity.ZombieVillager.name"
+        },
+        {
+            "Line": "entity.Creeper.name"
+        },
+        {
+            "Line": "entity.creeper.name"
+        }
+    ],
+    "Air": 300s,
+    "TacticalVariant": 0,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "ShotCount": 1,
+    "pDur": 5,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "Texture": "customnpcs:textures/entity/dragon/pinkdragon.png",
+    "NpcJob": 3,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "MoveState": 0,
+    "pRender3D": 1b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "NpcsTimers": [
+    ],
+    "pEffect": 0,
+    "DistanceToMelee": 0,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "LeftHanded": 0b,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "Fire": -1s,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "Hello @p",
+                "Song": "",
+                "Slot": 0
+            }
+        ]
+    },
+    "HurtByTimestamp": 968,
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 0.0d,
+            "Name": "techguns.radiationResistance"
+        },
+        {
+            "Base": 50.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armor"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armorToughness"
+        },
+        {
+            "Base": 1.0d,
+            "Name": "forge.swimSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "generic.attackDamage"
+        },
+        {
+            "Base": 0.5d,
+            "Name": "generic.flyingSpeed"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "DragonsHoardGuard",
+    "FallDistance": 0.0f,
+    "SkinColor": 16777215,
+    "NpcIdleSound": "",
+    "Weapons": [
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 16,
+    "DirectLOS": 1b,
+    "HealthRegen": 1,
+    "ForgeCaps": {
+        "techguns:deathtype": {
+        },
+        "llibrary:extendedentitydatacapability": {
+        },
+        "pneumaticcraft:hacking": {
+        }
+    },
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "NpcModelData": {
+        "LegsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.012000002f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "Eyes": {
+            "Pattern": 0b,
+            "Glint": 1b,
+            "Type": 0b,
+            "PositionY": 1,
+            "SkinColor": 11830381,
+            "PlayerTexture": 0b,
+            "Color": 10526975,
+            "BrowColor": 5982516,
+            "BrowThickness": 4
+        },
+        "EntityClass": "noppes.npcs.entity.EntityNpcDragon",
+        "LegParts": {
+            "Pattern": 0b,
+            "Type": 0b,
+            "PlayerTexture": 0b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "ArmsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": -0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+            "ReturnToStart": 1b,
+            "NpcInv": [
+            ],
+            "BossColor": 0,
+            "PotionEffect": 0,
+            "stopAndInteract": 1b,
+            "Size": 5,
+            "Resistances": {
+                "Arrow": 1.0f,
+                "Explosion": 1.0f,
+                "Knockback": 1.0f,
+                "Melee": 1.0f
+            },
+            "BossBar": 0b,
+            "RespawnTime": 20,
+            "NpcAngrySound": "",
+            "ReactsToFire": 0b,
+            "PositionOffsetZ": 5.0f,
+            "IgnoreCobweb": 0b,
+            "PositionOffsetY": 5.0f,
+            "PositionOffsetX": 5.0f,
+            "LootMode": 0,
+            "AttackStrenght": 5,
+            "NpcLines": {
+                "Lines": [
+                ]
+            },
+            "DefendFaction": 0b,
+            "MovingPatern": 0,
+            "IsStatue": 0b,
+            "FireIndirect": 0,
+            "NpcVisible": 0,
+            "NpcScenes": {
+                "Scenes": [
+                ]
+            },
+            "HitSound": "minecraft:entity.arrow.hit",
+            "FindShelter": 2,
+            "TacticalVariant": 0,
+            "Orientation": 0,
+            "KnockBack": 0,
+            "BurnInSun": 0b,
+            "StandingState": 0,
+            "NpcInteractNPCLines": {
+                "Lines": [
+                ]
+            },
+            "AttackInvisible": 0b,
+            "WalkingRange": 10,
+            "ShotCount": 1,
+            "pDur": 5,
+            "StartPosNew": [I;0,0,0],
+            "AttackRange": 2,
+            "NpcKillLines": {
+                "Lines": [
+                ]
+            },
+            "AvoidsSun": 0b,
+            "PotionImmune": 0b,
+            "Texture": "customnpcs:textures/entity/dragon/blackdragon.png",
+            "NpcJob": 0,
+            "NpcAttackLines": {
+                "Lines": [
+                ]
+            },
+            "BurstCount": 1,
+            "pSpeed": 10,
+            "pArea": 0,
+            "pImpact": 0,
+            "MoveState": 0,
+            "pRender3D": 1b,
+            "CombatRegen": 0,
+            "pEffect": 0,
+            "DistanceToMelee": 0,
+            "NpcStepSound": "",
+            "FireRate": 5,
+            "pEffAmp": 0,
+            "ImmuneToFire": 0b,
+            "NpcKilledLines": {
+                "Lines": [
+                ]
+            },
+            "DisablePitch": 0b,
+            "pPhysics": 1b,
+            "NpcInteractLines": {
+                "Lines": [
+                    {
+                        "Line": "Hello @p",
+                        "Song": "",
+                        "Slot": 0
+                    }
+                ]
+            },
+            "NpcHurtSound": "minecraft:entity.player.hurt",
+            "pSpin": 0b,
+            "pTrail": 0,
+            "CreatureType": 0,
+            "NoFallDamage": 0b,
+            "Name": "Drake",
+            "SkinColor": 16777215,
+            "NpcIdleSound": "",
+            "Weapons": [
+            ],
+            "NPCDialogOptions": [
+            ],
+            "DirectLOS": 1b,
+            "AggroRange": 16,
+            "HealthRegen": 1,
+            "DoorInteract": 2,
+            "MoveSpeed": 5,
+            "minDelay": 20,
+            "UsingSkinUrl": 0b,
+            "SkinUrl": "",
+            "CanSwim": 1b,
+            "GroundSound": "minecraft:block.stone.break",
+            "MaxHealth": 20,
+            "HideBodyWhenKilled": 0b,
+            "AttackSpeed": 20,
+            "PotionDuration": 5,
+            "Role": 0,
+            "maxDelay": 40,
+            "DropChance": [
+            ],
+            "FactionPoints": {
+                "DecreaseFaction1Points": 0b,
+                "OptionFaction2Points": 100,
+                "OptionFactions1": -1,
+                "OptionFactions2": -1,
+                "OptionFaction1Points": 100,
+                "DecreaseFaction2Points": 0b
+            },
+            "pDamage": 4,
+            "AimWhileShooting": 0b,
+            "AttackOtherFactions": 0b,
+            "CanDrown": 1b,
+            "CanSprint": 0b,
+            "pSize": 5,
+            "CanLeap": 0b,
+            "MovingState": 0,
+            "MovingPos": 0,
+            "PotionAmp": 0,
+            "OnAttack": 0,
+            "TacticalRadius": 8,
+            "MaxExp": 0,
+            "OrderedLines": 0b,
+            "pGlows": 0b,
+            "MovementType": 0,
+            "FiringSound": "minecraft:entity.arrow.shoot",
+            "Accuracy": 60,
+            "MinExp": 0,
+            "Armor": [
+            ],
+            "CloakTexture": "",
+            "MaxFiringRange": 15,
+            "pXlr8": 0b,
+            "GlowTexture": "",
+            "NpcDeathSound": "minecraft:entity.player.hurt",
+            "MovingPause": 1b,
+            "pStick": 0b,
+            "FactionID": 0,
+            "MovingPathNew": [
+            ],
+            "Title": "",
+            "npcInteracting": 1b,
+            "ShowName": 0,
+            "AvoidsWater": 0b,
+            "NoLivingAnimation": 0b,
+            "SpawnCycle": 0
+        },
+        "HeadConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 20,
+    "DoorInteract": 2,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "GroundSound": "minecraft:block.stone.break",
+    "MaxHealth": 50,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 20,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 100,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 0b,
+    "CanDrown": 1b,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "RelativeAABB": [
+        -0.5399999618530273d,
+        0.0d,
+        -0.5399999618530273d,
+        0.5399999618530273d,
+        0.8400000333786011d,
+        0.5399999618530273d
+    ],
+    "OnAttack": 0,
+    "TacticalRadius": 8,
+    "FallFlying": 0b,
+    "MaxExp": 0,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "MovementType": 0,
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "ModRev": 18,
+    "Accuracy": 60,
+    "MinExp": 0,
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "Scripts": [
+    ],
+    "Health": 50.0f,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "FactionID": 0,
+    "Title": "",
+    "TotalTicksAlive": 6446L,
+    "Rotation": [
+        -232.82306f,
+        0.0f
+    ],
+    "ShowName": 1,
+    "npcInteracting": 1b,
+    "UpdateBlocked": 0b,
+    "AvoidsWater": 0b,
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}
