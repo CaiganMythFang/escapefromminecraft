@@ -396,6 +396,16 @@ theflockstiel1.setChance(1.0);
 
 theflockstiel1.build();
 
+// gun Turn In (The Flock 1)
+
+val theflockgun1 = mods.modularmachinery.RecipeBuilder.newBuilder("florank2theflockgun1", "theflock_seller_1", 100, 0);
+
+theflockstiel1.addItemInput(<ore:techgunsguns>);
+theflockstiel1.addItemOutput(<modcurrency:banknote:2> * 10);
+theflockstiel1.setChance(1.0);
+
+theflockstiel1.build();
+
 /////// RANK 2
 
 // hightecbench Turn In (The Flock 2)
