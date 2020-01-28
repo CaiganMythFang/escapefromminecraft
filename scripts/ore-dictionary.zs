@@ -717,3 +717,10 @@ val ebwizardallspells = [
 for item in ebwizardallspells {
     <ore:ebwizardallspells>.add(item);
 }
+
+val techgunsguns = [
+<techguns:pistol:*>, <techguns:combatshotgun:*>, <techguns:mac10:*>, <techguns:handcannon:*>, <techguns:thompson:*>, <techguns:m4_infiltrator:*>, <techguns:m4:*>, <techguns:boltaction:*>, <techguns:ak47:*>, <techguns:revolver:*>, <techguns:sawedoff:*>, <techguns:goldenrevolver:*>, <techguns:flamethrower:*>, <techguns:aug:*>, <techguns:netherblaster:*>, <techguns:biogun:*>, <techguns:teslagun:*>, <techguns:lmg:*>, <techguns:minigun:*>, <techguns:as50:*>, <techguns:vector:*>, <techguns:scar:*>, <techguns:grenadelauncher:*>, <techguns:grimreaper:*>, <techguns:rocketlauncher:*>, <techguns:lasergun:*>, <techguns:blasterrifle:*>, <techguns:scatterbeamrifle:*>, <techguns:powerhammer:*>, <techguns:nucleardeathray:*>, <techguns:chainsaw:*>, <techguns:guidedmissilelauncher:*>, <techguns:miningdrill:*>, <techguns:sonicshotgun:*>, <techguns:pdw:*>, <techguns:pulserifle:*>, <techguns:mibgun:*>, <techguns:alienblaster:*>, <techguns:gaussrifle:*>, <techguns:tfg:*>
+] as IItemStack[];
+for item in techgunsguns {
+    <ore:techgunsguns>.add(item);
+}
