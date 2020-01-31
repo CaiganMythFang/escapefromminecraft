@@ -2052,6 +2052,23 @@
         "loot": "chestloot"
       },
       {
+        "char": "&",
+        "blocks": [
+          {
+            "random": 300,
+            "block": "contenttweaker:compressedruins"
+          },
+          {
+            "random": 100,
+            "block": "minecraft:iron_bars"
+          },
+          {
+            "random": 10,
+            "block": "contenttweaker:glowingruins"
+          }
+        ]
+      },
+      {
         "char": "2",
         "blocks": [
           {
