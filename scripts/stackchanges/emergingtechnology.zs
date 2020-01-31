@@ -36,7 +36,7 @@ for item in stackminecraft10 {
 }
 
 val stackminecraft5 = [
-<emergingtechnology:syntheticbeefraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticporkchopraw>
+<emergingtechnology:syntheticcowraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticpigraw>
 ] as IItemStack[];
 for item in stackminecraft5 {
     item.maxStackSize = 5;

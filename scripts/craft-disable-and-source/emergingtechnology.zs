@@ -105,7 +105,7 @@ for item in lootcrafttradepurchase {
 // Lootable, Craftable
 
 val lootcraft = [
-<emergingtechnology:shreddedplastic>, <emergingtechnology:shreddedplant>, <emergingtechnology:shreddedstarch>, <emergingtechnology:shreddedplantblock>, <emergingtechnology:shreddedplasticblock>, <emergingtechnology:shreddedstarchblock>, <emergingtechnology:cowsample>, <emergingtechnology:chickensample>, <emergingtechnology:pigsample>, <emergingtechnology:horsesample>, <emergingtechnology:cowsyringe>, <emergingtechnology:chickensyringe>, <emergingtechnology:pigsyringe>, <emergingtechnology:horsesyringe>, <emergingtechnology:redbulb>, <emergingtechnology:greenbulb>, <emergingtechnology:bluebulb>, <emergingtechnology:purplebulb>, <emergingtechnology:syntheticbeefraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticporkchopraw>
+<emergingtechnology:shreddedplastic>, <emergingtechnology:shreddedplant>, <emergingtechnology:shreddedstarch>, <emergingtechnology:shreddedplantblock>, <emergingtechnology:shreddedplasticblock>, <emergingtechnology:shreddedstarchblock>, <emergingtechnology:cowsample>, <emergingtechnology:chickensample>, <emergingtechnology:pigsample>, <emergingtechnology:horsesample>, <emergingtechnology:cowsyringe>, <emergingtechnology:chickensyringe>, <emergingtechnology:pigsyringe>, <emergingtechnology:horsesyringe>, <emergingtechnology:redbulb>, <emergingtechnology:greenbulb>, <emergingtechnology:bluebulb>, <emergingtechnology:purplebulb>, <emergingtechnology:syntheticcowraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticpigraw>
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft"));
