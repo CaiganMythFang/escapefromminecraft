@@ -398,6 +398,10 @@
             "block": "minecraft:cauldron"
           },
           {
+            "random": 3,
+            "block": "arcademod:prize_box"
+          },
+          {
             "random": 2,
             "block": "minecraft:enchanting_table"
           },
@@ -1696,6 +1700,10 @@
           {
             "random": 3,
             "block": "minecraft:observer"
+          },
+          {
+            "random": 7,
+            "block": "arcademod:prize_box"
           },
           {
             "random": 5,
