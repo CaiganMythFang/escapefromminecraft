@@ -22,7 +22,7 @@ for item in stackminecraft32 {
 }
 
 val stackminecraft16 = [
-<emergingtechnology:machinecase>, <emergingtechnology:plasticsheet>, <emergingtechnology:cowsample>, <emergingtechnology:chickensample>, <emergingtechnology:pigsample>, <emergingtechnology:horsesample>, <emergingtechnology:cowsyringe>, <emergingtechnology:chickensyringe>, <emergingtechnology:pigsyringe>, <emergingtechnology:horsesyringe>, <emergingtechnology:redbulb>, <emergingtechnology:greenbulb>, <emergingtechnology:bluebulb>, <emergingtechnology:purplebulb>, <emergingtechnology:emptysyringe>
+<emergingtechnology:machinecase>, <emergingtechnology:plasticsheet>, <emergingtechnology:cowsample>, <emergingtechnology:chickensample>, <emergingtechnology:pigsample>, <emergingtechnology:horsesample>, <emergingtechnology:cowsyringe>, <emergingtechnology:chickensyringe>, <emergingtechnology:pigsyringe>, <emergingtechnology:horsesyringe>, <emergingtechnology:redbulb>, <emergingtechnology:greenbulb>, <emergingtechnology:bluebulb>, <emergingtechnology:purplebulb>, <emergingtechnology:emptysyringe>, <emergingtechnology:spidersample>, <emergingtechnology:zombiesample>, <emergingtechnology:slimesample>, <emergingtechnology:zombiesyringe>, <emergingtechnology:slimesyringe>, <emergingtechnology:spidersyringe>, <emergingtechnology:shreddedpaper>, <emergingtechnology:paperwaste>, <emergingtechnology:paperpulp>, <emergingtechnology:plasticwaste>, <emergingtechnology:biochar>, <emergingtechnology:biomass>, <emergingtechnology:syntheticsilk>, <emergingtechnology:syntheticslime>, <emergingtechnology:syntheticleather>
 ] as IItemStack[];
 for item in stackminecraft16 {
     item.maxStackSize = 16;
@@ -36,7 +36,7 @@ for item in stackminecraft10 {
 }
 
 val stackminecraft5 = [
-<emergingtechnology:syntheticcowraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticpigraw>
+<emergingtechnology:syntheticcowraw>, <emergingtechnology:syntheticchickenraw>, <emergingtechnology:syntheticpigraw>, <emergingtechnology:syntheticpigcooked>, <emergingtechnology:syntheticchickencooked>, <emergingtechnology:syntheticcowcooked>, <emergingtechnology:biocharblock>
 ] as IItemStack[];
 for item in stackminecraft5 {
     item.maxStackSize = 5;
@@ -50,7 +50,7 @@ for item in stackminecraft6 {
 }
 
 val stackminecraft2 = [
-<emergingtechnology:shredder>, <emergingtechnology:processor>, <emergingtechnology:hydroponic>, <emergingtechnology:light>, <emergingtechnology:piezoelectric>, <emergingtechnology:cooker>, <emergingtechnology:fabricator>, <emergingtechnology:filler>, <emergingtechnology:bioreactor>, <emergingtechnology:scaffolder>, <emergingtechnology:harvester>
+<emergingtechnology:shredder>, <emergingtechnology:processor>, <emergingtechnology:hydroponic>, <emergingtechnology:light>, <emergingtechnology:piezoelectric>, <emergingtechnology:cooker>, <emergingtechnology:fabricator>, <emergingtechnology:filler>, <emergingtechnology:bioreactor>, <emergingtechnology:scaffolder>, <emergingtechnology:harvester>, <emergingtechnology:tidalgenerator>, <emergingtechnology:biomassgenerator>, <emergingtechnology:wind>, <emergingtechnology:solar>, <emergingtechnology:collector>, <emergingtechnology:battery>
 ] as IItemStack[];
 for item in stackminecraft2 {
     item.maxStackSize = 2;
