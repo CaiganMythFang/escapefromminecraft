@@ -97,6 +97,36 @@
               }
             }
           ]
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:tidalgenerator",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:biomassgenerator",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:wind",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:solar",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:collector",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "emergingtechnology:battery",
+          "weight": 40
         }
       ]
     }
