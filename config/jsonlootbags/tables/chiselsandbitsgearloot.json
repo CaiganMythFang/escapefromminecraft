@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "chiselsandbits:bitsaw_diamond",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:chisel_diamond",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:chisel_gold",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:tape_measure",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:chisel_iron",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:wrench_wood",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "chiselsandbits:chisel_stone",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}
