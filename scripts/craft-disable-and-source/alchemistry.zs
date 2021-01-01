@@ -35,7 +35,7 @@ for item in corrupted {
 //loot, purchase
 
 val lootpurchase = [
-<alchemistry:chemical_combiner>, <alchemistry:liquifier>, <alchemistry:evaporator>, <alchemistry:chemical_dissolver>, <alchemistry:atomizer>, <alchemistry:electrolyzer>, <alchemistry:fission_core>, <alchemistry:fission_controller>, <alchemistry:fusion_core>, <alchemistry:fusion_controller>
+<alchemistry:chemical_combiner>, <alchemistry:liquifier>, <alchemistry:evaporator>, <alchemistry:chemical_dissolver>, <alchemistry:atomizer>, <alchemistry:electrolyzer>, <alchemistry:fission_core>, <alchemistry:fission_controller>, <alchemistry:fusion_core>, <alchemistry:fusion_controller>, <alchemistry:periodic_diagram>
 ] as IItemStack[];
 for item in lootpurchase {
     recipes.remove(item);

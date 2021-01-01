@@ -29,7 +29,7 @@ for item in stackminecraft16 {
 }
 
 val stackminecraft10 = [
-
+<alchemistry:periodic_diagram>
 ] as IItemStack[];
 for item in stackminecraft10 {
     item.maxStackSize = 10;
