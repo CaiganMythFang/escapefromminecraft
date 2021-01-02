@@ -994,7 +994,7 @@ labratspsylo1.build();
 
 val labratsbeer1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank2labratsbeer1", "ultimaterank_seller_2", 100, 0);
 
-labratsbeer1.addItemInput(<dap:beer> * 5);
+labratsbeer1.addItemInput(<drugsandpills:beer> * 5);
 labratsbeer1.addItemOutput(<modcurrency:banknote:2> * 5);
 labratsbeer1.setChance(1.0);
 
