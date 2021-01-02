@@ -5,110 +5,12 @@
       "entries": [
         {
           "type": "item",
-          "name": "dap:beer",
+          "name": "drugsandpills:beer",
           "weight": 40
         },
         {
           "type": "item",
-          "name": "dap:energypill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:hastepill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:strengthpill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:luckpill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:rpill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:nvpill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:regenpill",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "dap:magicmushroom",
+          "name": "drugsandpills:magicmushroom",
           "weight": 10,
           "functions": [
             {
@@ -122,7 +24,105 @@
         },
         {
           "type": "item",
-          "name": "dap:joint",
+          "name": "drugsandpills:energypill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:hastepill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:luckpill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:nightvisionpill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:regenerationpill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:strengthpill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:resistancepill",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:joint",
           "weight": 10,
           "functions": [
             {
@@ -136,7 +136,7 @@
         },
         {
           "type": "item",
-          "name": "dap:thccookie",
+          "name": "drugsandpills:thccookies",
           "weight": 10,
           "functions": [
             {
@@ -147,6 +147,16 @@
               }
             }
           ]
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:bong",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "drugsandpills:lsd",
+          "weight": 10
         }
       ]
     }
