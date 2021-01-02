@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 //Flea Market Catagories
 
 val fleamarketcheap = [
-<dap:joint>, <dap:beer>, <dap:magicmushroom>, <dap:thccookie>, <dap:energypill>, <dap:hastepill>, <dap:strengthpill>, <dap:luckpill>, <dap:rpill>, <dap:nvpill>, <dap:regenpill>, <dap:thc>, <dap:yeast>
+<drugsandpills:dust>, <drugsandpills:joint>, <drugsandpills:beer>, <drugsandpills:magicmushroom>, <drugsandpills:thccookies>, <drugsandpills:energypill>, <drugsandpills:hastepill>, <drugsandpills:luckpill>, <drugsandpills:nightvisionpill>, <drugsandpills:regenerationpill>, <drugsandpills:strengthpill>, <drugsandpills:resistancepill>, <drugsandpills:thc>, <drugsandpills:yeast>, <drugsandpills:weed>, <drugsandpills:bong>, <drugsandpills:lsd>
 ] as IItemStack[];
 for item in fleamarketcheap {
     <ore:fleamarketcheap>.add(item);

@@ -47,7 +47,7 @@ for item in lootpurchase {
 //loot, trade, purchase
 
 val loottradepurchase = [
-<dap:thccookie>, <dap:energypill>, <dap:hastepill>, <dap:strengthpill>, <dap:luckpill>, <dap:rpill>, <dap:nvpill>, <dap:regenpill>
+<drugsandpills:thccookies>, <drugsandpills:energypill>, <drugsandpills:hastepill>, <drugsandpills:luckpill>, <drugsandpills:nightvisionpill>, <drugsandpills:regenerationpill>, <drugsandpills:strengthpill>, <drugsandpills:resistancepill>
 ] as IItemStack[];
 for item in loottradepurchase {
     recipes.remove(item);
@@ -71,7 +71,7 @@ for item in loottrade {
 // Loot Craft Trade
 
 val lootcrafttrade = [
-
+<drugsandpills:weed>, <drugsandpills:lsd>
 ] as IItemStack[];
 for item in lootcrafttrade {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade"));
@@ -93,7 +93,7 @@ for item in lootcraftpurchase {
 // Lootable, Craftable, Tradeable, Purchasable
 
 val lootcrafttradepurchase = [
-<dap:joint>, <dap:beer>, <dap:magicmushroom>
+<drugsandpills:joint>, <drugsandpills:beer>, <drugsandpills:magicmushroom>
 ] as IItemStack[];
 for item in lootcrafttradepurchase {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft, ") + format.red("Trade, ") + format.gold("Purchase"));
@@ -104,7 +104,7 @@ for item in lootcrafttradepurchase {
 // Lootable, Craftable
 
 val lootcraft = [
-<dap:beerglass>, <dap:yeastbucket>
+<drugsandpills:bong>
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft"));
@@ -115,7 +115,7 @@ for item in lootcraft {
 // Lootable
 
 val loot = [
-<dap:thc>, <dap:yeast>
+<drugsandpills:thc>, <drugsandpills:yeast>, <drugsandpills:dust>
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);

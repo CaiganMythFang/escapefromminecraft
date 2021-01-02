@@ -22,7 +22,7 @@ for item in stackminecraft32 {
 }
 
 val stackminecraft16 = [
-<dap:yeast>, <dap:energypill>, <dap:hastepill>, <dap:strengthpill>, <dap:luckpill>, <dap:rpill>, <dap:nvpill>, <dap:regenpill>
+<drugsandpills:yeast>, <drugsandpills:energypill>, <drugsandpills:hastepill>, <drugsandpills:luckpill>, <drugsandpills:nightvisionpill>, <drugsandpills:regenerationpill>, <drugsandpills:strengthpill>, <drugsandpills:resistancepill>, <drugsandpills:magicmushroom>, <drugsandpills:weed>, <drugsandpills:lsd>
 ] as IItemStack[];
 for item in stackminecraft16 {
     item.maxStackSize = 16;
@@ -43,7 +43,7 @@ for item in stackminecraft5 {
 }
 
 val stackminecraft2 = [
-<dap:thccookie>
+<drugsandpills:thccookies>
 ] as IItemStack[];
 for item in stackminecraft2 {
     item.maxStackSize = 2;
