@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 //Sets stack size for Minecraft's basic building blocks
 
 val stackminecraft1000 = [
-
+<tombstone:decorative_grave_simple:1>, <tombstone:decorative_grave_normal:1>, <tombstone:decorative_grave_cross:1>, <tombstone:decorative_tombstone:1>, <tombstone:dark_marble:1>
 ] as IItemStack[];
 for item in stackminecraft1000 {
     item.maxStackSize = 1000;

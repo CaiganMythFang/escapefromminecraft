@@ -105,7 +105,7 @@ for item in lootcrafttradepurchase {
 // Lootable, Craftable
 
 val lootcraft = [
-<tombstone:dust_of_vanishing>, <tombstone:crafting_ingredient:3>, <tombstone:crafting_ingredient:2>, <tombstone:crafting_ingredient:1>, <tombstone:crafting_ingredient>, <tombstone:dark_marble>, <tombstone:decorative_tombstone>, <tombstone:decorative_grave_cross>, <tombstone:decorative_grave_normal>, <tombstone:decorative_grave_simple>, <tombstone:scroll_of_knowledge>, <tombstone:ankh_of_pray>, <tombstone:scroll_buff>, <tombstone:book_of_disenchantment>, <tombstone:voodoo_poppet>, <tombstone:familiar_receptacle>, <tombstone:lost_tablet:*>, <tombstone:tablet_of_assistance>, <tombstone:tablet_of_recall>, <tombstone:scroll_buff:4>, <tombstone:scroll_buff:3>, <tombstone:scroll_buff:2>, <tombstone:scroll_buff:1>, <tombstone:fishing_rod_of_misadventure>
+<tombstone:dust_of_vanishing>, <tombstone:crafting_ingredient:3>, <tombstone:crafting_ingredient:2>, <tombstone:crafting_ingredient:1>, <tombstone:crafting_ingredient>, <tombstone:dark_marble>, <tombstone:decorative_tombstone>, <tombstone:decorative_grave_cross>, <tombstone:decorative_grave_normal>, <tombstone:decorative_grave_simple>, <tombstone:scroll_of_knowledge>, <tombstone:ankh_of_pray>, <tombstone:scroll_buff>, <tombstone:book_of_disenchantment>, <tombstone:voodoo_poppet>, <tombstone:familiar_receptacle>, <tombstone:lost_tablet:*>, <tombstone:tablet_of_assistance>, <tombstone:tablet_of_recall>, <tombstone:scroll_buff:4>, <tombstone:scroll_buff:3>, <tombstone:scroll_buff:2>, <tombstone:scroll_buff:1>, <tombstone:fishing_rod_of_misadventure>, <tombstone:decorative_grave_simple:1>, <tombstone:decorative_grave_normal:1>, <tombstone:decorative_grave_cross:1>, <tombstone:decorative_tombstone:1>, <tombstone:dark_marble:1>, <tombstone:scroll_buff:5>, <tombstone:scroll_buff:6>, <tombstone:tablet_of_home>, <tombstone:tablet_of_cupidity>
 ] as IItemStack[];
 for item in lootcraft {
     item.addTooltip(format.darkPurple(format.bold("TAG : ")) + format.gray("Loot, ") + format.lightPurple("Craft"));
@@ -116,7 +116,7 @@ for item in lootcraft {
 // Lootable
 
 val loot = [
-
+<tombstone:soul_receptacle>
 ] as IItemStack[];
 for item in loot {
     recipes.remove(item);
