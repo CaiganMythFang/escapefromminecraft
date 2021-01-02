@@ -708,6 +708,60 @@
         {
           "type": "item",
           "name": "armorplus:the_gift_of_the_gods",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "armorplus:coal_horse_armor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "armorplus:lapis_horse_armor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "armorplus:redstone_horse_armor",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "armorplus:emerald_horse_armor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:obsidian_horse_armor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:infused_lava_horse_armor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:guardian_horse_armor",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "armorplus:super_star_horse_armor",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "armorplus:ender_dragon_horse_armor",
           "weight": 10
         }
       ]
