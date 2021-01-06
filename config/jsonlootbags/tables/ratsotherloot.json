@@ -1074,6 +1074,26 @@
           "type": "item",
           "name": "rats:rat_upgrade_no_flute",
           "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_jury_rigged",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_replanter",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_lantern",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "rats:rat_upgrade_fragment",
+          "weight": 10
         }
       ]
     }
