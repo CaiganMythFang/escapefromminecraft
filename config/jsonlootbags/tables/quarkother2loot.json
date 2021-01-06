@@ -2636,6 +2636,110 @@
               }
             }
           ]
+        },
+        {
+          "type": "item",
+          "name": "quark:world_stone_bricks",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "quark:world_stone_bricks",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "quark:world_stone_carved",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 6
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "quark:world_stone_carved",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 7
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "quark:slate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "quark:slate",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
         }
       ]
     }
