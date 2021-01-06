@@ -1414,7 +1414,7 @@ emporiumdefense1.build();
 
 val dragontank1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank2dragontank1", "ultimaterank_seller_2", 100, 0);
 
-dragontank1.addItemInput(<travellersbackpack:backpack_tank>);
+dragontank1.addItemInput(<travelersbackpack:backpack_tank>);
 dragontank1.addItemOutput(<modcurrency:banknote:2> * 15);
 dragontank1.setChance(1.0);
 
@@ -1424,7 +1424,7 @@ dragontank1.build();
 
 val dragonsleepbag1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank2dragonsleepbag1", "ultimaterank_seller_2", 100, 0);
 
-dragonsleepbag1.addItemInput(<travellersbackpack:sleeping_bag_bottom>);
+dragonsleepbag1.addItemInput(<travelersbackpack:sleeping_bag_bottom>);
 dragonsleepbag1.addItemOutput(<modcurrency:banknote:2> * 15);
 dragonsleepbag1.setChance(1.0);
 
@@ -1434,7 +1434,7 @@ dragonsleepbag1.build();
 
 val dragonhose1 = mods.modularmachinery.RecipeBuilder.newBuilder("urank2dragonhose1", "ultimaterank_seller_2", 100, 0);
 
-dragonhose1.addItemInput(<travellersbackpack:hose_nozzle>);
+dragonhose1.addItemInput(<travelersbackpack:hose_nozzle>);
 dragonhose1.addItemOutput(<modcurrency:banknote:2> * 15);
 dragonhose1.setChance(1.0);
 

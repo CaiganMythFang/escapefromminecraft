@@ -22,7 +22,7 @@ for item in stackminecraft32 {
 }
 
 val stackminecraft16 = [
-<travellersbackpack:hose_nozzle>, <travellersbackpack:sleeping_bag_bottom>, <travellersbackpack:backpack_tank>
+<travelersbackpack:hose_nozzle>, <travelersbackpack:sleeping_bag_bottom>, <travelersbackpack:backpack_tank>
 ] as IItemStack[];
 for item in stackminecraft16 {
     item.maxStackSize = 16;
